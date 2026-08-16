@@ -1,0 +1,10 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{% include 'component/_culture_icon.html.twig' with {culture:card.culture} %} {{ culture.value | trans({}, 'cultures') }}{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <h1>{% include 'component/_culture_icon.html.twig' with {culture:card.culture} %} {{ culture.value | trans({}, 'cultures') }}</h1>
+        {{ include('_card_list.html.twig') }}
+    </div>
+{% endblock %}

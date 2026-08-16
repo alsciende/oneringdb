@@ -1,0 +1,68 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary mb-4">
+    <div class="container">
+        <a class="navbar-brand" href="{{ path('app_home') }}">
+            <svg
+                    version="1.0"
+                    viewBox="0 0 55.484693 65.56541"
+                    width="19.815962"
+                    height="23.416218"
+                    preserveAspectRatio="xMidYMid"
+                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns:svg="http://www.w3.org/2000/svg">
+                <g transform="matrix(0.1,0,0,-0.1,-12.455024,73.996858)" fill="gold" stroke="none">
+                    <path d="m 466,731 c -3,-5 -34,-8 -68,-8 -36,0 -78,-6 -98,-15 -73,-32 -92,-38 -116,-38 -14,0 -23,-4 -20,-9 3,-5 -2,-12 -12,-16 -16,-6 -16,-7 3,-21 16,-12 17,-17 7,-32 -41,-57 -45,-83 -28,-175 11,-58 24,-97 39,-114 34,-39 81,-83 85,-78 3,2 -9,15 -24,29 -70,58 -99,188 -59,266 41,81 135,140 223,140 43,0 123,-35 169,-74 34,-28 63,-99 63,-152 0,-56 -37,-139 -79,-177 -45,-41 -138,-71 -193,-64 -22,3 -36,1 -32,-4 3,-5 18,-9 34,-9 15,0 30,-7 34,-15 3,-9 -1,-15 -11,-15 -13,0 -13,-2 -2,-16 11,-14 11,-18 -4,-29 -9,-7 -17,-15 -17,-18 0,-11 54,14 77,35 12,11 26,18 31,15 4,-4 30,12 57,34 42,35 50,38 55,23 5,-15 11,-12 33,18 40,51 58,113 64,210 5,83 4,90 -21,128 -16,25 -20,37 -11,34 12,-5 12,-1 -1,26 -10,19 -21,29 -30,26 -8,-3 -13,0 -11,5 1,6 -15,20 -36,31 -21,12 -41,28 -45,37 -10,28 -44,41 -56,22 z"/>
+                </g>
+            </svg>
+            LotrTcgDB
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            {% if not hide_menu is defined %}
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="{{ path('app_home') }}">Home</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                           aria-expanded="false">
+                            Cultures
+                        </a>
+                        <ul class="dropdown-menu">
+                            {% for id,name in cultures.all %}
+                                <li><a class="dropdown-item"
+                                       href="{{ path('app_culture', {culture:id}) }}">{{ name }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                           aria-expanded="false">
+                            Sets
+                        </a>
+                        <ul class="dropdown-menu">
+                            {% for id,name in packs.all %}
+                                <li><a class="dropdown-item" href="{{ path('app_pack', {pack:id}) }}">{{ name }}</a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ path('app_search_form') }}">Search</a>
+                    </li>
+                </ul>
+            {% endif %}
+            {% if not hide_search is defined %}
+                {{ render(controller('App\\Controller\\SearchController::form')) }}
+            {% endif %}
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                <li class="nav-item dropdown">
+                    {% include 'component/darkmode.html.twig' %}
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

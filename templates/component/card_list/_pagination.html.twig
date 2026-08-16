@@ -1,0 +1,36 @@
+<div class="row my-2">
+    <div class="col-sm-2">
+    </div>
+    <div class="col-sm-8 text-center">
+        <div class="btn-group" role="group" aria-label="Basic example">
+            {% if pagerfanta.hasPreviousPage() %}
+                <a href="{{ path('app_search_cards', form.vars.data.toArray()|merge({'page':pagerfanta.getPreviousPage()})) }}"
+                   type="button" class="btn btn-outline-primary">
+                    <i class="fa fa-backward" aria-hidden="true"></i>
+                </a>
+            {% else %}
+                <a type="button" class="btn btn-outline-primary disabled">
+                    <i class="fa fa-step-backward" aria-hidden="true"></i>
+                </a>
+            {% endif %}
+            <button type="button" class="btn btn-outline-primary active">
+                {{ pagerfanta.getCurrentPageOffsetStart() }}-{{ pagerfanta.getCurrentPageOffsetEnd() }}
+            </button>
+            {% if pagerfanta.hasNextPage() %}
+                <a href="{{ path('app_search_cards', form.vars.data.toArray()|merge({'page':pagerfanta.getNextPage()})) }}"
+                   type="button" class="btn btn-outline-primary">
+                    <i class="fa fa-forward" aria-hidden="true"></i>
+                </a>
+            {% else %}
+                <a type="button" class="btn btn-outline-primary disabled">
+                    <i class="fa fa-step-forward" aria-hidden="true"></i>
+                </a>
+            {% endif %}
+        </div>
+    </div>
+    <div class="col-sm-2 text-end">
+        <a type="button" class="btn btn-light disabled">
+            {{ pagerfanta | length }} cards
+        </a>
+    </div>
+</div>

@@ -1,0 +1,3 @@
+<a href="{{ path('app_search_cards', {'q':'t:'~card.type.value}) }}" class="text-decoration-none">
+{{ card.type.value | trans({}, 'types') }}
+</a>

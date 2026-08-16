@@ -1,0 +1,10 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ pack.name }}!{% endblock %}
+
+{% block body %}
+    <div class="container">
+        <h1>{{ pack.name }}</h1>
+        {{ include('_card_list.html.twig') }}
+    </div>
+{% endblock %}

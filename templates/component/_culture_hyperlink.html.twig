@@ -1,0 +1,3 @@
+{% if culture %}
+{% include 'component/_culture_icon.html.twig' with {culture:card.culture} %} <a href="{{ path('app_search_cards', {'q':'c:'~culture.value}) }}" class="text-decoration-none">{% include 'component/_culture_label.html.twig' %}</a>
+{% endif %}

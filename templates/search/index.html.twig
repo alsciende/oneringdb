@@ -1,0 +1,42 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block body %}
+    <div class="container">
+        {{ form_start(form) }}
+        <div class="row">
+            <div class="col-lg mb-3">
+                <div class="input-group">
+                    {{ form_widget(form.q) }}
+                    <button class="btn btn-primary" type="submit">Search</button>
+                </div>
+            </div>
+            <div class="col-sm mb-3 text-center">
+                <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
+                    {% for choice in form.view.vars.choices %}
+                        <input type="radio" class="btn-check" name="view" value="{{ choice.value }}" id="view-{{ choice.value }}" autocomplete="off" {% if form.view.vars.value == choice.value %}checked{% endif %}>
+                        <label class="btn btn-outline-primary" for="view-{{ choice.value }}">
+                            <i class="fa {{ choice.label }}" aria-hidden="true"></i>
+                        </label>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="col-sm mb-3">
+                {{ form_widget(form.sort) }}
+            </div>
+        </div>
+        {% do form.view.setRendered() %}
+        {% do form.page.setRendered() %}
+        {{ form_end(form) }}
+        {% if single_card %}
+            {% for card in pagerfanta %}
+                {{ include('component/card/_card_complete.html.twig') }}
+            {% endfor %}
+        {% else %}
+            {{ include('component/card_list/_pagination.html.twig') }}
+            {{ include('component/card_list/_card_list.html.twig', {view:form.view.vars.value}) }}
+            {{ include('component/card_list/_pagination.html.twig') }}
+        {% endif %}
+    </div>
+{% endblock %}

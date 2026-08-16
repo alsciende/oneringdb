@@ -1,0 +1,10 @@
+services:
+    App\SearchQueryBuilder\SearchQueryBuilder:
+        autowire: true
+        arguments:
+            $logger: '@monolog.logger'
+
+    App\Service\SyntaxDecoder:
+        autowire: true
+        arguments:
+            $logger: '@monolog.logger'

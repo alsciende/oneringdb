@@ -1,0 +1,10 @@
+ally: Ally
+artifact: Artifact
+companion: Companion
+condition: Condition
+event: Event
+minion: Minion
+possession: Possession
+ring: Ring
+site: Site
+follower: Follower

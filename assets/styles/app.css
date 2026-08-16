@@ -1,0 +1,39 @@
+body {
+}
+
+.bi {
+    width: 1em;
+    height: 1em;
+    vertical-align: -.125em;
+    fill: currentcolor;
+}
+
+.theme-icon-active {
+    margin-top: .25rem !important;
+    margin-bottom: .25rem !important;
+}
+
+.tooltip, .dropdown-item {
+    text-transform: none !important;
+}
+
+abbr {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+span.token-T {
+    color: palegoldenrod;
+}
+
+.card-name-display {
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+a.card-name {
+    text-decoration: none;
+}
+a.card-name:hover {
+    text-decoration: underline;
+}

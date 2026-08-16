@@ -1,0 +1,11 @@
+<search>
+{{ form_start(form) }}
+<div class="input-group">
+    {{ form_widget(form.q) }}
+    <button class="btn btn-outline-primary" type="submit">Search</button>
+</div>
+{% do form.view.setRendered() %}
+{% do form.sort.setRendered() %}
+{% do form.page.setRendered() %}
+{{ form_end(form) }}
+</search>

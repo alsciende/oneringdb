@@ -1,0 +1,5 @@
+{% if culture %}
+{{ culture.value | trans({}, 'cultures') }}
+{% else %}
+-
+{% endif %}

@@ -1,0 +1,12 @@
+<p>
+    Culture: {% include 'component/_culture_icon.html.twig' with {culture:card.culture} %} {% include 'component/_culture_label.html.twig' with {culture:card.culture} %}
+</p>
+{% if card.twilightCost is not null %}
+<p>
+    Cost: {{ card.twilightCost }}
+</p>
+{% endif %}
+<p>
+    Type: {{ card.type.value | trans({}, 'types') }}
+</p>
+{% include 'component/_card_effect.html.twig' %}

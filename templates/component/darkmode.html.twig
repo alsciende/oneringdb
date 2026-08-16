@@ -1,0 +1,36 @@
+<button class="btn btn-link nav-link py-2 px-0 px-lg-2 dropdown-toggle d-flex align-items-center"
+        id="bd-theme" type="button" aria-expanded="true" data-bs-toggle="dropdown"
+        data-bs-display="static" aria-label="Toggle theme (light)">
+    <i class="fa fa-sun-o theme-icon-active" aria-hidden="true"></i>
+    <span class="d-lg-none ms-2" id="bd-theme-text">Toggle theme</span>
+</button>
+<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="bd-theme-text"
+    data-bs-popper="static" data-controller="darkmode">
+    <li>
+        <button type="button" class="dropdown-item d-flex align-items-center active"
+                data-bs-theme-value="light" aria-pressed="true"
+                data-action="darkmode#changeTheme">
+            <i class="fa fa-sun-o me-2 opacity-50" aria-hidden="true" data-bs-theme-icon="sun-o"></i>
+            Light
+            <i class="fa fa-check ms-auto d-none" aria-hidden="true"></i>
+        </button>
+    </li>
+    <li>
+        <button type="button" class="dropdown-item d-flex align-items-center"
+                data-bs-theme-value="dark" aria-pressed="false"
+                data-action="darkmode#changeTheme">
+            <i class="fa fa-moon-o me-2 opacity-50" aria-hidden="true" data-bs-theme-icon="moon-o"></i>
+            Dark
+            <i class="fa fa-check ms-auto d-none" aria-hidden="true"></i>
+        </button>
+    </li>
+    <li>
+        <button type="button" class="dropdown-item d-flex align-items-center"
+                data-bs-theme-value="auto" aria-pressed="false"
+                data-action="darkmode#changeTheme">
+            <i class="fa fa-adjust me-2 opacity-50" aria-hidden="true" data-bs-theme-icon="adjust"></i>
+            Auto
+            <i class="fa fa-check ms-auto d-none" aria-hidden="true"></i>
+        </button>
+    </li>
+</ul>

@@ -1,0 +1,10 @@
+twig:
+    form_themes: ['bootstrap_5_layout.html.twig']
+    file_name_pattern: '*.twig'
+    globals:
+        cultures: '@App\Service\CultureService'
+        packs: '@App\Service\PackService'
+
+when@test:
+    twig:
+        strict_variables: true

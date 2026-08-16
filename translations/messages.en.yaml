@@ -1,0 +1,26 @@
+card_search_armor_input_label: Armor
+card_search_armor_input_placeholder: ""
+card_search_attack_input_label: Attack
+card_search_attack_input_placeholder: ""
+card_search_cost_input_label: Cost
+card_search_cost_input_placeholder: ""
+card_search_culture_input_label: Culture
+card_search_culture_input_placeholder: ""
+card_search_health_input_label: Maximum Health
+card_search_health_input_placeholder: ""
+card_search_illustrator_input_label: Illustrator
+card_search_input_placeholder: Card Search
+card_search_name_input_label: Card Name
+card_search_pack_input_label: Card Set
+card_search_pack_input_placeholder: ""
+card_search_submit_label: Search
+card_search_subtype_input_label: Subtype
+card_search_text_input_label: Card Text
+card_search_type_input_label: Type
+card_search_type_input_placeholder: ""
+card_search_search_button_label: Search
+card_search_sort_title: Sort by Title
+card_search_sort_culture: Sort by Culture
+card_search_sort_type: Sort by Type
+card_search_sort_twilight_cost: Sort by Twilight Cost
+card_search_sort_position: Sort by Position
