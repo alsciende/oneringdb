@@ -22,20 +22,20 @@ class SyntaxEncoderTest extends TestCase
     {
         return [
             [
-                (new AdvancedCardSearch())->setName('sphere'),
-                'sphere',
+                (new AdvancedCardSearch())->setTitle('rosie'),
+                'rosie',
             ],
             [
-                (new AdvancedCardSearch())->setName('sphere')->setType(Type::Ally),
-                'sphere t:ally',
+                (new AdvancedCardSearch())->setTitle('rosie')->setType(Type::Ally),
+                'rosie t:ally',
             ],
             [
-                (new AdvancedCardSearch())->setName('sphere')->setCulture(Culture::Wraith),
-                'sphere f:wr',
+                (new AdvancedCardSearch())->setTitle('rosie')->setCulture(Culture::Shire),
+                'rosie c:sh',
             ],
             [
-                (new AdvancedCardSearch())->setName('absolution sphere'),
-                '"absolution sphere"',
+                (new AdvancedCardSearch())->setTitle('rosie cotton'),
+                '"rosie cotton"',
             ],
         ];
     }

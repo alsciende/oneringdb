@@ -11,7 +11,7 @@ readonly class CardCondition
 {
     public function __construct(
         private string $value,
-        private Operand $operand = Operand::Name,
+        private Operand $operand = Operand::Title,
         private Operator $operator = Operator::EQ,
     ) {
     }

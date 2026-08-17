@@ -22,17 +22,15 @@ class SyntaxDecoderTest extends TestCase
     public static function simpleCardSearchProvider(): array
     {
         return [
-            ['absolution', new CardCondition('absolution', Operand::Name, Operator::EQ)],
-            ['_:absolution', new CardCondition('absolution', Operand::Name, Operator::EQ)],
-            ['"absolution sphere"', new CardCondition('absolution sphere', Operand::Name, Operator::EQ)],
-            ['f:neogenesis-church', new CardCondition('neogenesis-church', Operand::Culture, Operator::EQ)],
-            ['t:unit', new CardCondition('unit', Operand::Type, Operator::EQ)],
-            ['c:4', new CardCondition('4', Operand::TwilightCost, Operator::EQ)],
-            ['x:draw-two-cards', new CardCondition('draw-two-cards', Operand::Text, Operator::EQ)],
-            ['x:"draw two cards"', new CardCondition('draw two cards', Operand::Text, Operator::EQ)],
-            ['p:starter', new CardCondition('starter', Operand::Pack, Operator::EQ)],
-            ['q:4', new CardCondition('4', Operand::Quantity, Operator::EQ)],
-            ['n:10', new CardCondition('10', Operand::Position, Operator::EQ)],
+            ['rosie', new CardCondition('rosie', Operand::Title, Operator::EQ)],
+            ['_:rosie', new CardCondition('rosie', Operand::Title, Operator::EQ)],
+            ['"rosie cotton"', new CardCondition('rosie cotton', Operand::Title, Operator::EQ)],
+            ['c:shire', new CardCondition('shire', Operand::Culture, Operator::EQ)],
+            ['t:ally', new CardCondition('ally', Operand::Type, Operator::EQ)],
+            ['o:4', new CardCondition('4', Operand::TwilightCost, Operator::EQ)],
+            ['x:spot-a-hobbit', new CardCondition('spot-a-hobbit', Operand::Text, Operator::EQ)],
+            ['x:"spot a hobbit"', new CardCondition('spot a hobbit', Operand::Text, Operator::EQ)],
+            ['p:01', new CardCondition('01', Operand::Pack, Operator::EQ)],
             ['l:this-is-a-test', new CardCondition('this-is-a-test', Operand::Lore, Operator::EQ)],
             ['l:"this is a test"', new CardCondition('this is a test', Operand::Lore, Operator::EQ)],
         ];
@@ -45,31 +43,31 @@ class SyntaxDecoderTest extends TestCase
     {
         return [
             [
-                'absolution sphere',
+                'rosie cotton',
                 [
-                    new CardCondition('absolution', Operand::Name, Operator::EQ),
-                    new CardCondition('sphere', Operand::Name, Operator::EQ),
+                    new CardCondition('rosie', Operand::Title, Operator::EQ),
+                    new CardCondition('cotton', Operand::Title, Operator::EQ),
                 ],
             ],
             [
-                '_:absolution f:neogenesis-church',
+                '_:rosie c:shire',
                 [
-                    new CardCondition('absolution', Operand::Name, Operator::EQ),
-                    new CardCondition('neogenesis-church', Operand::Culture, Operator::EQ),
+                    new CardCondition('rosie', Operand::Title, Operator::EQ),
+                    new CardCondition('shire', Operand::Culture, Operator::EQ),
                 ],
             ],
             [
-                '_:absolution _!sphere',
+                '_:rosie _!cotton',
                 [
-                    new CardCondition('absolution', Operand::Name, Operator::EQ),
-                    new CardCondition('sphere', Operand::Name, Operator::NE),
+                    new CardCondition('rosie', Operand::Title, Operator::EQ),
+                    new CardCondition('cotton', Operand::Title, Operator::NE),
                 ],
             ],
             [
-                '_:absolution _:sphere',
+                '_:rosie _:cotton',
                 [
-                    new CardCondition('absolution', Operand::Name, Operator::EQ),
-                    new CardCondition('sphere', Operand::Name, Operator::EQ),
+                    new CardCondition('rosie', Operand::Title, Operator::EQ),
+                    new CardCondition('cotton', Operand::Title, Operator::EQ),
                 ],
             ],
         ];
@@ -105,10 +103,10 @@ class SyntaxDecoderTest extends TestCase
     public function testMultiSearchWithOperatorAndDefault(): void
     {
         $decoder = new SyntaxDecoder(new NullLogger());
-        $search = $decoder->decode('absolution sphere');
-        $search2 = $decoder->decode('_:absolution sphere');
-        $search3 = $decoder->decode('absolution _:sphere');
-        $search4 = $decoder->decode('_:absolution _:sphere');
+        $search = $decoder->decode('rosie cotton');
+        $search2 = $decoder->decode('_:rosie cotton');
+        $search3 = $decoder->decode('rosie _:cotton');
+        $search4 = $decoder->decode('_:rosie _:cotton');
 
         $this->assertEquals($search, $search2, 'Imp Imp vs Exp Imp');
         $this->assertEquals($search, $search3, 'Imp Imp vs Imp Exp');

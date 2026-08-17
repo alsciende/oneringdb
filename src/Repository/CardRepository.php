@@ -37,17 +37,16 @@ class CardRepository extends ServiceEntityRepository
         return $this->find($card->getId()) !== null;
     }
 
-    public function search(string $query, string $sort = 'c.title'): QueryBuilder
+    public function search(string $query, string $sort = 'title'): QueryBuilder
     {
         $searchConditions = $this->syntaxDecoder->decode($query);
         $queryBuilder = $this->searchQueryBuilder->buildQuery($searchConditions);
 
-        //        if ($sort === 'position') {
-        //            $queryBuilder->orderBy("pc.{$sort}");
-        //        } else {
-        //            $queryBuilder->orderBy("c.{$sort}");
-        //        }
-        $queryBuilder->orderBy($sort);
+        if ($sort === 'position') {
+            $queryBuilder->orderBy('p.id')->addOrderBy('pc.position');
+        } else {
+            $queryBuilder->orderBy("c.{$sort}");
+        }
 
         return $queryBuilder->setCacheable(false);
     }

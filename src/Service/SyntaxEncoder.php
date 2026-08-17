@@ -24,8 +24,8 @@ class SyntaxEncoder
     {
         $queryParts = [];
 
-        if (is_string($search->getName())) {
-            $queryParts[] = sprintf('%s', $this->formatValue($search->getName()));
+        if (is_string($search->getTitle())) {
+            $queryParts[] = sprintf('%s', $this->formatValue($search->getTitle()));
         }
 
         if ($search->getCulture() instanceof Culture) {

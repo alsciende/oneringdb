@@ -2,15 +2,15 @@ card_search_armor_input_label: Armor
 card_search_armor_input_placeholder: ""
 card_search_attack_input_label: Attack
 card_search_attack_input_placeholder: ""
-card_search_cost_input_label: Cost
-card_search_cost_input_placeholder: ""
+card_search_twilight_cost_input_label: Cost
+card_search_twilight_cost_input_placeholder: ""
 card_search_culture_input_label: Culture
 card_search_culture_input_placeholder: ""
 card_search_health_input_label: Maximum Health
 card_search_health_input_placeholder: ""
 card_search_illustrator_input_label: Illustrator
 card_search_input_placeholder: Card Search
-card_search_name_input_label: Card Name
+card_search_title_input_label: Card Name
 card_search_pack_input_label: Card Set
 card_search_pack_input_placeholder: ""
 card_search_submit_label: Search

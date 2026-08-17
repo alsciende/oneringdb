@@ -10,21 +10,21 @@ use App\Enum\Type;
 
 class AdvancedCardSearch
 {
-    private ?string $name = null;
+    private ?string $title = null;
     private ?Culture $culture = null;
     private ?int $twilightCost = null;
     private ?Type $type = null;
     private ?string $text = null;
     private ?Pack $pack = null;
 
-    public function getName(): ?string
+    public function getTitle(): ?string
     {
-        return $this->name;
+        return $this->title;
     }
 
-    public function setName(string $name): self
+    public function setTitle(string $title): self
     {
-        $this->name = $name;
+        $this->title = $title;
 
         return $this;
     }

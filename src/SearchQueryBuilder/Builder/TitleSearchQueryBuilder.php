@@ -13,7 +13,7 @@ class TitleSearchQueryBuilder extends AbstractSearchQueryBuilder
     #[\Override]
     public function getName(): Operand
     {
-        return Operand::Name;
+        return Operand::Title;
     }
 
     #[\Override]

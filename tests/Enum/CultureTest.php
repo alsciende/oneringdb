@@ -14,6 +14,6 @@ class CultureTest extends TestCase
     public function testSize(): void
     {
         $cases = Culture::cases();
-        $this->assertCount(10, $cases);
+        $this->assertCount(13, $cases);
     }
 }

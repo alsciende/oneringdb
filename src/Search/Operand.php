@@ -9,10 +9,10 @@ namespace App\Search;
  */
 enum Operand: string
 {
-    case Name = '_';
+    case Title = '_';
     case Culture = 'c';
     case Type = 't';
-    case TwilightCost = 'w';
+    case TwilightCost = 'o';
     case Text = 'x';
     case Pack = 'p';
     case Quantity = 'q';

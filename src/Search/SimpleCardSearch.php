@@ -7,7 +7,7 @@ namespace App\Search;
 class SimpleCardSearch
 {
     public string $view = 'table';
-    public string $sort = 'pc.position';
+    public string $sort = 'position';
     public int $page = 1;
 
     public function __construct(

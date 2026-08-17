@@ -41,11 +41,11 @@ class SimpleCardSearchType extends AbstractType
             ])
             ->add('sort', ChoiceType::class, [
                 'choices' => [
-                    'card_search_sort_title' => 'c.title',
-                    'card_search_sort_culture' => 'c.culture',
-                    'card_search_sort_type' => 'c.type',
-                    'card_search_sort_twilight_cost' => 'c.twilightCost',
-                    'card_search_sort_position' => 'pc.position',
+                    'card_search_sort_title' => 'title',
+                    'card_search_sort_culture' => 'culture',
+                    'card_search_sort_type' => 'type',
+                    'card_search_sort_twilight_cost' => 'twilightCost',
+                    'card_search_sort_position' => 'position',
                 ],
                 'empty_data' => 'title',
             ])
