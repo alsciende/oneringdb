@@ -1,0 +1,9 @@
+{
+    "id": "a-promise",
+    "title": "A Promise",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<br>While you can spot Frodo and Sam and neither is exhausted, each is strength +1. "
+}

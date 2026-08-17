@@ -1,0 +1,10 @@
+{
+    "id": "make-a-run-for-it",
+    "title": "Make a Run For It",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Remove 2 <symbol>shire<\/symbol> tokens to cancel a skirmish involving an unbound Hobbit. "
+}

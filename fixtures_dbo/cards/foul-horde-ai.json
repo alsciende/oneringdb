@@ -1,0 +1,10 @@
+{
+    "id": "foul-horde-ai",
+    "title": "Foul Horde (AI)",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

@@ -1,0 +1,9 @@
+{
+    "id": "banner-of-westernesse",
+    "title": "Banner of Westernesse",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> companion. Each time bearer wins a skirmish, you may heal another <symbol>gondor<\/symbol> companion. <keyword>Response:<\/keyword> If bearer wins a skirmish, discard this possession to liberate a site."
+}

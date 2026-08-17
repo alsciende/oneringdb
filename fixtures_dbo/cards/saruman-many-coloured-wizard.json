@@ -1,0 +1,10 @@
+{
+    "id": "saruman-many-coloured-wizard",
+    "title": "Saruman",
+    "subtitle": "Many-coloured Wizard",
+    "culture": "Isengard",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Wizard",
+    "text": ""
+}

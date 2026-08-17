@@ -1,0 +1,10 @@
+{
+    "id": "discoveries",
+    "title": "Discoveries",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 7,
+    "type": "Event",
+    "subtype": "Fellowship",
+    "text": "<keyword>Spell. Toil 3.<\/keyword> <i>(For each<\/i> <symbol>gandalf<\/symbol> <i>character you exert when playing this, its twilight cost is \u20133.)<\/i> <br>Spot a <symbol>gandalf<\/symbol> Wizard and X other companions to examine the top X cards of your draw deck. Replace those cards in any order."
+}

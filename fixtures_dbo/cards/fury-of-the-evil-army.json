@@ -1,0 +1,10 @@
+{
+    "id": "fury-of-the-evil-army",
+    "title": "Fury of the Evil Army",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": "Bearer must be an <symbol>urukhai<\/symbol> minion.<br>Each time bearer wins a skirmish, you may choose one: discard a follower from play; heal an <symbol>urukhai<\/symbol> minion; or control a site."
+}

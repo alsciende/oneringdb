@@ -1,0 +1,9 @@
+{
+    "id": "elite-crossbowmen",
+    "title": "Elite Crossbowmen",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 7,
+    "type": "minion",
+    "text": "<keyword>Archer.<\/keyword> <keyword>Damage +1.<\/keyword><br><keyword>Archery:<\/keyword> Exert Elite Crossbowmen to make the Free Peoples player wound an unbound companion; this minion does not add to the minion archery total. "
+}

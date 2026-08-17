@@ -1,0 +1,10 @@
+{
+    "id": "uruk-hai-healer",
+    "title": "Uruk-hai Healer",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword><br>At the start of each assignment phase, you may heal an Uruk-hai for each companion you can spot."
+}

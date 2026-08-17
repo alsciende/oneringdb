@@ -1,0 +1,9 @@
+{
+    "id": "the-misadventure-of-mr-underhill",
+    "title": "The Misadventure of Mr. Underhill",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "To play, exert an Uruk-hai.   <br>The twilight cost of each companion played to a site which is not a sanctuary is +2."
+}

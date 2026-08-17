@@ -1,0 +1,10 @@
+{
+    "id": "uruk-runner",
+    "title": "Uruk Runner",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Tracker.<\/keyword> <keyword>Fierce.<\/keyword> <br>During a <keyword>fierce<\/keyword> skirmish involving this minion, it is strength +2. "
+}

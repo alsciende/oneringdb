@@ -1,0 +1,10 @@
+{
+    "id": "galadriel-bearer-of-wisdom",
+    "title": "Galadriel",
+    "subtitle": "Bearer of Wisdom",
+    "culture": "Elven",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "While Galadriel bears an artifact or The One Ring, she is resistance +1 for each <symbol>elven<\/symbol> companion you can spot. "
+}

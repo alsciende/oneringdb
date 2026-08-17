@@ -1,0 +1,9 @@
+{
+    "id": "southron-spear",
+    "title": "Southron Spear",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a Southron.<br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight4<\/symbol> and exert bearer to wound a companion or ally bearer is skirmishing. "
+}

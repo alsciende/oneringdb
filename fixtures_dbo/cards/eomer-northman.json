@@ -1,0 +1,10 @@
+{
+    "id": "eomer-northman",
+    "title": "\u00c9omer",
+    "subtitle": "Northman",
+    "culture": "Rohan",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Damage +1.<\/keyword><br>While the Ring-bearer is assigned to a skirmish, \u00c9omer is strength +3.<br><keyword>Maneuver:<\/keyword> If \u00c9omer is mounted, exert him to make him <keyword>defender +1<\/keyword> until the end of turn."
+}

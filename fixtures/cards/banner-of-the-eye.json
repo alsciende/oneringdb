@@ -1,0 +1,9 @@
+{
+    "id": "banner-of-the-eye",
+    "title": "Banner of the Eye",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "Bearer must be an <symbol>sauron<\/symbol> Orc. Each time bearer wins a skirmish, you may add <symbol>twilight1<\/symbol> for each site you control."
+}

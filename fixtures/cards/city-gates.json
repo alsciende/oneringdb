@@ -1,0 +1,9 @@
+{
+    "id": "city-gates",
+    "title": "City Gates",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 6,
+    "type": "site",
+    "text": "When the fellowship moves to this site, add 3 threats. When the fellowship moves from this site, remove 3 threats."
+}

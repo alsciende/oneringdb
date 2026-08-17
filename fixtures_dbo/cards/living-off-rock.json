@@ -1,0 +1,10 @@
+{
+    "id": "living-off-rock",
+    "title": "Living Off Rock",
+    "subtitle": null,
+    "culture": "Dunland",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<br>Each time a <symbol>dunland<\/symbol> Man wins a skirmish involving a <symbol>rohan<\/symbol> Man, you may make that minion strength +2 and <keyword>fierce<\/keyword> until the regroup phase. "
+}

@@ -1,0 +1,9 @@
+{
+    "id": "dwarven-bracers",
+    "title": "Dwarven Bracers",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a Dwarf.<br><keyword>Response:<\/keyword> If bearer is about to take a wound, discard this possession to prevent that wound. "
+}

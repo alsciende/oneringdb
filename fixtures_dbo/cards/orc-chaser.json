@@ -1,0 +1,10 @@
+{
+    "id": "orc-chaser",
+    "title": "Orc Chaser",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Tracker.<\/keyword> <br>The site number of each <symbol>sauron<\/symbol> Orc is \u20131. <br>While you have initiative, this minion is strength +6."
+}

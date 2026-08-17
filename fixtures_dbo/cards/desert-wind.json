@@ -1,0 +1,10 @@
+{
+    "id": "desert-wind",
+    "title": "Desert Wind",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "To play, spot a <symbol>men<\/symbol> minion.<br>While you can spot 5 or more culture tokens, the minion archery total is +2."
+}

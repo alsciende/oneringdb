@@ -1,0 +1,10 @@
+{
+    "id": "marauding-orcs",
+    "title": "Marauding Orcs",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "When you cannot spot another <symbol>orc<\/symbol> minion, discard this minion from play."
+}

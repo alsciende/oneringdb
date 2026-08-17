@@ -1,0 +1,10 @@
+{
+    "id": "grieving-the-fallen",
+    "title": "Grieving the Fallen",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": "To play, spot a <symbol>men<\/symbol> Man.<br>Bearer must be a companion (except the Ring-bearer).<br>Bearer cannot take wounds during the archery phase. At the start of the regroup phase, discard this condition."
+}

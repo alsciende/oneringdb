@@ -1,0 +1,9 @@
+{
+    "id": "fireworks",
+    "title": "Fireworks",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Spell.<\/keyword>  <br><keyword>Fellowship:<\/keyword> Spot Gandalf to shuffle up to 2 <symbol>gandalf<\/symbol> or up to 2 <symbol>shire<\/symbol> cards from your discard pile into your draw deck. "
+}

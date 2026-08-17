@@ -1,0 +1,9 @@
+{
+    "id": "calaglin-elf-of-lorien",
+    "title": "Calaglin",
+    "subtitle": "Elf of Lórien",
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "ally",
+    "text": "<keyword>Archer.<\/keyword> <br><keyword>Regroup:<\/keyword> Exert Calaglin to wound a minion. "
+}

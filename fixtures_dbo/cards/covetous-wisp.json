@@ -1,0 +1,10 @@
+{
+    "id": "covetous-wisp",
+    "title": "Covetous Wisp",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Wraith",
+    "text": "<keyword>Enduring.<\/keyword><br> Each time the Free Peoples player assigns Covetous Wisp to a companion, you may spot another <symbol>wraith<\/symbol> Wraith and remove <symbol>twilight2<\/symbol> to add a burden."
+}

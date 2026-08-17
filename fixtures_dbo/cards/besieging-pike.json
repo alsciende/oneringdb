@@ -1,0 +1,10 @@
+{
+    "id": "besieging-pike",
+    "title": "Besieging Pike",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 0,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a <symbol>sauron<\/symbol> Orc. <br>If you have initiative, bearer is strength +3."
+}

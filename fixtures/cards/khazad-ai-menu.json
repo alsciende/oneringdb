@@ -1,0 +1,9 @@
+{
+    "id": "khazad-ai-menu",
+    "title": "Khazâd Ai-mênu",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make a Dwarf strength +2 (or strength +3 and <keyword>damage +1 <\/keyword>if you spot Legolas). "
+}

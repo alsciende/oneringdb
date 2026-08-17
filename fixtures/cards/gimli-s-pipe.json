@@ -1,0 +1,9 @@
+{
+    "id": "gimli-s-pipe",
+    "title": "Gimli's Pipe",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be Gimli.  <br><keyword>Fellowship:<\/keyword> Exert Gimli to add 1 to the number of pipes you can spot. "
+}

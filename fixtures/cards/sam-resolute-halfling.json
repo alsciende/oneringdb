@@ -1,0 +1,9 @@
+{
+    "id": "sam-resolute-halfling",
+    "title": "Sam",
+    "subtitle": "Resolute Halfling",
+    "culture": "shire",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Ring-bound.<\/keyword> <br><keyword>Fellowship:<\/keyword> If you have initiative, discard a card from hand to heal Sam. <br><keyword>Response:<\/keyword> If Frodo is killed, make Sam the Ring-bearer (resistance 5)."
+}

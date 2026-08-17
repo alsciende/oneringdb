@@ -1,0 +1,10 @@
+{
+    "id": "legions-of-morgul",
+    "title": "Legions of Morgul",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot 2 <symbol>sauron<\/symbol> Orcs and add up to 3 threats. Each time a companion is about to be killed, you may remove a threat to make all minions fierce until the regroup phase. <br>Discard this condition and remove 3 threats at the start of the regroup phase."
+}

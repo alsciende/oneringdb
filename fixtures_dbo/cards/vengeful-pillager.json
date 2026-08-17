@@ -1,0 +1,10 @@
+{
+    "id": "vengeful-pillager",
+    "title": "Vengeful Pillager",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 7,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "When you play this minion from your draw deck or from your <symbol>men<\/symbol> possession, it is <keyword>fierce<\/keyword> until the regroup phase."
+}

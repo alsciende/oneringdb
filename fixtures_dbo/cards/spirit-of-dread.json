@@ -1,0 +1,10 @@
+{
+    "id": "spirit-of-dread",
+    "title": "Spirit of Dread",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 7,
+    "type": "Minion",
+    "subtype": "Wraith",
+    "text": "<keyword>Enduring.<\/keyword><br> While you can spot another <symbol>wraith<\/symbol> Wraith, wounds cannot be healed and burdens can not be removed (except by Wraiths).<br> <keyword>Skrimish:<\/keyword> Exert Spirit of Dread to make another <symbol>wraith<\/symbol> Wraith strength +1."
+}

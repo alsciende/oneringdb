@@ -1,0 +1,10 @@
+{
+    "id": "mumak",
+    "title": "M\u00fbmak",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Mount",
+    "text": "Bearer must be a Southron. Bearer is <keyword>fierce.<\/keyword><br>Each time bearer wins a skirmish, you may add <symbol>twilight2<\/symbol>."
+}

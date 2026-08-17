@@ -1,0 +1,10 @@
+{
+    "id": "orc-stalker",
+    "title": "Orc Stalker",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Tracker.<\/keyword> <br>The site number of each <symbol>sauron<\/symbol> Orc is \u20131. <br>While you have initiative, this minion is strength +8."
+}

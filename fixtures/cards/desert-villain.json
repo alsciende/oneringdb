@@ -1,0 +1,9 @@
+{
+    "id": "desert-villain",
+    "title": "Desert Villain",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <br>At the start of each skirmish involving this minion, you may remove <symbol>twilight1<\/symbol> to add a threat."
+}

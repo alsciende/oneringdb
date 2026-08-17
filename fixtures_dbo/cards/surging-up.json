@@ -1,0 +1,10 @@
+{
+    "id": "surging-up",
+    "title": "Surging Up",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Regroup:<\/keyword> Exert an Easterling and discard this condition to make the move limit -1 for this turn. The Free Peoples player may add 2 burdens to prevent this. <br><keyword>Skirmish:<\/keyword> Discard this condition to heal an Easterling."
+}

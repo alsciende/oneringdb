@@ -1,0 +1,10 @@
+{
+    "id": "the-world-ahead",
+    "title": "The World Ahead",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 5,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot an Elf.<br>Each time the fellowship moves to a region 1 site, add a threat.<br>Each time the fellowship moves to a region 2 site, heal an Elf.<br>Each time the fellowship moves to a region 3 site, draw a card."
+}

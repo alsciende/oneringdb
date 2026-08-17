@@ -1,0 +1,9 @@
+{
+    "id": "no-help-for-it",
+    "title": "No Help for It",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Spot Sam and discard Sméagol or Gollum to remove 3 burdens."
+}

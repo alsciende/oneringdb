@@ -1,0 +1,9 @@
+{
+    "id": "southron-runner",
+    "title": "Southron Runner",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <keyword>Ambush<\/keyword> <symbol>twilight2<\/symbol>. <br>While you can spot a Southron, this minion’s twilight cost is -2."
+}

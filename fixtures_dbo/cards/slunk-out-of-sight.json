@@ -1,0 +1,10 @@
+{
+    "id": "slunk-out-of-sight",
+    "title": "Slunk Out of Sight",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "<keyword>Stealth.<\/keyword> <br>If there are 6 or more <symbol>shire<\/symbol> cards in your discard pile, cancel a skirmish involving your Hobbit and a minion who is not fierce. Each minion in that skirmish is <keyword>fierce<\/keyword> until the regroup phase. "
+}

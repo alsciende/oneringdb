@@ -1,0 +1,9 @@
+{
+    "id": "stout-and-sturdy",
+    "title": "Stout and Sturdy",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Maneuver<\/keyword> or <keyword>Skirmish:<\/keyword> Heal a Hobbit."
+}

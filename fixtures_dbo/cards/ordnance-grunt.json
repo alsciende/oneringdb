@@ -1,0 +1,10 @@
+{
+    "id": "ordnance-grunt",
+    "title": "Ordnance Grunt",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Troll",
+    "text": ""
+}

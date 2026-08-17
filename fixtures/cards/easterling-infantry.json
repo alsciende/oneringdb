@@ -1,0 +1,9 @@
+{
+    "id": "easterling-infantry",
+    "title": "Easterling Infantry",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Easterling.<\/keyword><br>While you can spot 3 burdens, this minion is <keyword>fierce<\/keyword> and <keyword>damage +1.<\/keyword> "
+}

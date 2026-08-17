@@ -1,0 +1,10 @@
+{
+    "id": "ring-of-rancor",
+    "title": "Ring of Rancor",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 0,
+    "type": "Artifact",
+    "subtype": "Ring",
+    "text": "Bearer must be a Nazg\u00fbl. <br><keyword>Maneuver:<\/keyword> Remove a burden to heal each Nazg\u00fbl. <br><keyword>Response:<\/keyword> If a player reconciles, return bearer to his owner\u2019s hand. "
+}

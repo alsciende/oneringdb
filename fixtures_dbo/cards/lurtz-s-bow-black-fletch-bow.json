@@ -1,0 +1,10 @@
+{
+    "id": "lurtz-s-bow-black-fletch-bow",
+    "title": "Lurtz's Bow",
+    "subtitle": "Black-Fletch Bow",
+    "culture": "Uruk-hai",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Ranged Weapon",
+    "text": "Bearer must be an Uruk-hai.<br>When you play this possession on Lurtz, you may draw a card.<br><keyword>Archery:<\/keyword> If bearer is Lurtz, discard 2 <symbol>urukhai<\/symbol> cards from hand to exert an unbound companion."
+}

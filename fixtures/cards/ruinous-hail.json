@@ -1,0 +1,9 @@
+{
+    "id": "ruinous-hail",
+    "title": "Ruinous Hail",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "If the Free Peoples player plays a possession, discard a <symbol>sauron<\/symbol> minion from hand to prevent him or her from playing any more cards until the end of this phase. "
+}

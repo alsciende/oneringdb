@@ -1,0 +1,10 @@
+{
+    "id": "dark-temptation",
+    "title": "Dark Temptation",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time you play a Nazg\u00fbl, you may heal the Ring-bearer twice to add a burden."
+}

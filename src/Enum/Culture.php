@@ -9,22 +9,22 @@ use Symfony\Contracts\Translation\TranslatorInterface;
 
 enum Culture: string implements TranslatableInterface
 {
+    case Dunland = 'dunland';
     case Dwarven = 'dwarven';
     case Elven = 'elven';
     case Gandalf = 'gandalf';
+    case Gollum = 'gollum';
     case Gondor = 'gondor';
     case Isengard = 'isengard';
     case Moria = 'moria';
+    case Raider = 'raider';
+    case Rohan = 'rohan';
     case Sauron = 'sauron';
     case Shire = 'shire';
     case Wraith = 'wraith';
-    case Rohan = 'rohan';
-    case Gollum = 'gollum';
-    case EvilMan = 'man';
-    case Orc = 'orc';
-    case UrukHai = 'uruk-hai';
-    case Raider = 'raider';
-    case Dunland = 'dunland';
+    //    case EvilMan = 'man';
+    //    case Orc = 'orc';
+    //    case UrukHai = 'uruk-hai';
 
     public const array SHORTHANDS = [
         'dw' => self::Dwarven,

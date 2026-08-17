@@ -1,0 +1,9 @@
+{
+    "id": "deft-in-their-movements",
+    "title": "Deft in Their Movements",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Stealth.<\/keyword><br><keyword>Regroup:<\/keyword> Spot 2 Hobbits to make each site’s Shadow number -2 until the end of the turn. "
+}

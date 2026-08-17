@@ -1,0 +1,10 @@
+{
+    "id": "defiled",
+    "title": "Defiled",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

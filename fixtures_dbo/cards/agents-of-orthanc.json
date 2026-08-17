@@ -1,0 +1,10 @@
+{
+    "id": "agents-of-orthanc",
+    "title": "Agents of Orthanc",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": ""
+}

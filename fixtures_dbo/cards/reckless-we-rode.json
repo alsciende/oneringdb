@@ -1,0 +1,10 @@
+{
+    "id": "reckless-we-rode",
+    "title": "Reckless We Rode",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Archery",
+    "text": "Exert an Elf companion and make the fellowship archery total \u2013X (to a minimum of 0) to wound a minion X times. You may not use archery special abilities."
+}

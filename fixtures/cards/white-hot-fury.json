@@ -1,0 +1,9 @@
+{
+    "id": "white-hot-fury",
+    "title": "White Hot Fury",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "Make a mounted <symbol>rohan<\/symbol> Man strength +1 for each mounted companion. If that Man is skirmishing a <symbol>raider<\/symbol> minion, also make him or her strength +2 and damage +2."
+}

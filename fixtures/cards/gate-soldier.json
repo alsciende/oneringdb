@@ -1,0 +1,9 @@
+{
+    "id": "gate-soldier",
+    "title": "Gate Soldier",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "When you play a <symbol>sauron<\/symbol> condition, you may exert this minion and remove <symbol>twilight2<\/symbol> to draw a card."
+}

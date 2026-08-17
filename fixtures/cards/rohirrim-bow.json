@@ -1,0 +1,9 @@
+{
+    "id": "rohirrim-bow",
+    "title": "Rohirrim Bow",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>rohan<\/symbol> Man.<br><keyword>Archery:<\/keyword> Exert bearer and discard this possession to wound a minion."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "blood-runs-chill",
+    "title": "Blood Runs Chill",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "Spot a Dwarf who is damage +X and exert that Dwarf twice to make an opponent discard X Shadow cards."
+}

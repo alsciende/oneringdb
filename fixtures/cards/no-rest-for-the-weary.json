@@ -1,0 +1,9 @@
+{
+    "id": "no-rest-for-the-weary",
+    "title": "No Rest for the Weary",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Spot 3 valiant Men to make one of those Men <keyword>defender +1<\/keyword> until the regroup phase."
+}

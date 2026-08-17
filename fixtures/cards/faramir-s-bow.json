@@ -1,0 +1,9 @@
+{
+    "id": "faramir-s-bow",
+    "title": "Faramir's Bow",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be Faramir.  <br>He is an <keyword>archer.<\/keyword>  <br><keyword>Skirmish:<\/keyword> If Faramir is skirmishing a Man or a roaming minion, exert Faramir to wound that minion. "
+}

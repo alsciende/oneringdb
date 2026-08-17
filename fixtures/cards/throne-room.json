@@ -1,0 +1,9 @@
+{
+    "id": "throne-room",
+    "title": "Throne Room",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 1,
+    "type": "site",
+    "text": "<keyword>Sanctuary.<\/keyword> <keyword>Fellowship:<\/keyword> Play Théoden from your draw deck. "
+}

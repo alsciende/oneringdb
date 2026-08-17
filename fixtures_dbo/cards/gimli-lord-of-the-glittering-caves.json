@@ -1,0 +1,10 @@
+{
+    "id": "gimli-lord-of-the-glittering-caves",
+    "title": "Gimli",
+    "subtitle": "Lord of the Glittering Caves",
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Dwarf",
+    "text": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": "hill-clan",
+    "title": "Hill Clan",
+    "subtitle": null,
+    "culture": "Dunland",
+    "twilight_cost": 8,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": ""
+}

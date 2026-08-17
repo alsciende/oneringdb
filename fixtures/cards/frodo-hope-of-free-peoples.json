@@ -1,0 +1,9 @@
+{
+    "id": "frodo-hope-of-free-peoples",
+    "title": "Frodo",
+    "subtitle": "Hope of Free Peoples",
+    "culture": "shire",
+    "twilight_cost": 0,
+    "type": "companion",
+    "text": "<keyword>Ring-bearer (resistance 10).<\/keyword> <br><keyword>Ring-bound.<\/keyword> <br>Each time the fellowship moves, you may add <symbol>twilight3<\/symbol> to remove a threat."
+}

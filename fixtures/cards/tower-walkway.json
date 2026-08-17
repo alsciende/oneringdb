@@ -1,0 +1,9 @@
+{
+    "id": "tower-walkway",
+    "title": "Tower Walkway",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Engine.<\/keyword> To play, spot a <symbol>sauron<\/symbol> Orc. <br>Each besieger is strength +1 for each site you control. <br><keyword>Regroup:<\/keyword> Discard 3 <symbol>sauron<\/symbol> Orcs to take control of a site. <br>Discard this condition."
+}

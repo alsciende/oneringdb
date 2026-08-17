@@ -1,0 +1,9 @@
+{
+    "id": "forests-of-lothlorien",
+    "title": "Forests of Lothlórien",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": " <br>Each time the fellowship moves, you may spot 3 <symbol>elven<\/symbol> allies to wound a minion. "
+}

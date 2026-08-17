@@ -1,0 +1,9 @@
+{
+    "id": "orc-scout",
+    "title": "Orc Scout",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Tracker.<\/keyword> The roaming penalty for each <symbol>sauron<\/symbol> minion you play is -1.  <br><keyword>Response:<\/keyword> If an event is played that spots or exerts a ranger, exert or discard this minion to cancel that event. "
+}

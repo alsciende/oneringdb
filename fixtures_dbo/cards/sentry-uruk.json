@@ -1,0 +1,10 @@
+{
+    "id": "sentry-uruk",
+    "title": "Sentry Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "To play, spot an <symbol>urukhai<\/symbol> minion.<br>While you can spot a fierce minion, this minion is <keyword>fierce<\/keyword>.<br>While you can spot a hunter, this minion gains <keyword>hunter 1<\/keyword>.<br>While you can spot a character that is damage +1, this minion is <keyword>damage +1<\/keyword>."
+}

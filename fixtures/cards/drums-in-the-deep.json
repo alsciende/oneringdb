@@ -1,0 +1,9 @@
+{
+    "id": "drums-in-the-deep",
+    "title": "Drums in the Deep",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>moria<\/symbol> Orc strength +2 (or +4 if skirmishing a Dwarf)."
+}

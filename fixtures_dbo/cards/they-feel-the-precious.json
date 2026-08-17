@@ -1,0 +1,10 @@
+{
+    "id": "they-feel-the-precious",
+    "title": "They Feel The Precious",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Response:<\/keyword> If a Nazg\u00fbl is about to take a wound, remove a threat to prevent that wound."
+}

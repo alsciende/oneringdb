@@ -1,0 +1,10 @@
+{
+    "id": "storied-homestead",
+    "title": "Storied Homestead",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

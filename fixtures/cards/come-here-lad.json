@@ -1,0 +1,9 @@
+{
+    "id": "come-here-lad",
+    "title": "Come Here Lad",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Fellowship:<\/keyword> Stack the top 2 cards from your draw deck on a <symbol>dwarven<\/symbol> condition that has a card already stacked on it. "
+}

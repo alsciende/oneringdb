@@ -1,0 +1,10 @@
+{
+    "id": "orc-savage",
+    "title": "Orc Savage",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "While you can spot 6 companions and another <symbol>sauron<\/symbol> Orc, this minion is strength +9 and fierce."
+}

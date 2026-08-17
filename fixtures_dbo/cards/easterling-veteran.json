@@ -1,0 +1,10 @@
+{
+    "id": "easterling-veteran",
+    "title": "Easterling Veteran",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Easterling.<\/keyword> <br><keyword>Skirmish:<\/keyword> Remove 2 burdens to heal another <keyword>Easterling.<\/keyword>"
+}

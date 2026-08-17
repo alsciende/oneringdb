@@ -1,0 +1,9 @@
+{
+    "id": "deep-in-thought",
+    "title": "Deep in Thought",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 4,
+    "type": "event",
+    "text": "<keyword>Spell.<\/keyword>  <br><keyword>Maneuver:<\/keyword> Spot Gandalf and 4 twilight tokens to discard all Shadow conditions. "
+}

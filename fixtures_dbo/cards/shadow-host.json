@@ -1,0 +1,10 @@
+{
+    "id": "shadow-host",
+    "title": "Shadow Host",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 5,
+    "type": "Companion",
+    "subtype": "Wraith",
+    "text": "<keyword>Enduring.<\/keyword> To play, spot 2 exhausted <symbol>gondor<\/symbol> Wraiths and add 2 threats. <br>While Shadow Host is exhausted, it is defender +1."
+}

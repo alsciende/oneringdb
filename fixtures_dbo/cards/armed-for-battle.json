@@ -1,0 +1,10 @@
+{
+    "id": "armed-for-battle",
+    "title": "Armed for Battle",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": ""
+}

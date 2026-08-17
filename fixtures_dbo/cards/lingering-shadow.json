@@ -1,0 +1,10 @@
+{
+    "id": "lingering-shadow",
+    "title": "Lingering Shadow",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Skirmish:<\/keyword> Transfer this condition from your support area to a character skirmishing a Nazg\u00fbl. <br>Each time a wound is removed from bearer, add a burden."
+}

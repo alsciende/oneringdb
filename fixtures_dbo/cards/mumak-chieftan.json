@@ -1,0 +1,10 @@
+{
+    "id": "mumak-chieftan",
+    "title": "M\u00fbmak Chieftan",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Southron.<\/keyword> <br>When you play this minion, you may play a mount on him from your discard pile. Its twilight cost is \u20132. "
+}

@@ -1,0 +1,9 @@
+{
+    "id": "ten-times-outnumbered",
+    "title": "Ten Times Outnumbered",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Make a <symbol>wraith<\/symbol> Orc strength +2 for each wound on the Ring-bearer. "
+}

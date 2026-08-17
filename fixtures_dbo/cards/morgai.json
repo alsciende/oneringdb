@@ -1,0 +1,10 @@
+{
+    "id": "morgai",
+    "title": "Morgai",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "While you can spot a <symbol>sauron<\/symbol> minion at site 5<symbol>king<\/symbol>, the Shadow has initiative, regardless of the Free Peoples player\u2019s hand. <br><keyword>Response:<\/keyword> If a companion is played, discard a <symbol>sauron<\/symbol> card from hand to take control of a site. Discard this condition."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "gate-of-mordor",
+    "title": "Gate of Mordor",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Battleground.<\/keyword> Each time the fellowship moves to this site, add <symbol>twilight1<\/symbol> for each culture you can spot."
+}

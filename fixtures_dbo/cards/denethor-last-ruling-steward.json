@@ -1,0 +1,10 @@
+{
+    "id": "denethor-last-ruling-steward",
+    "title": "Denethor",
+    "subtitle": "Last Ruling Steward",
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "Denethor is resistance +1 for each <symbol>gondor<\/symbol> possession in your discard pile.<br><keyword>Maneuver:<\/keyword> Spot a <symbol>gondor<\/symbol> possession borne by a companion and remove that posssession from the game to exert a minion twice. "
+}

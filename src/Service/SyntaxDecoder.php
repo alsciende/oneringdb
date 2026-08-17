@@ -19,7 +19,7 @@ use Psr\Log\LoggerInterface;
 readonly class SyntaxDecoder
 {
     public function __construct(
-        private LoggerInterface $logger
+        private LoggerInterface $logger,
     ) {
     }
 

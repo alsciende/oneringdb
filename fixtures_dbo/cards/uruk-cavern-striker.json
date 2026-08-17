@@ -1,0 +1,10 @@
+{
+    "id": "uruk-cavern-striker",
+    "title": "Uruk Cavern Striker",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1<\/keyword>.<br><keyword>Skirmish:<\/keyword> Spot a Free Peoples player\u2019s site on the adventure path and exert this minion twice to exchange the spotted site with a site you control. You now control the spotted site."
+}

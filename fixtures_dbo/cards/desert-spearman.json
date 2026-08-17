@@ -1,0 +1,10 @@
+{
+    "id": "desert-spearman",
+    "title": "Desert Spearman",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Southron.<\/keyword><br>At the start of each skirmish involving this minion, you may remove <symbol>twilight3<\/symbol> to wound a companion or ally he is skirmishing. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "herbs-and-stewed-rabbit",
+    "title": "Herbs and Stewed Rabbit",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "While you can spot Frodo, Sm\u00e9agol is resistance +1.<br>While you can spot Sam, Sm\u00e9agol is strength +1.<br>While you can spot Bilbo, Sm\u00e9agol is <keyword>damage +1<\/keyword>."
+}

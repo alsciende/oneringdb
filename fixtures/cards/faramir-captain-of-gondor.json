@@ -1,0 +1,9 @@
+{
+    "id": "faramir-captain-of-gondor",
+    "title": "Faramir",
+    "subtitle": "Captain of Gondor",
+    "culture": "gondor",
+    "twilight_cost": 3,
+    "type": "companion",
+    "text": "<keyword>Ring-bound.<\/keyword> <keyword>Ranger.<\/keyword><br>The twilight cost of each other <symbol>gondor<\/symbol> Man in your starting fellowship is -1. <br>While skirmishing a roaming minion, Faramir is strength +2. "
+}

@@ -1,0 +1,9 @@
+{
+    "id": "the-seen-and-the-unseen",
+    "title": "The Seen and the Unseen",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Fellowship:<\/keyword> Exert 2 Elves to discard a condition."
+}

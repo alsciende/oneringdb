@@ -1,0 +1,10 @@
+{
+    "id": "elven-marksmanship",
+    "title": "Elven Marksmanship",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 6,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

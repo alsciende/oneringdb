@@ -1,0 +1,9 @@
+{
+    "id": "siege-commander",
+    "title": "Siege Commander",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 5,
+    "type": "minion",
+    "text": "<keyword>Besieger.<\/keyword> <br><keyword>Skirmish:<\/keyword> Discard 2 cards from hand to make a besieger fierce until the regroup phase."
+}

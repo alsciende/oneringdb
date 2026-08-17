@@ -1,0 +1,9 @@
+{
+    "id": "southron-explorer",
+    "title": "Southron Explorer",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword><br><keyword>Regroup:<\/keyword> Exert this minion and remove <symbol>twilight5<\/symbol> to take control of a site. "
+}

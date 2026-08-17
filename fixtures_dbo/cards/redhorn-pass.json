@@ -1,0 +1,10 @@
+{
+    "id": "redhorn-pass",
+    "title": "Redhorn Pass",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 2,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Mountain.<\/keyword> Culture tokens cannot be added, removed, or reinforced."
+}

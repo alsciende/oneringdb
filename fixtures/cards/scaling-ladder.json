@@ -1,0 +1,9 @@
+{
+    "id": "scaling-ladder",
+    "title": "Scaling Ladder",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<keyword>Machine.<\/keyword> <br><keyword>Shadow:<\/keyword> Exert an Uruk-hai to place an <symbol>isengard<\/symbol> token on this card. <br><keyword>Skirmish:<\/keyword> Spot an <symbol>isengard<\/symbol> token here to heal an Uruk-hai. Discard this condition."
+}

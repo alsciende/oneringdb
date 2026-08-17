@@ -1,0 +1,9 @@
+{
+    "id": "helpless",
+    "title": "Helpless",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "To play, spot Frodo and a Nazgûl.  <br>Plays on Sam.  <br>Sam’s game text does not apply. "
+}

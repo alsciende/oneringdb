@@ -1,0 +1,9 @@
+{
+    "id": "frodo-tired-traveller",
+    "title": "Frodo",
+    "subtitle": "Tired Traveller",
+    "culture": "shire",
+    "twilight_cost": 0,
+    "type": "companion",
+    "text": "<keyword>Ring-bearer (resistance 10).<\/keyword><br><keyword>Fellowship:<\/keyword> Play a Ring-bound companion to remove a burden. "
+}

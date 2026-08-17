@@ -1,0 +1,10 @@
+{
+    "id": "suffered-much-loss",
+    "title": "Suffered Much Loss",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each site on the adventure path is a battleground. While you have initiative, each Uruk-hai is strength +1. "
+}

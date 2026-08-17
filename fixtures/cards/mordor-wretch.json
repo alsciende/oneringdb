@@ -1,0 +1,9 @@
+{
+    "id": "mordor-wretch",
+    "title": "Mordor Wretch",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Shadow:<\/keyword> Spot 4 Free Peoples cultures and exert another <symbol>sauron<\/symbol> minion twice to add <symbol>twilight3<\/symbol> and draw a card. "
+}

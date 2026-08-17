@@ -1,0 +1,9 @@
+{
+    "id": "under-the-living-earth",
+    "title": "Under the Living Earth",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make Gandalf strength +1 for each twilight token you spot (limit +5). "
+}

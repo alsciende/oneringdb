@@ -1,0 +1,9 @@
+{
+    "id": "fereveldir-son-of-thandronen",
+    "title": "Fereveldir",
+    "subtitle": "Son of Thandronen",
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "To play, spot an Elf. <br><keyword>Skirmish:<\/keyword> Exert Fereveldir and discard an <symbol>elven<\/symbol> token from your condition to wound a minion Fereveldir is skirmishing. "
+}

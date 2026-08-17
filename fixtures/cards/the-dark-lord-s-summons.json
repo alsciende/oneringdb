@@ -1,0 +1,9 @@
+{
+    "id": "the-dark-lord-s-summons",
+    "title": "The Dark Lord's Summons",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Search.<\/keyword>  To play, spot a <symbol>sauron<\/symbol> Orc.   <br><keyword>Shadow:<\/keyword> Remove <symbol>twilight3<\/symbol> to reveal the top card of your draw deck.  If it is a <symbol>sauron<\/symbol> card, take it into hand.  Otherwise, discard it and one other card from hand."
+}

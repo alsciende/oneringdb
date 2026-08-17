@@ -1,0 +1,10 @@
+{
+    "id": "watch-and-wait",
+    "title": "Watch and Wait",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "To play, spot a <symbol>gandalf<\/symbol> companion. <br>Bearer must be a companion (except the Ring-bearer). Limit 1 per bearer. <br>Each time bearer wins a skirmish, you may remove a burden."
+}

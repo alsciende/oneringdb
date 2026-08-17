@@ -1,0 +1,10 @@
+{
+    "id": "gorgoroth-garrison",
+    "title": "Gorgoroth Garrison",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Besieger.<\/keyword> <br><keyword>Regroup:<\/keyword> Discard 2 cards from hand to stack a <symbol>sauron<\/symbol> Orc on a site you control (or discard 1 card from hand if that Orc is a besieger)."
+}

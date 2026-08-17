@@ -21,8 +21,8 @@ class Pack implements \Stringable
     #[ORM\Column(type: Types::STRING, nullable: false)]
     private string $id;
 
-    #[ORM\Column(type: Types::STRING, length: 5,nullable: false)]
-    private string $shorthand;
+    #[ORM\Column(type: Types::STRING, length: 5, nullable: true)]
+    private ?string $shorthand = null;
 
     #[ORM\Column(type: Types::STRING, length: 255, nullable: false)]
     private string $name;
@@ -45,7 +45,7 @@ class Pack implements \Stringable
         $this->packCards = new ArrayCollection();
     }
 
-    public function getId(): ?string
+    public function getId(): string
     {
         return $this->id;
     }
@@ -57,12 +57,12 @@ class Pack implements \Stringable
         return $this;
     }
 
-    public function getName(): ?string
+    public function getName(): string
     {
         return $this->name;
     }
 
-    public function setName(?string $name): static
+    public function setName(string $name): static
     {
         $this->name = $name;
 

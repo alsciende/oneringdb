@@ -1,0 +1,9 @@
+{
+    "id": "no-dawn-for-men",
+    "title": "No Dawn for Men",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Exert an Uruk-hai to exert X unbound companions, where X is the number of sites you control. "
+}

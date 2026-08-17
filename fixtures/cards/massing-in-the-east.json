@@ -1,0 +1,9 @@
+{
+    "id": "massing-in-the-east",
+    "title": "Massing in the East",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Exert a <symbol>sauron<\/symbol> minion to discard a card from the top of the Free Peoples player’s draw deck for each of these races you can spot in the fellowship: Dwarf, Elf, Man, and Wizard. "
+}

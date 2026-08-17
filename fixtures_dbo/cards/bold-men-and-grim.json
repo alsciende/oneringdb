@@ -1,0 +1,10 @@
+{
+    "id": "bold-men-and-grim",
+    "title": "Bold Men and Grim",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot 2 <symbol>raider<\/symbol> Men and add a threat. Each time a companion is about to be killed, you may remove a threat to discard a companion (except the Ring-bearer). <br>Discard this condition at the start of the regroup phase."
+}

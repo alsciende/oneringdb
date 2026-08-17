@@ -1,0 +1,9 @@
+{
+    "id": "swan-ship-of-the-galadhrim",
+    "title": "Swan-ship of the Galadhrim",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Exert an Elf ally whose home is site 6. Until the regroup phase, that ally is strength +3 and participates in archery fire and skirmishes."
+}

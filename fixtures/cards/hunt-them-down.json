@@ -1,0 +1,9 @@
+{
+    "id": "hunt-them-down",
+    "title": "Hunt Them Down!",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 3,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Make an Uruk-hai <keyword>fierce<\/keyword> until the regroup phase."
+}

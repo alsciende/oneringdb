@@ -1,0 +1,9 @@
+{
+    "id": "threat-of-the-unknown",
+    "title": "Threat of the Unknown",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Shadow:<\/keyword> Exert your <symbol>moria<\/symbol> Orc to draw 2 cards."
+}

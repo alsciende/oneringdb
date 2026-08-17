@@ -1,0 +1,10 @@
+{
+    "id": "speak-friend-and-enter",
+    "title": "Speak \u201cFriend\u201d and Enter",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Fellowship<\/keyword> or <keyword>Regroup:<\/keyword> Spot Gandalf to play the fellowship's next site (replacing opponent\u2019s site if necessary).  <br>Draw a card if you play an underground site. "
+}

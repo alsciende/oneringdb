@@ -1,0 +1,10 @@
+{
+    "id": "gorbag-s-sword",
+    "title": "Gorbag's Sword",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a <symbol>wraith<\/symbol> Orc. <br>When you play this possession, you may discard a possession. Its owner may place it on top of his or her draw deck instead. <br>If bearer is Gorbag, he is <keyword>fierce.<\/keyword> "
+}

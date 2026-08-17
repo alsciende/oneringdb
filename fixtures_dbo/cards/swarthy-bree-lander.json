@@ -1,0 +1,10 @@
+{
+    "id": "swarthy-bree-lander",
+    "title": "Swarthy Bree-lander",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "At the start of the maneuver phase, you may remove <symbol>twilight2<\/symbol> to transfer a condition borne by a character to another eligible bearer. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "sudden-strike",
+    "title": " Sudden Strike",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Spot Gollum or Sm\u00e9agol to play a minion\u00a0from your draw deck. If that minion is a <symbol>gollum<\/symbol> minion, you may also play a Shadow possession or Shadow condition from your draw deck."
+}

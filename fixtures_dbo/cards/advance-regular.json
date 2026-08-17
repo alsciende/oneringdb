@@ -1,0 +1,10 @@
+{
+    "id": "advance-regular",
+    "title": "Advance Regular",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each roaming <symbol>sauron<\/symbol> minion is <keyword>fierce.<\/keyword>"
+}

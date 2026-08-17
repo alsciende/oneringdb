@@ -1,0 +1,10 @@
+{
+    "id": "new-forges-built",
+    "title": "New Forges Built",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "Exert an <symbol>urukhai<\/symbol> minion to reinforce an <symbol>urukhai<\/symbol> token."
+}

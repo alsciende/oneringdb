@@ -1,0 +1,10 @@
+{
+    "id": "southron-troop",
+    "title": "Southron Troop",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 7,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": ""
+}

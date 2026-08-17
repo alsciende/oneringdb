@@ -1,0 +1,10 @@
+{
+    "id": "soldier-s-cache",
+    "title": "Soldier's Cache",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Fortification.<\/keyword><br>At the start of your maneuver phase, you may spot 3 rangers or exert a <symbol>gondor<\/symbol> Man to transfer this condition to a minion. Wound that minion.<br><keyword>Regroup:<\/keyword> Exert a ranger to reinforce a <symbol>gondor<\/symbol> token."
+}

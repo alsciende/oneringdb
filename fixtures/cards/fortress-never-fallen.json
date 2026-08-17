@@ -1,0 +1,9 @@
+{
+    "id": "fortress-never-fallen",
+    "title": "Fortress Never Fallen",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": " <br>Each time a <symbol>rohan<\/symbol> Man wins a skirmish, you may place a <symbol>rohan<\/symbol> token on this card.  <br><keyword>Regroup:<\/keyword> Discard a Shadow condition for each <symbol>rohan<\/symbol> token here.  Discard this condition. "
+}

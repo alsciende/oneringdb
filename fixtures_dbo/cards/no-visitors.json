@@ -1,0 +1,10 @@
+{
+    "id": "no-visitors",
+    "title": "No Visitors",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Transfer a follower from a Hobbit to your support area to cancel a skirmish involving that Hobbit."
+}

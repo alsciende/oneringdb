@@ -1,0 +1,9 @@
+{
+    "id": "flurry-of-blows",
+    "title": "Flurry of Blows",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make a Dwarf strength +2 (or +4 and <keyword>damage +1<\/keyword> if bearing 2 hand weapons). "
+}

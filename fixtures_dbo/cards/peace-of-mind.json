@@ -1,0 +1,10 @@
+{
+    "id": "peace-of-mind",
+    "title": "Peace of Mind",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 4,
+    "type": "Event",
+    "subtype": "Regroup",
+    "text": "Spot Gandalf to heal an unbound Hobbit 3 times."
+}

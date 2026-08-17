@@ -1,0 +1,9 @@
+{
+    "id": "southron-brigand",
+    "title": "Southron Brigand",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <br><keyword>Shadow:<\/keyword> Remove <symbol>twilight3<\/symbol> and spot 3 <symbol>raider<\/symbol> Men to make one of those Men <keyword>damage +1<\/keyword> until the regroup phase."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "mithril-shaft",
+    "title": "Mithril Shaft",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Exert a Dwarf to discard cards from the top of your draw deck until you choose to stop (limit 5). Add <symbol>twilight1<\/symbol> for each card discarded in this way. Take the last card discarded into hand."
+}

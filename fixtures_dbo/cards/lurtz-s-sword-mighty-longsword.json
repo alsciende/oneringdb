@@ -1,0 +1,10 @@
+{
+    "id": "lurtz-s-sword-mighty-longsword",
+    "title": "Lurtz\u2019s Sword",
+    "subtitle": "Mighty Longsword",
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be an <symbol>urukhai<\/symbol> Uruk-hai.<br>Bearer gains <keyword>hunter 1<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +1.)<\/i><br>If bearer is Lurtz, he is <keyword>fierce<\/keyword>."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "gates-of-the-dead-city",
+    "title": "Gates of the Dead City",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": "To play, spot a Nazg\u00fbl.  <br>Each time a <symbol>wraith<\/symbol> card adds a burden, the Free Peoples player must exert a companion. "
+}

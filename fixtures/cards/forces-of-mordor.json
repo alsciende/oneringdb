@@ -1,0 +1,9 @@
+{
+    "id": "forces-of-mordor",
+    "title": "Forces of Mordor",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Shadow:<\/keyword> Spot X <symbol>sauron<\/symbol> minions to add <symbol>twilightX<\/symbol>."
+}

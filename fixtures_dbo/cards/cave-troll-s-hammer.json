@@ -1,0 +1,10 @@
+{
+    "id": "cave-troll-s-hammer",
+    "title": "Cave Troll's Hammer",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be Cave Troll of Moria.  <br>Cave Troll of Moria is <keyword>damage +1<\/keyword>."
+}

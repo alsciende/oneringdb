@@ -1,0 +1,10 @@
+{
+    "id": "days-growing-dark",
+    "title": "Days Growing Dark",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Fellowship:<\/keyword> Discard 3 cards from hand to play Sm\u00e9agol from your discard pile."
+}

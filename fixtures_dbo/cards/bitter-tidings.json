@@ -1,0 +1,10 @@
+{
+    "id": "bitter-tidings",
+    "title": "Bitter Tidings",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Response",
+    "text": "If Th\u00e9oden is about to take a wound in a skirmish, you may discard from play \u00c9omer or Th\u00e9odred to prevent that.<br>If Th\u00e9odred is about to take a wound in a skirmish, you may discard from play \u00c9omer or \u00c9owyn to prevent that."
+}

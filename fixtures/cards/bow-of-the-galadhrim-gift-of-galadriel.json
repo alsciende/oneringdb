@@ -1,0 +1,9 @@
+{
+    "id": "bow-of-the-galadhrim-gift-of-galadriel",
+    "title": "Bow of the Galadhrim",
+    "subtitle": "Gift of Galadriel",
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be Legolas. <br>Each time you play an <symbol>elven<\/symbol> skirmish event during a skirmish involving Legolas, you may heal him."
+}

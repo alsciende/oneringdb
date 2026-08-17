@@ -1,0 +1,10 @@
+{
+    "id": "whatever-end",
+    "title": "Whatever End",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time Gimli wins a skirmish, you may make a hunter <symbol>gondor<\/symbol> companion or hunter <symbol>elven<\/symbol> companion <keyword>damage +1<\/keyword> until the regroup phase.<br><keyword>Skirmish:<\/keyword> Discard this condition to make a <symbol>dwarven<\/symbol> companion strength +2."
+}

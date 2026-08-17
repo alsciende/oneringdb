@@ -1,0 +1,10 @@
+{
+    "id": "treebeard-earthborn",
+    "title": "Treebeard",
+    "subtitle": "Earthborn",
+    "culture": "Gandalf",
+    "twilight_cost": 4,
+    "type": "Ally",
+    "subtype": "Ent",
+    "text": "<keyword>Unhasty.<\/keyword><br><keyword>Response:<\/keyword> If an unbound Hobbit is about to be discarded, stack him here instead.  <br><keyword>Fellowship:<\/keyword> Exert Treebeard and add <symbol>twilight1<\/symbol> to play an unbound Hobbit stacked here. "
+}

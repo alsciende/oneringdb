@@ -1,0 +1,9 @@
+{
+    "id": "mordor-soldier",
+    "title": "Mordor Soldier",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "minion",
+    "text": "<keyword>Skirmish:<\/keyword> Remove a threat to make this minion strength +4."
+}

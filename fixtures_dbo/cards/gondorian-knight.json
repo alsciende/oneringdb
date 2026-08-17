@@ -1,0 +1,10 @@
+{
+    "id": "gondorian-knight",
+    "title": "Gondorian Knight",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Knight.<\/keyword>"
+}

@@ -1,0 +1,10 @@
+{
+    "id": "arwen-royal-maiden",
+    "title": "Arwen",
+    "subtitle": "Royal Maiden",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "<keyword>Ranger.<\/keyword><br> While you can spot 2 <symbol>elven<\/symbol> followers, each minion skirmishing Arwen is strength \u20132.<br> <keyword>Maneuver<\/keyword>: Add 3 threats to reconcile your hand."
+}

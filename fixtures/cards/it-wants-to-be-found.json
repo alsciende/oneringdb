@@ -1,0 +1,9 @@
+{
+    "id": "it-wants-to-be-found",
+    "title": "It Wants to be Found",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Spot a twilight Nazgûl to add a burden. "
+}

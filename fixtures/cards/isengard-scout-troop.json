@@ -1,0 +1,9 @@
+{
+    "id": "isengard-scout-troop",
+    "title": "Isengard Scout Troop",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Warg-rider.<\/keyword><br>While this minion is not exhausted, it is <keyword>fierce.<\/keyword><br>Each time an <symbol>isengard<\/symbol> Orc wins a skirmish, you may exert this minion to control a site."
+}

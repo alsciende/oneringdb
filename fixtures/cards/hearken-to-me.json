@@ -1,0 +1,9 @@
+{
+    "id": "hearken-to-me",
+    "title": "Hearken to Me",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<keyword>Spell.<\/keyword> To play, spot Gandalf. Bearer must be Théoden.<br>Discard all Shadow conditions on Théoden. Shadow conditions may not be played on Théoden. "
+}

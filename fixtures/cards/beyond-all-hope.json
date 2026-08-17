@@ -1,0 +1,9 @@
+{
+    "id": "beyond-all-hope",
+    "title": "Beyond All Hope",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 5,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Exert 2 Uruk-hai to add a burden for each card in the dead pile. "
+}

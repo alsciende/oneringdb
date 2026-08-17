@@ -1,0 +1,10 @@
+{
+    "id": "legolas-archer-of-mirkwood",
+    "title": "Legolas",
+    "subtitle": "Archer of Mirkwood",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "<keyword>Archer.<\/keyword><br>Each time Legolas wins a skirmish, you may heal a Dwarf companion or another Elf companion."
+}

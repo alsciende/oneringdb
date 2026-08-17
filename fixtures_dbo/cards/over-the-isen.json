@@ -1,0 +1,10 @@
+{
+    "id": "over-the-isen",
+    "title": "Over the Isen",
+    "subtitle": null,
+    "culture": "Dunland",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<br><keyword>Assignment:<\/keyword> Spot a site you control and remove <symbol>twilight2<\/symbol> to assign a <symbol>dunland<\/symbol> Man to an unbound companion. "
+}

@@ -1,0 +1,9 @@
+{
+    "id": "more-yet-to-come",
+    "title": "More Yet to Come",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "If a Dwarf kills a minion in a skirmish and that minion did not take all wounds caused by that Dwarf's damage bonus, assign those remaining wounds to minions not assigned to a skirmish. "
+}

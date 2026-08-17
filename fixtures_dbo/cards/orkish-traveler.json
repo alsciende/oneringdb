@@ -1,0 +1,10 @@
+{
+    "id": "orkish-traveler",
+    "title": "Orkish Traveler",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each <symbol>orc<\/symbol> mount is twilight cost -1.<br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight3<\/symbol> to make a mounted <symbol>orc<\/symbol> Orc strength +2."
+}

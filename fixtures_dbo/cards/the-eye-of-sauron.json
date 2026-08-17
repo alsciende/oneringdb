@@ -1,0 +1,10 @@
+{
+    "id": "the-eye-of-sauron",
+    "title": "The Eye of Sauron",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Shadow:<\/keyword> Exert a <symbol>sauron<\/symbol> Orc and spot X burdens to draw X cards (limit 5). "
+}

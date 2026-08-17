@@ -1,0 +1,10 @@
+{
+    "id": "nocked",
+    "title": "Nocked",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Archery",
+    "text": ""
+}

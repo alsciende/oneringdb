@@ -1,0 +1,9 @@
+{
+    "id": "chance-observation",
+    "title": "Chance Observation",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "If there are 4 or more <symbol>shire<\/symbol> cards in your discard pile, make a Hobbit strength +1 for each Hobbit you can spot. "
+}

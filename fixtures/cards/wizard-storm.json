@@ -1,0 +1,9 @@
+{
+    "id": "wizard-storm",
+    "title": "Wizard Storm",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "<keyword>Spell.<\/keyword> <keyword>Weather.<\/keyword> To play, exert an <symbol>isengard<\/symbol> minion. Plays on a site. Limit 1 per site.  <br>When the fellowship moves from this site, every companion must exert. Discard this condition at the end of the turn. "
+}

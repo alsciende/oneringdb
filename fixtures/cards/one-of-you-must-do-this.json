@@ -1,0 +1,9 @@
+{
+    "id": "one-of-you-must-do-this",
+    "title": "One of You Must Do This",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Exert an <symbol>isengard<\/symbol> minion to make the Free Peoples player exert X companions, where X is the number of these races you can spot in the fellowship: Dwarf, Elf, Man, and Wizard. "
+}

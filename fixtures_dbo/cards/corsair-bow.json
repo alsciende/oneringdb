@@ -1,0 +1,10 @@
+{
+    "id": "corsair-bow",
+    "title": "Corsair Bow",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Ranged Weapon",
+    "text": "Bearer must be a <symbol>men<\/symbol> minion.<br>Bearer is an archer.<br>Each time a companion is killed during the archery phase, you may control a site."
+}

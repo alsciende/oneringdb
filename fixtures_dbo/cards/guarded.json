@@ -1,0 +1,10 @@
+{
+    "id": "guarded",
+    "title": "Guarded",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot 3 <symbol>gondor<\/symbol> Men. <br>Each time the fellowship moves, add a threat or discard this condition. <br><keyword>Regroup:<\/keyword> Discard this condition to discard a minion (or all roaming minions)."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "the-council-of-elrond",
+    "title": "The Council of Elrond",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Fellowship:<\/keyword> Spot an Elf to play a tale from your draw deck."
+}

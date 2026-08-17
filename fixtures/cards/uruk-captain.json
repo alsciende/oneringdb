@@ -1,0 +1,9 @@
+{
+    "id": "uruk-captain",
+    "title": "Uruk Captain",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword>  <br><keyword>Shadow:<\/keyword> Remove <symbol>twilight1<\/symbol> and exert Uruk Captain to play an Uruk-hai from your discard pile. "
+}

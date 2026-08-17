@@ -1,0 +1,10 @@
+{
+    "id": "gimli-s-armor",
+    "title": "Gimli's Armor",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Armor",
+    "text": "Bearer must be Gimli. <br><keyword>Response:<\/keyword> If you have initiative and Gimli is about to take a wound, discard 2 cards from hand to prevent that wound."
+}

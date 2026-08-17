@@ -1,0 +1,9 @@
+{
+    "id": "be-back-soon",
+    "title": "Be Back Soon",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Discard Sméagol to discard a minion. An opponent may exert a minion twice to prevent this."
+}

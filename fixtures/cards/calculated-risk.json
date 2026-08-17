@@ -1,0 +1,9 @@
+{
+    "id": "calculated-risk",
+    "title": "Calculated Risk",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "Spot a Dwarf and add a threat to draw 3 cards."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "diversion",
+    "title": "Diversion",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Regroup",
+    "text": ""
+}

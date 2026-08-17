@@ -1,0 +1,10 @@
+{
+    "id": "hobbiton-farmer-lover-of-pipeweed",
+    "title": "Hobbiton Farmer",
+    "subtitle": "Lover of Pipeweed",
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Follower",
+    "subtype": "",
+    "text": "<keyword>Aid \u2013<\/keyword> Add a burden. <i>(At the start of the maneuver phase, you may add a burden to transfer this to a companion.)<\/i><br>To play, spot 2 Hobbits.<br>Bearer is strength +1 for each fierce minion you can spot."
+}

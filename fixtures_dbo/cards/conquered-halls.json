@@ -1,0 +1,10 @@
+{
+    "id": "conquered-halls",
+    "title": "Conquered Halls",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make an <symbol>orc<\/symbol> minion strength +1 for each underground site you can spot."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "watchman-uruk",
+    "title": "Watchman Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword> When you play this minion at a battleground site, you may draw a card."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "fall-back",
+    "title": "Fall Back",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Skirmish:<\/keyword> Discard all Shadow cards borne by a minion bearing a <symbol>gondor<\/symbol> Fortification."
+}

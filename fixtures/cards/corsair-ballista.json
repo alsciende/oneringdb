@@ -1,0 +1,9 @@
+{
+    "id": "corsair-ballista",
+    "title": "Corsair Ballista",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "Bearer must be a corsair. <br>While you have initiative, bearer is an archer and fierce."
+}

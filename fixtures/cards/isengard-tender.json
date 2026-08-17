@@ -1,0 +1,9 @@
+{
+    "id": "isengard-tender",
+    "title": "Isengard Tender",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 1,
+    "type": "minion",
+    "text": "<keyword>Regroup:<\/keyword> If stacked on an <symbol>isengard<\/symbol> card, discard this card and remove <symbol>twilight2<\/symbol> to exhaust a companion."
+}

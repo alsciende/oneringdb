@@ -1,0 +1,10 @@
+{
+    "id": "dervorin",
+    "title": "Dervorin",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "At the start of the regroup phase, if you have only 4 cards in hand, you may spot another <symbol>gondor<\/symbol> Man to discard a minion."
+}

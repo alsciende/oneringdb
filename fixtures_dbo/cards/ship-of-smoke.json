@@ -1,0 +1,10 @@
+{
+    "id": "ship-of-smoke",
+    "title": "Ship of Smoke",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Pipeweed.<\/keyword> Each time you play a pipeweed card, you may spot Gandalf to reveal the top 3 cards of your draw deck. Take all Free Peoples cards revealed into hand and discard the remaining cards."
+}

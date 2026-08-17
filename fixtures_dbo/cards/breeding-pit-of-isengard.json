@@ -1,0 +1,10 @@
+{
+    "id": "breeding-pit-of-isengard",
+    "title": "Breeding pit of Isengard",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Underground.<\/keyword> The twilight cost of the first hunter minion played each Shadow phase is \u20132."
+}

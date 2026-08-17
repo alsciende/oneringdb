@@ -1,0 +1,10 @@
+{
+    "id": "uruk-distractor",
+    "title": "Uruk Distractor",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<br>Skirmish:<\/keyword> If this minion is not assigned to a skirmish, you may exert it to discard a possession borne by a companion skirmishing another <symbol>urukhai<\/symbol> minion."
+}

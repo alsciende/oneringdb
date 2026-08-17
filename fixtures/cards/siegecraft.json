@@ -1,0 +1,9 @@
+{
+    "id": "siegecraft",
+    "title": "Siegecraft",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 4,
+    "type": "event",
+    "text": "If your <symbol>sauron<\/symbol> Orc wins a skirmish, make all your <symbol>sauron<\/symbol> Orcs fierce until the regroup phase."
+}

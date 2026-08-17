@@ -1,0 +1,9 @@
+{
+    "id": "dark-swooping-shadows",
+    "title": "Dark Swooping Shadows",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Heal an enduring <symbol>wraith<\/symbol> minion to add a burden or 2 threats."
+}

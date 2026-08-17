@@ -1,0 +1,10 @@
+{
+    "id": "ride-with-me",
+    "title": "Ride With Me",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make your <symbol>rohan<\/symbol> companion strength +2 (or exert Th\u00e9oden to make that companion strength +5 and <keyword>damage +1<\/keyword> instead.)"
+}

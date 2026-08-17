@@ -1,0 +1,9 @@
+{
+    "id": "pippin-hastiest-of-all",
+    "title": "Pippin",
+    "subtitle": "Hastiest of All",
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "companion",
+    "text": "<keyword>Regroup:<\/keyword> Discard Pippin to choose a Shadow player who must wound one of his or her minions."
+}

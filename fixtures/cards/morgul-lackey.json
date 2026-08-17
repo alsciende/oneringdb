@@ -1,0 +1,9 @@
+{
+    "id": "morgul-lackey",
+    "title": "Morgul Lackey",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Skirmish:<\/keyword> Exert this minion to make a Nazgûl or <symbol>wraith<\/symbol> Orc strength +1."
+}

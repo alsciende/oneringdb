@@ -1,0 +1,9 @@
+{
+    "id": "race-across-the-mark",
+    "title": "Race Across the Mark",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<br><keyword>Skirmish:<\/keyword> Spot a site you control and remove <symbol>twilight2<\/symbol> to cancel a skirmish involving an Uruk-hai. "
+}

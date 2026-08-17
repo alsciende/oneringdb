@@ -1,0 +1,10 @@
+{
+    "id": "orc-officer",
+    "title": "Orc Officer",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each time a companion is overwhelmed in a skirmish that involves a <symbol>sauron<\/symbol> Orc, add 3 burdens."
+}

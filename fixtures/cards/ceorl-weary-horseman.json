@@ -1,0 +1,9 @@
+{
+    "id": "ceorl-weary-horseman",
+    "title": "Ceorl",
+    "subtitle": "Weary Horseman",
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Response:<\/keyword> If your opponent is about to take control of a site, exert Ceorl and a villager to prevent this. "
+}

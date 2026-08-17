@@ -1,0 +1,10 @@
+{
+    "id": "sam-needer-of-vittles",
+    "title": "Sam",
+    "subtitle": "Needer of Vittles",
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Ring-bound.<\/keyword> <br><keyword>Fellowship:<\/keyword> Play a Hobbit companion to remove a burden. <br><keyword>Response:<\/keyword> If Frodo is killed, make Sam the Ring-bearer (resistance 5)."
+}

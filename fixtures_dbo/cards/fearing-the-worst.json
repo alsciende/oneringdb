@@ -1,0 +1,10 @@
+{
+    "id": "fearing-the-worst",
+    "title": "Fearing the Worst",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<keyword>Stealth.<\/keyword> To play, exert 2 Hobbits.  <br>The twilight cost of each search card and each tracker is +2. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "the-witch-king-black-captain",
+    "title": "The Witch-king",
+    "subtitle": "Black Captain",
+    "culture": "Wraith",
+    "twilight_cost": 8,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Enduring.<\/keyword> <br>Each Man skirmishing The Witch-king loses all strength bonuses from weapons."
+}

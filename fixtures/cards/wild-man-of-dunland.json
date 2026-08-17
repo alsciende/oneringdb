@@ -1,0 +1,9 @@
+{
+    "id": "wild-man-of-dunland",
+    "title": "Wild Man of Dunland",
+    "subtitle": null,
+    "culture": "dunland",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "Each time this minion wins a skirmish, you may play a <symbol>dunland<\/symbol> Man from hand; his twilight cost is -2. That Man is <keyword>fierce<\/keyword> and <keyword>damage +1<\/keyword> until the regroup phase. "
+}

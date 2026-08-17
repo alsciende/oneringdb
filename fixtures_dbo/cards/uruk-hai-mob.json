@@ -1,0 +1,10 @@
+{
+    "id": "uruk-hai-mob",
+    "title": "Uruk-hai Mob",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": ""
+}

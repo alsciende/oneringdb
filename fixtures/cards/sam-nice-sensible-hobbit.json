@@ -1,0 +1,9 @@
+{
+    "id": "sam-nice-sensible-hobbit",
+    "title": "Sam",
+    "subtitle": "Nice Sensible Hobbit",
+    "culture": "shire",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Ring-bound.<\/keyword><br>While you can spot Frodo and Sméagol, Sam may not be overwhelmed unless his strength is tripled. <br><keyword>Response:<\/keyword> If Frodo is killed, make Sam the <keyword>Ring-bearer (resistance 5).<\/keyword>"
+}

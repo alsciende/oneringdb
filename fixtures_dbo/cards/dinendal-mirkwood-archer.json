@@ -1,0 +1,10 @@
+{
+    "id": "dinendal-mirkwood-archer",
+    "title": "D\u00ednendal",
+    "subtitle": "Mirkwood Archer",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Follower",
+    "subtype": "",
+    "text": "<keyword>Aid \u2013<\/keyword> <symbol>twilight3<\/symbol>. <i>(At the start of the maneuver phase, you may add<\/i> <symbol>twilight3<\/symbol> <i>to transfer this to a companion.)<\/i><br>Each time you transfer this to a companion, except an <symbol>elven<\/symbol>\u00a0companion, exert bearer.<br>Bearer is an <keyword>archer<\/keyword>."
+}

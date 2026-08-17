@@ -1,0 +1,9 @@
+{
+    "id": "banner-of-elbereth",
+    "title": "Banner of Elbereth",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be an Elf companion. Each time bearer wins a skirmish, you may draw a card. <keyword>Response:<\/keyword> If bearer wins a skirmish, discard this possession to liberate a site."
+}

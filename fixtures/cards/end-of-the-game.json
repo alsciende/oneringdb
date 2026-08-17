@@ -1,0 +1,9 @@
+{
+    "id": "end-of-the-game",
+    "title": "End of the Game",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "Make an exhausted <symbol>gondor<\/symbol> companion strength +2. If that companion wins this skirmish, heal that companion or make him or her <keyword>damage +1.<\/keyword> "
+}

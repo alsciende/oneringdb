@@ -1,0 +1,9 @@
+{
+    "id": "brooding-on-tomorrow",
+    "title": "Brooding on Tomorrow",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "Each time you lose initiative (except during the fellowship phase), you may spot a <symbol>gandalf<\/symbol> companion to choose an opponent who must discard one of his or her conditions. "
+}

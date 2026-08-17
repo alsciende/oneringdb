@@ -1,0 +1,10 @@
+{
+    "id": "broken-in-defeat",
+    "title": "Broken in Defeat",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

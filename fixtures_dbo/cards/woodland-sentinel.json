@@ -1,0 +1,10 @@
+{
+    "id": "woodland-sentinel",
+    "title": "Woodland Sentinel",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": ""
+}

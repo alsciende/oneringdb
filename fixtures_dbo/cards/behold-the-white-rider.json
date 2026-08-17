@@ -1,0 +1,10 @@
+{
+    "id": "behold-the-white-rider",
+    "title": "Behold the White Rider",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": " <br>Each time Gandalf wins a skirmish, you may place a <symbol>gandalf<\/symbol> token here. <br><keyword>Skirmish:<\/keyword> Wound a minion skirmishing Gandalf for each <symbol>gandalf<\/symbol> token here. Discard this condition. "
+}

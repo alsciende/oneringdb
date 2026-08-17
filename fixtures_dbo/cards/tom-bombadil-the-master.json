@@ -1,0 +1,10 @@
+{
+    "id": "tom-bombadil-the-master",
+    "title": "Tom Bombadil",
+    "subtitle": "The Master",
+    "culture": "Shire",
+    "twilight_cost": 5,
+    "type": "Ally",
+    "subtype": "",
+    "text": "To play, remove 2 burdens or 2 threats. <br><keyword>Skirmish:<\/keyword> Spot 2 <symbol>shire<\/symbol> companions and exert Tom Bombadil X times, where X is the fellowship\u2019s site number, to cancel a skirmish involving a <symbol>shire<\/symbol> companion."
+}

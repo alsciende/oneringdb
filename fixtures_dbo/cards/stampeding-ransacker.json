@@ -1,0 +1,10 @@
+{
+    "id": "stampeding-ransacker",
+    "title": "Stampeding Ransacker",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "To play, spot 2 <symbol>men<\/symbol> Men.<br>Each time this minion wins a skirmish and you can spot a site you control, exhaust an unbound companion."
+}

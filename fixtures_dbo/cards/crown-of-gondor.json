@@ -1,0 +1,10 @@
+{
+    "id": "crown-of-gondor",
+    "title": "Crown of Gondor",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 4,
+    "type": "Artifact",
+    "subtype": "Support Area",
+    "text": "To play, spot Aragorn, Elendil, or Isildur.<br><keyword>Skirmish:<\/keyword> Spot a <symbol>gondor<\/symbol> Man with 3 or more vitality and discard a <symbol>gondor<\/symbol> card from hand to make that Man strength +2."
+}

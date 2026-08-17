@@ -1,0 +1,10 @@
+{
+    "id": "precision-targeting",
+    "title": "Precision Targeting",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Archery",
+    "text": "Spot a <symbol>men<\/symbol> minion to make the minion archery total +1 and make the Free Peoples player choose 3 companions. Other companions cannot take archery wounds. "
+}

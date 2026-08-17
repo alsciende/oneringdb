@@ -1,0 +1,9 @@
+{
+    "id": "gorgoroth-stormer",
+    "title": "Gorgoroth Stormer",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Besieger.<\/keyword> <br><keyword>Shadow:<\/keyword> If you have initiative, exert this minion to add a burden and make the Free Peoples player draw a card."
+}

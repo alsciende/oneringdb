@@ -1,0 +1,10 @@
+{
+    "id": "precise-attack",
+    "title": "Precise Attack",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Archery",
+    "text": "Discard a <symbol>rohan<\/symbol> possession from play to choose one: Wound an unwounded minion; exert a minion; or discard a Shadow card the Ring-bearer is bearing."
+}

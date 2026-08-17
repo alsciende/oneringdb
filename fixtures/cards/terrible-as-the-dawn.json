@@ -1,0 +1,9 @@
+{
+    "id": "terrible-as-the-dawn",
+    "title": "Terrible as the Dawn",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Spot a <symbol>sauron<\/symbol> minion to wound Galadriel 3 times.  The Free Peoples player may discard 2 Elves to prevent this. "
+}

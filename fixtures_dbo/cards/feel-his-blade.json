@@ -1,0 +1,10 @@
+{
+    "id": "feel-his-blade",
+    "title": "Feel His Blade",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Skirmish:<\/keyword> Transfer this condition from your support area to a character skirmishing a Nazg\u00fbl. <br>During the turn this card is transferred, the Shadow has initiative, regardless of the Free Peoples player\u2019s hand."
+}

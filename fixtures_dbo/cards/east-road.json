@@ -1,0 +1,10 @@
+{
+    "id": "east-road",
+    "title": "East Road",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": ""
+}

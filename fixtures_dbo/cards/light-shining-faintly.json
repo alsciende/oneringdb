@@ -1,0 +1,10 @@
+{
+    "id": "light-shining-faintly",
+    "title": "Light Shining Faintly",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Fellowship:<\/keyword> Add a burden to heal a Ring-bound companion twice. "
+}

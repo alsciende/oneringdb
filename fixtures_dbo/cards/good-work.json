@@ -1,0 +1,10 @@
+{
+    "id": "good-work",
+    "title": "Good Work",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": " <br>Each time a Hobbit wins a skirmish, you may place a <symbol>shire<\/symbol> token here.  <br><keyword>Fellowship:<\/keyword> Remove a burden for each <symbol>shire<\/symbol> token here (limit 3). Discard this condition. "
+}

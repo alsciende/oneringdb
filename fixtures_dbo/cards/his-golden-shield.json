@@ -1,0 +1,10 @@
+{
+    "id": "his-golden-shield",
+    "title": "His Golden Shield",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Regroup",
+    "text": "Spot 3 <symbol>rohan<\/symbol> Men to make an opponent remove <symbol>twilight1<\/symbol> or place a random card from hand beneath his or her draw deck. Do this once for each card in that player\u2019s hand when you play this event."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "taking-the-high-ground",
+    "title": "Taking the High Ground",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Toil 1.<\/keyword> <i>(For each<\/i> <symbol>elven<\/symbol> <i>character you exert when playing this, its twilight cost is \u20131.)<\/i> <br><keyword>Archery:<\/keyword> Discard an <symbol>elven<\/symbol> character from hand to make the fellowship archery total +1. <br>Each time the fellowship moves from an underground site, return your Elf to your hand. "
+}

@@ -1,0 +1,9 @@
+{
+    "id": "saruman-keeper-of-isengard",
+    "title": "Saruman",
+    "subtitle": "Keeper of Isengard",
+    "culture": "isengard",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "Saruman may not take wounds during the archery phase and may not be assigned to a skirmish.  <br>Uruk-hai are <keyword>fierce.<\/keyword>  <br><keyword>Response:<\/keyword> If an Uruk-hai is about to take a wound, exert Saruman to prevent that wound. "
+}

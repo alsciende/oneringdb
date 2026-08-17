@@ -1,0 +1,9 @@
+{
+    "id": "sam-proper-poet",
+    "title": "Sam",
+    "subtitle": "Proper Poet",
+    "culture": "shire",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Maneuver:<\/keyword> Exert Sam twice to make him <keyword>defender +1<\/keyword> until the regroup phase.  <br><keyword>Response:<\/keyword> If Frodo dies, make Sam the <keyword>Ring-bearer (resistance 5).<\/keyword>"
+}

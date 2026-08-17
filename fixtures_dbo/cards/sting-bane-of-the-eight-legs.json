@@ -1,0 +1,10 @@
+{
+    "id": "sting-bane-of-the-eight-legs",
+    "title": "Sting",
+    "subtitle": "Bane of the Eight Legs",
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be Frodo or Sam. <br><keyword>Response:<\/keyword> If a fierce skirmish involving bearer is about to end, add a threat to discard a minion involved in that skirmish."
+}

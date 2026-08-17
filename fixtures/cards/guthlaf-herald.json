@@ -1,0 +1,9 @@
+{
+    "id": "guthlaf-herald",
+    "title": "Guthláf",
+    "subtitle": "Herald",
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Skirmish:<\/keyword> Discard a <symbol>rohan<\/symbol> condition to make Guthláf strength +1."
+}

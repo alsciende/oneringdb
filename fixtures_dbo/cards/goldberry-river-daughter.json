@@ -1,0 +1,10 @@
+{
+    "id": "goldberry-river-daughter",
+    "title": "Goldberry",
+    "subtitle": "River-daughter",
+    "culture": "Shire",
+    "twilight_cost": 3,
+    "type": "Ally",
+    "subtype": "",
+    "text": "Each time the fellowship moves to a river, heal Goldberry and Tom Bombadil. <br><keyword>Skirmish:<\/keyword> If the fellowship is at a river, exert Goldberry to make a companion strength +1."
+}

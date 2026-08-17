@@ -1,0 +1,10 @@
+{
+    "id": "corsair-champion",
+    "title": "Corsair Champion",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "Each time a Free Peoples possession is played, you may spot a <symbol>men<\/symbol> card and reveal this minion from hand to make the Free Peoples player exert a companion.<br>While each companion is wounded, this minion is <keyword>fierce<\/keyword>."
+}

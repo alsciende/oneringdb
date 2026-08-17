@@ -1,0 +1,10 @@
+{
+    "id": "back-to-the-light",
+    "title": "Back to the Light",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "To play, exert an <symbol>elven<\/symbol> companion or spot Arwen. Examine the top 5 cards of your draw deck and place any number of them aside. Shuffle the remaining cards into your draw deck and place those cards set aside on top of your draw deck in any order."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "no-defense",
+    "title": "No Defense",
+    "subtitle": null,
+    "culture": "Dunland",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<br><keyword>Shadow:<\/keyword> Remove <symbol>twilight3<\/symbol> to place a <symbol>dunland<\/symbol> token here.<br><keyword>Skirmish:<\/keyword> Spot a <symbol>dunland<\/symbol> Man and remove a <symbol>dunland<\/symbol> token from this card.  A character skirmishing that <symbol>dunland<\/symbol> Man does not gain strength bonuses from possessions. "
+}

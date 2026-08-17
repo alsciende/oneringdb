@@ -1,0 +1,10 @@
+{
+    "id": "white-hand-captain",
+    "title": "White Hand Captain",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Fierce.<\/keyword><br>While this minion is assigned to a skirmish, each hunter character is strength +1."
+}

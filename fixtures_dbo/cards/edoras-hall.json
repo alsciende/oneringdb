@@ -1,0 +1,10 @@
+{
+    "id": "edoras-hall",
+    "title": "Edoras Hall",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "The twilight cost of each <symbol>rohan<\/symbol> possession is \u20131."
+}

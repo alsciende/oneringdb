@@ -1,0 +1,9 @@
+{
+    "id": "palantir-chamber",
+    "title": "Palantír Chamber",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 9,
+    "type": "site",
+    "text": "<keyword>Shadow:<\/keyword> Remove 2 burdens to play a minion from your discard pile. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "white-hand-guard",
+    "title": "White Hand Guard",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Fierce. Hunter 1.<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +1.)<\/i><br><keyword>Skirmish:<\/keyword> Exert this minion to make an <symbol>urukhai<\/symbol> hunter minion strength +2."
+}

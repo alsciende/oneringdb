@@ -1,0 +1,9 @@
+{
+    "id": "above-the-battlement",
+    "title": "Above the Battlement",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "Play a besieger stacked on a site you control or remove a burden to play a <symbol>sauron<\/symbol> Orc from your discard pile."
+}

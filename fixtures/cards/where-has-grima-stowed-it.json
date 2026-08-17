@@ -1,0 +1,9 @@
+{
+    "id": "where-has-grima-stowed-it",
+    "title": "Where Has Gríma Stowed It?",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword>  Spot Gríma to discard a possession borne by an ally or unbound companion. "
+}

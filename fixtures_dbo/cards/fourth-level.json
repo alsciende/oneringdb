@@ -1,0 +1,10 @@
+{
+    "id": "fourth-level",
+    "title": "Fourth Level",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Fortification.<\/keyword> <br><keyword>Skirmish:<\/keyword> Exert 2 <symbol>gondor<\/symbol> Men or spot 3 knights to transfer this condition from your support area to a minion skirmishing a <symbol>gondor<\/symbol> Man. Exhaust that minion."
+}

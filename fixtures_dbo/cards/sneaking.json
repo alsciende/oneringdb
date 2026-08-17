@@ -1,0 +1,10 @@
+{
+    "id": "sneaking",
+    "title": "Sneaking!",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "<keyword>Stealth.<\/keyword> <br>Heal Sm\u00e9agol (or cancel Sm\u00e9agol\u2019s skirmish if he has more vitality than the minion or minions he is skirmishing)."
+}

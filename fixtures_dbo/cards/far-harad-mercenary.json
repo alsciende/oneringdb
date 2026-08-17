@@ -1,0 +1,10 @@
+{
+    "id": "far-harad-mercenary",
+    "title": "Far Harad Mercenary",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Southron.<\/keyword> <br>At the start of a skirmish involving this minion, you may spot another <symbol>raider<\/symbol> Man and 6 companions to discard an unbound companion this minion is skirmishing."
+}

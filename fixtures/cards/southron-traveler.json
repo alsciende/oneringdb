@@ -1,0 +1,9 @@
+{
+    "id": "southron-traveler",
+    "title": "Southron Traveler",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <keyword>Ambush<\/keyword> <symbol>twilight2<\/symbol><keyword>.<\/keyword><br><keyword>Response:<\/keyword> If a Southron is about to take a wound, remove <symbol>twilight3<\/symbol> to prevent that wound."
+}

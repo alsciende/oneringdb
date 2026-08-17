@@ -1,0 +1,10 @@
+{
+    "id": "aragorn-wingfoot",
+    "title": "Aragorn",
+    "subtitle": "Wingfoot",
+    "culture": "Gondor",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": ""
+}

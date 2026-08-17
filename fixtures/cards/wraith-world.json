@@ -1,0 +1,9 @@
+{
+    "id": "wraith-world",
+    "title": "Wraith-world",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Spot a twilight Nazgûl and the Ring-bearer wearing The One Ring to add 3 burdens. "
+}

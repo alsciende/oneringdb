@@ -1,0 +1,10 @@
+{
+    "id": "sunland-weaponmaster",
+    "title": "Sunland Weaponmaster",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "To play, spot 2 <symbol>men<\/symbol> Men.<br>While this minion bears a possession, he is strength +2 for each Free Peoples culture you can spot."
+}

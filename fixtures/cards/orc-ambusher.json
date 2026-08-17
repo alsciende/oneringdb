@@ -1,0 +1,9 @@
+{
+    "id": "orc-ambusher",
+    "title": "Orc Ambusher",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "minion",
+    "text": "<keyword>Tracker.<\/keyword> <br>The roaming penalty for each <symbol>sauron<\/symbol> minion you play is -1.  <br><keyword>Response:<\/keyword> If a Free Peoples regroup event is played, exert this minion to cancel that event."
+}

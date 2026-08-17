@@ -1,0 +1,10 @@
+{
+    "id": "smeagol-wretched-and-hungry",
+    "title": "Sm\u00e9agol",
+    "subtitle": "Wretched and Hungry",
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Companion",
+    "subtype": "",
+    "text": "<keyword>Ring-bound<\/keyword>. To play, add a burden.<br>Each Ring-bound companion is resistance +1.<br><keyword>Skirmish:<\/keyword> Exert 2 Ring-bound Hobbits to make Sm\u00e9agol strength +1 and prevent him from being overwhelmed unless his strength is tripled."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "orc-footman",
+    "title": "Orc Footman",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "When this minion is discarded from play, you may spot a companion who has resistance 4 or less to shuffle this minion into your draw deck."
+}

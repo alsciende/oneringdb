@@ -1,0 +1,9 @@
+{
+    "id": "they-are-coming",
+    "title": "They Are Coming",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 3,
+    "type": "condition",
+    "text": "<br><keyword>Shadow:<\/keyword> Discard 3 cards from hand to play a <symbol>moria<\/symbol> Orc from your discard pile."
+}

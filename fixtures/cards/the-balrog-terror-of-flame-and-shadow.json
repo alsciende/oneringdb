@@ -1,0 +1,9 @@
+{
+    "id": "the-balrog-terror-of-flame-and-shadow",
+    "title": "The Balrog",
+    "subtitle": "Terror of Flame and Shadow",
+    "culture": "moria",
+    "twilight_cost": 14,
+    "type": "minion",
+    "text": "<keyword>Damage +2.<\/keyword> The twilight cost of The Balrog is –3 if you can spot a <symbol>moria<\/symbol> minion. The Balrog cannot be assigned to skirmish companions or allies of strength less than 6."
+}

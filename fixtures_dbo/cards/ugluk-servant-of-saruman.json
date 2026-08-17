@@ -1,0 +1,10 @@
+{
+    "id": "ugluk-servant-of-saruman",
+    "title": "Ugl\u00fak",
+    "subtitle": "Servant of Saruman",
+    "culture": "Isengard",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Tracker.<\/keyword> <keyword>Fierce.<\/keyword><br>The roaming penalty for each <symbol>isengard<\/symbol> tracker you play is -2.<br>While you can spot 2 <symbol>isengard<\/symbol> trackers, Ugl\u00fak is strength +3.<br>While you can spot 3 <symbol>isengard<\/symbol> trackers, Ugl\u00fak is <keyword>damage +1.<\/keyword>"
+}

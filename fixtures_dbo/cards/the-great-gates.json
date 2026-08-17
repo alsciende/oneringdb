@@ -1,0 +1,10 @@
+{
+    "id": "the-great-gates",
+    "title": "The Great Gates",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Battleground.<\/keyword> While a player can spot more companions than minions, each minion is strength +1."
+}

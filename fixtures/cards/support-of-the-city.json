@@ -1,0 +1,9 @@
+{
+    "id": "support-of-the-city",
+    "title": "Support of the City",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<keyword>Fellowship:<\/keyword> Play a <symbol>gondor<\/symbol> Man to place a <symbol>gondor<\/symbol> token here. <br><keyword>Fellowship:<\/keyword> Play a <symbol>gondor<\/symbol> companion. That companion’s twilight cost is –1 for each token here. Discard this condition."
+}

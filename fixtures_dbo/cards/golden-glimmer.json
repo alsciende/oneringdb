@@ -1,0 +1,10 @@
+{
+    "id": "golden-glimmer",
+    "title": "Golden Glimmer",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

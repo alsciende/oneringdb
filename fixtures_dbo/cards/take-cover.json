@@ -1,0 +1,10 @@
+{
+    "id": "take-cover",
+    "title": "Take Cover",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": ""
+}

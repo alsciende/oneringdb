@@ -1,0 +1,10 @@
+{
+    "id": "frodo-master-of-the-precious",
+    "title": "Frodo",
+    "subtitle": "Master of the Precious",
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Ring-bearer (resistance 10).<\/keyword> <br><keyword>Fellowship:<\/keyword> Add a burden to play Sm\u00e9agol from your discard pile."
+}

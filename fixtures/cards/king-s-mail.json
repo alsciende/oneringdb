@@ -1,0 +1,9 @@
+{
+    "id": "king-s-mail",
+    "title": "King's Mail",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>rohan<\/symbol> Man.  <br>Bearer takes no more than 1 wound during each skirmish phase.  If bearer is Théoden, he may not take wounds except during a skirmish involving him. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "orkish-berserker",
+    "title": "Orkish Berserker",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "When this minion wins a skirmish, discard an <symbol>orc<\/symbol> minion from play. "
+}

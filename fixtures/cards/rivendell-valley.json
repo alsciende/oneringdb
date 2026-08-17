@@ -1,0 +1,9 @@
+{
+    "id": "rivendell-valley",
+    "title": "Rivendell Valley",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "site",
+    "text": "<keyword>Sanctuary.<\/keyword> <keyword>Fellowship:<\/keyword> Play an Elf to draw a card."
+}

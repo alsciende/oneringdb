@@ -1,0 +1,10 @@
+{
+    "id": "troop-tower",
+    "title": "Troop Tower",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Engine.<\/keyword> To play, spot a <symbol>sauron<\/symbol> Orc. <br>All <symbol>sauron<\/symbol> Orcs are strength +1 for each besieger stacked on a site. <br><keyword>Regroup:<\/keyword> Discard a besieger to take control of a site. Discard this condition."
+}

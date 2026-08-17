@@ -1,0 +1,10 @@
+{
+    "id": "strange-meeting",
+    "title": "Strange Meeting",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": "madril-defender-of-osgiliath",
+    "title": "Madril",
+    "subtitle": "Defender of Osgiliath",
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Ranger. Hunter 1.<\/keyword><br>While you can spot 2 <symbol>gondor<\/symbol> rangers, Madril is twilight cost \u20132.<br>At the start of the Maneuver phase, each minion is site number +1 for each threat you can spot until the start of the regroup phase."
+}

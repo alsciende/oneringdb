@@ -1,0 +1,10 @@
+{
+    "id": "sam-bearer-of-great-need",
+    "title": "Sam",
+    "subtitle": "Bearer of Great Need",
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Ring-bound.<\/keyword><br>Sam is resistance +1 for each Hobbit you can spot.<br><keyword>Regroup:<\/keyword> Exert Sam and transfer a follower he is bearing to your support area to discard a minion from play."
+}

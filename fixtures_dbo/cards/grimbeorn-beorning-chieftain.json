@@ -1,0 +1,10 @@
+{
+    "id": "grimbeorn-beorning-chieftain",
+    "title": "Grimbeorn",
+    "subtitle": "Beorning Chieftain",
+    "culture": "Gandalf",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "At the start of each turn, heal Grimbeorn.<br>At the start of the maneuver phase, you may exert Grimbeorn twice and discard a minion from hand to make Grimbeorn strength +X until the regroup phase, where X is that minion\u2019s strength."
+}

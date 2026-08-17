@@ -1,0 +1,10 @@
+{
+    "id": "mighty-shot",
+    "title": "Mighty Shot",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Archery",
+    "text": "Spot an Elf to make the fellowship archery total +1 for each minion with twilight cost of 2 or less that you can spot."
+}

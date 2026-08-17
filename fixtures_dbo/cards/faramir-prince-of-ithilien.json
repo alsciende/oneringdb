@@ -1,0 +1,10 @@
+{
+    "id": "faramir-prince-of-ithilien",
+    "title": "Faramir",
+    "subtitle": "Prince of Ithilien",
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "While you can spot Boromir, Faramir is twilight cost \u20131.<br>While you can spot Denethor, Faramir is twilight cost \u20131.<br>While Faramir bears a <symbol>gondor<\/symbol> possession, he is <keyword>defender +1<\/keyword>."
+}

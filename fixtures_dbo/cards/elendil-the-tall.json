@@ -1,0 +1,10 @@
+{
+    "id": "elendil-the-tall",
+    "title": "Elendil",
+    "subtitle": "The Tall",
+    "culture": "Gondor",
+    "twilight_cost": 5,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "To play, spot 2 <symbol>gondor<\/symbol> Men. <br><keyword>Fellowship:<\/keyword> Play an artifact on Elendil to make the move limit +1 for this turn. <br><keyword>Regroup:<\/keyword> Discard a <symbol>gondor<\/symbol> artifact to liberate a site. "
+}

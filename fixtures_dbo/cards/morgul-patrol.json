@@ -1,0 +1,10 @@
+{
+    "id": "morgul-patrol",
+    "title": "Morgul Patrol",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

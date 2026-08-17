@@ -1,0 +1,9 @@
+{
+    "id": "mordor-warrior",
+    "title": "Mordor Warrior",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Skirmish:<\/keyword> Discard a card from your hand to make a companion skirmishing this minion strength –1 for each other <symbol>sauron<\/symbol> Orc you spot (limit –3)."
+}

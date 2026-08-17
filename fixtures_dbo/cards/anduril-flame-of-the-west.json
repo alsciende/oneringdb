@@ -1,0 +1,10 @@
+{
+    "id": "anduril-flame-of-the-west",
+    "title": "And\u00faril",
+    "subtitle": "Flame of the West",
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Artifact",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be Aragorn. Discard other weapons he bears. He is <keyword>damage +1<\/keyword> and cannot bear other weapons. <br><keyword>Fellowship<\/keyword> or <keyword>Regroup:<\/keyword> If the fellowship is at any site 2 or any site 5, play the fellowship\u2019s next site (replacing opponent\u2019s site if necessary)."
+}

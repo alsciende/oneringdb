@@ -1,0 +1,9 @@
+{
+    "id": "new-strength-came-now",
+    "title": "New Strength Came Now",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "Make a <symbol>raider<\/symbol> Man strength +3 (or +6 if you have initiative)."
+}

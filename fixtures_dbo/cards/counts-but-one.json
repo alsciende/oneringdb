@@ -1,0 +1,10 @@
+{
+    "id": "counts-but-one",
+    "title": "Counts But One",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "If Gimli is not assigned to a skirmish, add a threat to have him replace an unbound companion in a skirmish."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "celeborn-the-wise",
+    "title": "Celeborn",
+    "subtitle": "The Wise",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": ""
+}

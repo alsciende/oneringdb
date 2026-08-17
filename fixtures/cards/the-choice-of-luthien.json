@@ -1,0 +1,9 @@
+{
+    "id": "the-choice-of-luthien",
+    "title": "The Choice of Lúthien",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Tale.<\/keyword> <br><keyword>Maneuver:<\/keyword> Exert Aragorn to heal Arwen, or exert Arwen to heal Aragorn."
+}

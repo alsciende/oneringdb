@@ -1,0 +1,9 @@
+{
+    "id": "troll-of-cirith-gorgor",
+    "title": "Troll of Cirith Gorgor",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 7,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword> <keyword>Fierce.<\/keyword> To play, spot a <symbol>sauron<\/symbol> minion. <br>This minion is strength +1 for each possession you can spot. "
+}

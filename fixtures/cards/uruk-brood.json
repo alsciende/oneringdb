@@ -1,0 +1,9 @@
+{
+    "id": "uruk-brood",
+    "title": "Uruk Brood",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Damage +1<\/keyword>.  <br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight2<\/symbol> to make this minion strength +1 for each other Uruk-hai you spot."
+}

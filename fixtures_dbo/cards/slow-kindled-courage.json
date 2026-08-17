@@ -1,0 +1,10 @@
+{
+    "id": "slow-kindled-courage",
+    "title": "Slow-kindled Courage",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "Bearer must be Merry or Pippin. <br>Each minion gains this ability: \"<keyword>Assignment:<\/keyword> Assign this minion to bearer of Slow-kindled Courage.\u201d <keyword>Regroup:<\/keyword> Discard this condition to discard a minion and remove 2 burdens."
+}

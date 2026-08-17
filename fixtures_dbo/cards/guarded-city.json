@@ -1,0 +1,10 @@
+{
+    "id": "guarded-city",
+    "title": "Guarded City",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Fellowship",
+    "text": "Spot a <symbol>gondor<\/symbol> companion to reinforce a <symbol>gondor<\/symbol> token for each possession borne by that companion. "
+}

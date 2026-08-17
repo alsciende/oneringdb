@@ -1,0 +1,10 @@
+{
+    "id": "theoden-king-of-rohan",
+    "title": "Th\u00e9oden",
+    "subtitle": "King of Rohan",
+    "culture": "Rohan",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "While the Ring-bearer is assigned to a skirmish, each <symbol>rohan<\/symbol> companion is strength +1.<br><keyword>Regroup:<\/keyword> Spot 2 <symbol>rohan<\/symbol> followers and exert Th\u00e9oden to liberate a site."
+}

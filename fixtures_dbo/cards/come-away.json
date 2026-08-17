@@ -1,0 +1,10 @@
+{
+    "id": "come-away",
+    "title": "Come Away",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "While you can spot Sm\u00e9agol, the Shadow number of each site is \u20131. <br>Each time the fellowship moves, wound a companion or discard this condition."
+}

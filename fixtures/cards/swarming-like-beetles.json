@@ -1,0 +1,9 @@
+{
+    "id": "swarming-like-beetles",
+    "title": "Swarming Like Beetles",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<keyword>Maneuver:<\/keyword> Spot a <symbol>wraith<\/symbol> Orc and remove a threat to wound an unwounded companion. "
+}

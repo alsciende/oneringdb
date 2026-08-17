@@ -1,0 +1,10 @@
+{
+    "id": "the-one-ring-such-a-weight-to-carry",
+    "title": "The One Ring",
+    "subtitle": "Such A Weight To Carry",
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "The One Ring",
+    "subtype": "",
+    "text": "<keyword>Maneuver:<\/keyword> Add a burden to wear The One Ring until the regroup phase. <br>While wearing The One Ring, each time the Ring-bearer is about to take a wound, add a burden instead."
+}

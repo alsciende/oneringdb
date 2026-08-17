@@ -1,0 +1,9 @@
+{
+    "id": "look-at-him",
+    "title": "Look at Him",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Shadow:<\/keyword> Spot Sméagol or Gollum to add <symbol>twilight1<\/symbol> for each burden."
+}

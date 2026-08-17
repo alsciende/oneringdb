@@ -1,0 +1,10 @@
+{
+    "id": "relentless-uruk",
+    "title": "Relentless Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword> Each time a Free Peoples event is played during a skirmish involving this minion, this minion is strength \u20132 until the regroup phase."
+}

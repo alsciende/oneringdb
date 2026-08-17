@@ -1,0 +1,9 @@
+{
+    "id": "the-weight-of-a-legacy",
+    "title": "The Weight of a Legacy",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "To play, exert a <symbol>sauron<\/symbol> Orc.  Plays on Aragorn."
+}

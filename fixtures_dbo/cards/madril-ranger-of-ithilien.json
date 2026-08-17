@@ -1,0 +1,10 @@
+{
+    "id": "madril-ranger-of-ithilien",
+    "title": "Madril",
+    "subtitle": "Ranger of Ithilien",
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": ""
+}

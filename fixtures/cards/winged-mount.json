@@ -1,0 +1,9 @@
+{
+    "id": "winged-mount",
+    "title": "Winged Mount",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "To play, discard 2 cards from hand. <br>Bearer must be a Nazgûl. <br><keyword>Response:<\/keyword> If bearer is about to take a wound, remove a threat to prevent that wound."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "durin-iii-dwarven-lord",
+    "title": "Durin III",
+    "subtitle": "Dwarven Lord",
+    "culture": "Dwarven",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Dwarf",
+    "text": "<keyword>Damage +1.<\/keyword> <br>While you can spot 2 Dwarves, Durin III is twilight cost \u20132. <br>Durin III is strength +1 for each artifact and each possession he bears. "
+}

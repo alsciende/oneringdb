@@ -1,0 +1,10 @@
+{
+    "id": "hand-axe",
+    "title": "Hand Axe",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 0,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": ""
+}

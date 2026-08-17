@@ -1,0 +1,9 @@
+{
+    "id": "mordor-pillager",
+    "title": "Mordor Pillager",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Besieger.<\/keyword> <keyword>Fierce.<\/keyword> <br><keyword>Shadow:<\/keyword> Exert this minion and spot another <symbol>sauron<\/symbol> minion to control a site. If you cannot spot 3 Free Peoples cultures, the Free Peoples player may exert a companion to prevent this. "
+}

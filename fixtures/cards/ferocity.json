@@ -1,0 +1,9 @@
+{
+    "id": "ferocity",
+    "title": "Ferocity",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword>  Make an Uruk-hai strength +2 (or +3 if at a battleground). "
+}

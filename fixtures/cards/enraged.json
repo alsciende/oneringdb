@@ -1,0 +1,9 @@
+{
+    "id": "enraged",
+    "title": "Enraged",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "Bearer must be an Ent. Limit 1 per bearer. Discard this condition at the end of the turn."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "swarthy-hillman",
+    "title": "Swarthy Hillman",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "While you control a site, this minion is an <keyword>archer<\/keyword>."
+}

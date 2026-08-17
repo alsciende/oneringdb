@@ -1,0 +1,10 @@
+{
+    "id": "white-hand-legion",
+    "title": "White Hand Legion",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword><br>To play, remove 2 threats."
+}

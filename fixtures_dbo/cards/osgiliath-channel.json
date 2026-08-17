@@ -1,0 +1,10 @@
+{
+    "id": "osgiliath-channel",
+    "title": "Osgiliath Channel",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 6,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>River.<\/keyword> <keyword>Regroup:<\/keyword> Spot your minion and 6 companions to make the Free Peoples player choose to move again this turn."
+}

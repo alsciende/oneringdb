@@ -1,0 +1,9 @@
+{
+    "id": "never",
+    "title": "Never",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "To play, spot Sméagol. <br><keyword>Regroup:<\/keyword> Discard Sméagol to remove 2 threats."
+}

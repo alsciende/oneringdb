@@ -1,0 +1,9 @@
+{
+    "id": "orc-infantry",
+    "title": "Orc Infantry",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "minion",
+    "text": "<keyword>Regroup:<\/keyword> Spot a <symbol>sauron<\/symbol> condition and discard this minion to take control of a site."
+}

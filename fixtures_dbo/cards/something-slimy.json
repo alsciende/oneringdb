@@ -1,0 +1,10 @@
+{
+    "id": "something-slimy",
+    "title": "Something Slimy",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Fellowship",
+    "text": "Spot Sm\u00e9agol to play a condition from your draw deck. If that condition was a <symbol>gollum<\/symbol> condition, you may make an opponent place a random card from his or her hand beneath his or her draw deck."
+}

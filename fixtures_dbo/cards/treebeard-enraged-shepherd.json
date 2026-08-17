@@ -1,0 +1,10 @@
+{
+    "id": "treebeard-enraged-shepherd",
+    "title": "Treebeard",
+    "subtitle": "Enraged Shepherd",
+    "culture": "Gandalf",
+    "twilight_cost": 5,
+    "type": "Companion",
+    "subtype": "Ent",
+    "text": "To play, spot 3 <symbol>gandalf<\/symbol> companions.<br>Each time Treebeard wins a skirmish, the first Shadow player must exert X minions, where X is the difference between Treebeard\u2019s strength and the losing character\u2019s strength."
+}

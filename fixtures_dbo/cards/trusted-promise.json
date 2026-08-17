@@ -1,0 +1,10 @@
+{
+    "id": "trusted-promise",
+    "title": "Trusted Promise",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Reinforce a <symbol>gollum<\/symbol> token. Each Shadow player may draw a card."
+}

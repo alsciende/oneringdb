@@ -1,0 +1,9 @@
+{
+    "id": "the-balrog-durin-s-bane",
+    "title": "The Balrog",
+    "subtitle": "Durin's Bane",
+    "culture": "moria",
+    "twilight_cost": 12,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword> <keyword>Fierce.<\/keyword> <br>While you can spot The Balrog, discard all other minions. Skip the archery phase. Discard The Balrog if not underground. "
+}

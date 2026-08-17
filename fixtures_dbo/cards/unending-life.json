@@ -1,0 +1,10 @@
+{
+    "id": "unending-life",
+    "title": "Unending Life",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "While you can spot 6 companions, each Nazg\u00fbl is strength +3. <br><keyword>Skirmish:<\/keyword> Discard this condition to heal a Nazg\u00fbl."
+}

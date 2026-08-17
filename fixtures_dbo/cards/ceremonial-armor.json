@@ -1,0 +1,10 @@
+{
+    "id": "ceremonial-armor",
+    "title": "Ceremonial Armor",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Support Area",
+    "text": "Each time a <symbol>men<\/symbol> minion is discarded during the maneuver phase, you may stack it here.<br><keyword>Response:<\/keyword> Discard a minion stacked here or discard this to prevent a wound to a <symbol>men<\/symbol> minion."
+}

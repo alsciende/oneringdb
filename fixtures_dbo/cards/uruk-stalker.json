@@ -1,0 +1,10 @@
+{
+    "id": "uruk-stalker",
+    "title": "Uruk Stalker",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword>  <br>While an ally is in the dead pile, this minion is strength +3 and <keyword>fierce.<\/keyword> "
+}

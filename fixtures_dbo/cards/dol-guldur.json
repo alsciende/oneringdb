@@ -1,0 +1,10 @@
+{
+    "id": "dol-guldur",
+    "title": "Dol Guldur",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Regroup:<\/keyword> Exert your minion and remove a threat to make the Free Peoples player discard one of his or her conditions."
+}

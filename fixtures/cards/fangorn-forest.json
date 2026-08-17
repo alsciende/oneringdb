@@ -1,0 +1,9 @@
+{
+    "id": "fangorn-forest",
+    "title": "Fangorn Forest",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 2,
+    "type": "site",
+    "text": "<keyword>Forest.<\/keyword> <keyword>Fellowship:<\/keyword> Play Treebeard from your draw deck. "
+}

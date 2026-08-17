@@ -1,0 +1,10 @@
+{
+    "id": "thrarin-dwarven-smith",
+    "title": "Thrarin",
+    "subtitle": "Dwarven Smith",
+    "culture": "Dwarven",
+    "twilight_cost": 1,
+    "type": "Ally",
+    "subtype": "Dwarf",
+    "text": "<keyword>Maneuver:<\/keyword> Exert Thrarin to allow him to participate in archery fire and skirmishes until the regroup phase."
+}

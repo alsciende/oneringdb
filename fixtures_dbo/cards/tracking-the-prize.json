@@ -1,0 +1,10 @@
+{
+    "id": "tracking-the-prize",
+    "title": "Tracking the Prize",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "While you can spot 3 <symbol>urukhai<\/symbol> hunters, at the start of each skirmish involving an <symbol>urukhai<\/symbol> hunter, each companion skirmishing that minion must exert."
+}

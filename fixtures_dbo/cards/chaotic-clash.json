@@ -1,0 +1,10 @@
+{
+    "id": "chaotic-clash",
+    "title": "Chaotic Clash",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot no minions.<br>Each time you play a minion, it is twilight cost +1.<br>While you can spot an <symbol>orc<\/symbol> minion, each companion is strength -1. "
+}

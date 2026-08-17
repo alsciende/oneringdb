@@ -1,0 +1,10 @@
+{
+    "id": "uruk-infantry",
+    "title": "Uruk Infantry",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1<\/keyword>.<br>While you can spot a companion of strength 10 or more, this minion is strength +2.<br><keyword>Regroup:<\/keyword> Exert 4 <symbol>urukhai<\/symbol> minions (or discard 3 <symbol>urukhai<\/symbol> minions) to take control of a site. "
+}

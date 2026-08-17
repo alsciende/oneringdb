@@ -11,7 +11,7 @@ use Symfony\Component\HttpFoundation\Session\FlashBagAwareSessionInterface;
 readonly class FlashService
 {
     public function __construct(
-        private RequestStack $requestStack
+        private RequestStack $requestStack,
     ) {
     }
 

@@ -1,0 +1,9 @@
+{
+    "id": "goblin-warrior",
+    "title": "Goblin Warrior",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "When you play this minion, you may discard a <symbol>dwarven<\/symbol> ally or <symbol>dwarven<\/symbol> condition."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "ring-of-isengard",
+    "title": "Ring of Isengard",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 7,
+    "type": "site",
+    "text": "<keyword>Shadow:<\/keyword> Play a <symbol>dunland<\/symbol> minion to draw a card. "
+}

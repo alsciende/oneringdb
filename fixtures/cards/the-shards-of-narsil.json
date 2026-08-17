@@ -1,0 +1,9 @@
+{
+    "id": "the-shards-of-narsil",
+    "title": "The Shards of Narsil",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "artifact",
+    "text": "<br><keyword>Fellowship:<\/keyword> Stack a <symbol>gondor<\/symbol> card from hand here.  <br><keyword>Fellowship:<\/keyword> Add <symbol>twilight1<\/symbol> to take a card stacked here into hand. "
+}

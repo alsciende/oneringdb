@@ -1,0 +1,10 @@
+{
+    "id": "taunt",
+    "title": "Taunt",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

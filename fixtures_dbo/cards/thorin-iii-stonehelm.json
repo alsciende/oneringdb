@@ -1,0 +1,10 @@
+{
+    "id": "thorin-iii-stonehelm",
+    "title": "Thorin III",
+    "subtitle": "Stonehelm",
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Dwarf",
+    "text": "<keyword>Damage +1.<\/keyword><br>Each time a minion loses a skirmish involving Thorin III, its owner discards the top card from his or her draw deck. "
+}

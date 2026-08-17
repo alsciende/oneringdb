@@ -1,0 +1,10 @@
+{
+    "id": "treachery",
+    "title": "Treachery",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Spot Gr\u00edma to exert an unbound companion. That companion cannot use his or her game text until the regroup phase."
+}

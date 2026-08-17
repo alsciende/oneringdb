@@ -1,0 +1,10 @@
+{
+    "id": "one-upsmanship",
+    "title": "One-Upsmanship",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "<keyword>Spell.<\/keyword> Spot 2 pipeweed cards to remove a burden for each <symbol>gandalf<\/symbol> Wizard you can spot."
+}

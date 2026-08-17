@@ -1,0 +1,10 @@
+{
+    "id": "frodo-reluctant-adventurer",
+    "title": "Frodo",
+    "subtitle": "Reluctant Adventurer",
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": "mauhur-relentless-hunter",
+    "title": "Mauh\u00far",
+    "subtitle": "Relentless Hunter",
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Fierce. Hunter 1.<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +1.)<\/i><br><keyword>Assignment:<\/keyword> Exert Mauh\u00far to assign him to a non-hunter character (except the Ring-bearer)."
+}

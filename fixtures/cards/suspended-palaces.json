@@ -1,0 +1,9 @@
+{
+    "id": "suspended-palaces",
+    "title": "Suspended Palaces",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "When you play this condition, you may spot a Dwarf to place 2 <symbol>dwarven<\/symbol> tokens here. <keyword>Fellowship:<\/keyword> Discard this condition or remove a <symbol>dwarven<\/symbol> token from here to stack the top card of your draw deck on a <symbol>dwarven<\/symbol> condition that has a card stacked on it."
+}

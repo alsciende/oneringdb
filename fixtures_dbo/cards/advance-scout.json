@@ -1,0 +1,10 @@
+{
+    "id": "advance-scout",
+    "title": "Advance Scout",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Shadow:<\/keyword> Exert or discard this minion to make each <symbol>sauron<\/symbol> minion you spot roaming until the regroup phase. "
+}

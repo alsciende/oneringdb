@@ -1,0 +1,9 @@
+{
+    "id": "hidden-even-from-her",
+    "title": "Hidden Even From Her",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "Gollum is fierce. <br><keyword>Shadow:<\/keyword> Spot 6 companions to play Gollum from your discard pile and exert a companion. Place this condition on top of your draw deck."
+}

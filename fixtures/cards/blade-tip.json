@@ -1,0 +1,9 @@
+{
+    "id": "blade-tip",
+    "title": "Blade Tip",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<br><keyword>Response:<\/keyword> If your Nazgûl wins a skirmish, transfer this condition from your support area to the losing character. Limit 1 per character.  Wound bearer at the start of each fellowship phase. (If bearer is the Ring-bearer, add a burden instead.)"
+}

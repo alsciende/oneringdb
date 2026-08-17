@@ -1,0 +1,10 @@
+{
+    "id": "covetous-uruk",
+    "title": "Covetous Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1<\/keyword>.<br>This minion is strength +1 for each possession you spot."
+}

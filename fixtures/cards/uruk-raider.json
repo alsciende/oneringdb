@@ -1,0 +1,9 @@
+{
+    "id": "uruk-raider",
+    "title": "Uruk Raider",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword>  <br>While an ally is in the dead pile, this minion is strength +3 and <keyword>fierce<\/keyword>. "
+}

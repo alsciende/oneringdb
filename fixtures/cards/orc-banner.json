@@ -1,0 +1,9 @@
+{
+    "id": "orc-banner",
+    "title": "Orc Banner",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "Plays to your support area.<br>Each time a companion or ally loses a skirmish that involves a <symbol>sauron<\/symbol> Orc, each <symbol>sauron<\/symbol> Orc is strength +1 until the regroup phase."
+}

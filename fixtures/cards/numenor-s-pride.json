@@ -1,0 +1,9 @@
+{
+    "id": "numenor-s-pride",
+    "title": "Númenor's Pride",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "To play, spot Gandalf and add 3 threats. <br>Gandalf is defender +1 and cannot take wounds. <br>Discard this condition at the start of the regroup phase."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "defending-the-keep",
+    "title": "Defending the Keep",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Fellowship:<\/keyword> Spot a Dwarf to draw a card or play a <symbol>dwarven<\/symbol> condition from your discard pile."
+}

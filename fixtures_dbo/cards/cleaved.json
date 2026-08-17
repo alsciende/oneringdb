@@ -1,0 +1,10 @@
+{
+    "id": "cleaved",
+    "title": "Cleaved",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Regroup:<\/keyword> Exert an <symbol>urukhai<\/symbol> hunter twice to transfer this condition from your support area to an unbound companion.<br><keyword>Archery:<\/keyword> Spot an <symbol>urukhai<\/symbol> minion to transfer this condition from your support area to a Free Peoples archer."
+}

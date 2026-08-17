@@ -1,0 +1,10 @@
+{
+    "id": "army-of-sauron",
+    "title": "Army of Sauron",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 9,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "To play, spot a <symbol>sauron<\/symbol> Orc. <br><keyword>Menace -<\/keyword> When you play this minion make it strength +10."
+}

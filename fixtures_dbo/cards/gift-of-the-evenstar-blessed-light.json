@@ -1,0 +1,10 @@
+{
+    "id": "gift-of-the-evenstar-blessed-light",
+    "title": "Gift of the Evenstar",
+    "subtitle": "Blessed Light",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Artifact",
+    "subtype": "Support Area",
+    "text": "Each time an Elf wins a skirmish, you may exert that Elf or Aragorn to place an <symbol>elven<\/symbol> token here.<br>At the start of each maneuver phase, you may remove an <symbol>elven<\/symbol> token here to draw a card."
+}

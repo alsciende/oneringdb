@@ -1,0 +1,10 @@
+{
+    "id": "gate-sentry",
+    "title": "Gate Sentry",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": "ulaire-enquea-faster-than-winds",
+    "title": "\u00dalair\u00eb Enqu\u00eba",
+    "subtitle": "Faster Than Winds",
+    "culture": "Wraith",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Fierce.<\/keyword> <br>While you can spot 6 companions, \u00dalair\u00eb Enqu\u00eba is <keyword>Damage +1.<\/keyword> <br>Each time a companion is killed, you may exert \u00dalair\u00eb Enqu\u00eba to exert the Ring\u2013bearer."
+}

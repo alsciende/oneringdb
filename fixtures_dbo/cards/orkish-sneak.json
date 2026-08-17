@@ -1,0 +1,10 @@
+{
+    "id": "orkish-sneak",
+    "title": "Orkish Sneak",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Assignment:<\/keyword> Spot another <symbol>orc<\/symbol> Orc to assign this minion to skirmish a non-<symbol>shire<\/symbol> Ring-bearer.<br>The Free Peoples player may add a burden or exert the Ring-bearer twice to discard this minion."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "elven-scout",
+    "title": "Elven Scout",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "While you can spot another Elf, this companion has <keyword>muster.<\/keyword> (At the start of the regroup phase, you may discard a card from hand to draw a card.)"
+}

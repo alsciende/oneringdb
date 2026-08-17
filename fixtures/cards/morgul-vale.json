@@ -1,0 +1,9 @@
+{
+    "id": "morgul-vale",
+    "title": "Morgul Vale",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 8,
+    "type": "site",
+    "text": "<keyword>Skirmish:<\/keyword> Spot your <symbol>sauron<\/symbol> minion and remove 2 threats to make your <symbol>sauron<\/symbol> minion strength +3."
+}

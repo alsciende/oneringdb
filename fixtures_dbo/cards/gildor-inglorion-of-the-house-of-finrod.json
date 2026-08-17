@@ -1,0 +1,10 @@
+{
+    "id": "gildor-inglorion-of-the-house-of-finrod",
+    "title": "Gildor Inglorion",
+    "subtitle": "of the House of Finrod",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "At the start of each archery phase, if you can spot more minions than companions, each of your companions is an <keyword>archer<\/keyword>."
+}

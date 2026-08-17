@@ -1,0 +1,10 @@
+{
+    "id": "farin-emissary-of-erebor",
+    "title": "Farin",
+    "subtitle": "Emissary of Erebor",
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Dwarf",
+    "text": ""
+}

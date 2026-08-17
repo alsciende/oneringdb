@@ -1,0 +1,10 @@
+{
+    "id": "undaunted",
+    "title": "Undaunted",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Exert Gandalf to make him strength +1 for each twilight token you spot (limit +8)."
+}

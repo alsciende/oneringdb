@@ -1,0 +1,9 @@
+{
+    "id": "we-hates-them",
+    "title": "We Hates Them",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "Bearer must be Sméagol. <br>Each minion gains this ability: “<keyword>Assignment:<\/keyword> Assign this minion to Sméagol.” <keyword>Regroup:<\/keyword> Discard this condition to discard a minion and play a companion from your discard pile."
+}

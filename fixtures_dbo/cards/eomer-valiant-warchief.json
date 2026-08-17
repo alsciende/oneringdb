@@ -1,0 +1,10 @@
+{
+    "id": "eomer-valiant-warchief",
+    "title": "\u00c9omer",
+    "subtitle": "Valiant Warchief",
+    "culture": "Rohan",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Valiant.<\/keyword> While you can spot a <symbol>rohan<\/symbol> Man, \u00c9omer\u2019s twilight cost is \u20131. <br><keyword>Skirmish:<\/keyword> If you have initiative, discard 3 cards from hand to make \u00c9omer strength +1 for each valiant companion you spot."
+}

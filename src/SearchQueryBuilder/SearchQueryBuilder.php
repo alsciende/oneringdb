@@ -20,7 +20,7 @@ readonly class SearchQueryBuilder
     public function __construct(
         private EntityManagerInterface $entityManager,
         private SearchQueryBuilderRegistry $registry,
-        private LoggerInterface $logger
+        private LoggerInterface $logger,
     ) {
     }
 

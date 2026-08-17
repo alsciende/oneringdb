@@ -1,0 +1,9 @@
+{
+    "id": "isengard-axe",
+    "title": "Isengard Axe",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "Bearer must be an <symbol>isengard<\/symbol> Orc.  <br>When you play this weapon, add <symbol>twilight1<\/symbol>. "
+}

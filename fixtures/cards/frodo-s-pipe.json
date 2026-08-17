@@ -1,0 +1,9 @@
+{
+    "id": "frodo-s-pipe",
+    "title": "Frodo's Pipe",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be Frodo.  <br><keyword>Fellowship:<\/keyword> Discard a pipeweed possession and spot X pipes to heal a companion with the Frodo signet X times. "
+}

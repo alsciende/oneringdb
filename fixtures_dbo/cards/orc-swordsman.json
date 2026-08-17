@@ -1,0 +1,10 @@
+{
+    "id": "orc-swordsman",
+    "title": "Orc Swordsman",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "While this minion bears a weapon, he is strength +2. "
+}

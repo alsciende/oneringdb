@@ -1,0 +1,10 @@
+{
+    "id": "gruesome-meal",
+    "title": "Gruesome Meal",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make a companion skirmishing an <symbol>orc<\/symbol> minion strength -2 (or -3 if he or she is an archer)."
+}

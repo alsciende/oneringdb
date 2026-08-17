@@ -1,0 +1,9 @@
+{
+    "id": "brought-back-alive",
+    "title": "Brought Back Alive",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Search.<\/keyword>  <br><keyword>Assignment:<\/keyword> Exert an <symbol>isengard<\/symbol> tracker to assign it to an unbound companion. That companion may exert to prevent this (unless that companion is a Hobbit). "
+}

@@ -1,0 +1,9 @@
+{
+    "id": "morgul-creeper",
+    "title": "Morgul Creeper",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "While you can spot 3 burdens, the minion archery total is +2."
+}

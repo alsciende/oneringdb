@@ -1,0 +1,9 @@
+{
+    "id": "corsair-freebooter",
+    "title": "Corsair Freebooter",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Corsair.<\/keyword> <br>When you play this minion, you may remove 2 culture tokens to add 2 <symbol>raider<\/symbol> tokens to a card that already has a <symbol>raider<\/symbol> token on it."
+}

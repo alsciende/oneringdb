@@ -1,0 +1,10 @@
+{
+    "id": "dasron-merchant-from-dorwinion",
+    "title": "Dasron",
+    "subtitle": "Merchant from Dorwinion",
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "At the start of the fellowship phase, you may remove 2 Free Peoples culture tokens to take a <symbol>gandalf<\/symbol> event into hand from your discard pile."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "dwarf-guard",
+    "title": "Dwarf Guard",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 1,
+    "type": "companion",
+    "text": "To play, spot a Dwarf."
+}

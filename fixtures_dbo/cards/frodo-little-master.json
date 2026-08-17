@@ -1,0 +1,10 @@
+{
+    "id": "frodo-little-master",
+    "title": "Frodo",
+    "subtitle": "Little Master",
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Fellowship. Ring-bearer. Ring-bound.<\/keyword><br> While you cannot spot 4 threats, Shadow cards cannot discard cards from your hand or from the top of your draw deck."
+}

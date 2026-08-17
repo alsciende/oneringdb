@@ -1,0 +1,10 @@
+{
+    "id": "ill-news-is-an-ill-guest",
+    "title": "Ill News is an Ill Guest",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Exert a <symbol>men<\/symbol> minion to discard a follower from play (if you can spot Gr\u00edma, also draw a card)."
+}

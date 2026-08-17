@@ -1,0 +1,9 @@
+{
+    "id": "swordarm-of-the-white-tower",
+    "title": "Swordarm of the White Tower",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>gondor<\/symbol> companion strength +2 (or +4 if he is <keyword>defender +1<\/keyword>)."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "boomed-and-trumpeted",
+    "title": "Boomed and Trumpeted",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make an Ent strength +X and <keyword>damage +X<\/keyword>, where X is the number of unbound Hobbits you can spot."
+}

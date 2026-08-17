@@ -1,0 +1,10 @@
+{
+    "id": "midgewater-marshes",
+    "title": "Midgewater Marshes",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 1,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Marsh.<\/keyword> Each time a Hobbit moves to Midgewater Marshes, that Hobbit must exert."
+}

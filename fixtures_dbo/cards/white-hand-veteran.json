@@ -1,0 +1,10 @@
+{
+    "id": "white-hand-veteran",
+    "title": "White Hand Veteran",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword><br>When you play this minion, if you control a site, you may take an <symbol>urukhai<\/symbol> event into hand from your discard pile."
+}

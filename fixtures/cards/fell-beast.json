@@ -1,0 +1,9 @@
+{
+    "id": "fell-beast",
+    "title": "Fell Beast",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "To play, discard 2 cards from hand. Bearer must be a Nazgûl. Bearer is fierce."
+}

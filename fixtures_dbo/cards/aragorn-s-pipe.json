@@ -1,0 +1,10 @@
+{
+    "id": "aragorn-s-pipe",
+    "title": "Aragorn\u2019s Pipe",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Pipe",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> companion. <br><keyword>Fellowship:<\/keyword> Discard a pipeweed possession and spot X pipes to heal X companions."
+}

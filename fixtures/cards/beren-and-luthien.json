@@ -1,0 +1,9 @@
+{
+    "id": "beren-and-luthien",
+    "title": "Beren and Lúthien",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Tale.<\/keyword>  <br><keyword>Skirmish:<\/keyword> Exert an <symbol>elven<\/symbol> ally to discard the bottom card of your draw deck. If that card is an <symbol>elven<\/symbol> card, make a minion skirmishing an Elf strength -1. "
+}

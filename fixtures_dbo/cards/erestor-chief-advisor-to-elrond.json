@@ -1,0 +1,10 @@
+{
+    "id": "erestor-chief-advisor-to-elrond",
+    "title": "Erestor",
+    "subtitle": "Chief Advisor to Elrond",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Ally",
+    "subtype": "Elf",
+    "text": "To play, spot an Elf.  <br><keyword>Response:<\/keyword> If an Elf is about to take a wound from a <symbol>sauron<\/symbol> minion or <symbol>sauron<\/symbol> event, exert Erestor to prevent that wound. "
+}

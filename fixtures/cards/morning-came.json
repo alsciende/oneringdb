@@ -1,0 +1,9 @@
+{
+    "id": "morning-came",
+    "title": "Morning Came",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Make a <symbol>rohan<\/symbol> Man strength +4. Any Shadow player may place a random card from hand beneath his or her draw deck to make that Man strength +2 instead."
+}

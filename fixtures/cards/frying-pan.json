@@ -1,0 +1,9 @@
+{
+    "id": "frying-pan",
+    "title": "Frying Pan",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "Bearer must be a Hobbit.  <br><keyword>Skirmish:<\/keyword> Exert bearer to wound an Orc he or she is skirmishing. "
+}

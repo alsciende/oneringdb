@@ -1,0 +1,10 @@
+{
+    "id": "smeagol-slippery-sneak",
+    "title": "Sm\u00e9agol",
+    "subtitle": "Slippery Sneak",
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Companion",
+    "subtype": "",
+    "text": "<keyword>Ring-bound.<\/keyword> To play, add a burden.  <br><keyword>Skirmish:<\/keyword> Add a number of threats equal to the total vitality of the minions Sm\u00e9agol is skirmishing to discard Sm\u00e9agol. <keyword>Regroup:<\/keyword> Discard Sm\u00e9agol to take a <symbol>gollum<\/symbol> minion from your discard pile into hand."
+}

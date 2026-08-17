@@ -1,0 +1,9 @@
+{
+    "id": "realm-of-dwarrowdelf",
+    "title": "Realm of Dwarrowdelf",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<br><keyword>Skirmish:<\/keyword> Discard the top 3 cards from your draw deck to make a Dwarf strength +1 (limit +3) and, if underground, <keyword>damage +1<\/keyword> (limit +3). "
+}

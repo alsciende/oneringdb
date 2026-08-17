@@ -1,0 +1,10 @@
+{
+    "id": "legolas-greenleaf",
+    "title": "Legolas",
+    "subtitle": "Greenleaf",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "<keyword>Archer.<\/keyword> <br><keyword>Archery:<\/keyword> Exert Legolas to wound a minion; Legolas does not add to the fellowship archery total."
+}

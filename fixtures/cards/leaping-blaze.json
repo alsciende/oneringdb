@@ -1,0 +1,9 @@
+{
+    "id": "leaping-blaze",
+    "title": "Leaping Blaze",
+    "subtitle": null,
+    "culture": "dunland",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Shadow:<\/keyword> Spot 3 <symbol>dunland<\/symbol> minions to shuffle your hand into your draw deck and draw 8 cards. The Free Peoples player may discard 3 cards from hand to prevent this."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "cirith-ungol-watchman",
+    "title": "Cirith Ungol Watchman",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each companion skirmishing this minion loses all damage and strength bonuses from possessions."
+}

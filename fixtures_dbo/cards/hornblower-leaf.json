@@ -1,0 +1,10 @@
+{
+    "id": "hornblower-leaf",
+    "title": "Hornblower Leaf",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Pipeweed.<\/keyword> To play, spot an unbound Hobbit.<br><keyword>Regroup:<\/keyword> Discard a pipeweed from play to remove a threat.<br><keyword>Regroup:<\/keyword> Discard a pipeweed from play to discard a minion. "
+}

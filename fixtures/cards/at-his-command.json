@@ -1,0 +1,9 @@
+{
+    "id": "at-his-command",
+    "title": "At His Command",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Exert Aragorn to make an unbound companion with the Aragorn signet strength +1 for each threat you can spot."
+}

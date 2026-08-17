@@ -1,0 +1,10 @@
+{
+    "id": "saruman-servant-of-sauron",
+    "title": "Saruman",
+    "subtitle": "Servant of Sauron",
+    "culture": "Isengard",
+    "twilight_cost": 1,
+    "type": "Follower",
+    "subtype": "",
+    "text": "<keyword>Aid<\/keyword> - <symbol>twilight1<\/symbol>. <i>(At the start of the maneuver phase, you may remove<\/i><symbol>twilight1<\/symbol> <i>to transfer this to a minion.)<\/i><br>Each time bearer wins a skirmish, you may exert a companion."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "guard-commander",
+    "title": "Guard Commander",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Skirmish:<\/keyword> Remove <symbol>twilight3<\/symbol> to make a <symbol>moria<\/symbol> Orc strength +2."
+}

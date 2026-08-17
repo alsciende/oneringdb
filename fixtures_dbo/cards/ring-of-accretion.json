@@ -1,0 +1,10 @@
+{
+    "id": "ring-of-accretion",
+    "title": "Ring of Accretion",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 0,
+    "type": "Artifact",
+    "subtype": "Ring",
+    "text": "Bearer must be a Dwarf.  <br>Bearer is <keyword>damage +1.<\/keyword> <br><keyword>Maneuver:<\/keyword> For each Dwarf you spot, reveal a card from the top of your draw deck. Take all Free Peoples cards revealed into hand and discard the rest. Discard this artifact. "
+}

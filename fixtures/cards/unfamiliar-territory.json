@@ -1,0 +1,9 @@
+{
+    "id": "unfamiliar-territory",
+    "title": "Unfamiliar Territory",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>moria<\/symbol> Orc strength +2 (or +4 if skirmishing an archer)."
+}

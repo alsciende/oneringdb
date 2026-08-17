@@ -1,0 +1,10 @@
+{
+    "id": "desertion",
+    "title": "Desertion",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

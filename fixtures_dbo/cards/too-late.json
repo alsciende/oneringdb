@@ -1,0 +1,10 @@
+{
+    "id": "too-late",
+    "title": "Too Late",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Skirmish:<\/keyword> Transfer this condition from your support area to a character skirmishing a Nazg\u00fbl. Each time bearer exerts, add <symbol>twilight1<\/symbol>."
+}

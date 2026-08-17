@@ -1,0 +1,10 @@
+{
+    "id": "stone-trolls",
+    "title": "Stone Trolls",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<keyword>Tale.<\/keyword> To play, spot Bilbo. Plays on any character. Limit 1 per character. <br>Each time bearer skirmishes a Troll or Uruk-hai, bearer is strength +3."
+}

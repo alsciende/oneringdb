@@ -1,0 +1,10 @@
+{
+    "id": "gorgoroth-axeman",
+    "title": "Gorgoroth Axeman",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Besieger.<\/keyword> <br><keyword>Skirmish:<\/keyword> Discard this minion to make a <symbol>sauron<\/symbol> minion strength +1 for each site you control (or +2 if you have initiative)."
+}

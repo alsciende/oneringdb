@@ -1,0 +1,10 @@
+{
+    "id": "entrapping-orc",
+    "title": "Entrapping Orc",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Assignment:<\/keyword> Assign this minion to an unbound companion who has resistance 4 or less."
+}

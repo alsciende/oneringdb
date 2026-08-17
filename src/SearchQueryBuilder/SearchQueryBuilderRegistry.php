@@ -25,7 +25,7 @@ class SearchQueryBuilderRegistry
      */
     public function __construct(
         #[AutowireLocator('app.search_query_builder')]
-        iterable $services
+        iterable $services,
     ) {
         foreach ($services as $service) {
             if ($service instanceof SearchQueryBuilderInterface) {

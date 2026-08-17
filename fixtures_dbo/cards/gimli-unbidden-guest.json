@@ -1,0 +1,10 @@
+{
+    "id": "gimli-unbidden-guest",
+    "title": "Gimli",
+    "subtitle": "Unbidden Guest",
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Dwarf",
+    "text": ""
+}

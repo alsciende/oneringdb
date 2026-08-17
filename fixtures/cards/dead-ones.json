@@ -1,0 +1,9 @@
+{
+    "id": "dead-ones",
+    "title": "Dead Ones",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "minion",
+    "text": "<keyword>Twilight.<\/keyword> <keyword>Damage +1. <\/keyword> <br>To play this minion, remove a burden or spot a twilight minion."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "white-hand-traveler",
+    "title": "White Hand Traveler",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword><br><keyword>Skirmish:<\/keyword> Spot 2 other <symbol>urukhai<\/symbol> minions and remove <symbol>twilight2<\/symbol> to make this minion strength +1 and <keyword>damage +1<\/keyword>."
+}

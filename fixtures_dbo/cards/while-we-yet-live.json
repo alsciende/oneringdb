@@ -1,0 +1,10 @@
+{
+    "id": "while-we-yet-live",
+    "title": "While We Yet Live",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make a roaming minion skirmishing a <symbol>gondor<\/symbol> Man strength \u20133."
+}

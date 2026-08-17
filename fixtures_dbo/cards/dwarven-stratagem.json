@@ -1,0 +1,10 @@
+{
+    "id": "dwarven-stratagem",
+    "title": "Dwarven Stratagem",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Spot a Dwarf hunter and choose one: exert a minion for each hunter you can spot or reinforce a <symbol>dwarven<\/symbol> token for each hunter you can spot."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "black-flail",
+    "title": "Black Flail",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a Nazg\u00fbl. <br><keyword>Skirmish:<\/keyword> If bearer is The Witch-king, exert him and spot a possession borne by a character he is skirmishing to discard that possession."
+}

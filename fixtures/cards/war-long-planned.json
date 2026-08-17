@@ -1,0 +1,9 @@
+{
+    "id": "war-long-planned",
+    "title": "War Long Planned",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Make a <symbol>wraith<\/symbol> Orc strength +2 (or +4 if you spot 2 wounds on the Ring-bearer)."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "morgul-skirmisher",
+    "title": "Morgul Skirmisher",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Maneuver:<\/keyword> Remove <symbol>twilight3<\/symbol> to exert a Hobbit (except the Ring-bearer)."
+}

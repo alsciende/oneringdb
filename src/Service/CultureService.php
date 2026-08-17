@@ -13,7 +13,7 @@ use Symfony\Contracts\Translation\TranslatorInterface;
 readonly class CultureService
 {
     public function __construct(
-        private TranslatorInterface $translator
+        private TranslatorInterface $translator,
     ) {
     }
 

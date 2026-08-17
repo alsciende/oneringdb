@@ -1,0 +1,10 @@
+{
+    "id": "vigilant-uruk",
+    "title": "Vigilant Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword> <keyword>Lurker.<\/keyword> (Skirmishes involving lurker minions must be resolved after any others.)  This minion is strength +2 for each <symbol>urukhai<\/symbol> minion not assigned to a skirmish."
+}

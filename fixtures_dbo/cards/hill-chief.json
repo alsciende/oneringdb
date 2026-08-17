@@ -1,0 +1,10 @@
+{
+    "id": "hill-chief",
+    "title": "Hill Chief",
+    "subtitle": null,
+    "culture": "Dunland",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": ""
+}

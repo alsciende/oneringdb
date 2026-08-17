@@ -1,0 +1,10 @@
+{
+    "id": "the-pale-blade-sword-of-flame",
+    "title": "The Pale Blade",
+    "subtitle": "Sword of Flame",
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a Nazg\u00fbl. <br>If bearer is The Witch-king, each time he wins a skirmish, you may exert him to add a burden."
+}

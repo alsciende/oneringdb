@@ -1,0 +1,10 @@
+{
+    "id": "barrage",
+    "title": "Barrage",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 5,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

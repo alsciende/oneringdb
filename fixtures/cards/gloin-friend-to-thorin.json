@@ -1,0 +1,9 @@
+{
+    "id": "gloin-friend-to-thorin",
+    "title": "Glóin",
+    "subtitle": "Friend to Thorin",
+    "culture": "dwarven",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "For each <symbol>dwarven<\/symbol> tale you can spot, Glóin is strength +1 (limit +4). "
+}

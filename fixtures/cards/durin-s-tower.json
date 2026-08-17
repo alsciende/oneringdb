@@ -1,0 +1,9 @@
+{
+    "id": "durin-s-tower",
+    "title": "Durin’s Tower",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "At sites 2<symbol>tower<\/symbol> and 3<symbol>tower<\/symbol>, The Balrog’s twilight cost is –3. <keyword>Skirmish:<\/keyword> Discard this condition to make a unique <symbol>moria<\/symbol> minion strength +3."
+}

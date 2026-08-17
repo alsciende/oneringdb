@@ -1,0 +1,10 @@
+{
+    "id": "dinendal-silent-scout",
+    "title": "Dinendal",
+    "subtitle": "Silent Scout",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Ally",
+    "subtype": "Elf",
+    "text": ""
+}

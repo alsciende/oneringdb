@@ -1,0 +1,10 @@
+{
+    "id": "searching-uruk",
+    "title": "Searching Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Fierce. Hunter 1.<\/keyword><i>(While skirmishing a non-hunter character, this character is strength +1.)<\/i><br>Searching Uruk is strength +1 for each other <symbol>urukhai<\/symbol> hunter you can spot."
+}

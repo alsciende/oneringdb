@@ -1,0 +1,9 @@
+{
+    "id": "southron-bowman",
+    "title": "Southron Bowman",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <keyword>Archer.<\/keyword> <br><keyword>Archery:<\/keyword> Exert this minion to exert a companion (except the Ring-bearer); this minion does not add to the minion archery total. "
+}

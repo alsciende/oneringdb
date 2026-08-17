@@ -1,0 +1,10 @@
+{
+    "id": "stricken-dumb",
+    "title": "Stricken Dumb",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Maneuver:<\/keyword> Exert The Witch-king to discard a tale or weapon. "
+}

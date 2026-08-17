@@ -1,0 +1,9 @@
+{
+    "id": "bow-of-the-galadhrim",
+    "title": "Bow of the Galadhrim",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be Legolas. <br>Each time Legolas wins a skirmish, you may wound a minion."
+}

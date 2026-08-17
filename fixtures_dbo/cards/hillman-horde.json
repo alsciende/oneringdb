@@ -1,0 +1,10 @@
+{
+    "id": "hillman-horde",
+    "title": "Hillman Horde",
+    "subtitle": null,
+    "culture": "Dunland",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "While you control 2 sites, skip the archery phase. <br>While you control 3 sites, each of your <symbol>dunland<\/symbol> Men is <keyword>fierce.<\/keyword> <br>While you control 4 sites, each of your <symbol>dunland<\/symbol> Men is <keyword>damage +1.<\/keyword> "
+}

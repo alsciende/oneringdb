@@ -1,0 +1,10 @@
+{
+    "id": "orc-slayer",
+    "title": "Orc Slayer",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 1,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

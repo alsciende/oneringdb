@@ -1,0 +1,9 @@
+{
+    "id": "blood-of-numenor",
+    "title": "Blood of Númenor",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "To play, exert a <symbol>gondor<\/symbol> companion.  <br>Each <symbol>sauron<\/symbol> Orc comes into play exhausted.  <br>Skip the archery phase.  <br>Discard this condition during the <keyword>regroup<\/keyword> phase. "
+}

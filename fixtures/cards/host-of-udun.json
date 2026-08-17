@@ -1,0 +1,9 @@
+{
+    "id": "host-of-udun",
+    "title": "Host of Udûn",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 10,
+    "type": "minion",
+    "text": "When you play Host of Udûn, you may remove X threats to make its twilight cost –X."
+}

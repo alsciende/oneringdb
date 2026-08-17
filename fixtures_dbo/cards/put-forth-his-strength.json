@@ -1,0 +1,10 @@
+{
+    "id": "put-forth-his-strength",
+    "title": "Put Forth His Strength",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play spot a Nazg\u00fbl. <br><keyword>Shadow:<\/keyword> If you have initiative and there are 3 characters in the dead pile, spot 3 burdens, 3 threats and a Nazg\u00fbl to corrupt the Ring\u2013bearer."
+}

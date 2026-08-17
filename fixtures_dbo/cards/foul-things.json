@@ -1,0 +1,10 @@
+{
+    "id": "foul-things",
+    "title": "Foul Things",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "",
+    "text": ""
+}

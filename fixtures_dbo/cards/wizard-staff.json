@@ -1,0 +1,10 @@
+{
+    "id": "wizard-staff",
+    "title": "Wizard Staff",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Staff",
+    "text": "Bearer must be a Wizard. <br><keyword>Skirmish:<\/keyword> Exert bearer twice to make a minion strength \u20133. "
+}

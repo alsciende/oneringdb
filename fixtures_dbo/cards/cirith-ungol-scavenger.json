@@ -1,0 +1,10 @@
+{
+    "id": "cirith-ungol-scavenger",
+    "title": "Cirith Ungol Scavenger",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each time this minion wins a skirmish, you may exert it to discard a possession borne by a character this minion is skirmishing."
+}

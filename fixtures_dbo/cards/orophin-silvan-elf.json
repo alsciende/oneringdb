@@ -1,0 +1,10 @@
+{
+    "id": "orophin-silvan-elf",
+    "title": "Orophin",
+    "subtitle": "Silvan Elf",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "<keyword>Hunter 1.<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +1.)<\/i><br>While Orophin is skirmishing a wounded minion, he is strength +3.<br><keyword>Archery:<\/keyword> Exert another <symbol>elven<\/symbol> hunter and add a threat to wound a minion."
+}

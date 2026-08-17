@@ -1,0 +1,10 @@
+{
+    "id": "the-mirror-of-galadriel-dangerous-guide",
+    "title": "The Mirror of Galadriel",
+    "subtitle": "Dangerous Guide",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Artifact",
+    "subtype": "Support Area",
+    "text": "To play, spot 3 Elves.<br>Each time you are about to draw a card, you may exert an Elf to look at the top three cards of your draw deck instead. Take a Free Peoples card into your hand and place the other cards on the bottom of your draw deck."
+}

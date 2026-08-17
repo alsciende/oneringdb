@@ -1,0 +1,10 @@
+{
+    "id": "moria-skirmishers",
+    "title": "Moria Skirmishers",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

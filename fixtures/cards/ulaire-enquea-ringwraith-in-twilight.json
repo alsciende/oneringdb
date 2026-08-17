@@ -1,0 +1,9 @@
+{
+    "id": "ulaire-enquea-ringwraith-in-twilight",
+    "title": "Úlairë Enquëa",
+    "subtitle": "Ringwraith in Twilight",
+    "culture": "wraith",
+    "twilight_cost": 6,
+    "type": "minion",
+    "text": "<keyword>Twilight.<\/keyword>  <br>Each time Úlairë Enquëa wins a skirmish, you may exert him to wound the Ring-bearer once (or twice if you spot 5 burdens). "
+}

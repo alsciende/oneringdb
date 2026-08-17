@@ -1,0 +1,9 @@
+{
+    "id": "master-broke-his-promise",
+    "title": "Master Broke His Promise",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 5,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Exert Gollum 3 times to wound each companion. The move limit for this turn is –1."
+}

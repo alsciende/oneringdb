@@ -1,0 +1,10 @@
+{
+    "id": "moria-menace",
+    "title": "Moria Menace",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Skirmish:<\/keyword> Exert this minion to make the Free Peoples player shuffle his or her draw deck and reveal the top card of that draw deck. Make this minion strength +X, where X is the twilight cost of the revealed card."
+}

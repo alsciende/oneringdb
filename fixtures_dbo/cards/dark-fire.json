@@ -1,0 +1,10 @@
+{
+    "id": "dark-fire",
+    "title": "Dark Fire",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

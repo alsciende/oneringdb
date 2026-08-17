@@ -1,0 +1,10 @@
+{
+    "id": "weapons-of-isengard",
+    "title": "Weapons of Isengard",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

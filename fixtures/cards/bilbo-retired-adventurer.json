@@ -1,0 +1,9 @@
+{
+    "id": "bilbo-retired-adventurer",
+    "title": "Bilbo",
+    "subtitle": "Retired Adventurer",
+    "culture": "shire",
+    "twilight_cost": 2,
+    "type": "ally",
+    "text": "<keyword>Fellowship:<\/keyword> Exert Bilbo to shuffle a <symbol>shire<\/symbol> card from your discard pile into your draw deck."
+}

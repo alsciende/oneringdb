@@ -1,0 +1,9 @@
+{
+    "id": "gondor-will-see-it-done",
+    "title": "Gondor Will See It Done",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Response:<\/keyword> If a companion is about to take a wound, exert a <symbol>gondor<\/symbol> companion to prevent that wound. "
+}

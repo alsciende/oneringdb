@@ -1,0 +1,9 @@
+{
+    "id": "uruk-crossbow-troop",
+    "title": "Uruk Crossbow Troop",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Archer.<\/keyword>  <br>When you play this minion, you may place an <symbol>isengard<\/symbol> token on a machine. "
+}

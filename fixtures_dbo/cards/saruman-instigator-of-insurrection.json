@@ -1,0 +1,10 @@
+{
+    "id": "saruman-instigator-of-insurrection",
+    "title": "Saruman",
+    "subtitle": "Instigator of Insurrection",
+    "culture": "Isengard",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Wizard",
+    "text": "Saruman cannot be assigned to a skirmish.<br>While you can spot 6 companions, each minion gains <keyword>hunter 2<\/keyword>.<br><keyword>Response:<\/keyword> If a hunter minion is about to take a wound, exert Saruman to prevent that. "
+}

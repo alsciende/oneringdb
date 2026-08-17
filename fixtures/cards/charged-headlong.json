@@ -1,0 +1,9 @@
+{
+    "id": "charged-headlong",
+    "title": "Charged Headlong",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "If you have initiative, discard a <symbol>rohan<\/symbol> possession to play a <symbol>rohan<\/symbol> possession from your discard pile."
+}

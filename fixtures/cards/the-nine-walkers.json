@@ -1,0 +1,9 @@
+{
+    "id": "the-nine-walkers",
+    "title": "The Nine Walkers",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "To play, spot Gandalf. <br>Each time you play a companion whose race you cannot spot, that companion’s twilight cost is -2."
+}

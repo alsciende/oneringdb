@@ -1,0 +1,9 @@
+{
+    "id": "iorlas",
+    "title": "Iorlas",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Response:<\/keyword> If a possession or engine is played by your opponent, remove a <symbol>gondor<\/symbol> token from your condition to make that opponent remove <symbol>twilight1<\/symbol>. If he or she cannot, discard that possession or engine."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "the-last-alliance-of-elves-and-men",
+    "title": "The Last Alliance of Elves and Men",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Tale.<\/keyword> Bearer must be a <symbol>gondor<\/symbol> Man. Limit 1 per bearer. <br>Bearer is strength +1 for each Elf you can spot (limit +3)."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "set-up",
+    "title": "Set Up",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Spot Gollum or Sm\u00e9agol to return a follower to its owner's hand."
+}

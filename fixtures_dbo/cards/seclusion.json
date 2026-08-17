@@ -1,0 +1,10 @@
+{
+    "id": "seclusion",
+    "title": "Seclusion",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "<keyword>Toil 2.<\/keyword> <i>(For each<\/i> <symbol>elven<\/symbol> <i>character you exert when playing this, its twilight cost is \u20132.)<\/i> <br>Spot an Elf companion to discard a condition from play."
+}

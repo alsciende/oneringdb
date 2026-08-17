@@ -1,0 +1,10 @@
+{
+    "id": "our-time",
+    "title": "Our Time",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Spell.<\/keyword> To play, exert Gandalf.<br>When you play this condition, remove <symbol>twilight3<\/symbol>.<br>At the start of the maneuver phase, add <symbol>twilight4<\/symbol> and remove this condition from the game."
+}

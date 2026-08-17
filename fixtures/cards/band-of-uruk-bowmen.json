@@ -1,0 +1,9 @@
+{
+    "id": "band-of-uruk-bowmen",
+    "title": "Band of Uruk Bowmen",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 5,
+    "type": "minion",
+    "text": "<keyword>Archer.<\/keyword> <keyword>Damage +1.<\/keyword><br>While you control a site, the minion archery total is +1. "
+}

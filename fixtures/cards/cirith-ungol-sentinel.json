@@ -1,0 +1,9 @@
+{
+    "id": "cirith-ungol-sentinel",
+    "title": "Cirith Ungol Sentinel",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword> If you can spot another <symbol>sauron<\/symbol> Uruk-hai, this minion is twilight cost –1 for each possession you can spot. "
+}

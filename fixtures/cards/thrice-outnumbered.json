@@ -1,0 +1,9 @@
+{
+    "id": "thrice-outnumbered",
+    "title": "Thrice Outnumbered",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 3,
+    "type": "event",
+    "text": "Spot a threat and X <symbol>raider<\/symbol> Men to make the Free Peoples player exert X companions (limit 3)."
+}

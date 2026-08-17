@@ -1,0 +1,9 @@
+{
+    "id": "mordor-defender",
+    "title": "Mordor Defender",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Skirmish:<\/keyword> Exert this minion and spot another <symbol>sauron<\/symbol> minion to add a threat."
+}

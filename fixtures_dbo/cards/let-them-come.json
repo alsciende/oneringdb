@@ -1,0 +1,10 @@
+{
+    "id": "let-them-come",
+    "title": "Let Them Come!",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<br>Each time a Dwarf wins a skirmish against an Orc, discard that Orc. Discard this condition if a Dwarf loses a skirmish."
+}

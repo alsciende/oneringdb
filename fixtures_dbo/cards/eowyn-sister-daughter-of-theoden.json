@@ -1,0 +1,10 @@
+{
+    "id": "eowyn-sister-daughter-of-theoden",
+    "title": "\u00c9owyn",
+    "subtitle": "Sister-daughter of Theoden",
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Valiant.<\/keyword><br><keyword>Response:<\/keyword> If \u00c9owyn is exhausted and about to take a wound in a skirmish, discard 2 cards from hand to prevent that wound. "
+}

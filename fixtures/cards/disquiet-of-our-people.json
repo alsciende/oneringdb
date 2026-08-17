@@ -1,0 +1,9 @@
+{
+    "id": "disquiet-of-our-people",
+    "title": "Disquiet of Our People",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Exert a Dwarf to make that Dwarf <keyword>defender +1<\/keyword> (or <keyword>defender +2<\/keyword> if you spot an Orc) until the <keyword>regroup<\/keyword> phase. "
+}

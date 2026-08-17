@@ -1,0 +1,10 @@
+{
+    "id": "ithilien-wilderness",
+    "title": "Ithilien Wilderness",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

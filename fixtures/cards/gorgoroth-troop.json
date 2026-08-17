@@ -1,0 +1,9 @@
+{
+    "id": "gorgoroth-troop",
+    "title": "Gorgoroth Troop",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 6,
+    "type": "minion",
+    "text": "<keyword>Besieger.<\/keyword> <br><keyword>Skirmish:<\/keyword> Stack a besieger on a site you control to make Gorgoroth Troop strength +2."
+}

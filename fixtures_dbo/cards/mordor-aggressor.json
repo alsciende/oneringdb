@@ -1,0 +1,10 @@
+{
+    "id": "mordor-aggressor",
+    "title": "Mordor Aggressor",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "While this minion is bearing a possession, each <symbol>orc<\/symbol> minion is strength +2."
+}

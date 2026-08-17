@@ -1,0 +1,10 @@
+{
+    "id": "elendil-s-army",
+    "title": "Elendil's Army",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Follower",
+    "subtype": "",
+    "text": "<keyword>Aid<\/keyword> - Exert a <symbol>gondor<\/symbol> companion. <i>(At the start of the maneuver phase, you may exert a <\/i><symbol>gondor<\/symbol><i> companion to transfer this to a companion.)<\/i>"
+}

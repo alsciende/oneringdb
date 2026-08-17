@@ -1,0 +1,9 @@
+{
+    "id": "firefoot",
+    "title": "Firefoot",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>rohan<\/symbol> Man.<br>If bearer is Éomer, he is <keyword>defender +1.<\/keyword><br>At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. "
+}

@@ -1,0 +1,9 @@
+{
+    "id": "saruman-s-laboratory",
+    "title": "Saruman’s Laboratory",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 9,
+    "type": "site",
+    "text": "<keyword>Response:<\/keyword> If your minion is about to take a wound, discard 2 cards from hand to prevent that wound."
+}

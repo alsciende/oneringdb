@@ -1,0 +1,10 @@
+{
+    "id": "gimli-s-battle-axe-trusted-weapon",
+    "title": "Gimli's Battle Axe",
+    "subtitle": "Trusted Weapon",
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a Dwarf. <br>While you can spot a threat, bearer is <keyword>damage +1<\/keyword>. <br>While you can spot 2 threats, bearer is strength +1. <br>While you can spot 3 threats, the fellowship archery total is +1."
+}

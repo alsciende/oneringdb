@@ -1,0 +1,10 @@
+{
+    "id": "erland-dale-counselor",
+    "title": "Erland",
+    "subtitle": "Dale Counselor",
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "To play, spot a <symbol>gandalf<\/symbol> companion. <br><keyword>Skirmish:<\/keyword> Exert Erland to take a <symbol>gandalf<\/symbol> skirmish event from your discard pile into hand. "
+}

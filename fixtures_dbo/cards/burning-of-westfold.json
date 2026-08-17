@@ -1,0 +1,10 @@
+{
+    "id": "burning-of-westfold",
+    "title": "Burning of Westfold",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<br><keyword>Shadow:<\/keyword> If you control a site, play an Uruk-hai to discard a Free Peoples condition. "
+}

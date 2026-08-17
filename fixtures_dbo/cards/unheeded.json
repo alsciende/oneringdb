@@ -1,0 +1,10 @@
+{
+    "id": "unheeded",
+    "title": "Unheeded",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Response",
+    "text": "If a minion exerts, exert an unbound Hobbit to wound that minion."
+}

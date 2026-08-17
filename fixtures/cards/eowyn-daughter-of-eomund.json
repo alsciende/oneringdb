@@ -1,0 +1,9 @@
+{
+    "id": "eowyn-daughter-of-eomund",
+    "title": "Éowyn",
+    "subtitle": "Daughter of Éomund",
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Valiant.<\/keyword><br><keyword>Maneuver:<\/keyword> Play a <symbol>rohan<\/symbol> possession on Éowyn to heal her."
+}

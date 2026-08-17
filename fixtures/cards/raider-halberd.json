@@ -1,0 +1,9 @@
+{
+    "id": "raider-halberd",
+    "title": "Raider Halberd",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>raider<\/symbol> Man. <br><keyword>Skirmish:<\/keyword> Exert bearer to add <symbol>twilight2<\/symbol>."
+}

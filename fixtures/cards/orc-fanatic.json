@@ -1,0 +1,9 @@
+{
+    "id": "orc-fanatic",
+    "title": "Orc Fanatic",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Skirmish:<\/keyword> Discard this minion to make another <symbol>sauron<\/symbol> Orc strength +3."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "sauron-the-lord-of-the-rings",
+    "title": "Sauron",
+    "subtitle": "The Lord of the Rings",
+    "culture": "Sauron",
+    "twilight_cost": 18,
+    "type": "Minion",
+    "subtype": "Maia",
+    "text": "<keyword>Damage +2.<\/keyword> <keyword>Enduring.<\/keyword> <keyword>Fierce.<\/keyword> <br>For each burden you spot, threat you spot, and site you control, Sauron\u2019s twilight cost is \u20131. "
+}

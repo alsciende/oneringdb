@@ -1,0 +1,10 @@
+{
+    "id": "caravan-from-the-south",
+    "title": "Caravan From the South",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot a <symbol>men<\/symbol> minion.<br>When you play this, if you spot a plains site on the adventure path, reinforce 3 <symbol>men<\/symbol> tokens.<br>Each time the Free Peoples player plays the fellowship\u2019s next site, you may discard a possession from play."
+}

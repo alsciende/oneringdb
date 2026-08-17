@@ -1,0 +1,9 @@
+{
+    "id": "goblin-patrol-troop",
+    "title": "Goblin Patrol Troop",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 6,
+    "type": "minion",
+    "text": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": "elven-rope",
+    "title": "Elven Rope",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "",
+    "text": "To play, spot an Elf. Bearer must be an Elf or Hobbit. <br><keyword>Maneuver:<\/keyword> Discard this possession to make a Shadow player return a minion with strength 6 or less to its owner\u2019s hand. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "barbaric-uruk",
+    "title": "Barbaric Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1. <br>Assignment:<\/keyword> Make the Free Peoples player assign this minion to an unwounded companion."
+}

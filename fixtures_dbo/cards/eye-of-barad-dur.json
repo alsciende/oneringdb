@@ -1,0 +1,10 @@
+{
+    "id": "eye-of-barad-dur",
+    "title": "Eye of Barad-D\u00fbr",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Skirmish:<\/keyword> Make a companion or ally skirmishing a <symbol>sauron<\/symbol> Orc strength -1 for each Ring-bound companion. <br><keyword>Response:<\/keyword> If a Free Peoples player reveals this card from your hand, discard this card to add 2 burdens."
+}

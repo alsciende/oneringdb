@@ -1,0 +1,9 @@
+{
+    "id": "hobbit-party-guest",
+    "title": "Hobbit Party Guest",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "ally",
+    "text": "At the start of each of your turns, heal this ally.  <br><keyword>Fellowship:<\/keyword>Exert this ally to heal another Hobbit ally whose home is site 1."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "duty-of-two",
+    "title": "Duty of Two",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Add 3 threats to heal all <symbol>gondor<\/symbol> companions."
+}

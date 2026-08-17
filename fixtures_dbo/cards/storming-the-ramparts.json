@@ -1,0 +1,10 @@
+{
+    "id": "storming-the-ramparts",
+    "title": "Storming the Ramparts",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "<keyword>Toil 2.<\/keyword> <i>(For each<\/i> <symbol>orc<\/symbol> <i>character you exert when playing this, its twilight cost is \u20132.)<\/i> <br>Spot an <symbol>orc<\/symbol> minion to make the Free Peoples player discard one of his or her conditions from play."
+}

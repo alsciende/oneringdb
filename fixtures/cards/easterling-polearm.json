@@ -1,0 +1,9 @@
+{
+    "id": "easterling-polearm",
+    "title": "Easterling Polearm",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "Bearer must be an Easterling. While you can spot 2 burdens, bearer cannot take wounds. While you can spot 5 burdens, bearer is <keyword>damage +1<\/keyword>."
+}

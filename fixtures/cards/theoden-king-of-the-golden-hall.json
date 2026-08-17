@@ -1,0 +1,9 @@
+{
+    "id": "theoden-king-of-the-golden-hall",
+    "title": "Théoden",
+    "subtitle": "King of the Golden Hall",
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Valiant.<\/keyword><br><keyword>Maneuver:<\/keyword> Play a <symbol>rohan<\/symbol> possession on Théoden to heal a <symbol>rohan<\/symbol> ally."
+}

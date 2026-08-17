@@ -1,0 +1,10 @@
+{
+    "id": "bill-ferny-agent-of-saruman",
+    "title": "Bill Ferny",
+    "subtitle": "Agent of Saruman",
+    "culture": "Men",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "If Bill Ferny is unwounded, the Free Peoples player cannot assign him to skirmish a companion.<br><keyword>Shadow:<\/keyword> Exert Bill Ferny twice and spot a site you control to add <symbol>twilight2<\/symbol>."
+}

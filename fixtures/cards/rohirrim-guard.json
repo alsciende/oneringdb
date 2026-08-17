@@ -1,0 +1,9 @@
+{
+    "id": "rohirrim-guard",
+    "title": "Rohirrim Guard",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Skirmish:<\/keyword> Discard a card from hand to exert a minion skirmishing this companion."
+}

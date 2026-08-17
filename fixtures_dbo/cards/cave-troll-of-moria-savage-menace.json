@@ -1,0 +1,10 @@
+{
+    "id": "cave-troll-of-moria-savage-menace",
+    "title": "Cave Troll of Moria",
+    "subtitle": "Savage Menace",
+    "culture": "Orc",
+    "twilight_cost": 12,
+    "type": "Minion",
+    "subtype": "Troll",
+    "text": "<keyword>Damage +1. Fierce. Toil 2.<\/keyword> <i>(For each <\/i><symbol>orc<\/symbol><i> character you exert when playing this, its twilight cost is \u20132.)<\/i> <br>Each time an <symbol>orc<\/symbol> lurker wins a skirmish, you may make the Free Peoples player discard the top 2 cards of his or her draw deck."
+}

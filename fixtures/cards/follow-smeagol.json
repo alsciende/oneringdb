@@ -1,0 +1,9 @@
+{
+    "id": "follow-smeagol",
+    "title": "Follow Sméagol",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "Plays on Sméagol. <br><keyword>Regroup:<\/keyword> Exert Sméagol or Gollum to play the fellowship’s next site (replacing opponent’s site if necessary)."
+}

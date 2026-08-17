@@ -1,0 +1,10 @@
+{
+    "id": "frenzy",
+    "title": "Frenzy",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Assignment:<\/keyword> Assign an exhausted companion (except the Ring-bearer) to skirmish a <symbol>moria<\/symbol> Orc."
+}

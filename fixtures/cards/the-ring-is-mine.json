@@ -1,0 +1,9 @@
+{
+    "id": "the-ring-is-mine",
+    "title": "The Ring is Mine!",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "If a burden is added, spot a <symbol>sauron<\/symbol> minion to add an additional burden."
+}

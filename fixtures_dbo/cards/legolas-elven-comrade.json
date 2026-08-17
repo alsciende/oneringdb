@@ -1,0 +1,10 @@
+{
+    "id": "legolas-elven-comrade",
+    "title": "Legolas",
+    "subtitle": "Elven Comrade",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": ""
+}

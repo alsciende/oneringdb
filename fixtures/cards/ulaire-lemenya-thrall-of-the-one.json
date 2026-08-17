@@ -1,0 +1,9 @@
+{
+    "id": "ulaire-lemenya-thrall-of-the-one",
+    "title": "Úlairë Lemenya",
+    "subtitle": "Thrall of The One",
+    "culture": "wraith",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Enduring.<\/keyword> <keyword>Fierce.<\/keyword> <br>Shadow cards cannot exert Úlairë Lemenya during a skirmish phase. <br><keyword>Skirmish:<\/keyword> Heal Úlairë Lemenya to wound up to 3 other <symbol>wraith<\/symbol> minions. "
+}

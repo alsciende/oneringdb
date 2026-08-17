@@ -1,0 +1,9 @@
+{
+    "id": "turn-of-the-tide",
+    "title": "Turn of the Tide",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 3,
+    "type": "event",
+    "text": "<keyword>Spell.<\/keyword><br><keyword>Maneuver:<\/keyword> Exert Gandalf to discard up to 2 Shadow possessions. Any Shadow player may discard a minion to prevent this."
+}

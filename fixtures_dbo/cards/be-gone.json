@@ -1,0 +1,10 @@
+{
+    "id": "be-gone",
+    "title": "Be Gone!",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "<keyword>Spell<\/keyword>. Exert your <symbol>gandalf<\/symbol> companion X times to make a minion strength -2 until the regroup phase, for each time that <symbol>gandalf<\/symbol> companion exerted."
+}

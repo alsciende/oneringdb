@@ -1,0 +1,10 @@
+{
+    "id": "hunting-uruk",
+    "title": "Hunting Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "While this minion is at a battleground site, he gains <keyword>hunter 1<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +1.)<\/i>"
+}

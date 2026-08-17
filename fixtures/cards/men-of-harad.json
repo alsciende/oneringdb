@@ -1,0 +1,9 @@
+{
+    "id": "men-of-harad",
+    "title": "Men of Harad",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "Plays to your support area.<br><keyword>Shadow:<\/keyword> Spot a site you control, spot 3 Southrons, and remove <symbol>twilight2<\/symbol> to draw a card. "
+}

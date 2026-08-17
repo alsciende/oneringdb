@@ -1,0 +1,10 @@
+{
+    "id": "asfaloth-elven-steed",
+    "title": "Asfaloth",
+    "subtitle": "Elven Steed",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Mount",
+    "text": "Bearer must be an Elf. <br><keyword>Skirmish:<\/keyword> If bearer is Arwen, exert her to make each minion skirmishing her strength \u20132."
+}

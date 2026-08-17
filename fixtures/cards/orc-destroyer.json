@@ -1,0 +1,9 @@
+{
+    "id": "orc-destroyer",
+    "title": "Orc Destroyer",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Shadow:<\/keyword> Remove <symbol>twilight3<\/symbol> and spot 3 <symbol>sauron<\/symbol> Orcs to draw a card."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "southron-fighter",
+    "title": "Southron Fighter",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Southron.<\/keyword> <keyword>Ambush<\/keyword> <symbol>twilight1<\/symbol>.  <br><keyword>Maneuver:<\/keyword> Exert this minion and spot 5 companions to make the Free Peoples player exert a companion. "
+}

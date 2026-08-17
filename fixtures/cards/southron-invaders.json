@@ -1,0 +1,9 @@
+{
+    "id": "southron-invaders",
+    "title": "Southron Invaders",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 5,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <keyword>Ambush<\/keyword><symbol>twilight1<\/symbol><keyword>.<\/keyword> When you play this minion, you may spot another Southron to play a minion with ambush from your discard pile."
+}

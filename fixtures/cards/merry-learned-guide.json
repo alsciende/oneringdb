@@ -1,0 +1,9 @@
+{
+    "id": "merry-learned-guide",
+    "title": "Merry",
+    "subtitle": "Learned Guide",
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "companion",
+    "text": "<keyword>Skirmish:<\/keyword> Exert the Ring-bearer to discard Merry.  Any Shadow player may remove <symbol>twilight2<\/symbol> to prevent this. "
+}

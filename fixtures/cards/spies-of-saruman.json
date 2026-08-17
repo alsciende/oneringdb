@@ -1,0 +1,9 @@
+{
+    "id": "spies-of-saruman",
+    "title": "Spies of Saruman",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "To play, exert a <symbol>isengard<\/symbol> minion. Plays on a site.  <br>While the fellowship is at this site, skip the archery phase. Discard this condition at the end of the turn."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "gandalf-the-white-wizard",
+    "title": "Gandalf",
+    "subtitle": "The White Wizard",
+    "culture": "gandalf",
+    "twilight_cost": 4,
+    "type": "companion",
+    "text": ""
+}

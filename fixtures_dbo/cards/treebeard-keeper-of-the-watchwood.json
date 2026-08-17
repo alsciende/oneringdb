@@ -1,0 +1,10 @@
+{
+    "id": "treebeard-keeper-of-the-watchwood",
+    "title": "Treebeard",
+    "subtitle": "Keeper of the Watchwood",
+    "culture": "Gandalf",
+    "twilight_cost": 5,
+    "type": "Companion",
+    "subtype": "Ent",
+    "text": "To play, spot 3 <symbol>gandalf<\/symbol> companions. <br><keyword>Regroup:<\/keyword>  Exert Treebeard twice to play a <symbol>gandalf<\/symbol> condition from your discard pile and make an opponent discard one of his or her conditions. "
+}

@@ -1,0 +1,9 @@
+{
+    "id": "gondor-bow",
+    "title": "Gondor Bow",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man. <br>If bearer is a knight, he or she is strength +1. <br><keyword>Skirmish:<\/keyword> Exert bearer to wound a minion he or she is skirmishing if that minion bears a <keyword>Fortification.<\/keyword>"
+}

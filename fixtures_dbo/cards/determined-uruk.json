@@ -1,0 +1,10 @@
+{
+    "id": "determined-uruk",
+    "title": "Determined Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "To play, spot a <symbol>urukhai<\/symbol> minion. <br>Each time a companion exerts, you may draw a card."
+}

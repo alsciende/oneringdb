@@ -1,0 +1,9 @@
+{
+    "id": "death-they-cried",
+    "title": "Death They Cried",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "Spot a mounted <symbol>rohan<\/symbol> Man to exert a minion. That minion’s owner may exert a companion and if he or she does so, you may exert a minion; repeat this until a player does not exert a character."
+}

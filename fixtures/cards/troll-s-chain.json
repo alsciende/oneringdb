@@ -1,0 +1,9 @@
+{
+    "id": "troll-s-chain",
+    "title": "Troll’s Chain",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>sauron<\/symbol> Troll. When you play this possession, you may draw a card."
+}

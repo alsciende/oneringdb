@@ -1,0 +1,10 @@
+{
+    "id": "ring-of-guile",
+    "title": "Ring of Guile",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 0,
+    "type": "Artifact",
+    "subtype": "Ring",
+    "text": "Bearer must be a Dwarf. <br>Bearer is <keyword>damage +1.<\/keyword> <br><keyword>Maneuver:<\/keyword> Take a <symbol>dwarven<\/symbol> event into hand from your discard pile. Discard this artifact. "
+}

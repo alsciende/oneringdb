@@ -1,0 +1,9 @@
+{
+    "id": "some-who-resisted",
+    "title": "Some Who Resisted",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Tale.<\/keyword>  <br><keyword>Maneuver:<\/keyword> Spot a <symbol>gondor<\/symbol> companion to make the twilight cost of each maneuver event +2. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "glorfindel-eldarin-lord",
+    "title": "Glorfindel",
+    "subtitle": "Eldarin Lord",
+    "culture": "Elven",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "<keyword>Ranger.<\/keyword> To play, spot 2 <symbol>elven<\/symbol> companions.<br>Minions skirmishing Glorfindel cannot gain strength bonuses from possessions.<br>Each time Glorfindel wins a skirmish, you may remove a threat."
+}

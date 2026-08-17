@@ -1,0 +1,10 @@
+{
+    "id": "they-came-from-mordor",
+    "title": "They Came From Mordor",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "When you play this, you may add a <symbol>wraith<\/symbol> token here for each <symbol>wraith<\/symbol> card in your support area.<br><keyword>Shadow:<\/keyword> Discard this from play or remove 2 tokens from here to play a <symbol>wraith<\/symbol> mount from your draw deck on your <symbol>wraith<\/symbol> minion."
+}

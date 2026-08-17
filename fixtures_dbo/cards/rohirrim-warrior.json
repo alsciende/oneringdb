@@ -1,0 +1,10 @@
+{
+    "id": "rohirrim-warrior",
+    "title": "Rohirrim Warrior",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Valiant.<\/keyword><br>At the start of the maneuver phase, you may spot a hunter minion (or exert 2 valiant Men) to make this companion <keyword>defender +1<\/keyword> until the regroup phase."
+}

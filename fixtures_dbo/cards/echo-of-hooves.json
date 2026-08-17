@@ -1,0 +1,10 @@
+{
+    "id": "echo-of-hooves",
+    "title": "Echo of Hooves",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "<keyword>Toil 2.<\/keyword> <i>(For each<\/i> <symbol>wraith<\/symbol> <i>character you exert when playing this, its twilight cost is \u20132.)<\/i> <br>Spot your Nazg\u00fbl at a battleground or forest site to play a mount on him from your draw deck."
+}

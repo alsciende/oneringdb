@@ -1,0 +1,9 @@
+{
+    "id": "orc-slayer",
+    "title": "Orc Slayer",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "minion",
+    "text": "<keyword>Regroup:<\/keyword> Exert this minion to wound a companion (except the Ring-bearer). "
+}

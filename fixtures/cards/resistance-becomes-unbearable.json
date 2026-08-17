@@ -1,0 +1,9 @@
+{
+    "id": "resistance-becomes-unbearable",
+    "title": "Resistance Becomes Unbearable",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Exert a twilight Nazgûl to exert the Ring-bearer.  <br>If the Ring-bearer is then exhausted, he puts on The One Ring until the <keyword>regroup<\/keyword> phase. "
+}

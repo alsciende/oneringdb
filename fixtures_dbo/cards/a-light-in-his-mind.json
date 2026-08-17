@@ -1,0 +1,10 @@
+{
+    "id": "a-light-in-his-mind",
+    "title": "A Light in His Mind",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time you lose initiative, you may spot 2 <symbol>shire<\/symbol> companions to remove a burden. "
+}

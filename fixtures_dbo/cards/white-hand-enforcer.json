@@ -1,0 +1,10 @@
+{
+    "id": "white-hand-enforcer",
+    "title": "White Hand Enforcer",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword><br>When you play this minion, you may liberate a site to add <symbol>twilightX<\/symbol>, where X is the Shadow number of the liberated site. "
+}

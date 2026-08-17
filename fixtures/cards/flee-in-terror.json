@@ -1,0 +1,9 @@
+{
+    "id": "flee-in-terror",
+    "title": "Flee in Terror",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Response:<\/keyword> If a <symbol>gondor<\/symbol> companion wins a skirmish, discard an exhausted Orc. <br>That minion’s owner may remove <symbol>twilight3<\/symbol> to prevent this. "
+}

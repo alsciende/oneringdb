@@ -1,0 +1,10 @@
+{
+    "id": "traitor-s-voice",
+    "title": "Traitor's Voice",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<keyword>Search.<\/keyword> To play, spot an Uruk-hai. <br>While the Ring-bearer is exhausted or you can spot 5 burdens, the move limit for this turn is -1 (to a minimum of 1)."
+}

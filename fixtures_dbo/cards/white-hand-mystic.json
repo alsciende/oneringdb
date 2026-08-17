@@ -1,0 +1,10 @@
+{
+    "id": "white-hand-mystic",
+    "title": "White Hand Mystic",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword><br><keyword>Response:<\/keyword> If an <symbol>urukhai<\/symbol> minion is about to take a wound, exert this minion to prevent that wound."
+}

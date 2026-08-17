@@ -1,0 +1,10 @@
+{
+    "id": "sharp-defense",
+    "title": "Sharp Defense",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make a Dwarf strength +2 (or +2 for each possession he bears if he has resistance 4 or more)."
+}

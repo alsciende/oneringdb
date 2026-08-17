@@ -1,0 +1,9 @@
+{
+    "id": "we-must-go-warily",
+    "title": "We Must Go Warily",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Response:<\/keyword> If the fellowship moves in the regroup phase, exert a <symbol>gondor<\/symbol> companion twice to make each minion’s twilight cost +1 until the next regroup phase."
+}

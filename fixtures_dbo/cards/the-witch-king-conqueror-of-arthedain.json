@@ -1,0 +1,10 @@
+{
+    "id": "the-witch-king-conqueror-of-arthedain",
+    "title": "The Witch-king",
+    "subtitle": "Conqueror of Arthedain",
+    "culture": "Wraith",
+    "twilight_cost": 8,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Fierce.<\/keyword><br>Each time the Witch-king wins a fierce skirmish, you may exert a companion for each companion you can spot over 4."
+}

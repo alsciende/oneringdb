@@ -1,0 +1,10 @@
+{
+    "id": "rally-the-host",
+    "title": "Rally the Host",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot 2 <symbol>sauron<\/symbol> Orcs. <br><keyword>Regroup:<\/keyword> Exert a <symbol>sauron<\/symbol> Orc and remove a threat to shuffle a <symbol>sauron<\/symbol> Orc from play into your draw deck."
+}

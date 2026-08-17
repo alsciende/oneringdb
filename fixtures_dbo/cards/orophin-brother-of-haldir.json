@@ -1,0 +1,10 @@
+{
+    "id": "orophin-brother-of-haldir",
+    "title": "Orophin",
+    "subtitle": "Brother of Haldir",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "While Orophin is at a forest site and you can spot another Elf, Orophin is an <keyword>archer.<\/keyword>"
+}

@@ -1,0 +1,10 @@
+{
+    "id": "long-live-the-halflings",
+    "title": "Long Live the Halflings",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot a Hobbit.  <br><keyword>Skirmish:<\/keyword> If your Ring-bearer is assigned to a skirmish, discard this condition to make each companion who has resistance 7 or more strength +2 until the regroup phase."
+}

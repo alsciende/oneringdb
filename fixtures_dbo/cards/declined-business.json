@@ -1,0 +1,10 @@
+{
+    "id": "declined-business",
+    "title": "Declined Business",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Response",
+    "text": "If the Free Peoples player plays a companion, discard a <symbol>men<\/symbol> card from hand to return that companion to its owner's hand. "
+}

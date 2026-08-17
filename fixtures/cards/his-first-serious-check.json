@@ -1,0 +1,9 @@
+{
+    "id": "his-first-serious-check",
+    "title": "His First Serious Check",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Spot Gandalf to reveal a card at random from an opponent’s hand.  You may add <symbol>twilightX<\/symbol> to discard that card, where X is the twilight cost of the card revealed. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "elven-armaments",
+    "title": "Elven Armaments",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "To play, bearer must not be bearing any possessions.<br>Bearer must be an <symbol>elven<\/symbol> companion. Bearer cannot bear any other possessions.<br>While a unique companion bears this possession, skip the archery phase."
+}

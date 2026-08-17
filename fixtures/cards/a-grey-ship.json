@@ -1,0 +1,9 @@
+{
+    "id": "a-grey-ship",
+    "title": "A Grey Ship",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "Spot an Elf companion and make the fellowship archery total –X (to a minimum of 0) to heal X unbound companions. You may not use archery special abilities."
+}

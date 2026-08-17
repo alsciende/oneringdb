@@ -1,0 +1,10 @@
+{
+    "id": "armored-easterlings",
+    "title": "Armored Easterlings",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Skirmish:<\/keyword> Remove <symbol>twilight2<\/symbol> to make a lurker strength +1. <br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight2<\/symbol> to make a lurker fierce until the regroup phase. <br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight2<\/symbol> to make a lurker <keyword>Damage +1.<\/keyword> "
+}

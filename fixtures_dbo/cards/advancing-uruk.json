@@ -1,0 +1,10 @@
+{
+    "id": "advancing-uruk",
+    "title": "Advancing Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1. Muster.<\/keyword> <i>(At the start of the regroup phase, you may discard a card from hand to draw a card.)<\/i> <br>When you cannot spot another <symbol>urukhai<\/symbol>\u00a0minion, discard this minion."
+}

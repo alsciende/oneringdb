@@ -1,0 +1,9 @@
+{
+    "id": "curse-them",
+    "title": "Curse Them",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Exert a Ring-bound Man to cancel a skirmish involving a roaming minion. "
+}

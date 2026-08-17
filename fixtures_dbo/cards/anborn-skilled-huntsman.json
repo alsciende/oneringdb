@@ -1,0 +1,10 @@
+{
+    "id": "anborn-skilled-huntsman",
+    "title": "Anborn",
+    "subtitle": "Skilled Huntsman",
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": ""
+}

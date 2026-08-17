@@ -1,0 +1,10 @@
+{
+    "id": "hall-of-our-fathers",
+    "title": "Hall of Our Fathers",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "When you play this condition, stack the top 8 cards of your draw deck here. At the start of your maneuver phase, you may spot a Dwarf to exchange the cards stacked here with your hand. "
+}

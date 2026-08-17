@@ -1,0 +1,9 @@
+{
+    "id": "hard-choice",
+    "title": "Hard Choice",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Fellowship:<\/keyword> Spot Aragorn to heal a companion who has the Aragorn signet twice. "
+}

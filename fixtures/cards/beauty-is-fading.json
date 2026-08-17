@@ -1,0 +1,9 @@
+{
+    "id": "beauty-is-fading",
+    "title": "Beauty Is Fading",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 5,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Exert a Nazgûl to discard a Free Peoples possession or Free Peoples condition. If you can spot no such card, discard an ally or companion (except the Ring-bearer) instead."
+}

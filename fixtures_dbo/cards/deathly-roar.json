@@ -1,0 +1,10 @@
+{
+    "id": "deathly-roar",
+    "title": "Deathly Roar",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time the Free Peoples player plays a possession or artifact, place a <symbol>urukhai<\/symbol> token here.<br>Each time an <symbol>urukhai<\/symbol> minion wins a skirmish, you may remove an <symbol>urukhai<\/symbol> token to exert a companion."
+}

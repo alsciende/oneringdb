@@ -1,0 +1,10 @@
+{
+    "id": "ranger-of-the-north",
+    "title": "Ranger of the North",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man.<br><keyword>Maneuver:<\/keyword> If the fellowship is in region 1 or region 2, you may exert bearer to make him or her <keyword>defender +1<\/keyword>.<br><keyword>Regroup:<\/keyword> Discard this to heal a companion."
+}

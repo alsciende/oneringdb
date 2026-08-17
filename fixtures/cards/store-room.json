@@ -1,0 +1,9 @@
+{
+    "id": "store-room",
+    "title": "Store-room",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Heal an unbound Hobbit once (or twice if you spot Gandalf). "
+}

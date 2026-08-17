@@ -1,0 +1,9 @@
+{
+    "id": "melilot-brandybuck-merry-dancer",
+    "title": "Melilot Brandybuck",
+    "subtitle": "Merry Dancer",
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "ally",
+    "text": "<keyword>Response:<\/keyword> If a burden is about to be added by a Shadow card, exert Melilot Brandybuck to prevent that burden. "
+}

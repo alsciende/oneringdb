@@ -1,0 +1,9 @@
+{
+    "id": "haradwaith",
+    "title": "Haradwaith",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "While you can spot a <symbol>raider<\/symbol> minion at site 4<symbol>king<\/symbol>, you have initiative, regardless of the Free Peoples player’s hand. <br><keyword>Response:<\/keyword> If a companion is played, discard this condition and a <symbol>raider<\/symbol> card from hand to add <symbol>twilight5<\/symbol>."
+}

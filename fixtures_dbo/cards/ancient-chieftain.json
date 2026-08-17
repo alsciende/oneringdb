@@ -1,0 +1,10 @@
+{
+    "id": "ancient-chieftain",
+    "title": "Ancient Chieftain",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "For each other <symbol>moria<\/symbol> Orc you can spot, Ancient Chieftain is strength +1."
+}

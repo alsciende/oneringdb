@@ -1,0 +1,9 @@
+{
+    "id": "new-fear",
+    "title": "New Fear",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 4,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Exert a <symbol>raider<\/symbol> Man to add a burden for each companion over 4. The Free Peoples player may discard 2 companions (except the Ring-bearer) to prevent this. "
+}

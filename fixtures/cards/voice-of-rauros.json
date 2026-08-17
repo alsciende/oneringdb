@@ -1,0 +1,9 @@
+{
+    "id": "voice-of-rauros",
+    "title": "Voice of Rauros",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Exert Aragorn to make each companion with the Aragorn signet <keyword>damage +1<\/keyword> until the regroup phase. "
+}

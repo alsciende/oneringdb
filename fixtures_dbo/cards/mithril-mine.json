@@ -1,0 +1,10 @@
+{
+    "id": "mithril-mine",
+    "title": "Mithril Mine",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 3,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Underground.<\/keyword> <keyword>Shadow:<\/keyword> Remove <symbol>twilight1<\/symbol> to play a Shadow weapon from your discard pile."
+}

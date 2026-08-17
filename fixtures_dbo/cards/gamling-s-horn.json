@@ -1,0 +1,10 @@
+{
+    "id": "gamling-s-horn",
+    "title": "Gamling's Horn",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 0,
+    "type": "Possession",
+    "subtype": "",
+    "text": "Bearer must be a <symbol>rohan<\/symbol> Man or Merry.<br><keyword>Skirmish:<\/keyword> Discard a follower from play to make bearer strength +4. If bearer is Gamling, you may also spot another companion to make him or her strength +4 until the regroup phase."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "gorgoroth-breaker",
+    "title": "Gorgoroth Breaker",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Besieger.<\/keyword> <br><keyword>Archery:<\/keyword> Exert this minion or stack it on a site you control to make the fellowship archery total \u20132."
+}

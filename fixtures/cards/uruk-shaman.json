@@ -1,0 +1,9 @@
+{
+    "id": "uruk-shaman",
+    "title": "Uruk Shaman",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Damage +1<\/keyword>.  <br><keyword>Maneuver:<\/keyword> Remove <symbol>twilight2<\/symbol> to heal an Uruk-hai."
+}

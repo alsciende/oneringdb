@@ -1,0 +1,10 @@
+{
+    "id": "ulaire-nelya-fell-rider",
+    "title": "\u00dalair\u00eb Nelya",
+    "subtitle": "Fell Rider",
+    "culture": "Wraith",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Fierce.<\/keyword><br>While you can spot 6 companions, <symbol>wraith<\/symbol> minions cannot take wounds (except during skirmish phases).<br><keyword>Skirmish:<\/keyword> If this minion is mounted, exert him twice to wound a companion bearing a <symbol>wraith<\/symbol> condition."
+}

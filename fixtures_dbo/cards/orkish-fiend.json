@@ -1,0 +1,10 @@
+{
+    "id": "orkish-fiend",
+    "title": "Orkish Fiend",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 8,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "To play, spot an<symbol>orc<\/symbol>Orc.<br>While at an underground site, this minion is <keyword>fierce<\/keyword> and the Free Peoples player may not replace sites or play a site from his or her adventure deck."
+}

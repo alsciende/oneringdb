@@ -1,0 +1,9 @@
+{
+    "id": "gothmog-morgul-commander",
+    "title": "Gothmog",
+    "subtitle": "Morgul Commander",
+    "culture": "wraith",
+    "twilight_cost": 7,
+    "type": "minion",
+    "text": "While you have initiative, each <symbol>wraith<\/symbol> minion is an archer."
+}

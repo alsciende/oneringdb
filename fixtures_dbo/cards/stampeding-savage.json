@@ -1,0 +1,10 @@
+{
+    "id": "stampeding-savage",
+    "title": "Stampeding Savage",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Maneuver:<\/keyword> Discard this minion and X minions stacked on a <symbol>men<\/symbol> possession to play a <symbol>men<\/symbol> minion from your discard pile. That minion is twilight cost -X."
+}

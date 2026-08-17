@@ -1,0 +1,9 @@
+{
+    "id": "the-master-s-will",
+    "title": "The Master's Will",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Search.<\/keyword>  <br><keyword>Shadow:<\/keyword> Spot X Nazgûl to reveal the top X cards of your draw deck. Take into your hand all <symbol>wraith<\/symbol> cards revealed and discard the rest."
+}

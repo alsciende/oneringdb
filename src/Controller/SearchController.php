@@ -26,7 +26,7 @@ class SearchController extends AbstractController implements LoggerAwareInterfac
 
     public function __construct(
         private readonly CardRepository $cardRepository,
-        public readonly SyntaxEncoder $encoder
+        public readonly SyntaxEncoder $encoder,
     ) {
     }
 

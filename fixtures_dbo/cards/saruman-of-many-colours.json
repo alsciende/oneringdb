@@ -1,0 +1,10 @@
+{
+    "id": "saruman-of-many-colours",
+    "title": "Saruman",
+    "subtitle": "Of Many Colours",
+    "culture": "Isengard",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Wizard",
+    "text": "<keyword>Damage +1. Fierce. Lurker.<\/keyword> <i>(Skirmishes involving lurker minions must be resolved after any others.)<\/i> When you play Saruman, name a culture.  Each companion of the named culture is strength \u20131."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "too-long-have-these-peasants-stood",
+    "title": "Too Long Have These Peasants Stood",
+    "subtitle": null,
+    "culture": "dunland",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "<keyword>Response:<\/keyword> If a <symbol>dunland<\/symbol> Man wins a skirmish, discard all conditions."
+}

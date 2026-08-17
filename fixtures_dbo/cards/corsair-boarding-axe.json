@@ -1,0 +1,10 @@
+{
+    "id": "corsair-boarding-axe",
+    "title": "Corsair Boarding Axe",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a <symbol>men<\/symbol> minion.<br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight3<\/symbol> to reinforce a <symbol>men<\/symbol> token and make bearer <keyword>fierce<\/keyword> until the regroup phase."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "axe-of-erebor",
+    "title": "Axe of Erebor",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be Gimli. <br>He is <keyword>damage +1.<\/keyword> <br><keyword>Skirmish:<\/keyword> Discard a <symbol>dwarven<\/symbol> condition or a card stacked on a <symbol>dwarven<\/symbol> condition to make Gimli strength +1. "
+}

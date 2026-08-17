@@ -1,0 +1,9 @@
+{
+    "id": "called-away",
+    "title": "Called Away",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "<keyword>Regroup:<\/keyword> Discard a <symbol>sauron<\/symbol> minion, spot a companion (except the Ring-bearer), and remove X burdens, where X is that companion's vitality, to return that companion to its owner's hand."
+}

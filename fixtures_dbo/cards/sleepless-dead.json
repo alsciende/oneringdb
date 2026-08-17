@@ -1,0 +1,10 @@
+{
+    "id": "sleepless-dead",
+    "title": "Sleepless Dead",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Wraith",
+    "text": "<keyword>Enduring.<\/keyword> To play, add a threat. <br>Each time this companion wins a skirmish, you may exert him to discard a minion he is skirmishing."
+}

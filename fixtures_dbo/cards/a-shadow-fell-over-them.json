@@ -1,0 +1,10 @@
+{
+    "id": "a-shadow-fell-over-them",
+    "title": "A Shadow Fell Over Them",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time a Nazg\u00fbl wins a skirmish, you may exert 2 Nazg\u00fbl (or a Nazg\u00fbl twice) to add a threat.<br><keyword>Assignment:<\/keyword> Spot a Nazg\u00fbl and remove <symbol>twilight4<\/symbol> to play a Nazg\u00fbl from your discard pile."
+}

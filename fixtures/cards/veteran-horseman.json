@@ -1,0 +1,9 @@
+{
+    "id": "veteran-horseman",
+    "title": "Veteran Horseman",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Skirmish:<\/keyword> Exert this companion to make him strength +1 for each mounted companion you spot."
+}

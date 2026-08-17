@@ -1,0 +1,10 @@
+{
+    "id": "later-than-you-think",
+    "title": "Later Than You Think",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Remove 2 threats to play a Nazg\u00fbl. That Nazg\u00fbl is twilight cost \u20132 and gains <keyword>hunter\u00a02<\/keyword> until the start of the regroup phase."
+}

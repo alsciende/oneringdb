@@ -1,0 +1,10 @@
+{
+    "id": "king-of-the-dead-oathbreaker",
+    "title": "King of the Dead",
+    "subtitle": "Oathbreaker",
+    "culture": "Gondor",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Wraith",
+    "text": "<keyword>Enduring.<\/keyword> To play, spot a <symbol>gondor<\/symbol> Wraith and add 2 threats. <br><keyword>Response:<\/keyword> If Aragorn is about to take a wound in a skirmish, exert King of the Dead to prevent that wound."
+}

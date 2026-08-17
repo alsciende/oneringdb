@@ -1,0 +1,10 @@
+{
+    "id": "troll-s-keyward",
+    "title": "Troll\u2019s Keyward",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Cave Troll of Moria\u2019s twilight cost is -2."
+}

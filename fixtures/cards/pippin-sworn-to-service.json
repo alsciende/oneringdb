@@ -1,0 +1,9 @@
+{
+    "id": "pippin-sworn-to-service",
+    "title": "Pippin",
+    "subtitle": "Sworn to Service",
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "companion",
+    "text": "While you cannot spot 4 threats, Pippin is strength +1 for each threat you can spot."
+}

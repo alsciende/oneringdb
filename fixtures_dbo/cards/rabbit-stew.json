@@ -1,0 +1,10 @@
+{
+    "id": "rabbit-stew",
+    "title": "Rabbit Stew",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": "Bearer must be a <symbol>shire<\/symbol> companion.<br> Each time bearer wins a skirmish, you may transfer this condition to a fellowship companion. Each time this condition is transferred to a companion, heal that companion."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "harrying-hillman",
+    "title": "Harrying Hillman",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Lurker.<\/keyword> <i>(Skirmishes involving lurker minions must be resolved after any others.)<\/i> <br>Each time a companion loses a skirmish involving a <symbol>men<\/symbol> minion, add <symbol>twilight2<\/symbol>."
+}

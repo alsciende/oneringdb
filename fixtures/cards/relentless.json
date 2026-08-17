@@ -1,0 +1,9 @@
+{
+    "id": "relentless",
+    "title": "Relentless",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Search.<\/keyword>  <br><keyword>Response:<\/keyword> If a stealth event is played, spot 3 <symbol>moria<\/symbol> minions to cancel that event."
+}

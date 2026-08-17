@@ -1,0 +1,9 @@
+{
+    "id": "legolas-nimble-warrior",
+    "title": "Legolas",
+    "subtitle": "Nimble Warrior",
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Archer.<\/keyword> <br><keyword>Archery:<\/keyword> If you cannot spot a threat, add a threat to make the fellowship archery total +1."
+}

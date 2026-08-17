@@ -1,0 +1,9 @@
+{
+    "id": "galadriel-lady-of-light",
+    "title": "Galadriel",
+    "subtitle": "Lady of Light",
+    "culture": "elven",
+    "twilight_cost": 3,
+    "type": "ally",
+    "text": "At the start of each of your turns, heal every ally whose home is site 6. <br><keyword>Fellowship:<\/keyword> Exert Galadriel to play an Elf for free."
+}

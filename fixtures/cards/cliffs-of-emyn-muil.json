@@ -1,0 +1,9 @@
+{
+    "id": "cliffs-of-emyn-muil",
+    "title": "Cliffs of Emyn Muil",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "Plays to your support area.<br>When the fellowship moves from site 1<symbol>tower<\/symbol>, remove up to 2 burdens.<br><keyword>Skirmish:<\/keyword> Discard this condition to wound a minion a Hobbit companion is skirmishing. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "southron-bandit",
+    "title": "Southron Bandit",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Southron.<\/keyword> <br><keyword>Maneuver:<\/keyword> Exert this minion to add <symbol>twilight5<\/symbol>. The Free Peoples player may add a threat to prevent this."
+}

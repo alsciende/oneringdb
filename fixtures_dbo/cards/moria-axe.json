@@ -1,0 +1,10 @@
+{
+    "id": "moria-axe",
+    "title": "Moria Axe",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a <symbol>moria<\/symbol> Orc.  <br>Bearer is <keyword>damage +1.<\/keyword>  <br><keyword>Skirmish:<\/keyword> Exert bearer to make him strength +2."
+}

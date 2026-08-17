@@ -1,0 +1,10 @@
+{
+    "id": "web",
+    "title": "Web",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Support Area",
+    "text": "<keyword>Regroup:<\/keyword> If there are fewer than 3 cards stacked here, spot your Orc or <symbol>gollum<\/symbol> minion to stack that minion here. <br><keyword>Shadow:<\/keyword> Play a <symbol>gollum<\/symbol> minion stacked here as if played from hand."
+}

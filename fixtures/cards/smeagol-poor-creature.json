@@ -1,0 +1,9 @@
+{
+    "id": "smeagol-poor-creature",
+    "title": "Sméagol",
+    "subtitle": "Poor Creature",
+    "culture": "gollum",
+    "twilight_cost": 0,
+    "type": "companion",
+    "text": "<keyword>Ring-bound.<\/keyword> To play, add a burden. <keyword>Skirmish:<\/keyword> Discard a card from hand to make Sméagol strength +1."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "orc-warrior",
+    "title": "Orc Warrior",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Maneuver:<\/keyword> Exert this minion and discard your <symbol>sauron<\/symbol> condition to make the Free Peoples player discard the top 2 cards from his or her draw deck. "
+}

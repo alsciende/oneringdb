@@ -1,0 +1,10 @@
+{
+    "id": "careful-study",
+    "title": "Careful Study",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Regroup",
+    "text": "Spot an Elf and discard 3 cards from hand to reconcile your hand."
+}

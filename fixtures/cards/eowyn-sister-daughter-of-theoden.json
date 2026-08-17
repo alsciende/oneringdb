@@ -1,0 +1,9 @@
+{
+    "id": "eowyn-sister-daughter-of-theoden",
+    "title": "Éowyn",
+    "subtitle": "Sister-daughter of Théoden",
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Valiant.<\/keyword><br><keyword>Response:<\/keyword> If Éowyn is exhausted and about to take a wound in a skirmish, discard 2 cards from hand to prevent that wound. "
+}

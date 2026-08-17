@@ -1,0 +1,10 @@
+{
+    "id": "fallen-lord",
+    "title": "Fallen Lord",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Exert the Ring-bearer and a Dwarf to make that Dwarf strength +X, where X equals that Dwarf's resistance. "
+}

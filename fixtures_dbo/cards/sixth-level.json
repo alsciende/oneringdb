@@ -1,0 +1,10 @@
+{
+    "id": "sixth-level",
+    "title": "Sixth Level",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Fortification.<\/keyword> <br><keyword>Regroup:<\/keyword> Exert a <symbol>gondor<\/symbol> Man to play a <symbol>gondor<\/symbol> fortification from your discard pile (limit 1)."
+}

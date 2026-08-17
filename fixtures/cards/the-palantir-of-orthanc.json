@@ -1,0 +1,9 @@
+{
+    "id": "the-palantir-of-orthanc",
+    "title": "The Palantír of Orthanc",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "artifact",
+    "text": "To play, spot an <symbol>isengard<\/symbol> minion.  <br><keyword>Shadow:<\/keyword> Spot an <symbol>isengard<\/symbol> minion and remove <symbol>twilight1<\/symbol> to reveal a card at random from the Free Peoples player’s hand.  Place that card on top of that player’s draw deck. "
+}

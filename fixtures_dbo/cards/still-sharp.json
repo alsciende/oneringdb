@@ -1,0 +1,10 @@
+{
+    "id": "still-sharp",
+    "title": "Still Sharp",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Skirmish:<\/keyword> Spot The Shards of Narsil to make a <symbol>gondor<\/symbol> companion strength +3 and <keyword>damage +1.<\/keyword> "
+}

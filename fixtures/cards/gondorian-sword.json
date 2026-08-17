@@ -1,0 +1,9 @@
+{
+    "id": "gondorian-sword",
+    "title": "Gondorian Sword",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man. <br><keyword>Skirmish:<\/keyword> Discard 3 cards from hand to make bearer <keyword>damage +1<\/keyword>."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "galadriel-keeper-of-nenya",
+    "title": "Galadriel",
+    "subtitle": "Keeper of Nenya",
+    "culture": "elven",
+    "twilight_cost": 3,
+    "type": "ally",
+    "text": "At the start of each turn, heal Galadriel. <keyword>Skirmish:<\/keyword> Exert Galadriel to discard the top card of your draw deck. If it is a Shadow card, make a minion skirmishing an Elf strength –3."
+}

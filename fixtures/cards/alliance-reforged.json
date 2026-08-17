@@ -1,0 +1,9 @@
+{
+    "id": "alliance-reforged",
+    "title": "Alliance Reforged",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 3,
+    "type": "event",
+    "text": "<keyword>Tale.<\/keyword><br><keyword>Fellowship:<\/keyword> Draw a card for each Elf companion you spot. "
+}

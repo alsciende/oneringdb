@@ -1,0 +1,10 @@
+{
+    "id": "saruman-black-traitor",
+    "title": "Saruman",
+    "subtitle": "Black Traitor",
+    "culture": "Isengard",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Wizard",
+    "text": "Saruman may not take wounds during the archery phase and may not be assigned to a skirmish.<br>When you play Saruman, you may discard a condition.<br><keyword>Shadow:<\/keyword> Exert Saruman to play Saruman\u2019s Staff from your discard pile. "
+}

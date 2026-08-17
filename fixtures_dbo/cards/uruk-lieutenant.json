@@ -1,0 +1,10 @@
+{
+    "id": "uruk-lieutenant",
+    "title": "Uruk Lieutenant",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": ""
+}

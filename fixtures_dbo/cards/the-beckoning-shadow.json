@@ -1,0 +1,10 @@
+{
+    "id": "the-beckoning-shadow",
+    "title": "The Beckoning Shadow",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

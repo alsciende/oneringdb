@@ -1,0 +1,9 @@
+{
+    "id": "dark-ways",
+    "title": "Dark Ways",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "To play, spot a Dwarf. <br>Each time the fellowship moves, add a threat or discard this condition. <br><keyword>Regroup:<\/keyword> Discard this condition to heal a Dwarf twice and take a <symbol>dwarven<\/symbol> skirmish event into hand from your discard pile."
+}

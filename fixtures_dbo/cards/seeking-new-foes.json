@@ -1,0 +1,10 @@
+{
+    "id": "seeking-new-foes",
+    "title": "Seeking New Foes",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Skirmishes are resolved in an order decided by the first Shadow player. <br>Each time a <symbol>rohan<\/symbol> Man wins a skirmish, place a <symbol>rohan<\/symbol> token here. Each <symbol>rohan<\/symbol> Man is strength +1 for each token here. <br>Discard this condition during the regroup phase."
+}

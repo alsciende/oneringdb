@@ -1,0 +1,9 @@
+{
+    "id": "narya",
+    "title": "Narya",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 0,
+    "type": "artifact",
+    "text": "Bearer must be Gandalf.  <br>At the start of each of your turns, you may add <symbol>twilight3<\/symbol> to remove a burden. "
+}

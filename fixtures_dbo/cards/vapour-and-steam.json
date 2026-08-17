@@ -1,0 +1,10 @@
+{
+    "id": "vapour-and-steam",
+    "title": "Vapour and Steam",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Skirmish:<\/keyword> Exert your <symbol>gandalf<\/symbol> companion and add a burden to make that companion <keyword>damage +1<\/keyword>."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "orc-seeker",
+    "title": "Orc Seeker",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Tracker.<\/keyword> <br>The site number of each <symbol>sauron<\/symbol> Orc is \u20131. <br>If you have initiative when you play this minion, you may spot another <symbol>sauron<\/symbol> Orc to draw 2 cards."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "eowyn-northwoman",
+    "title": "\u00c9owyn",
+    "subtitle": "Northwoman",
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "While the Ring-bearer is assigned to a skirmish, \u00c9owyn cannot take wounds while skirmishing.<br><keyword>Assignment:<\/keyword> Exert \u00c9owyn and assign a minion to the Ring-bearer to make that minion lose all keywords and unable to gain keywords until the regroup phase."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "pelennor-grassland",
+    "title": "Pelennor Grassland",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 6,
+    "type": "site",
+    "text": "<keyword>Plains.<\/keyword> <keyword>Shadow:<\/keyword> Exert a minion and spot 6 companions to add <symbol>twilight1<\/symbol>."
+}

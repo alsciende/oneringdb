@@ -67,7 +67,7 @@ class SimpleCardSearchType extends AbstractType
     }
 
     #[\Override]
-    public function getBlockPrefix()
+    public function getBlockPrefix(): string
     {
         return '';
     }

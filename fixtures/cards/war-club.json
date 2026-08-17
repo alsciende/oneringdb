@@ -1,0 +1,9 @@
+{
+    "id": "war-club",
+    "title": "War Club",
+    "subtitle": null,
+    "culture": "dunland",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>dunland<\/symbol> Man.  <br>Each time bearer wins a skirmish, you may discard 2 Free Peoples possessions. "
+}

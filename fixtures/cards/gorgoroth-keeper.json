@@ -1,0 +1,9 @@
+{
+    "id": "gorgoroth-keeper",
+    "title": "Gorgoroth Keeper",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Besieger.<\/keyword> While you control a site, this minion's twilight cost is –2. <br><keyword>Regroup:<\/keyword> Stack this minion on a site you control. "
+}

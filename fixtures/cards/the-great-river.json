@@ -1,0 +1,9 @@
+{
+    "id": "the-great-river",
+    "title": "The Great River",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 6,
+    "type": "site",
+    "text": "<keyword>River.<\/keyword> While the fellowship is at The Great River, cards may not be played from draw decks or discard piles. "
+}

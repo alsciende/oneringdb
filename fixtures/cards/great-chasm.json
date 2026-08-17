@@ -1,0 +1,9 @@
+{
+    "id": "great-chasm",
+    "title": "Great Chasm",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 4,
+    "type": "site",
+    "text": "<keyword>Underground.<\/keyword> The twilight cost of the first <symbol>moria<\/symbol> archer played each Shadow phase is -2. "
+}

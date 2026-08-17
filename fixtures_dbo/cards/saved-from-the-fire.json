@@ -1,0 +1,10 @@
+{
+    "id": "saved-from-the-fire",
+    "title": "Saved From the Fire",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "Fellowship",
+    "text": "Spot Gandalf and place a companion (except the Ring-bearer) in the dead pile to take up to 3 cards from that companion\u2019s culture into hand from your draw deck. Shuffle your draw deck."
+}

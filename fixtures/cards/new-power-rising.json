@@ -1,0 +1,9 @@
+{
+    "id": "new-power-rising",
+    "title": "New Power Rising",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Spot Saruman or an <symbol>isengard<\/symbol> Man, reveal your hand, and discard all Free Peoples cards revealed to take an <symbol>isengard<\/symbol> card into hand from your discard pile. "
+}

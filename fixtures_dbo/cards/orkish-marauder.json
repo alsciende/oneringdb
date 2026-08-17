@@ -1,0 +1,10 @@
+{
+    "id": "orkish-marauder",
+    "title": "Orkish Marauder",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "This minion is strength +1 for each <symbol>orc<\/symbol> condition in your discard pile."
+}

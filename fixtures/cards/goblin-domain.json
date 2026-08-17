@@ -1,0 +1,9 @@
+{
+    "id": "goblin-domain",
+    "title": "Goblin Domain",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Search.<\/keyword>  To play, spot a <symbol>moria<\/symbol> minion.   <br>Each time a companion is played to site 4 or higher, that companion comes into play exhausted."
+}

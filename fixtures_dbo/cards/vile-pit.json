@@ -1,0 +1,10 @@
+{
+    "id": "vile-pit",
+    "title": "Vile Pit",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Support Area",
+    "text": "To play, spot an <symbol>urukhai<\/symbol> hunter.<br>At the start of each Shadow phase, you may discard 2 <symbol>urukhai<\/symbol> cards from hand to play an <symbol>urukhai<\/symbol> hunter from your discard pile.<br><keyword>Regroup:<\/keyword> Discard this condition to return an <symbol>urukhai<\/symbol> hunter from play to your hand."
+}

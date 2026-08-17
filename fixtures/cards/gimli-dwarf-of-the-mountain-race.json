@@ -1,0 +1,9 @@
+{
+    "id": "gimli-dwarf-of-the-mountain-race",
+    "title": "Gimli",
+    "subtitle": "Dwarf of the Mountain-race",
+    "culture": "dwarven",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Damage +1.<\/keyword>  <br>Each underground site’s Shadow number is -2. "
+}

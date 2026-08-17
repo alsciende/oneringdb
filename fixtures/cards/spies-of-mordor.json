@@ -1,0 +1,9 @@
+{
+    "id": "spies-of-mordor",
+    "title": "Spies of Mordor",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Search.<\/keyword> To play, spot a <symbol>sauron<\/symbol> Orc.  <br>Each time the fellowship moves during the regroup phase, you may draw a card (or 2 cards if you spot a <symbol>sauron<\/symbol> tracker). "
+}

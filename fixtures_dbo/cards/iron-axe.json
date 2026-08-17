@@ -1,0 +1,10 @@
+{
+    "id": "iron-axe",
+    "title": "Iron Axe",
+    "subtitle": null,
+    "culture": "Dunland",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a <symbol>dunland<\/symbol> Man. "
+}

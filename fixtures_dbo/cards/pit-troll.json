@@ -1,0 +1,10 @@
+{
+    "id": "pit-troll",
+    "title": "Pit Troll",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 7,
+    "type": "Minion",
+    "subtype": "Troll",
+    "text": "<keyword>Hunter 2<\/keyword>. (While skirmishing a non-hunter character, this character is strength +2.)<br> To play, spot an <symbol>orc<\/symbol> Orc.<br> When you play this minion, add 2 threats. The Free Peoples player may exert the Ring-bearer to prevent this."
+}

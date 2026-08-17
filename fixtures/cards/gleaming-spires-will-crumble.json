@@ -1,0 +1,9 @@
+{
+    "id": "gleaming-spires-will-crumble",
+    "title": "Gleaming Spires Will Crumble",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": " <br>Each <symbol>sauron<\/symbol> Orc skirmishing a <symbol>gondor<\/symbol> character is strength +2. <br>Discard this condition if your <symbol>sauron<\/symbol> Orc loses a skirmish."
+}

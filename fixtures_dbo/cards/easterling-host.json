@@ -1,0 +1,10 @@
+{
+    "id": "easterling-host",
+    "title": "Easterling Host",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": ""
+}

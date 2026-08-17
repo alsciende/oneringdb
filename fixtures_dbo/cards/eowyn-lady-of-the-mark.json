@@ -1,0 +1,10 @@
+{
+    "id": "eowyn-lady-of-the-mark",
+    "title": "\u00c9owyn",
+    "subtitle": "Lady of the Mark",
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Valiant.<\/keyword> <br><keyword>Fellowship<\/keyword>: Play a <symbol>rohan<\/symbol> companion with a twilight cost of 3 or more; his or her twilight cost is \u20131."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "the-bridge-of-khazad-dum",
+    "title": "The Bridge of Khazad-dûm",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 6,
+    "type": "site",
+    "text": "<keyword>Underground.<\/keyword> <keyword>Shadow:<\/keyword> Play The Balrog from your draw deck or hand; The Balrog’s twilight cost is -6."
+}

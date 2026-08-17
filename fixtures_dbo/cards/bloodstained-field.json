@@ -1,0 +1,10 @@
+{
+    "id": "bloodstained-field",
+    "title": "Bloodstained Field",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Archery",
+    "text": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": "mordor-fighter",
+    "title": "Mordor Fighter",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "While you can spot a threat and another <symbol>sauron<\/symbol> Orc, the Shadow has initiative, regardless of the Free Peoples player\u2019s hand."
+}

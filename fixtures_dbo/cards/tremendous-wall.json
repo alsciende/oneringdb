@@ -1,0 +1,10 @@
+{
+    "id": "tremendous-wall",
+    "title": "Tremendous Wall",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Fortification<\/keyword>. Characters skirmishing bearer cannot take wounds from losing a skirmish involving bearer.<br><keyword>Skirmish:<\/keyword> Exert a <symbol>gondor<\/symbol> Man or spot 3 rangers to transfer this condition from your support area to a minion skirmishing a <symbol>gondor<\/symbol> Man."
+}

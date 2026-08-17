@@ -1,0 +1,10 @@
+{
+    "id": "orc-artisan",
+    "title": "Orc Artisan",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each time you play an <symbol>orc<\/symbol> possession on an <symbol>orc<\/symbol> Orc, you may add <symbol>twilight1<\/symbol> (or <symbol>twilight2<\/symbol> if that Orc is at a battleground or underground site)."
+}

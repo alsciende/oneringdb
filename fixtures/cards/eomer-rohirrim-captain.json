@@ -1,0 +1,9 @@
+{
+    "id": "eomer-rohirrim-captain",
+    "title": "Éomer",
+    "subtitle": "Rohirrim Captain",
+    "culture": "rohan",
+    "twilight_cost": 3,
+    "type": "companion",
+    "text": "<keyword>Valiant.<\/keyword> While you can spot a <symbol>rohan<\/symbol> Man, Éomer’s twilight cost is –1. <keyword>Skirmish:<\/keyword> Discard 3 cards from hand to make a <symbol>rohan<\/symbol> Man strength +2 for each wound on each minion in his or her skirmish."
+}

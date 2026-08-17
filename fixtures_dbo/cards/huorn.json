@@ -1,0 +1,10 @@
+{
+    "id": "huorn",
+    "title": "Huorn",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Tree",
+    "text": "<keyword>Damage +1.<\/keyword> <br>This companion is strength +1 for each Ent you spot. <br><keyword>Response:<\/keyword> If this companion is about to take a wound, exert an Ent to prevent that. "
+}

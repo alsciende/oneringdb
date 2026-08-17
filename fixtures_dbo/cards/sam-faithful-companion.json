@@ -1,0 +1,10 @@
+{
+    "id": "sam-faithful-companion",
+    "title": "Sam",
+    "subtitle": "Faithful Companion",
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Fellowship:<\/keyword> Play Bill the Pony from your draw deck.  <br><keyword>Response:<\/keyword> If Frodo dies, make Sam the <keyword>Ring-bearer (resistance 5).<\/keyword>"
+}

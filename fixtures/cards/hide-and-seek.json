@@ -1,0 +1,9 @@
+{
+    "id": "hide-and-seek",
+    "title": "Hide and Seek",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Search.<\/keyword>  <br><keyword>Skirmish:<\/keyword> Spot 2 <symbol>shire<\/symbol> companions to make a <symbol>moria<\/symbol> minion <keyword>damage +1.<\/keyword> "
+}

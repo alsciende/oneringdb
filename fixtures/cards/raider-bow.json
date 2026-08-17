@@ -1,0 +1,9 @@
+{
+    "id": "raider-bow",
+    "title": "Raider Bow",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 2,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>raider<\/symbol> Man. <br>Bearer is an <keyword>archer<\/keyword> and <keyword>Ambush<\/keyword> <symbol>twilight5<\/symbol>."
+}

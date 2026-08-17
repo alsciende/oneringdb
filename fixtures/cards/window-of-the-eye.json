@@ -1,0 +1,9 @@
+{
+    "id": "window-of-the-eye",
+    "title": "Window of The Eye",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "To play, spot a <symbol>sauron<\/symbol> minion. <br>Each time the fellowship moves during the regroup phase, you may remove a threat to wound an unbound companion. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "cavern-denizen",
+    "title": "Cavern Denizen",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword><br>While you can spot a Free Peoples culture token, this minion cannot take wounds except during skirmishes."
+}

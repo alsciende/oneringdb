@@ -1,0 +1,9 @@
+{
+    "id": "arwen-s-fate",
+    "title": "Arwen's Fate",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Exert Aragorn to make Arwen strength +3, or exert Arwen to make Aragorn strength +3."
+}

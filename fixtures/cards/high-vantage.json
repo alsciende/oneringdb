@@ -1,0 +1,9 @@
+{
+    "id": "high-vantage",
+    "title": "High Vantage",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Until the end of the assignment phase, each time a Southron is about to take a wound, prevent that. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "boromir-bearer-of-council",
+    "title": "Boromir",
+    "subtitle": "Bearer of Council",
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "While Boromir is the Ring-bearer, at the start of each skirmish involving him, add 3 burdens or wound him twice. <br>Each time Boromir wins a skirmish, discard each minion he is skirmishing. "
+}

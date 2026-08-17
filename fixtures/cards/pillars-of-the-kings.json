@@ -1,0 +1,9 @@
+{
+    "id": "pillars-of-the-kings",
+    "title": "Pillars of the Kings",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 6,
+    "type": "site",
+    "text": "<keyword>River.<\/keyword> <keyword>Fellowship:<\/keyword> Discard a <symbol>gondor<\/symbol> card from hand to heal a <symbol>gondor<\/symbol> companion."
+}

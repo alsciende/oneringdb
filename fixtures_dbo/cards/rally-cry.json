@@ -1,0 +1,10 @@
+{
+    "id": "rally-cry",
+    "title": "Rally Cry",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

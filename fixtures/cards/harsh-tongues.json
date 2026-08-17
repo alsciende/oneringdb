@@ -1,0 +1,9 @@
+{
+    "id": "harsh-tongues",
+    "title": "Harsh Tongues",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "To play, spot a <symbol>raider<\/symbol> Man. <br><keyword>Regroup:<\/keyword> Remove <symbol>twilight3<\/symbol> and spot a <symbol>raider<\/symbol> Man to place a <symbol>raider<\/symbol> token here. <br>While there are 3 <symbol>raider<\/symbol> tokens here, the Shadow has initiative regardless of the Free Peoples player’s hand."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "gandalf-s-pipe",
+    "title": "Gandalf's Pipe",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 0,
+    "type": "Possession",
+    "subtype": "Pipe",
+    "text": "Bearer must be Gandalf.<br><keyword>Fellowship:<\/keyword> Discard a pipeweed possession and spot X pipes to remove X burdens."
+}

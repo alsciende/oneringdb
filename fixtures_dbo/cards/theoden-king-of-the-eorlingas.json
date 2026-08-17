@@ -1,0 +1,10 @@
+{
+    "id": "theoden-king-of-the-eorlingas",
+    "title": "Theoden",
+    "subtitle": "King of the Eorlingas",
+    "culture": "Rohan",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "While you can spot a <symbol>gandalf<\/symbol> companion, Th\u00e9oden gains <keyword>muster.<\/keyword> (At the start of the regroup phase, you may discard a card from hand to draw a card.) While Th\u00e9oden is at a battleground or plains site each <symbol>rohan<\/symbol> Man is strength +1. "
+}

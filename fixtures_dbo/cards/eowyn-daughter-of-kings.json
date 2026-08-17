@@ -1,0 +1,10 @@
+{
+    "id": "eowyn-daughter-of-kings",
+    "title": "\u00c9owyn",
+    "subtitle": "Daughter of Kings",
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Triumph -<\/keyword> At the start of the fellowship phase, you may make the move limit for this turn +1."
+}

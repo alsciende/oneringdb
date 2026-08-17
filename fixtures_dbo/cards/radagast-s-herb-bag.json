@@ -1,0 +1,10 @@
+{
+    "id": "radagast-s-herb-bag",
+    "title": "Radagast's Herb Bag",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "",
+    "text": "Bearer must be a <symbol>gandalf<\/symbol> Wizard.<br>Each time you play a <symbol>gandalf<\/symbol> spell, you may exert bearer to wound a minion."
+}

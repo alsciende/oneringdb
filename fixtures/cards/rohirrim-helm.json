@@ -1,0 +1,9 @@
+{
+    "id": "rohirrim-helm",
+    "title": "Rohirrim Helm",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>rohan<\/symbol> Man.<br><keyword>Skirmish:<\/keyword> Discard this possession to cancel a skirmish involving bearer. A minion in this skirmish may exert to prevent this."
+}

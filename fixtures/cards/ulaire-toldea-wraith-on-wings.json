@@ -1,0 +1,9 @@
+{
+    "id": "ulaire-toldea-wraith-on-wings",
+    "title": "Úlairë Toldëa",
+    "subtitle": "Wraith on Wings",
+    "culture": "wraith",
+    "twilight_cost": 6,
+    "type": "minion",
+    "text": "<keyword>Fierce.<\/keyword> <br>While you have initiative and can spot a Nazgûl, Úlairë Toldëa’s twilight cost is –6."
+}

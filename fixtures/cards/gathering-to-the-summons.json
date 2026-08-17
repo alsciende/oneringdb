@@ -1,0 +1,9 @@
+{
+    "id": "gathering-to-the-summons",
+    "title": "Gathering to the Summons",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Spot a <symbol>raider<\/symbol> Man skirmishing a Ring-bound companion to add a burden. "
+}

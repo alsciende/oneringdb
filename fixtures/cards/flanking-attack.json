@@ -1,0 +1,9 @@
+{
+    "id": "flanking-attack",
+    "title": "Flanking Attack",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Maneuver<\/keyword> or <keyword>Skirmish:<\/keyword> Exert a Southron to add <symbol>twilight3<\/symbol>. "
+}

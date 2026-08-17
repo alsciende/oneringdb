@@ -1,0 +1,10 @@
+{
+    "id": "long-stemmed-pipe",
+    "title": "Long-stemmed Pipe",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Pipeweed.<\/keyword><br>When you play this, you may search your deck for a <symbol>gandalf<\/symbol> card and place it in your discard pile.<br><keyword>Regroup:<\/keyword> Discard another pipeweed from play to discard a condition. Discard this condition."
+}

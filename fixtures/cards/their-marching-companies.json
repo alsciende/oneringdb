@@ -1,0 +1,9 @@
+{
+    "id": "their-marching-companies",
+    "title": "Their Marching Companies",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Engine.<\/keyword> To play, spot a <symbol>sauron<\/symbol> minion. <br><keyword>Regroup:<\/keyword> Remove a threat to stack your <symbol>sauron<\/symbol> minion on a site you control. <br><keyword>Shadow:<\/keyword> Remove a threat to play a <symbol>sauron<\/symbol> minion stacked on a site you control."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "ulaire-attea-dark-predator",
+    "title": "\u00dalair\u00eb Att\u00eba",
+    "subtitle": "Dark Predator",
+    "culture": "Wraith",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Fierce.<\/keyword><br> While you can spot 5 twilight tokens in the twilight pool and another <symbol>wraith<\/symbol> card, \u00dalair\u00eb Att\u00eba is strength +3."
+}

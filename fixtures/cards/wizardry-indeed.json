@@ -1,0 +1,9 @@
+{
+    "id": "wizardry-indeed",
+    "title": "Wizardry Indeed",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 4,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> If you can spot more minions than companions, exert Gandalf to make an opponent discard a minion. "
+}

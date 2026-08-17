@@ -1,0 +1,10 @@
+{
+    "id": "scouting-orc",
+    "title": "Scouting Orc",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Skirmish:<\/keyword> Exert this minion to wound a companion it is skirmishing."
+}

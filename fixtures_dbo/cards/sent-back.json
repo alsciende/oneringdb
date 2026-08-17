@@ -1,0 +1,10 @@
+{
+    "id": "sent-back",
+    "title": "Sent Back",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Skirmish:<\/keyword> Discard this condition to discard each minion skirmishing a Wizard. Place that Wizard in your dead pile. <br><keyword>Fellowship<\/keyword> or <keyword>Regroup:<\/keyword> Play a Wizard (even if another copy of that Wizard is in your dead pile). "
+}

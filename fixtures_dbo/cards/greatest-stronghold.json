@@ -1,0 +1,10 @@
+{
+    "id": "greatest-stronghold",
+    "title": "Greatest Stronghold",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Archery",
+    "text": "Exert a <symbol>gondor<\/symbol> Man and spot 3 fortifications to make the fellowship archery total +2."
+}

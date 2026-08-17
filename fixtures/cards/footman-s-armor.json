@@ -1,0 +1,9 @@
+{
+    "id": "footman-s-armor",
+    "title": "Footman's Armor",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man. <br><keyword>Response:<\/keyword> If bearer is about to be overwhelmed, discard a <symbol>gondor<\/symbol> fortification or a card from hand to make bearer strength +2."
+}

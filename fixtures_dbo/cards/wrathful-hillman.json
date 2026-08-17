@@ -1,0 +1,10 @@
+{
+    "id": "wrathful-hillman",
+    "title": "Wrathful Hillman",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "Each time this minion is assigned to a skirmish, if it is not at a plains site, remove <symbol>twilight2<\/symbol> or discard this minion."
+}

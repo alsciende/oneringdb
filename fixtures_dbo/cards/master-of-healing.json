@@ -1,0 +1,10 @@
+{
+    "id": "master-of-healing",
+    "title": "Master of Healing",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Fellowship:<\/keyword> or <keyword>Regroup:<\/keyword> Spot Elrond (or 2 <symbol>elven<\/symbol> allies) to heal a companion or ally. "
+}

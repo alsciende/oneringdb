@@ -1,0 +1,10 @@
+{
+    "id": "not-this-time",
+    "title": "Not This Time!",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Skirmish:<\/keyword> Exert Gollum and remove a threat to wound a companion Gollum is skirmishing."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "mount-doom",
+    "title": "Mount Doom",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 3,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Battleground. Mountain. Underground.<\/keyword> Until the end of the game, sites in this region cannot be replaced."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "gorgoroth-swarm",
+    "title": "Gorgoroth Swarm",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Besieger.<\/keyword> <br>When you play this minion, you may spot another besieger and 6 companions to play a besieger from your discard pile and control a site."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "gorgoroth-soldier",
+    "title": "Gorgoroth Soldier",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Besieger.<\/keyword> <br><keyword>Response:<\/keyword> If a besieger is about to take a wound, discard 2 cards from hand to prevent it."
+}

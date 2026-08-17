@@ -1,0 +1,9 @@
+{
+    "id": "cloud-of-arrows",
+    "title": "Cloud of Arrows",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Archery:<\/keyword> <br>Exert an <symbol>isengard<\/symbol> archer to make the minion archery total +1 and the fellowship archery total -1. "
+}

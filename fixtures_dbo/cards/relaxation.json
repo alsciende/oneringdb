@@ -1,0 +1,10 @@
+{
+    "id": "relaxation",
+    "title": "Relaxation",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Response:<\/keyword> If a Shadow card is about to add any number of burdens, discard a <symbol>shire<\/symbol> follower and this condition from play to prevent that and discard that Shadow card."
+}

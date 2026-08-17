@@ -1,0 +1,10 @@
+{
+    "id": "horn-of-boromir-the-great-horn",
+    "title": "Horn of Boromir",
+    "subtitle": "The Great Horn",
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Possession",
+    "subtype": "",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man.<br><keyword>Maneuver:<\/keyword> Exert bearer and discard a follower from play to make bearer strength +4 until the regroup phase (if bearer is Boromir, he is also <keyword>defender +1<\/keyword> and cannot be overwhelmed unless his strength is tripled)."
+}

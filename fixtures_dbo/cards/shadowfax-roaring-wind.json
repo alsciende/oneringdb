@@ -1,0 +1,10 @@
+{
+    "id": "shadowfax-roaring-wind",
+    "title": "Shadowfax",
+    "subtitle": "Roaring Wind",
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Mount",
+    "text": "Bearer must be a Wizard.<br>When you play Shadowfax, you may reinforce a <symbol>gandalf<\/symbol> token.<br><keyword>Skirmish:<\/keyword> Remove 2 <symbol>gandalf<\/symbol> tokens to wound a minion skirmishing bearer."
+}

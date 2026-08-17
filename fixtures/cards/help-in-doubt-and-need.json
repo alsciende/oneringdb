@@ -1,0 +1,9 @@
+{
+    "id": "help-in-doubt-and-need",
+    "title": "Help in Doubt and Need",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "<br><keyword>Skirmish:<\/keyword> Exert an unbound <symbol>gondor<\/symbol> Man to make a <symbol>rohan<\/symbol> companion strength +2, or exert a <symbol>rohan<\/symbol> companion to make an unbound <symbol>gondor<\/symbol> Man strength +2. "
+}

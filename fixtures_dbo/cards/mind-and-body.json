@@ -1,0 +1,10 @@
+{
+    "id": "mind-and-body",
+    "title": "Mind and Body",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Response",
+    "text": "If a Nazg\u00fbl kills a character, wound each character bearing a <symbol>wraith<\/symbol> condition."
+}

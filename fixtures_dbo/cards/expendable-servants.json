@@ -1,0 +1,10 @@
+{
+    "id": "expendable-servants",
+    "title": "Expendable Servants",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": ""
+}

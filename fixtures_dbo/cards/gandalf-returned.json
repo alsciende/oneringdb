@@ -1,0 +1,10 @@
+{
+    "id": "gandalf-returned",
+    "title": "Gandalf",
+    "subtitle": "Returned",
+    "culture": "Gandalf",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Wizard",
+    "text": "When you play Gandalf (except in your starting fellowship), you may play a <symbol>gandalf<\/symbol> possession on him from your draw deck or discard pile.<br>Each time Gandalf wins a skirmish, you may reinforce a Free Peoples token."
+}

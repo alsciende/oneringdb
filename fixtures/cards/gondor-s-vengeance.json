@@ -1,0 +1,9 @@
+{
+    "id": "gondor-s-vengeance",
+    "title": "Gondor's Vengeance",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Exert a ranger companion to discard a minion."
+}

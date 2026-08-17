@@ -1,0 +1,10 @@
+{
+    "id": "blade-of-gondor-sword-of-boromir",
+    "title": "Blade of Gondor",
+    "subtitle": "Sword of Boromir",
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be Boromir. <br>He is <keyword>damage +1.<\/keyword> <br><keyword>Skirmish:<\/keyword> If Boromir is not assigned to a skirmish, discard a <symbol>gondor<\/symbol> card borne by him to have him replace an unbound Hobbit skirmishing a minion."
+}

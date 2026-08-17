@@ -1,0 +1,9 @@
+{
+    "id": "mablung-soldier-of-gondor",
+    "title": "Mablung",
+    "subtitle": "Soldier of Gondor",
+    "culture": "gondor",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Ring-bound.<\/keyword> <keyword>Ranger.<\/keyword> To play, spot a Ring-bound Man.  <br><keyword>Skirmish:<\/keyword> Exert Mablung to exhaust a roaming minion he is skirmishing. "
+}

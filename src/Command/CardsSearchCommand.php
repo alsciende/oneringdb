@@ -26,11 +26,12 @@ class CardsSearchCommand extends Command implements LoggerAwareInterface
     private SymfonyStyle $io;
 
     public function __construct(
-        private readonly CardRepository $cardRepository
+        private readonly CardRepository $cardRepository,
     ) {
         parent::__construct();
     }
 
+    #[\Override]
     public function getStyle(): SymfonyStyle
     {
         return $this->io;

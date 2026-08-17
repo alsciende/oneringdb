@@ -1,0 +1,10 @@
+{
+    "id": "encirclement",
+    "title": "Encirclement",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "For each 2 sites you control, the twilight cost of each of your <symbol>sauron<\/symbol> cards is \u20131. <br><keyword>Regroup:<\/keyword> Spot a <symbol>sauron<\/symbol> minion to draw a card (or draw 2 cards instead if that minion is a besieger). Discard this condition."
+}

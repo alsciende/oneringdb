@@ -20,7 +20,7 @@ class FlashLoggerBridge implements LoggerInterface
     ];
 
     public function __construct(
-        private readonly FlashService $flashService
+        private readonly FlashService $flashService,
     ) {
     }
 

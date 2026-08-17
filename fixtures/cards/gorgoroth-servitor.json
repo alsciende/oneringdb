@@ -1,0 +1,9 @@
+{
+    "id": "gorgoroth-servitor",
+    "title": "Gorgoroth Servitor",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Besieger.<\/keyword> <br><keyword>Archery:<\/keyword> Return this minion to your hand to make the fellowship archery total –2 and prevent the Free Peoples player from using archery special abilities."
+}

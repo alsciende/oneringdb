@@ -1,0 +1,10 @@
+{
+    "id": "advance-uruk-patrol",
+    "title": "Advance Uruk Patrol",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": ""
+}

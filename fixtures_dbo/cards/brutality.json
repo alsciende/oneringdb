@@ -1,0 +1,10 @@
+{
+    "id": "brutality",
+    "title": "Brutality",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make an <symbol>urukhai<\/symbol> minion strength +1 for each battleground site you can spot. "
+}

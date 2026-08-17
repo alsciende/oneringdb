@@ -1,0 +1,9 @@
+{
+    "id": "southern-spies",
+    "title": "Southern Spies",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Response:<\/keyword> If the Ring-bearer puts on The One Ring, spot a <symbol>sauron<\/symbol> minion to make the Free Peoples player discard his or her hand. "
+}

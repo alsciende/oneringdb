@@ -1,0 +1,10 @@
+{
+    "id": "lothlorien-guides",
+    "title": "Lothl\u00f3rien Guides",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "Spot 2 Elves (or an Elf and an <symbol>elven<\/symbol> follower) to discard a condition (or discard two conditions if you can spot 4 or more Shadow conditions). "
+}

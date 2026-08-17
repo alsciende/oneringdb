@@ -1,0 +1,10 @@
+{
+    "id": "hill-orc",
+    "title": "Hill Orc",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each time this minion wins a skirmish, you may exert each companion who has resistance 4 or less."
+}

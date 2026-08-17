@@ -1,0 +1,10 @@
+{
+    "id": "uruk-tactician",
+    "title": "Uruk Tactician",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<br>Skirmish:<\/keyword> Exert this minion to make a companion skirmishing an <symbol>urukhai<\/symbol> lurker minion strength \u20132."
+}

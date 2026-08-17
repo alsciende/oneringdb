@@ -1,0 +1,9 @@
+{
+    "id": "hobbit-intuition",
+    "title": "Hobbit Intuition",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Stealth.<\/keyword>  <br><keyword>Skirmish:<\/keyword> At sites 1 to 4, cancel a skirmish involving a Hobbit.  At any other site, make a Hobbit strength +3."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "lothlorien-woods",
+    "title": "Lothlórien Woods",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 3,
+    "type": "site",
+    "text": "<keyword>Forest.<\/keyword> <keyword>Sanctuary.<\/keyword> Each ally whose home is site 6 is strength +3."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "uruk-hai-scout",
+    "title": "Uruk-hai Scout",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword><br>When you play this, choose one of the following keywords: battleground, mountain, plains, or underground. The fellowship\u2019s current site gains that keyword until the end of the turn."
+}

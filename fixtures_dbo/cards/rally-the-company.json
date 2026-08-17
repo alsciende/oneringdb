@@ -1,0 +1,10 @@
+{
+    "id": "rally-the-company",
+    "title": "Rally the Company",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

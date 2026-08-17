@@ -1,0 +1,9 @@
+{
+    "id": "catapult",
+    "title": "Catapult",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "To play, spot 2 <symbol>gondor<\/symbol> knights. <br><keyword>Maneuver:<\/keyword> Discard 2 cards from hand to reveal the top card of an opponent’s draw deck. Choose an opponent who must discard a Shadow card that has a twilight cost that is the same as the twilight cost of the revealed card."
+}

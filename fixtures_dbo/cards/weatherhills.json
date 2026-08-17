@@ -1,0 +1,10 @@
+{
+    "id": "weatherhills",
+    "title": "Weatherhills",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 3,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "Each Nazg\u00fbl\u2019s twilight cost is -1."
+}

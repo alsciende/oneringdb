@@ -1,0 +1,9 @@
+{
+    "id": "howl-of-harad",
+    "title": "Howl of Harad",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": " <br>Each time a companion or ally loses a skirmish involving a Southron, you may remove <symbol>twilight4<\/symbol> to make the Free Peoples Player wound a Ring-bound companion. "
+}

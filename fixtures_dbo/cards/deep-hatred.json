@@ -1,0 +1,10 @@
+{
+    "id": "deep-hatred",
+    "title": "Deep Hatred",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

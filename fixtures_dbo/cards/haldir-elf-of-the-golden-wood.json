@@ -1,0 +1,10 @@
+{
+    "id": "haldir-elf-of-the-golden-wood",
+    "title": "Haldir",
+    "subtitle": "Elf of the Golden Wood",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "To play, spot an Elf. <br>While Haldir is at site 6, 7, or 8, he is strength +2."
+}

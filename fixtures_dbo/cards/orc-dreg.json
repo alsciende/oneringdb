@@ -1,0 +1,10 @@
+{
+    "id": "orc-dreg",
+    "title": "Orc Dreg",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each time this minion is assigned to a skirmish, if it is not at an underground site, remove <symbol>twilight2<\/symbol> or discard this minion. "
+}

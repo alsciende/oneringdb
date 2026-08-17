@@ -1,0 +1,10 @@
+{
+    "id": "erkenbrand-s-horn",
+    "title": "Erkenbrand's Horn",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 0,
+    "type": "Possession",
+    "subtype": "",
+    "text": "Bearer must be a <symbol>rohan<\/symbol> Man.<br><keyword>Fellowship:<\/keyword> Exert bearer to play a follower from your draw deck. Reshuffle your draw deck.<br><keyword>Skirmish:<\/keyword> Discard a follower from play to make bearer strength +4 (if bearer is Erkenbrand, he is strength +5 instead)."
+}

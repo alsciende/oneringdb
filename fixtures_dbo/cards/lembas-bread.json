@@ -1,0 +1,10 @@
+{
+    "id": "lembas-bread",
+    "title": "Lembas Bread",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "",
+    "text": "To play, spot 2 <symbol>elven<\/symbol> companions.<br>Bearer must be a companion.<br><keyword>Regroup:<\/keyword> Discard this possession from play to reconcile your hand."
+}

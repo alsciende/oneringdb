@@ -1,0 +1,10 @@
+{
+    "id": "little-snuffler",
+    "title": "Little Snuffler",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "If the fellowship is in region 1, spot Gollum to wound a companion.<br>If the fellowship is in region 2, spot Gollum to exert a companion.<br>If the fellowship is in region 3, play a <symbol>gollum<\/symbol> minion from your discard pile."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "fires-and-foul-fumes",
+    "title": "Fires and Foul Fumes",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 4,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Discard 4 <symbol>isengard<\/symbol> Orcs to wound a companion 4 times (except the Ring-bearer)."
+}

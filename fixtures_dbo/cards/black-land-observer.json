@@ -1,0 +1,10 @@
+{
+    "id": "black-land-observer",
+    "title": "Black Land Observer",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "When you play this minion, you may spot an <symbol>orc<\/symbol> condition to add a threat.<br>While you can spot a companion of strength 10 or more, this minion is strength +3."
+}

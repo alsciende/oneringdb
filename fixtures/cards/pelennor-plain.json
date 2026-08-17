@@ -1,0 +1,9 @@
+{
+    "id": "pelennor-plain",
+    "title": "Pelennor Plain",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 4,
+    "type": "site",
+    "text": "<keyword>Plains.<\/keyword> <keyword>Archery:<\/keyword> Spot your minion and remove 3 burdens to make the minion archery total +3."
+}

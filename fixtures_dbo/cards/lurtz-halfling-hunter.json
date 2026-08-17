@@ -1,0 +1,10 @@
+{
+    "id": "lurtz-halfling-hunter",
+    "title": "Lurtz",
+    "subtitle": "Halfling Hunter",
+    "culture": "Uruk-hai",
+    "twilight_cost": 7,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Archer. Damage +1.<\/keyword><br><keyword>Maneuver:<\/keyword> Spot 6 companions to make Lurtz <keyword>fierce<\/keyword> until the regroup phase.<br><keyword>Assignment:<\/keyword> Exert Lurtz twice to assign it to an unbound companion. The Free Peoples player may exert that companion or add a burden to prevent this."
+}

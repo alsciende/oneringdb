@@ -1,0 +1,9 @@
+{
+    "id": "fires-raged-unchecked",
+    "title": "Fires Raged Unchecked",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "The site number of each <symbol>sauron<\/symbol> Orc is –1 for each threat. <br>While you can spot 3 threats, each <symbol>sauron<\/symbol> Orc that is not roaming is strength +1."
+}

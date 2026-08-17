@@ -1,0 +1,10 @@
+{
+    "id": "dunlending-zealot",
+    "title": "Dunlending Zealot",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "While this minion is exhausted, each unbound companion is resistance \u20131 (or \u20132 if the fellowship is at a battleground site)."
+}

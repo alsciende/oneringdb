@@ -1,0 +1,10 @@
+{
+    "id": "boromir-destined-guide",
+    "title": "Boromir",
+    "subtitle": "Destined Guide",
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Fellowship. Ranger.<\/keyword> <br>While you can spot two unbound Hobbits, Boromir\u2019s twilight cost is \u20131.<br> Each time Boromir wins a skirmish, you may exert an unbound Hobbit to discard each minion he is skirmishing from play."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "ruthless-uruk",
+    "title": "Ruthless Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "Each time this minion is assigned to skirmish a character who has resistance 3 or less, you may exert this minion to discard a possession borne by that character."
+}

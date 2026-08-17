@@ -1,0 +1,10 @@
+{
+    "id": "saruman-s-snows",
+    "title": "Saruman's Snows",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<keyword>Spell.<\/keyword> <keyword>Weather.<\/keyword> To play, exert a <symbol>isengard<\/symbol> minion. Plays on a site. <br>No player may play skirmish events or use skirmish special abilities during skirmishes at this site.  Discard this condition at the end of the turn."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "faramir-stout-captain",
+    "title": "Faramir",
+    "subtitle": "Stout Captain",
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Ranger.<\/keyword> To play, spot a <symbol>gondor<\/symbol> Man. <br>Each time Faramir wins a skirmish involving a fierce minion, you may exert Faramir to discard that minion."
+}

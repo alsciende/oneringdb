@@ -1,0 +1,10 @@
+{
+    "id": "eowyn-restless-warrior",
+    "title": "Eowyn",
+    "subtitle": "Restless Warrior",
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "Each possession you play on \u00c9owyn during the fellowship phase is twilight cost \u20131.<br>Each time the fellowship moves during the regroup phase, you may reinforce a <symbol>rohan<\/symbol> token (or reinforce 2<symbol>rohan<\/symbol> tokens if you can spot \u00c9omer or Th\u00e9oden)."
+}

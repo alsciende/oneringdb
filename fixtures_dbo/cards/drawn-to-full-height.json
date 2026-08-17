@@ -1,0 +1,10 @@
+{
+    "id": "drawn-to-full-height",
+    "title": "Drawn to Full Height",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "<keyword>Spell.<\/keyword> Spot a <symbol>gandalf<\/symbol> Wizard to make a minion lose all strength bonuses from possessions."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "guard-of-the-white-tree",
+    "title": "Guard of the White Tree",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Knight.<br>Skirmish:<\/keyword> Discard a <symbol>gondor<\/symbol> condition from your support area to make this companion strength +2."
+}

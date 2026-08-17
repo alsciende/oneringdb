@@ -1,0 +1,9 @@
+{
+    "id": "eregion-s-trails",
+    "title": "Eregion's Trails",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Exert a ranger to make each roaming minion strength -3 until the regroup phase."
+}

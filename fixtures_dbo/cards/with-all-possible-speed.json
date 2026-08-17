@@ -1,0 +1,10 @@
+{
+    "id": "with-all-possible-speed",
+    "title": "With All Possible Speed",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each unwounded hunter <symbol>urukhai<\/symbol> minion is strength +1.<br><keyword>Response:<\/keyword> If your hunter minion is about to take a wound during a skirmish, discard that minion to exert a non-hunter companion."
+}

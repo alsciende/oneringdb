@@ -1,0 +1,10 @@
+{
+    "id": "wolves-of-isengard",
+    "title": "Wolves of Isengard",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "Plays on a plains site you control. <br><keyword>Regroup:<\/keyword> Exert an <symbol>isengard<\/symbol> Orc to make the Free Peoples player wound a companion."
+}

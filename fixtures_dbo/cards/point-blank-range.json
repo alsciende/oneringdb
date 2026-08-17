@@ -1,0 +1,10 @@
+{
+    "id": "point-blank-range",
+    "title": "Point Blank Range",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make an Elf strength +2 (or +4 if you can spot 3 archers)."
+}

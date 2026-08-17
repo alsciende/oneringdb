@@ -1,0 +1,9 @@
+{
+    "id": "gate-sentry",
+    "title": "Gate Sentry",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Maneuver:<\/keyword> Exert this minion twice and spot another <symbol>sauron<\/symbol> minion to discard a condition."
+}

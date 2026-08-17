@@ -1,0 +1,9 @@
+{
+    "id": "uruk-hunter",
+    "title": "Uruk Hunter",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 6,
+    "type": "minion",
+    "text": "<keyword>Tracker.<\/keyword> <keyword>Fierce.<\/keyword><br>Unbound Hobbits may not be discarded.<br><keyword>Response:<\/keyword>  If an unbound Hobbit is killed, exert this minion twice to exhaust a companion. "
+}

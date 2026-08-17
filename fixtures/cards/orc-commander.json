@@ -1,0 +1,9 @@
+{
+    "id": "orc-commander",
+    "title": "Orc Commander",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 6,
+    "type": "minion",
+    "text": "Each other <symbol>isengard<\/symbol> Orc is strength +1.  <br><keyword>Regroup:<\/keyword> Exert Orc Commander to make the Free Peoples player wound a companion. "
+}

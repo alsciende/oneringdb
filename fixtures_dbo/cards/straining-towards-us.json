@@ -1,0 +1,10 @@
+{
+    "id": "straining-towards-us",
+    "title": "Straining Towards Us",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Regroup",
+    "text": "Exert Frodo to remove <symbol>twilight1<\/symbol> for each Frodo signet you spot."
+}

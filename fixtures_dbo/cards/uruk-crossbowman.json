@@ -1,0 +1,10 @@
+{
+    "id": "uruk-crossbowman",
+    "title": "Uruk Crossbowman",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Archer.<\/keyword>  <br><keyword>Archery:<\/keyword> Exert this minion to make the Free Peoples player wound an unbound companion; this minion does not add to the minion archery total. "
+}

@@ -1,0 +1,9 @@
+{
+    "id": "elrond-keeper-of-vilya",
+    "title": "Elrond",
+    "subtitle": "Keeper of Vilya",
+    "culture": "elven",
+    "twilight_cost": 4,
+    "type": "ally",
+    "text": "At the start of each turn, heal Elrond. <keyword>Fellowship:<\/keyword> Exert Elrond to discard the top card of your draw deck. If it is an <symbol>elven<\/symbol> card, you may take it into hand and heal an Elf companion."
+}

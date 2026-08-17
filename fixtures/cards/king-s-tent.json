@@ -1,0 +1,9 @@
+{
+    "id": "king-s-tent",
+    "title": "King's Tent",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 1,
+    "type": "site",
+    "text": "<keyword>Shadow:<\/keyword> If the Shadow has initiative, spot your minion to make the move limit for this turn –1."
+}

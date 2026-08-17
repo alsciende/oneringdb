@@ -1,0 +1,10 @@
+{
+    "id": "corpse-lights",
+    "title": "Corpse Lights",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Wraith",
+    "text": ""
+}

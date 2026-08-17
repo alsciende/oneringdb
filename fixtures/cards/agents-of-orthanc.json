@@ -1,0 +1,9 @@
+{
+    "id": "agents-of-orthanc",
+    "title": "Agents of Orthanc",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 5,
+    "type": "minion",
+    "text": "This minion is strength +2 and <keyword>damage +1<\/keyword> for each Free Peoples culture that you can spot over 2."
+}

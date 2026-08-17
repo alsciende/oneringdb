@@ -1,0 +1,10 @@
+{
+    "id": "morgulduin",
+    "title": "Morgulduin",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 8,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Shadow:<\/keyword> Remove 2 threats to play a Nazg\u00fbl from your discard pile. His twilight cost is -2."
+}

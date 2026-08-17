@@ -1,0 +1,10 @@
+{
+    "id": "frodo-protected-by-many",
+    "title": "Frodo",
+    "subtitle": "Protected by Many",
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": ""
+}

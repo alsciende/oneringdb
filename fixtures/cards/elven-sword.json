@@ -1,0 +1,9 @@
+{
+    "id": "elven-sword",
+    "title": "Elven Sword",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be an Elf.  <br><keyword>Skirmish:<\/keyword> Exert bearer or discard 2 cards from hand to make a minion skirmishing bearer strength -1. "
+}

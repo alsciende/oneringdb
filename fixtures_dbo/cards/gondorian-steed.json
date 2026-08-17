@@ -1,0 +1,10 @@
+{
+    "id": "gondorian-steed",
+    "title": "Gondorian Steed",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Mount",
+    "text": ""
+}

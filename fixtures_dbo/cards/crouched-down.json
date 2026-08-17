@@ -1,0 +1,10 @@
+{
+    "id": "crouched-down",
+    "title": "Crouched Down",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": "theoden-rekindled-king",
+    "title": "Th\u00e9oden",
+    "subtitle": "Rekindled King",
+    "culture": "Rohan",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "While you can spot a <symbol>rohan<\/symbol> Man, Th\u00e9oden\u2019s twilight cost is \u20131. <br><keyword>Fellowship:<\/keyword> If the twilight pool has fewer than 2 twilight tokens, play a <symbol>rohan<\/symbol> possession on Th\u00e9oden and add <symbol>twilight2<\/symbol> to heal another <symbol>rohan<\/symbol> companion."
+}

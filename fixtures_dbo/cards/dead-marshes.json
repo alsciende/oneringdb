@@ -1,0 +1,10 @@
+{
+    "id": "dead-marshes",
+    "title": "Dead Marshes",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": "Plays to your support area.<br>While the fellowship is at site 4<symbol>tower<\/symbol>, Ring-bound companions skirmishing <symbol>sauron<\/symbol> Orcs are strength -1. <br><keyword>Maneuver:<\/keyword> Spot 2 <symbol>sauron<\/symbol> Orcs to play up to 2 <symbol>sauron<\/symbol> conditions from your discard pile. Discard this condition."
+}

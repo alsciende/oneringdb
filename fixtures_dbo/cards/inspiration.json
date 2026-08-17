@@ -1,0 +1,10 @@
+{
+    "id": "inspiration",
+    "title": "Inspiration",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

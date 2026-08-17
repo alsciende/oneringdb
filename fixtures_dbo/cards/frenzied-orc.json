@@ -1,0 +1,10 @@
+{
+    "id": "frenzied-orc",
+    "title": "Frenzied Orc",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "While this minion is at an underground site, each character skirmishing it is strength \u20132. While you can spot 6 companions, each character skirmishing an <symbol>orc<\/symbol> minion is strength \u20132."
+}

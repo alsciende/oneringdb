@@ -1,0 +1,10 @@
+{
+    "id": "southfarthing-leaf",
+    "title": "Southfarthing Leaf",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Pipeweed.<\/keyword> To play, spot an unbound Hobbit.<br><keyword>Skirmish:<\/keyword> Discard a pipeweed from play to make an unbound Hobbit strength +2.<br><keyword>Regroup:<\/keyword> Discard this pipeweed from play to play a pipeweed from your draw deck. Reshuffle your draw deck."
+}

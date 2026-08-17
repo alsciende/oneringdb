@@ -1,0 +1,10 @@
+{
+    "id": "out-of-the-high-airs",
+    "title": "Out of the High Airs",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "Response",
+    "text": "If the fellowship moves during the regroup phase, exert your Wizard to discard each minion. "
+}

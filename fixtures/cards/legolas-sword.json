@@ -1,0 +1,9 @@
+{
+    "id": "legolas-sword",
+    "title": "Legolas' Sword",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be Legolas.<br>Each time the fellowship moves, you may spot a wounded minion to heal Legolas."
+}

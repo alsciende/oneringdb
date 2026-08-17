@@ -1,0 +1,9 @@
+{
+    "id": "lembas",
+    "title": "Lembas",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "To play, spot 3 Elves.  Bearer must be a companion.<br><keyword>Regroup:<\/keyword> Discard this possession to reconcile your hand. "
+}

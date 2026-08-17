@@ -1,0 +1,9 @@
+{
+    "id": "corsair-lookout",
+    "title": "Corsair Lookout",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 1,
+    "type": "minion",
+    "text": "<keyword>Corsair.<\/keyword> <br>When you play this minion, if you have initiative, you may discard an ally to add 2 <symbol>raider<\/symbol> tokens to a card that already has a <symbol>raider<\/symbol> token on it."
+}

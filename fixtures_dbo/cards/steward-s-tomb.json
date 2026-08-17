@@ -1,0 +1,10 @@
+{
+    "id": "steward-s-tomb",
+    "title": "Steward's Tomb",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 1,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "Wounds cannot be prevented or healed. Burdens cannot be removed."
+}

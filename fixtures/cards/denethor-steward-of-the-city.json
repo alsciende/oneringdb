@@ -1,0 +1,9 @@
+{
+    "id": "denethor-steward-of-the-city",
+    "title": "Denethor",
+    "subtitle": "Steward of the City",
+    "culture": "gondor",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Fellowship:<\/keyword> Play a <symbol>gondor<\/symbol> knight. That knight’s twilight cost is –2. <br>Each time a Shadow card adds a threat, add a burden. Each time a Shadow card adds a burden, add a threat."
+}

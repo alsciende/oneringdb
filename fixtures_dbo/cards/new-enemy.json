@@ -1,0 +1,10 @@
+{
+    "id": "new-enemy",
+    "title": "New Enemy",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "You may remove from the game 4 <symbol>urukhai<\/symbol> cards in your discard pile instead of paying the twilight cost for this card.<br>Make your <symbol>urukhai<\/symbol> minion skirmishing a companion with resistance 4 or less strength +2."
+}

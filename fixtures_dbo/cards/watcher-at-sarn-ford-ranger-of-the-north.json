@@ -1,0 +1,10 @@
+{
+    "id": "watcher-at-sarn-ford-ranger-of-the-north",
+    "title": "Watcher at Sarn Ford",
+    "subtitle": "Ranger of the North",
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Ranger.<\/keyword><br><keyword>Skirmish:<\/keyword> Exert a <symbol>gondor<\/symbol> Man with a resistance 6 or more to make that Man strength +3."
+}

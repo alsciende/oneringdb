@@ -1,0 +1,9 @@
+{
+    "id": "sharku-warg-captain",
+    "title": "Sharku",
+    "subtitle": "Warg-captain",
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Warg-rider.<\/keyword><br>While Sharku is not exhausted, he is <keyword>fierce.<\/keyword><br>Each time you play an <symbol>isengard<\/symbol> mount, you may make the Free Peoples player exert a companion (except a Hobbit)."
+}

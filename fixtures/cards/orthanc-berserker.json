@@ -1,0 +1,9 @@
+{
+    "id": "orthanc-berserker",
+    "title": "Orthanc Berserker",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 5,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword>  <br><keyword>Maneuver:<\/keyword> Spot 5 burdens and exert Orthanc Berserker twice to exhaust a companion (except the Ring-bearer). "
+}

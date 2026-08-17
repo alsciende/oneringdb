@@ -1,0 +1,10 @@
+{
+    "id": "loud-and-strong",
+    "title": "Loud and Strong",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

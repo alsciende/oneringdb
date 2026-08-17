@@ -1,0 +1,10 @@
+{
+    "id": "it-draws-him",
+    "title": "It Draws Him",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Spot a <symbol>gollum<\/symbol> card to play a minion. Its twilight cost -1 (or -3 if it is roaming)."
+}

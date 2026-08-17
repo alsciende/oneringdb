@@ -1,0 +1,9 @@
+{
+    "id": "black-steed",
+    "title": "Black Steed",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a Nazgûl.  <br>While at a plains site, bearer is strength +2. Discard this possession when at an underground site."
+}

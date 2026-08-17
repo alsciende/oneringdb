@@ -1,0 +1,9 @@
+{
+    "id": "isengard-forger",
+    "title": "Isengard Forger",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Shadow:<\/keyword> Exert this minion to add <symbol>twilight1<\/symbol>.  "
+}

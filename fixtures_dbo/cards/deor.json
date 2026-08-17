@@ -1,0 +1,10 @@
+{
+    "id": "deor",
+    "title": "D\u00e9or",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Ally",
+    "subtype": "Man",
+    "text": "<keyword>Villager.<\/keyword> <br><keyword>Skirmish:<\/keyword> If you have initiative, discard a card from hand to make a <symbol>rohan<\/symbol> Man strength +1."
+}

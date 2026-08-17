@@ -1,0 +1,9 @@
+{
+    "id": "wrath-of-harad",
+    "title": "Wrath of Harad",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": " <br>While you can spot a <symbol>raider<\/symbol> Man, each Free Peoples event that spots or exerts a ranger gains this cost: “wound a companion.” <br><keyword>Skirmish:<\/keyword> Discard this condition to make a <symbol>raider<\/symbol> Man strength +2. "
+}

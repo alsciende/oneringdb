@@ -1,0 +1,9 @@
+{
+    "id": "orc-pillager",
+    "title": "Orc Pillager",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "For each Free Peoples card borne by a character this minion is skirmishing, that character is strength -1. "
+}

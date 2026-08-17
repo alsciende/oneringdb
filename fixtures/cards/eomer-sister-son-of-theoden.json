@@ -1,0 +1,9 @@
+{
+    "id": "eomer-sister-son-of-theoden",
+    "title": "Éomer",
+    "subtitle": "Sister-son of Théoden",
+    "culture": "rohan",
+    "twilight_cost": 3,
+    "type": "companion",
+    "text": "While you can spot a <symbol>rohan<\/symbol> Man, Éomer’s twilight cost is -1.  <br>At the start of each turn, you may heal a <symbol>rohan<\/symbol> ally. "
+}

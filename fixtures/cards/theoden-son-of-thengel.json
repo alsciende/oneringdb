@@ -1,0 +1,9 @@
+{
+    "id": "theoden-son-of-thengel",
+    "title": "Théoden",
+    "subtitle": "Son of Thengel",
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Regroup:<\/keyword> Spot a <symbol>rohan<\/symbol> ally and exert Théoden to liberate a site. "
+}

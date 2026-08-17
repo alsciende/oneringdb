@@ -1,0 +1,10 @@
+{
+    "id": "reaching-tentacle",
+    "title": "Reaching Tentacle",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Creature",
+    "text": "<keyword>Tentacle.<\/keyword><br>This minion cannot bear possessions.<br> Discard this minion from play if not at a marsh.<br> This minion is strength +1 for each tentacle you spot."
+}

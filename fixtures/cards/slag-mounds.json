@@ -1,0 +1,9 @@
+{
+    "id": "slag-mounds",
+    "title": "Slag Mounds",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 9,
+    "type": "site",
+    "text": "Each time a companion is killed, add a burden."
+}

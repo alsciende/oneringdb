@@ -1,0 +1,9 @@
+{
+    "id": "ulaire-attea-the-easterling",
+    "title": "Úlairë Attëa",
+    "subtitle": "The Easterling",
+    "culture": "wraith",
+    "twilight_cost": 6,
+    "type": "minion",
+    "text": "<keyword>Twilight.<\/keyword>  <br>When you play Úlairë Attëa, you may wound an ally. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "task-was-not-done",
+    "title": "Task Was Not Done",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Spell.<\/keyword>  <br><keyword>Regroup:<\/keyword> Exert Gandalf to discard up to 2 wounded minions. "
+}

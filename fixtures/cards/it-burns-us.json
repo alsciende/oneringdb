@@ -1,0 +1,9 @@
+{
+    "id": "it-burns-us",
+    "title": "It Burns Us",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Spot Sam and Sméagol (or Gollum) to choose an opponent who must reveal his or her hand. Wound a minion X times, where X is the number of different cultures revealed."
+}

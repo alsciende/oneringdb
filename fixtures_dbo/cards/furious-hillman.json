@@ -1,0 +1,10 @@
+{
+    "id": "furious-hillman",
+    "title": "Furious Hillman",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Response:<\/keyword> If the Free Peoples player plays an event, spot another <symbol>men<\/symbol> Man and discard this minion from play to cancel that event."
+}

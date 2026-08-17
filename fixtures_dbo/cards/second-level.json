@@ -1,0 +1,10 @@
+{
+    "id": "second-level",
+    "title": "Second Level",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Fortification.<\/keyword> <br><keyword>Maneuver:<\/keyword> Exert a <symbol>gondor<\/symbol> Man or spot a ranger to transfer this condition from your support area to a minion."
+}

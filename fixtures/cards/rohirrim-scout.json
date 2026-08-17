@@ -1,0 +1,9 @@
+{
+    "id": "rohirrim-scout",
+    "title": "Rohirrim Scout",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Valiant.<\/keyword><br><keyword>Regroup:<\/keyword> Exert this companion and spot a <symbol>rohan<\/symbol> possession to return that possession to hand."
+}

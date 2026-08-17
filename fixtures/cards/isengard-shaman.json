@@ -1,0 +1,9 @@
+{
+    "id": "isengard-shaman",
+    "title": "Isengard Shaman",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 1,
+    "type": "minion",
+    "text": "<keyword>Response:<\/keyword> If an <symbol>isengard<\/symbol> Orc is about to take a wound, remove <symbol>twilight2<\/symbol> to prevent that wound. "
+}

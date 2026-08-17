@@ -1,0 +1,9 @@
+{
+    "id": "rally-point",
+    "title": "Rally Point",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "Plays to your support area.<br><keyword>Regroup:<\/keyword> Exert a knight to transfer a <symbol>gondor<\/symbol> fortification borne by a minion to your support area."
+}

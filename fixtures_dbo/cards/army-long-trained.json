@@ -1,0 +1,10 @@
+{
+    "id": "army-long-trained",
+    "title": "Army Long Trained",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": "Bearer must be an <symbol>elven<\/symbol> companion.<br> Each time bearer wins a skirmish, you may transfer this condition to another <symbol>elven<\/symbol> companion."
+}

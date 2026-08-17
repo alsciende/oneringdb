@@ -1,0 +1,9 @@
+{
+    "id": "roused",
+    "title": "Roused",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Exert an Ent to make him strength +1 for each Ent you spot (limit +4)."
+}

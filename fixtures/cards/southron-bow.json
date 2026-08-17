@@ -1,0 +1,9 @@
+{
+    "id": "southron-bow",
+    "title": "Southron Bow",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 3,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>raider<\/symbol> Man. <br>Bearer is an <keyword>archer.<\/keyword><br>While you can spot another <symbol>raider<\/symbol> Man, the minion archery total is +1. "
+}

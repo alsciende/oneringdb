@@ -1,0 +1,10 @@
+{
+    "id": "enraged-ai",
+    "title": "Enraged (AI)",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": "denizen-of-the-black-pit",
+    "title": "Denizen of the Black Pit",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "While this minion is at an underground site, it is strength +2."
+}

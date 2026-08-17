@@ -1,0 +1,10 @@
+{
+    "id": "dwarven-escort",
+    "title": "Dwarven Escort",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Dwarf",
+    "text": ""
+}

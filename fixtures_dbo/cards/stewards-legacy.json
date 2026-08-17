@@ -1,0 +1,10 @@
+{
+    "id": "stewards-legacy",
+    "title": "Stewards' Legacy",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

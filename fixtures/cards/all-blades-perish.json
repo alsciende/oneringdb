@@ -1,0 +1,9 @@
+{
+    "id": "all-blades-perish",
+    "title": "All Blades Perish",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Response:<\/keyword> If a Nazgûl is about to take a wound, prevent that wound."
+}

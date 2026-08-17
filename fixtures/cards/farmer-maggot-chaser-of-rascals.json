@@ -1,0 +1,9 @@
+{
+    "id": "farmer-maggot-chaser-of-rascals",
+    "title": "Farmer Maggot",
+    "subtitle": "Chaser of Rascals",
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "ally",
+    "text": "<keyword>Fellowship:<\/keyword> Exert Farmer Maggot to heal Merry or Pippin."
+}

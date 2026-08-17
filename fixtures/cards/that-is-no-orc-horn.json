@@ -1,0 +1,9 @@
+{
+    "id": "that-is-no-orc-horn",
+    "title": "That Is No Orc Horn",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Spot 3 Elf companions to heal a companion and liberate a site."
+}

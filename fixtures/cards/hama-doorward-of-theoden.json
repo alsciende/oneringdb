@@ -1,0 +1,9 @@
+{
+    "id": "hama-doorward-of-theoden",
+    "title": "Háma",
+    "subtitle": "Doorward of Théoden",
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "To play, spot a <symbol>rohan<\/symbol> Man. <keyword>Skirmish:<\/keyword> Exert Háma to discard a possession borne by a minion he is skirmishing."
+}

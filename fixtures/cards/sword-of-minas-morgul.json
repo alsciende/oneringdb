@@ -1,0 +1,9 @@
+{
+    "id": "sword-of-minas-morgul",
+    "title": "Sword of Minas Morgul",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 2,
+    "type": "possession",
+    "text": "Bearer must be Úlairë Lemenya.  <br>He is <keyword>damage +1.<\/keyword>  <br><keyword>Skirmish:<\/keyword> Exert Úlairë Lemenya to discard a possession borne by a character he is skirmishing."
+}

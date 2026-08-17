@@ -1,0 +1,9 @@
+{
+    "id": "ettenmoors",
+    "title": "Ettenmoors",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 2,
+    "type": "site",
+    "text": "<keyword>Plains.<\/keyword> <keyword>Skirmish:<\/keyword> Exert your companion or minion to make that character strength +2."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "escape",
+    "title": "Escape",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<keyword>Stealth.<\/keyword> Bearer must be an unbound Hobbit.  Limit 1 per character.  <br><keyword>Skirmish: <\/keyword>Exert bearer twice to cancel a skirmish involving him.  <br>Any Shadow player may remove <symbol>twilight1<\/symbol> to prevent this. "
+}

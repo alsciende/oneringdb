@@ -1,0 +1,9 @@
+{
+    "id": "swept-away",
+    "title": "Swept Away",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "Each time the fellowship moves, add a threat or discard this condition. <br>While you have initiative, exhausted <symbol>gondor<\/symbol> Wraiths cannot take wounds."
+}

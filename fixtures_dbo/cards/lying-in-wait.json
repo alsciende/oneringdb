@@ -1,0 +1,10 @@
+{
+    "id": "lying-in-wait",
+    "title": "Lying in Wait",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

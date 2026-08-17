@@ -1,0 +1,9 @@
+{
+    "id": "battle-tested",
+    "title": "Battle Tested",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "Make a Dwarf strength +2 (+4 if you spot a card stacked on a <symbol>dwarven<\/symbol> condition)."
+}

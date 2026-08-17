@@ -1,0 +1,9 @@
+{
+    "id": "stooping-to-the-kill",
+    "title": "Stooping to the Kill",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "While you have initiative, each of your <symbol>wraith<\/symbol> minions is <keyword>damage +1.<\/keyword> <br><keyword>Skirmish:<\/keyword> Discard this condition to make a <symbol>wraith<\/symbol> minion strength +2. "
+}

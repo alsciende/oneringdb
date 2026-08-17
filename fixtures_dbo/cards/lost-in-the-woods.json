@@ -1,0 +1,10 @@
+{
+    "id": "lost-in-the-woods",
+    "title": "Lost in the Woods",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

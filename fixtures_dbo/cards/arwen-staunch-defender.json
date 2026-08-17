@@ -1,0 +1,10 @@
+{
+    "id": "arwen-staunch-defender",
+    "title": "Arwen",
+    "subtitle": "Staunch Defender",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "Each minion skirmishing Arwen is strength \u20131 for each forest site on the adventure path. "
+}

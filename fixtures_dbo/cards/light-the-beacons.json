@@ -1,0 +1,10 @@
+{
+    "id": "light-the-beacons",
+    "title": "Light the Beacons",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "Exert Gandalf three times (or twice if you have initiative) to make all unbound companions of one culture (except <symbol>gandalf<\/symbol>) strength +3 until the regroup phase."
+}

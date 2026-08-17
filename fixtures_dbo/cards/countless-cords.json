@@ -1,0 +1,10 @@
+{
+    "id": "countless-cords",
+    "title": "Countless Cords",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Spot Shelob to make a minion strength +1 for each threat you can spot."
+}

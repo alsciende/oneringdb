@@ -1,0 +1,10 @@
+{
+    "id": "lorien-guardian",
+    "title": "Lorien Guardian",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": ""
+}

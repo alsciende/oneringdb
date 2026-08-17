@@ -1,0 +1,10 @@
+{
+    "id": "furious-uruk",
+    "title": "Furious Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword> While this minion is assigned to a skirmish, each companion and Free Peoples possession loses its special abilities."
+}

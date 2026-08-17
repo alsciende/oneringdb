@@ -1,0 +1,10 @@
+{
+    "id": "orc-slaughterer",
+    "title": "Orc Slaughterer",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Enduring.<\/keyword> <br>For each wound on this minion, it is strength +2. "
+}

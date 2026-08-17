@@ -1,0 +1,10 @@
+{
+    "id": "woodland-onod",
+    "title": "Woodland Onod",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Ent",
+    "text": "<keyword>Skirmish:<\/keyword> Discard a companion from hand to make an Ent strength +2."
+}

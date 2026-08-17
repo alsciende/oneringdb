@@ -1,0 +1,10 @@
+{
+    "id": "elendil-high-king-of-gondor",
+    "title": "Elendil",
+    "subtitle": "High-King of Gondor",
+    "culture": "Gondor",
+    "twilight_cost": 5,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": ""
+}

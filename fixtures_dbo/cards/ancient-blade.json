@@ -1,0 +1,10 @@
+{
+    "id": "ancient-blade",
+    "title": "Ancient Blade",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "Bearer must be an <symbol>elven<\/symbol> companion. <br>Each minion gains this ability: \u201c<keyword>Assignment:<\/keyword> Assign this minion to bearer of Ancient Blade.\u201d <keyword>Regroup:<\/keyword> Discard this condition to discard a minion and reconcile your hand."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "keep-your-forked-tongue",
+    "title": "Keep Your Forked Tongue",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Skirmish: <\/keyword>Spot Gandalf and 3 twilight tokens to prevent all wounds to a companion who has the Gandalf signet. "
+}

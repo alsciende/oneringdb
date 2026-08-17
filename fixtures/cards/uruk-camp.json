@@ -1,0 +1,9 @@
+{
+    "id": "uruk-camp",
+    "title": "Uruk Camp",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 1,
+    "type": "site",
+    "text": "<keyword>Plains.<\/keyword> <keyword>Battleground.<\/keyword> Each time an Uruk-hai is played, that minion must exert. "
+}

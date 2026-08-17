@@ -1,0 +1,9 @@
+{
+    "id": "gollum-vile-creature",
+    "title": "Gollum",
+    "subtitle": "Vile Creature",
+    "culture": "gollum",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Skirmish:<\/keyword> Exert Gollum twice or remove a threat to make him strength +2."
+}

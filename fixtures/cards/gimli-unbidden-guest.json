@@ -1,0 +1,9 @@
+{
+    "id": "gimli-unbidden-guest",
+    "title": "Gimli",
+    "subtitle": "Unbidden Guest",
+    "culture": "dwarven",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Damage +1.<\/keyword>  <br><keyword>Skirmish:<\/keyword> Exert Gimli to make an unbound companion strength +1 (or +2 if that companion is Legolas). "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "sweeter-meats",
+    "title": "Sweeter Meats",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Response",
+    "text": "If a minion is about to take a wound, spot Gollum to prevent that wound."
+}

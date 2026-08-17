@@ -1,0 +1,10 @@
+{
+    "id": "easterling-scout",
+    "title": "Easterling Scout",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Skirmish:<\/keyword> If this minion is skirmishing, discard this minion to play a <symbol>men<\/symbol> minion from your discard pile. That minion is <keyword>fierce<\/keyword> until the regroup phase."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "great-gate",
+    "title": "Great Gate",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Make a <symbol>gondor<\/symbol> companion strength +2 and, if you can spot 2 <symbol>gondor<\/symbol> fortifications, exert a minion that companion is skirmishing."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "ulaire-toldea-messenger-of-morgul",
+    "title": "Úlairë Toldëa",
+    "subtitle": "Messenger of Morgul",
+    "culture": "wraith",
+    "twilight_cost": 6,
+    "type": "minion",
+    "text": "<keyword>Fierce.<\/keyword>  <br><keyword>Assignment:<\/keyword> Spot 4 burdens to assign a companion (except the Ring-bearer) to skirmish Úlairë Toldëa."
+}

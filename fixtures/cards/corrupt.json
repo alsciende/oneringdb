@@ -1,0 +1,9 @@
+{
+    "id": "corrupt",
+    "title": "Corrupt",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Make a Nazgûl strength +1 for each Free Peoples culture you spot."
+}

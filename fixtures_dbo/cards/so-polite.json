@@ -1,0 +1,10 @@
+{
+    "id": "so-polite",
+    "title": "So Polite",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Play Gollum from your discard pile to add <symbol>twilight1<\/symbol> for each threat you spot."
+}

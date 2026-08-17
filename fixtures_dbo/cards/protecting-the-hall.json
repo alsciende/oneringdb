@@ -1,0 +1,10 @@
+{
+    "id": "protecting-the-hall",
+    "title": "Protecting the Hall",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 4,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<keyword>Toil 2.<\/keyword> (For each <symbol>rohan<\/symbol> character you exert when playing this, its twilight cost is \u20132.) Bearer must be a <symbol>rohan<\/symbol> Man. <br><keyword>Assignment:<\/keyword> Discard this condition from play to make bearer <keyword>defender +1.<\/keyword>"
+}

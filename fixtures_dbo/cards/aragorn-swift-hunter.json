@@ -1,0 +1,10 @@
+{
+    "id": "aragorn-swift-hunter",
+    "title": "Aragorn",
+    "subtitle": "Swift Hunter",
+    "culture": "Gondor",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Ranger. Hunter 1.<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +1.)<\/i><br><keyword>Skirmish:<\/keyword> Exert Aragorn to make a hunter companion strength +1."
+}

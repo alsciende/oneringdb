@@ -1,0 +1,9 @@
+{
+    "id": "an-able-guide",
+    "title": "An Able Guide",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Spot a ranger to remove <symbol>twilight4<\/symbol>."
+}

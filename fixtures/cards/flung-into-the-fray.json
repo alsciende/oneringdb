@@ -1,0 +1,9 @@
+{
+    "id": "flung-into-the-fray",
+    "title": "Flung Into the Fray",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "When you play a minion stacked here, you may exert a companion. <br><keyword>Regroup:<\/keyword> If no minion is stacked here, spot your <symbol>wraith<\/symbol> minon to stack it here. <br><keyword>Shadow:<\/keyword> Spot 2 <symbol>wraith<\/symbol> minions to play a <symbol>wraith<\/symbol> minion stacked here as if played from hand."
+}

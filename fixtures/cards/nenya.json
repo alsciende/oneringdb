@@ -1,0 +1,9 @@
+{
+    "id": "nenya",
+    "title": "Nenya",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 0,
+    "type": "artifact",
+    "text": "Bearer must be Galadriel. <br>At the start of each regroup phase, you may discard up to 2 cards from hand to draw the same number of cards. "
+}

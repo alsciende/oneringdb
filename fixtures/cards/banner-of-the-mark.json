@@ -1,0 +1,9 @@
+{
+    "id": "banner-of-the-mark",
+    "title": "Banner of the Mark",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>rohan<\/symbol> companion. Each time bearer wins a skirmish, you may exert a minion. <keyword>Response:<\/keyword> If bearer wins a skirmish, discard this possession to liberate a site."
+}

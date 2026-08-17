@@ -1,0 +1,10 @@
+{
+    "id": "saruman-rabble-rouser",
+    "title": "Saruman",
+    "subtitle": "Rabble-rouser",
+    "culture": "Dunland",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Wizard",
+    "text": "Saruman may not be assigned to a skirmish.  <br>Each time the fellowship moves, the Free Peoples player must exert a companion for each <symbol>dunland<\/symbol> Man you can spot.  <keyword>Skirmish: <\/keyword>Exert Saruman to make a <symbol>dunland<\/symbol> Man strength +2. "
+}

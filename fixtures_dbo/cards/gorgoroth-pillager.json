@@ -1,0 +1,10 @@
+{
+    "id": "gorgoroth-pillager",
+    "title": "Gorgoroth Pillager",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Besieger.<\/keyword> <br>While this minion is stacked on a site you control, besiegers are fierce."
+}

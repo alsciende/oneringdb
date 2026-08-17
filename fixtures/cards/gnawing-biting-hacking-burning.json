@@ -1,0 +1,9 @@
+{
+    "id": "gnawing-biting-hacking-burning",
+    "title": "Gnawing, Biting, Hacking, Burning",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "Each time a regroup action discards an <symbol>isengard<\/symbol> Orc, you may stack that Orc on this card. <keyword>Shadow:<\/keyword> Discard 2 cards stacked here and remove <symbol>twilight1<\/symbol>to play an <symbol>isengard<\/symbol> Orc from your discard pile."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "gondor-bowmen",
+    "title": "Gondor Bowmen",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

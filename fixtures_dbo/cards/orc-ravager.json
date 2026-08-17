@@ -1,0 +1,10 @@
+{
+    "id": "orc-ravager",
+    "title": "Orc Ravager",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "To play, spot a <symbol>sauron<\/symbol> minion. <br><keyword>Shadow:<\/keyword> Remove 2 threats to discard a condition. "
+}

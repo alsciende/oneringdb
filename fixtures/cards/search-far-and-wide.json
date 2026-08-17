@@ -1,0 +1,9 @@
+{
+    "id": "search-far-and-wide",
+    "title": "Search Far and Wide",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Fellowship:<\/keyword> Spot a Dwarf and discard the top card of your draw deck to draw 2 cards. "
+}

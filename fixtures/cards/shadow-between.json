@@ -1,0 +1,9 @@
+{
+    "id": "shadow-between",
+    "title": "Shadow Between",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "To play, spot an Elf. <br>At the start of your regroup phase, you may discard this condition or a card from hand to heal an Elf."
+}

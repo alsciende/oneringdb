@@ -1,0 +1,9 @@
+{
+    "id": "bilbo-s-pipe",
+    "title": "Bilbo's Pipe",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a Hobbit. <br><keyword>Fellowship:<\/keyword> Discard a pipeweed possession and spot X pipes to shuffle X tales from your discard pile into your draw deck."
+}

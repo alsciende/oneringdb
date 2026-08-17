@@ -1,0 +1,9 @@
+{
+    "id": "hate-and-anger",
+    "title": "Hate and Anger",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "<keyword>Shadow:<\/keyword> Spot an Uruk-hai and a <symbol>moria<\/symbol> minion to draw 3 cards. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "barbarous-orc",
+    "title": "Barbarous Orc",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

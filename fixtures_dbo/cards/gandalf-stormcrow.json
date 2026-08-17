@@ -1,0 +1,10 @@
+{
+    "id": "gandalf-stormcrow",
+    "title": "Gandalf",
+    "subtitle": "Stormcrow",
+    "culture": "Gandalf",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Wizard",
+    "text": ""
+}

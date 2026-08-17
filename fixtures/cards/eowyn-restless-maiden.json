@@ -1,0 +1,9 @@
+{
+    "id": "eowyn-restless-maiden",
+    "title": "Éowyn",
+    "subtitle": "Restless Maiden",
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Skirmish:<\/keyword> Discard a possession borne by Éowyn to make her strength +2."
+}

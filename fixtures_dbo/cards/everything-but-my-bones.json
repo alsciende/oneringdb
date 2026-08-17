@@ -1,0 +1,10 @@
+{
+    "id": "everything-but-my-bones",
+    "title": "Everything but My Bones",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "You may remove from the game 4 other <symbol>shire<\/symbol> cards in your discard pile to play this event from your discard pile. Then remove this event from the game.<br>Make your Hobbit at a dwelling or forest site strength +3."
+}

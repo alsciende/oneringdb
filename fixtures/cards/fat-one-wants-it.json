@@ -1,0 +1,9 @@
+{
+    "id": "fat-one-wants-it",
+    "title": "Fat One Wants It",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "Each time Gollum or Sméagol is played, add a threat. <br><keyword>Regroup:<\/keyword> Discard this condition to return Gollum to his owner’s hand."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "patrol-of-uruk-hai",
+    "title": "Patrol of Uruk-hai",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword> While this minion is skirmishing a Free Peoples character who has resistance 5 or less, this minion cannot take wounds."
+}

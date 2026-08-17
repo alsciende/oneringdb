@@ -1,0 +1,10 @@
+{
+    "id": "derufin",
+    "title": "Derufin",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Regroup:<\/keyword> While you have exactly 5 cards in hand, you may exert Derufin to discard an engine, machine, or possession."
+}

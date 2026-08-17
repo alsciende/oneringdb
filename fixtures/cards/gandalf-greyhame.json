@@ -1,0 +1,9 @@
+{
+    "id": "gandalf-greyhame",
+    "title": "Gandalf",
+    "subtitle": "Greyhame",
+    "culture": "gandalf",
+    "twilight_cost": 4,
+    "type": "companion",
+    "text": "<keyword>Fellowship:<\/keyword> If the twilight pool has fewer than 2 twilight tokens, add <symbol>twilight2<\/symbol> to play a character from your discard pile. "
+}

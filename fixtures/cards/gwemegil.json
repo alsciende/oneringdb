@@ -1,0 +1,9 @@
+{
+    "id": "gwemegil",
+    "title": "Gwemegil",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "possession",
+    "text": "Bearer must be Arwen. <br>She is <keyword>damage +1<\/keyword>. <br><keyword>Skirmish:<\/keyword> Exert Arwen or discard 2 cards from hand to make her strength +1."
+}

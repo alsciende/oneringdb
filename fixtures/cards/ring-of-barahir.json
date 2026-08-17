@@ -1,0 +1,9 @@
+{
+    "id": "ring-of-barahir",
+    "title": "Ring of Barahir",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "artifact",
+    "text": "Bearer must be Aragorn. At the start of each of your turns, you may spot a culture token to heal a companion of that culture."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "host-of-udun",
+    "title": "Host of Ud\u00fbn",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 10,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "When you play Host of Ud\u00fbn, you may remove X threats to make its twilight cost \u2013X."
+}

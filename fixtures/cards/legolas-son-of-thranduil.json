@@ -1,0 +1,9 @@
+{
+    "id": "legolas-son-of-thranduil",
+    "title": "Legolas",
+    "subtitle": "Son of Thranduil",
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Archer.<\/keyword>  <br>While Legolas is at a river or forest, add 1 to the fellowship archery total. "
+}

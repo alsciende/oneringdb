@@ -1,0 +1,9 @@
+{
+    "id": "westfarthing",
+    "title": "Westfarthing",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "site",
+    "text": "<keyword>Fellowship:<\/keyword> Exert a Hobbit to play a companion or ally; that character’s twilight cost is -1."
+}

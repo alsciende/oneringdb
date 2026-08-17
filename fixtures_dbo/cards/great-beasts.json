@@ -1,0 +1,10 @@
+{
+    "id": "great-beasts",
+    "title": "Great Beasts",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot a <symbol>raider<\/symbol> Man. <br><keyword>Regroup:<\/keyword> Remove <symbol>twilight9<\/symbol> and spot 3 <symbol>raider<\/symbol> Men to make the move limit \u20131."
+}

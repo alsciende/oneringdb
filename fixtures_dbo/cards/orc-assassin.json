@@ -1,0 +1,10 @@
+{
+    "id": "orc-assassin",
+    "title": "Orc Assassin",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Tracker.<\/keyword> <br>The roaming penalty for each <symbol>sauron<\/symbol> minion you play is -1.  <br><keyword>Assignment:<\/keyword> Spot two Hobbit companions to make the Free Peoples player assign a Hobbit to skirmish this minion."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "damrod-dunadan-of-gondor",
+    "title": "Damrod",
+    "subtitle": "Dunadan of Gondor",
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Ranger. Hunter 1.<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +1.)<\/i><br>At the start of each fellowship phase, you may add <symbol>twilight1<\/symbol> to heal a ranger."
+}

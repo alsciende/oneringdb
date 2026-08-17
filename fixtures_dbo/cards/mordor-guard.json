@@ -1,0 +1,10 @@
+{
+    "id": "mordor-guard",
+    "title": "Mordor Guard",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Skirmish:<\/keyword> Exert 3 <symbol>sauron<\/symbol> Orcs to add 3 threats. <br>When this minion is discarded, remove 3 threats."
+}

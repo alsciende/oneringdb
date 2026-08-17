@@ -1,0 +1,10 @@
+{
+    "id": "surrendered-weapons",
+    "title": " Surrendered Weapons",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time the fellowship moves, you may spot a <symbol>rohan<\/symbol> companion to discard a possession a character is bearing from play.<br><keyword>Skirmish:<\/keyword> Add <symbol>twilight1<\/symbol> to transfer a <symbol>rohan<\/symbol> possession borne by a companion to another eligible bearer."
+}

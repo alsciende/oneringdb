@@ -1,0 +1,10 @@
+{
+    "id": "city-of-the-dead",
+    "title": "City of the Dead",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 4,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Underground.<\/keyword> <keyword>Shadow:<\/keyword> Remove 2 burdens to play an enduring minion from your draw deck or discard pile."
+}

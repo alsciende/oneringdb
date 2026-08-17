@@ -1,0 +1,10 @@
+{
+    "id": "regiment-of-haradrim",
+    "title": "Regiment of Haradrim",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 8,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Southron.<\/keyword>To play, spot a <symbol>raider<\/symbol> Man.  <br><keyword>Regroup:<\/keyword> Exert Regiment of Haradrim twice to take control of a site. "
+}

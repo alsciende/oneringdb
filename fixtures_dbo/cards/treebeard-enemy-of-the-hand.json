@@ -1,0 +1,10 @@
+{
+    "id": "treebeard-enemy-of-the-hand",
+    "title": "Treebeard",
+    "subtitle": "Enemy of the Hand",
+    "culture": "Gandalf",
+    "twilight_cost": 5,
+    "type": "Companion",
+    "subtype": "Ent",
+    "text": ""
+}

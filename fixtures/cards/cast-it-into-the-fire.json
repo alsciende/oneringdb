@@ -1,0 +1,9 @@
+{
+    "id": "cast-it-into-the-fire",
+    "title": "Cast It Into the Fire!",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Spot an Elf to make each opponent discard a card from his or her hand.  Draw a card for each card discarded in this way. "
+}

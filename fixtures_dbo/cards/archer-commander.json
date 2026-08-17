@@ -1,0 +1,10 @@
+{
+    "id": "archer-commander",
+    "title": "Archer Commander",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

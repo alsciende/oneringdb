@@ -1,0 +1,10 @@
+{
+    "id": "echoes-of-valinor",
+    "title": "Echoes of Valinor",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time Gandalf wins a skirmish, you may exert him to draw 2 cards."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "theoden-lord-of-the-mark",
+    "title": "Theoden",
+    "subtitle": "Lord of the Mark",
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Fellowship:<\/keyword> Play a <symbol>rohan<\/symbol> possession on a <symbol>rohan<\/symbol> companion to heal that companion (limit once per turn). "
+}

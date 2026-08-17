@@ -1,0 +1,9 @@
+{
+    "id": "thandronen-veteran-protector",
+    "title": "Thandronen",
+    "subtitle": "Veteran Protector",
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "To play, spot an Elf.  <br><keyword>Regroup:<\/keyword> Exert Thandronen to discard a minion stacked on a condition or stacked on a site. "
+}

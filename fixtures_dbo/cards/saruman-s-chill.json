@@ -1,0 +1,10 @@
+{
+    "id": "saruman-s-chill",
+    "title": "Saruman's Chill",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<keyword>Spell.<\/keyword> <keyword>Weather.<\/keyword> To play, exert a <symbol>isengard<\/symbol> minion. Plays on a site. Limit 1 per site.  <br>Each Hobbit who moves from this site must exert.  Discard this condition at the end of the turn."
+}

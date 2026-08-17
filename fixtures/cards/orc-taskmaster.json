@@ -1,0 +1,9 @@
+{
+    "id": "orc-taskmaster",
+    "title": "Orc Taskmaster",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Shadow:<\/keyword> Exert this minion to add <symbol>twilight1<\/symbol>. "
+}

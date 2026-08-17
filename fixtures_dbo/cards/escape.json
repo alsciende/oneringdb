@@ -1,0 +1,10 @@
+{
+    "id": "escape",
+    "title": "Escape",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

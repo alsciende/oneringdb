@@ -1,0 +1,10 @@
+{
+    "id": "field-of-the-fallen",
+    "title": "Field of the Fallen",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot a <symbol>raider<\/symbol> Man. While there is a character in the dead pile, each companion of the same culture as that character is strength \u20131. <br><keyword>Skirmish:<\/keyword> Exert your Southron to make him strength +1. "
+}

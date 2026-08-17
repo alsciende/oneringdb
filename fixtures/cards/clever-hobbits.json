@@ -1,0 +1,9 @@
+{
+    "id": "clever-hobbits",
+    "title": "Clever Hobbits",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "Discard any number of <symbol>gollum<\/symbol> conditions. For each condition discarded, make Sméagol strength +3 and <keyword>damage +1<\/keyword>."
+}

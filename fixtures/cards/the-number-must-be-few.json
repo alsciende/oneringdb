@@ -1,0 +1,9 @@
+{
+    "id": "the-number-must-be-few",
+    "title": "The Number Must Be Few",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "<keyword>Search.<\/keyword>  While you can spot 7 companions, the move limit for this turn is -1 (to a minimum of 1)."
+}

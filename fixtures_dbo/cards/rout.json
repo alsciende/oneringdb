@@ -1,0 +1,10 @@
+{
+    "id": "rout",
+    "title": "Rout",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot a <symbol>raider<\/symbol> Man. <br>Each time the fellowship moves, the Free Peoples player must exert 2 companions if you have initiative."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "rohirrim-recruit",
+    "title": "Rohirrim Recruit",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Valiant.<\/keyword><br>While you can spot a <symbol>rohan<\/symbol> token, this companion is strength +2."
+}

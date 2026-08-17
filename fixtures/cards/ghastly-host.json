@@ -1,0 +1,9 @@
+{
+    "id": "ghastly-host",
+    "title": "Ghastly Host",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "<keyword>Shadow:<\/keyword> Spot a Nazgûl and remove a threat to play a Nazgûl. Its twilight cost is –2."
+}

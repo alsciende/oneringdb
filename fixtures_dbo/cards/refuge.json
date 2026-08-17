@@ -1,0 +1,10 @@
+{
+    "id": "refuge",
+    "title": "Refuge",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

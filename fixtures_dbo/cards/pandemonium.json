@@ -1,0 +1,10 @@
+{
+    "id": "pandemonium",
+    "title": "Pandemonium",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Play a <symbol>men<\/symbol> minion stacked on a <symbol>men<\/symbol> possession as if from hand."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "quickbeam-hastiest-of-all-ents",
+    "title": "Quickbeam",
+    "subtitle": "Hastiest of All Ents",
+    "culture": "Gandalf",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Ent",
+    "text": "Quickbeam is twilight cost -1 for each Ent you can spot.<br><keyword>Maneuver:<\/keyword> Discard this companion to place another <symbol>gandalf<\/symbol> companion from your discard pile on the bottom of your draw deck and reinforce a <symbol>gandalf<\/symbol> token."
+}

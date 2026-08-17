@@ -1,0 +1,9 @@
+{
+    "id": "uruk-guard",
+    "title": "Uruk Guard",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Damage +1<\/keyword>.  <br><keyword>Assignment:<\/keyword> Exert this minion and spot a companion to prevent the opponent from assigning that companion to this minion."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "uruk-searcher",
+    "title": "Uruk Searcher",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Tracker.<\/keyword> <keyword>Fierce.<\/keyword><br>While skirmishing a character bearing a search card, this minion is strength +2 and <keyword>damage +1<\/keyword>. "
+}

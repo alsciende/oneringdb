@@ -1,0 +1,10 @@
+{
+    "id": "denizen-of-khazad-dum",
+    "title": "Denizen of Khazad-d\u00fbm",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "While this minion is at an underground site, it is strength +2."
+}

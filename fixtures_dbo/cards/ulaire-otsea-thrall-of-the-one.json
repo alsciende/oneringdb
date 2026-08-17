@@ -1,0 +1,10 @@
+{
+    "id": "ulaire-otsea-thrall-of-the-one",
+    "title": "\u00dalair\u00eb Ots\u00eba",
+    "subtitle": "Thrall of the One",
+    "culture": "Wraith",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Enduring.<\/keyword> <keyword>Fierce.<\/keyword> <br><keyword>Regroup:<\/keyword> Discard \u00dalair\u00eb Ots\u00eba to add <symbol>twilightX<\/symbol>, where X is the current site number."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "a-fell-voice-on-the-air",
+    "title": "A Fell Voice on the Air",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<br><keyword>Shadow:<\/keyword> Exert Saruman to play an <symbol>isengard<\/symbol> weather condition from your discard pile.  Its twilight cost is -2. "
+}

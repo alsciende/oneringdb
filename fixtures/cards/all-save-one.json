@@ -1,0 +1,9 @@
+{
+    "id": "all-save-one",
+    "title": "All Save One",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "Make Gandalf strength +2 (or +4 and <keyword>damage +1<\/keyword> if you have initiative)."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "narsil-blade-of-the-faithful",
+    "title": "Narsil",
+    "subtitle": "Blade of the Faithful",
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Artifact",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man. <br>If bearer is Elendil or Isildur, he is strength +1 for each <symbol>gondor<\/symbol> artifact you can spot (limit +6). <br><keyword>Response:<\/keyword> If bearer is about to take a wound, exert 2 <symbol>gondor<\/symbol> Men to prevent that. "
+}

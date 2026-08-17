@@ -1,0 +1,9 @@
+{
+    "id": "berserk-slayer",
+    "title": "Berserk Slayer",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 7,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword><br>Berserk Slayer is strength +2 for each wound on a character in its skirmish. <br><keyword>Skirmish:<\/keyword> Remove 5 <symbol>isengard<\/symbol> tokens from a machine and exert Berserk Slayer twice to wound every companion."
+}

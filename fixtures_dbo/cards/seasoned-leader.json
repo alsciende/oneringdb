@@ -1,0 +1,10 @@
+{
+    "id": "seasoned-leader",
+    "title": "Seasoned Leader",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": "Bearer must be a Southron. Bearer is <keyword>Enduring.<\/keyword> <br><keyword>Skirmish:<\/keyword> Remove a threat to play a <symbol>raider<\/symbol> condition from your discard pile. "
+}

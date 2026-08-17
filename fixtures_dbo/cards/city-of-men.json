@@ -1,0 +1,10 @@
+{
+    "id": "city-of-men",
+    "title": "City of Men",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make a <symbol>gondor<\/symbol> Man strength +2. If that Man is skirmishing a <symbol>sauron<\/symbol> minion, discard that minion at the end of the skirmish."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "gandalf-s-staff",
+    "title": "Gandalf's Staff",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 2,
+    "type": "artifact",
+    "text": "Bearer must be Gandalf.  <br>The twilight cost of each <symbol>gandalf<\/symbol> spell is -1.  <br><keyword>Skirmish:<\/keyword> Exert Gandalf twice to cancel a skirmish involving him. "
+}

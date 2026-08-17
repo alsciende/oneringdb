@@ -1,0 +1,9 @@
+{
+    "id": "rider-of-rohan",
+    "title": "Rider of Rohan",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Skirmish:<\/keyword> If this companion is mounted, exert him to exert a minion skirmishing an unbound companion. "
+}

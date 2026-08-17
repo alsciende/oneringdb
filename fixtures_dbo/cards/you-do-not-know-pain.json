@@ -1,0 +1,10 @@
+{
+    "id": "you-do-not-know-pain",
+    "title": "You Do Not Know Pain",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time you take control of a site, you may spot 3 <symbol>urukhai<\/symbol> minions to exert an unbound companion.<br><keyword>Skirmish:<\/keyword> Liberate a site to make an <symbol>urukhai<\/symbol> minion <keyword>damage +1<\/keyword>."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "shadowfax",
+    "title": "Shadowfax",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Mount",
+    "text": "Bearer must be Gandalf. Discard any hand weapon he bears.<br>Gandalf may not bear a hand weapon.<br>At the start of each skirmish involving Gandalf, each minion skirmishing him must exert. "
+}

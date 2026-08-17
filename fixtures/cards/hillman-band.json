@@ -1,0 +1,9 @@
+{
+    "id": "hillman-band",
+    "title": "Hillman Band",
+    "subtitle": null,
+    "culture": "dunland",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "Each time the fellowship moves, you may spot another <symbol>dunland<\/symbol> Man to take control of a site. "
+}

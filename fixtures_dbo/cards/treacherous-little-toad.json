@@ -1,0 +1,10 @@
+{
+    "id": "treacherous-little-toad",
+    "title": "Treacherous Little Toad",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": "To play, spot a <symbol>gollum<\/symbol> card. <br>Bearer must be a wounded companion. <br>While you can spot a <symbol>gollum<\/symbol> character or a <symbol>gollum<\/symbol>\u00a0card in your support area, bearer cannot heal."
+}

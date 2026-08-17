@@ -1,0 +1,10 @@
+{
+    "id": "preparations",
+    "title": "Preparations",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Regroup:<\/keyword> Exert a Dwarf companion to stack a card from your discard pile here. <br><keyword>Skirmish:<\/keyword> Wound a minion skirmishing a Dwarf once for each <symbol>dwarven<\/symbol> card stacked here. Discard this condition."
+}

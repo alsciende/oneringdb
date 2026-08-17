@@ -1,0 +1,10 @@
+{
+    "id": "strength-of-arms",
+    "title": "Strength of Arms",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

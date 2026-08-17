@@ -1,0 +1,10 @@
+{
+    "id": "orkish-ax",
+    "title": "Orkish Ax",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be an <symbol>orc<\/symbol> Orc.<br>Each time bearer wins a skirmish, you may add a threat."
+}

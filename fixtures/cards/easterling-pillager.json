@@ -1,0 +1,9 @@
+{
+    "id": "easterling-pillager",
+    "title": "Easterling Pillager",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 5,
+    "type": "minion",
+    "text": "<keyword>Easterling.<\/keyword> <keyword>Fierce.<\/keyword> <br>When you play this minion, you may spot another Easterling to add a burden for each companion over 5."
+}

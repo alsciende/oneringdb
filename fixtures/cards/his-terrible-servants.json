@@ -1,0 +1,9 @@
+{
+    "id": "his-terrible-servants",
+    "title": "His Terrible Servants",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "<br><keyword>Response:<\/keyword> If a twilight Nazgûl is about to take a wound, remove <symbol>twilight1<\/symbol> to prevent that wound. "
+}

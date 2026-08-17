@@ -1,0 +1,9 @@
+{
+    "id": "uruk-ravager",
+    "title": "Uruk Ravager",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword>  <br>When you play this minion, you may spot Saruman to add <symbol>twilight2<\/symbol>. "
+}

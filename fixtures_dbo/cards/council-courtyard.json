@@ -1,0 +1,10 @@
+{
+    "id": "council-courtyard",
+    "title": "Council Courtyard",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "Site",
+    "subtype": "Sanctuary",
+    "text": "<keyword>Sanctuary.<\/keyword> When the fellowship moves from Council Courtyard, remove <symbol>twilight2<\/symbol>."
+}

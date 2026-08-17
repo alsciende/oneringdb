@@ -1,0 +1,10 @@
+{
+    "id": "line-of-defense",
+    "title": "Line of Defense",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 3,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "While you can spot a mounted <symbol>raider<\/symbol> Man, <symbol>raider<\/symbol> Men cannot take wounds (except during skirmishes)."
+}

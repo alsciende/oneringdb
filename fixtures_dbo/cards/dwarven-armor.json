@@ -1,0 +1,10 @@
+{
+    "id": "dwarven-armor",
+    "title": "Dwarven Armor",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 0,
+    "type": "Possession",
+    "subtype": "Armor",
+    "text": "Bearer must be a Dwarf. <br>Bearer may not be overwhelmed unless his or her strength is tripled."
+}

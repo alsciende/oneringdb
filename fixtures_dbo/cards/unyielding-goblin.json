@@ -1,0 +1,10 @@
+{
+    "id": "unyielding-goblin",
+    "title": "Unyielding Goblin",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Skirmish:<\/keyword> If this minion is at an underground site, exert it to exert a companion it is skirmishing. "
+}

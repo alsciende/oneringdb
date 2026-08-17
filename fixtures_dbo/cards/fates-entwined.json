@@ -1,0 +1,10 @@
+{
+    "id": "fates-entwined",
+    "title": "Fates Entwined",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time a Hobbit wins a skirmish, you may heal another Hobbit once (or heal another Hobbit twice if the Hobbit that won the skirmish was Frodo or Bilbo)."
+}

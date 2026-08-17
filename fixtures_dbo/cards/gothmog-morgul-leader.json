@@ -1,0 +1,10 @@
+{
+    "id": "gothmog-morgul-leader",
+    "title": "Gothmog",
+    "subtitle": "Morgul Leader",
+    "culture": "Orc",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each the fellowship and minion archery totals are +3.<br><keyword>Regroup:<\/keyword> Remove <symbol>twilight2<\/symbol> to play an <symbol>orc<\/symbol> minion from your discard pile."
+}

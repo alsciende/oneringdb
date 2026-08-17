@@ -1,0 +1,9 @@
+{
+    "id": "boromir-my-brother",
+    "title": "Boromir, My Brother",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "Bearer must be Faramir.<br><keyword>Skirmish:<\/keyword> Discard a <symbol>gondor<\/symbol> card from hand to make a Ring-bound Man strength +1. "
+}

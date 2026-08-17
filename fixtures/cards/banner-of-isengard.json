@@ -1,0 +1,9 @@
+{
+    "id": "banner-of-isengard",
+    "title": "Banner of Isengard",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "Bearer must be an <symbol>isengard<\/symbol> minion. Each time bearer wins a skirmish, the Free Peoples player must exert a companion for each site you control."
+}

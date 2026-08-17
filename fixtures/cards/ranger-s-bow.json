@@ -1,0 +1,9 @@
+{
+    "id": "ranger-s-bow",
+    "title": "Ranger's Bow",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a Ring-bound Man.<br><keyword>Skirmish:<\/keyword> If bearer is skirmishing a Man or a roaming minion, exert bearer to wound that minion. "
+}

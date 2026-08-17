@@ -1,0 +1,9 @@
+{
+    "id": "olog-hai-of-mordor",
+    "title": "Olog-hai of Mordor",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 10,
+    "type": "minion",
+    "text": "<keyword>Besieger.<\/keyword> <keyword>Fierce.<\/keyword> <br>The twilight cost of this minion is –2 for each <symbol>sauron<\/symbol> minion stacked on a site. <br>Each time this minion wins a skirmish, you may play a besieger stacked on a site you control. That besieger is fierce and <keyword>damage +1<\/keyword> until the regroup phase."
+}

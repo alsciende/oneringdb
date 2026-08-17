@@ -1,0 +1,9 @@
+{
+    "id": "tower-of-barad-dur",
+    "title": "Tower of Barad-dûr",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "To play, exert a <symbol>sauron<\/symbol> minion.  <br>Each time the fellowship moves, the Free Peoples player must discard a card from hand. "
+}

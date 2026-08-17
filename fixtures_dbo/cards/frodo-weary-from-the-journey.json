@@ -1,0 +1,10 @@
+{
+    "id": "frodo-weary-from-the-journey",
+    "title": "Frodo",
+    "subtitle": "Weary From the Journey",
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Ring-bearer. Ring-bound.<\/keyword><br>While skirmishing a minion of strength 8 or less, Frodo is strength +2."
+}

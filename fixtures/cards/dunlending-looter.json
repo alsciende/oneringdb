@@ -1,0 +1,9 @@
+{
+    "id": "dunlending-looter",
+    "title": "Dunlending Looter",
+    "subtitle": null,
+    "culture": "dunland",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "When this minion wins a skirmish, you may stack him on a site you control. <br><keyword>Shadow:<\/keyword> If stacked on a site you control, play this minion. His twilight cost is -2. "
+}

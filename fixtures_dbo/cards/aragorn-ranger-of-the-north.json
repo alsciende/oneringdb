@@ -1,0 +1,10 @@
+{
+    "id": "aragorn-ranger-of-the-north",
+    "title": "Aragorn",
+    "subtitle": "Ranger of the North",
+    "culture": "Gondor",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Ranger.<\/keyword> <br><keyword>Maneuver:<\/keyword> Exert Aragorn to make him <keyword>defender +1<\/keyword> until the regroup phase."
+}

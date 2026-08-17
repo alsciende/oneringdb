@@ -1,0 +1,9 @@
+{
+    "id": "change-of-plans",
+    "title": "Change of Plans",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Exert a ranger to make an opponent shuffle his or her hand into his or her draw deck and draw 8 cards."
+}

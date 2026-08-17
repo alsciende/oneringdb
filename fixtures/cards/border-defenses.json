@@ -1,0 +1,9 @@
+{
+    "id": "border-defenses",
+    "title": "Border Defenses",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make an Elf strength +2 (or +4 if skirmishing an archer)."
+}

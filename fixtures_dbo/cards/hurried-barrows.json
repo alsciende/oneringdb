@@ -1,0 +1,10 @@
+{
+    "id": "hurried-barrows",
+    "title": "Hurried Barrows",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

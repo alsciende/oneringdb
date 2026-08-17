@@ -1,0 +1,9 @@
+{
+    "id": "with-strength-to-fight",
+    "title": "With Strength to Fight",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "To play, spot a <symbol>rohan<\/symbol> companion. <br>Each time the fellowship moves, add a threat or discard this condition. <br><keyword>Regroup:<\/keyword> Discard this condition to heal up to 2 <symbol>rohan<\/symbol> companions."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "aiglos",
+    "title": "Aiglos",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Artifact",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be an Elf. <br>If bearer is Gil-galad, he is strength +1 for each <symbol>elven<\/symbol> artifact you can spot (limit +6). <br><keyword>Regroup:<\/keyword> Discard Aiglos to wound a minion for each Elf you spot. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "sirannon-ruins",
+    "title": "Sirannon Ruins",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 4,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>River.<\/keyword>"
+}

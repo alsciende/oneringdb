@@ -1,0 +1,10 @@
+{
+    "id": "ent-draught",
+    "title": "Ent Draught",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": "To play, spot an Ent. <br>Bearer must be a companion. Limit 1 per bearer. <br><keyword>Skirmish:<\/keyword> Exert bearer to make him or her damage +1. "
+}

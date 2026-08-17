@@ -1,0 +1,9 @@
+{
+    "id": "orc-inquisitor",
+    "title": "Orc Inquisitor",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "When you play this minion, you may make the Free Peoples player discard a card at random from hand."
+}

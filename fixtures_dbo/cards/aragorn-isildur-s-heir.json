@@ -1,0 +1,10 @@
+{
+    "id": "aragorn-isildur-s-heir",
+    "title": "Aragorn",
+    "subtitle": "Isildur's Heir",
+    "culture": "Gondor",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "Aragorn is strength +1 for each <symbol>gondor<\/symbol> card that has a culture token on it.<br>At the start of each assignment phase, you may exert Aragorn to make an unbound companion that has resistance 7 or more <keyword>defender +1<\/keyword> until the regroup phase."
+}

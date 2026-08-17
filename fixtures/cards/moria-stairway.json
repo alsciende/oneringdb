@@ -1,0 +1,9 @@
+{
+    "id": "moria-stairway",
+    "title": "Moria Stairway",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 2,
+    "type": "site",
+    "text": "<keyword>Underground.<\/keyword>  Each companion and minion bearing a hand weapon is <keyword>damage +1<\/keyword>."
+}

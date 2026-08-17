@@ -1,0 +1,9 @@
+{
+    "id": "citadel-of-minas-tirith",
+    "title": "Citadel of Minas Tirith",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": " <br>You may heal a <symbol>gondor<\/symbol> companion at the end of each turn during which no companion or ally lost a skirmish. "
+}

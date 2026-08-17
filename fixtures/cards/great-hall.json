@@ -1,0 +1,9 @@
+{
+    "id": "great-hall",
+    "title": "Great Hall",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 3,
+    "type": "site",
+    "text": "<keyword>Sanctuary.<\/keyword> <keyword>Battleground.<\/keyword>Each <symbol>rohan<\/symbol> ally may participate in archery fire and skirmishes at Great Hall. "
+}

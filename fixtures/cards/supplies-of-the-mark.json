@@ -1,0 +1,9 @@
+{
+    "id": "supplies-of-the-mark",
+    "title": "Supplies of the Mark",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<br><keyword>Fellowship:<\/keyword> Add <symbol>twilight2<\/symbol> and place a villager from hand beneath your draw deck to heal a <symbol>rohan<\/symbol> ally. "
+}

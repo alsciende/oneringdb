@@ -1,0 +1,10 @@
+{
+    "id": "a-defiled-charge",
+    "title": "A Defiled Charge",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, exert your mounted <symbol>orc<\/symbol> Orc.<br>Each time the Free Peoples player assigns a mounted <symbol>orc<\/symbol> Orc to a companion, he or she must choose to either exert that companion or add <symbol>twilight2<\/symbol>."
+}

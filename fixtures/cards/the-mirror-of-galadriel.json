@@ -1,0 +1,9 @@
+{
+    "id": "the-mirror-of-galadriel",
+    "title": "The Mirror of Galadriel",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "possession",
+    "text": "Each Elf ally whose home is site 6 is strength +1. <br><keyword>Maneuever:<\/keyword> If an opponent has at least 7 cards in hand, exert Galadriel to look at 2 of those cards at random. Discard one and replace the other."
+}

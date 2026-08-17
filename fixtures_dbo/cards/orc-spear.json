@@ -1,0 +1,10 @@
+{
+    "id": "orc-spear",
+    "title": "Orc Spear",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": ""
+}

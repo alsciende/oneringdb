@@ -1,0 +1,10 @@
+{
+    "id": "grim-trophy",
+    "title": "Grim Trophy",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make a <symbol>rohan<\/symbol> Man strength +1 for each hunter you can spot (or if you can spot more valiant Men than hunters, make a <symbol>rohan<\/symbol> Man strength +1 for each valiant Man you can spot)."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "shadowfax-unequaled-steed",
+    "title": "Shadowfax",
+    "subtitle": "Unequaled Steed",
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Mount",
+    "text": "Bearer must be Gandalf. <br>Each time Gandalf is about to take a wound, you may add a burden to prevent that. "
+}

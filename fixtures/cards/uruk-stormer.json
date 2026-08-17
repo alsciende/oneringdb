@@ -1,0 +1,9 @@
+{
+    "id": "uruk-stormer",
+    "title": "Uruk Stormer",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword>  <br>Each time a companion or ally is killed during a skirmish involving an Uruk-hai, you may take control of a site. "
+}

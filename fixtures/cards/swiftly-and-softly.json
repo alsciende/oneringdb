@@ -1,0 +1,9 @@
+{
+    "id": "swiftly-and-softly",
+    "title": "Swiftly and Softly",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Stealth.<\/keyword>  <br><keyword>Skirmish:<\/keyword> At sites 1<symbol>tower<\/symbol> to 5<symbol>tower<\/symbol>, cancel a skirmish involving a Hobbit.  At any other site, prevent a Hobbit from taking more than 1 wound. "
+}

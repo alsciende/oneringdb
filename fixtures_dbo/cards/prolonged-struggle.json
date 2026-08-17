@@ -1,0 +1,10 @@
+{
+    "id": "prolonged-struggle",
+    "title": "Prolonged Struggle",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

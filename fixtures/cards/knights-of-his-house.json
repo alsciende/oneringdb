@@ -1,0 +1,9 @@
+{
+    "id": "knights-of-his-house",
+    "title": "Knights of His House",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "Choose an opponent. For each mounted companion you spot, that opponent must remove <symbol>twilight1<\/symbol> or place a random card from hand beneath his or her draw deck."
+}

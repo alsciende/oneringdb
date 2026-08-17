@@ -1,0 +1,10 @@
+{
+    "id": "haldir-warrior-messenger",
+    "title": "Haldir",
+    "subtitle": "Warrior Messenger",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "<keyword>Skirmish:<\/keyword> Exert Haldir or discard a <symbol>elven<\/symbol> card from hand to make a minion skirmishing Haldir strength -2."
+}

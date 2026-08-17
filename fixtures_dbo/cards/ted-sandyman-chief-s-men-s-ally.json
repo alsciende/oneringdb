@@ -1,0 +1,10 @@
+{
+    "id": "ted-sandyman-chief-s-men-s-ally",
+    "title": "Ted Sandyman",
+    "subtitle": "Chief's Men's Ally",
+    "culture": "Men",
+    "twilight_cost": 1,
+    "type": "Minion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Maneuver:<\/keyword> Liberate a site you control to make each <symbol>men<\/symbol> minion strength +2 until the regroup phase.<br><keyword>Regroup:<\/keyword> Exert Ted Sandyman to stack a <symbol>men<\/symbol> Man in play on a possession."
+}

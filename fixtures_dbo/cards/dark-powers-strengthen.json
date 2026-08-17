@@ -1,0 +1,10 @@
+{
+    "id": "dark-powers-strengthen",
+    "title": "Dark Powers Strengthen",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 6,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "<keyword>Toil 2.<\/keyword> (For each <symbol>wraith<\/symbol> character you exert when playing this, its twilight cost is \u20132.) Spot a Nazg\u00fbl to draw 3 cards."
+}

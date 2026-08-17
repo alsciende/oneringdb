@@ -1,0 +1,9 @@
+{
+    "id": "isengard-mechanics",
+    "title": "Isengard Mechanics",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 6,
+    "type": "minion",
+    "text": "<keyword>Regroup:<\/keyword> Discard an <symbol>isengard<\/symbol> Orc to make the Free Peoples player wound a companion (or 2 companions if you spot 6 companions). <keyword>Regroup:<\/keyword> If this minion is stacked on an <symbol>isengard<\/symbol> card, spot an <symbol>isengard<\/symbol> Orc and discard this minion to add <symbol>twilight3<\/symbol>."
+}

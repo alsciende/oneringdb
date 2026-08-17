@@ -1,0 +1,9 @@
+{
+    "id": "sorry-about-everything",
+    "title": "Sorry About Everything",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Fellowship:<\/keyword> Exert a Hobbit companion to remove a burden."
+}

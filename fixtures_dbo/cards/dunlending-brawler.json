@@ -1,0 +1,10 @@
+{
+    "id": "dunlending-brawler",
+    "title": "Dunlending Brawler",
+    "subtitle": null,
+    "culture": "Dunland",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": ""
+}

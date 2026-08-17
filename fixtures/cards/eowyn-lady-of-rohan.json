@@ -1,0 +1,9 @@
+{
+    "id": "eowyn-lady-of-rohan",
+    "title": "Éowyn",
+    "subtitle": "Lady of Rohan",
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Valiant.<\/keyword><br><keyword>Response:<\/keyword> If an unbound companion is about to take a wound, exert Éowyn and add <symbol>twilight1<\/symbol> to prevent that wound. "
+}

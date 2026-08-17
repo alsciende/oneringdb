@@ -1,0 +1,10 @@
+{
+    "id": "sapling-of-the-white-tree",
+    "title": "Sapling of the White Tree",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Artifact",
+    "subtype": "Support Area",
+    "text": "To play, spot an unbound <symbol>gondor<\/symbol> Man. <br><keyword>Response:<\/keyword> If a <symbol>gondor<\/symbol> Man is about to take a wound, discard this <symbol>gondor<\/symbol> artifact to prevent that. "
+}

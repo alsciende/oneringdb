@@ -1,0 +1,9 @@
+{
+    "id": "an-honorable-charge",
+    "title": "An Honorable Charge",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make an unbound companion strength +1 for each <symbol>rohan<\/symbol> Man you spot (limit +3). "
+}

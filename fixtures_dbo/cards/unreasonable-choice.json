@@ -1,0 +1,10 @@
+{
+    "id": "unreasonable-choice",
+    "title": "Unreasonable Choice",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Spot 2 <symbol>orc<\/symbol> minions to discard a Free Peoples condition. The Free Peoples player may add <symbol>twilight2<\/symbol> for each Free Peoples condition you can spot to prevent that."
+}

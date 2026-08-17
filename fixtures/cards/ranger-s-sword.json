@@ -1,0 +1,9 @@
+{
+    "id": "ranger-s-sword",
+    "title": "Ranger’s Sword",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be Aragorn. <br>He is <keyword>damage +1.<\/keyword>"
+}

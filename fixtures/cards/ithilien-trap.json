@@ -1,0 +1,9 @@
+{
+    "id": "ithilien-trap",
+    "title": "Ithilien Trap",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "Each time a <symbol>gondor<\/symbol> Man wins a skirmish, you may place a <symbol>gondor<\/symbol> token here. <keyword>Maneuver:<\/keyword> Exert a minion for each <symbol>gondor<\/symbol> token here (limit 3). Discard this condition. "
+}

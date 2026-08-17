@@ -1,0 +1,9 @@
+{
+    "id": "breached",
+    "title": "Breached",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Remove 4 threats and spot 2 <symbol>sauron<\/symbol> Orcs to make the Free Peoples player spot a companion and place that companion in the dead pile."
+}

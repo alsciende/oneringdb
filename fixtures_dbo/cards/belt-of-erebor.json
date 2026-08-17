@@ -1,0 +1,10 @@
+{
+    "id": "belt-of-erebor",
+    "title": "Belt of Erebor",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 0,
+    "type": "Possession",
+    "subtype": "Armor",
+    "text": "Bearer must be a Dwarf. <br>Each minion skirmishing bearer loses all damage bonuses. <br><keyword>Skirmish:<\/keyword> Discard this possession to transfer one of bearer\u2019s possessions to another eligible bearer."
+}

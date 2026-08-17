@@ -1,0 +1,10 @@
+{
+    "id": "skinbark-elder-ent",
+    "title": "Skinbark",
+    "subtitle": "Elder Ent",
+    "culture": "Gandalf",
+    "twilight_cost": 7,
+    "type": "Companion",
+    "subtype": "Ent",
+    "text": "Skinbark is twilight cost -1 for each <symbol>gandalf<\/symbol> condition you can spot.<br>Each time Skinbark wins a skirmish, you may place a <symbol>gandalf<\/symbol> card from your discard pile beneath your draw deck."
+}

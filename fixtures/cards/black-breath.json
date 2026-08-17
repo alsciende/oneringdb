@@ -1,0 +1,9 @@
+{
+    "id": "black-breath",
+    "title": "Black Breath",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<br><keyword>Skirmish:<\/keyword> Transfer this condition from your support area to a character skirmishing a Nazgûl. Burdens and wounds may not be removed from bearer."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "aragorn-captain-of-gondor",
+    "title": "Aragorn",
+    "subtitle": "Captain of Gondor",
+    "culture": "gondor",
+    "twilight_cost": 4,
+    "type": "companion",
+    "text": "<keyword>Knight.<\/keyword> <br>At the start of each fellowship phase, you may add <symbol>twilight2<\/symbol> to heal another <symbol>gondor<\/symbol> companion."
+}

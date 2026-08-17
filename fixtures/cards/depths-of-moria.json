@@ -1,0 +1,9 @@
+{
+    "id": "depths-of-moria",
+    "title": "Depths of Moria",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "To play, spot a <symbol>moria<\/symbol> Orc.   <br>Each time the fellowship moves during the regroup phase, add <symbol>twilight2<\/symbol>. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "fortitude",
+    "title": "Fortitude",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "When you play this condition, spot an <symbol>urukhai<\/symbol> minion to add 3 <symbol>urukhai<\/symbol> tokens here. <br><keyword>Response:<\/keyword> If an <symbol>urukhai<\/symbol> minion is about to take a wound, discard this condition or remove an <symbol>urukhai<\/symbol> token from here to prevent that."
+}

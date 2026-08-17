@@ -1,0 +1,9 @@
+{
+    "id": "forest-guardian",
+    "title": "Forest Guardian",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Unhasty.<\/keyword><br><keyword>Assignment:<\/keyword> Exert an unbound Hobbit or discard 2 cards from hand to allow this companion to skirmish."
+}

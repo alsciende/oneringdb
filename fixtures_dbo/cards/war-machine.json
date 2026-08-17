@@ -1,0 +1,10 @@
+{
+    "id": "war-machine",
+    "title": "War Machine",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Exert your <symbol>urukhai<\/symbol> lurker minion to play an <symbol>urukhai<\/symbol> hand weapon from your discard pile on your <symbol>urukhai<\/symbol> minion."
+}

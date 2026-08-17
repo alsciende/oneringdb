@@ -1,0 +1,10 @@
+{
+    "id": "final-account",
+    "title": "Final Account",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Fellowship",
+    "text": ""
+}

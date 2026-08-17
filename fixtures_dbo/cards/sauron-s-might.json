@@ -1,0 +1,10 @@
+{
+    "id": "sauron-s-might",
+    "title": "Sauron\u2019s Might",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Remove a Free Peoples culture token to add a threat.<br> When you play this event, you may remove <symbol>twilight1<\/symbol> to place this on the bottom of your draw deck instead of in your discard pile."
+}

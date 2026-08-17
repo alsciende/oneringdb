@@ -1,0 +1,10 @@
+{
+    "id": "morgul-vanguard",
+    "title": "Morgul Vanguard",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Assignment:<\/keyword> Assign this minion to an unbound companion bearing a hand weapon. "
+}

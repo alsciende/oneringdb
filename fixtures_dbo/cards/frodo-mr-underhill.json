@@ -1,0 +1,10 @@
+{
+    "id": "frodo-mr-underhill",
+    "title": "Frodo",
+    "subtitle": "Mr. Underhill",
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Ring-bearer.<\/keyword>"
+}

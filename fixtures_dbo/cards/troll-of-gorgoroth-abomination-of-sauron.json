@@ -1,0 +1,10 @@
+{
+    "id": "troll-of-gorgoroth-abomination-of-sauron",
+    "title": "Troll of Gorgoroth",
+    "subtitle": "Abomination of Sauron",
+    "culture": "Sauron",
+    "twilight_cost": 10,
+    "type": "Minion",
+    "subtype": "Troll",
+    "text": "<keyword>Besieger.<\/keyword> <keyword>Fierce.<\/keyword> <br>To play, spot a <symbol>sauron<\/symbol> Orc. <br>The twilight cost of this minion is \u20132 for each <symbol>sauron<\/symbol> engine you spot. <br><keyword>Regroup:<\/keyword> Exert Troll of Gorgoroth to stack a besieger on a site you control."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "shield-of-boromir",
+    "title": "Shield of Boromir",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Shield",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> companion. <br>The minion archery total is -1.  <br>If bearer is Boromir, each minion skirmishing him does not gain strength bonuses from weapons. "
+}

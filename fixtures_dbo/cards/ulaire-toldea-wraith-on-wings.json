@@ -1,0 +1,10 @@
+{
+    "id": "ulaire-toldea-wraith-on-wings",
+    "title": "\u00dalair\u00eb Told\u00eba",
+    "subtitle": "Wraith on Wings",
+    "culture": "Wraith",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Fierce.<\/keyword> <br>While you have initiative and can spot a Nazg\u00fbl, \u00dalair\u00eb Told\u00eba\u2019s twilight cost is \u20136."
+}

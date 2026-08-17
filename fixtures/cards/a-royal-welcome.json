@@ -1,0 +1,9 @@
+{
+    "id": "a-royal-welcome",
+    "title": "A Royal Welcome",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": " <br><keyword>Regroup:<\/keyword> Exert a Dwarf ally to heal a Dwarf companion. "
+}

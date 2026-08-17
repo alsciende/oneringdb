@@ -1,0 +1,10 @@
+{
+    "id": "arwen-s-dagger",
+    "title": "Arwen's Dagger",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be an <symbol>elven<\/symbol> companion. Bearer may bear this hand weapon in addition to 1 other hand weapon.<br><keyword>Maneuver:<\/keyword> If bearer is Arwen, exert her to draw 2 cards."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "horseman-of-the-north",
+    "title": "Horseman of the North",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "While you can spot a valiant Man, this companion\u2019s twilight cost is -1.<br>This companion is strength +2 while no opponent controls a site."
+}

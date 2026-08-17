@@ -1,0 +1,9 @@
+{
+    "id": "cirdan-the-shipwright",
+    "title": "Círdan",
+    "subtitle": "The Shipwright",
+    "culture": "elven",
+    "twilight_cost": 4,
+    "type": "companion",
+    "text": "To play, spot 2 Elves. <br><keyword>Skirmish:<\/keyword>  Exert Círdan to make a minion he is skirmishing strength –1 for each <symbol>elven<\/symbol> event in your discard pile."
+}

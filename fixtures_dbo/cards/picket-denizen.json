@@ -1,0 +1,10 @@
+{
+    "id": "picket-denizen",
+    "title": "Picket Denizen",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

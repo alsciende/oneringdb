@@ -1,0 +1,10 @@
+{
+    "id": "axe-work",
+    "title": "Axe-work",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make a Dwarf strength +2 (or if you cannot spot a threat, make that Dwarf strength +1 For each Dwarf you can spot)."
+}

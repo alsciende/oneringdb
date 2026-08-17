@@ -1,0 +1,10 @@
+{
+    "id": "lookout-uruk",
+    "title": "Lookout Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword> The fellowship's current site gains battleground."
+}

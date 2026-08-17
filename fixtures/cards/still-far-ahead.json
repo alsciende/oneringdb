@@ -1,0 +1,9 @@
+{
+    "id": "still-far-ahead",
+    "title": "Still Far Ahead",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "Spot Sméagol to play the fellowship’s next site (replacing opponent’s site if necessary). The Shadow number of the fellowship’s next site is -1 until the end of the turn."
+}

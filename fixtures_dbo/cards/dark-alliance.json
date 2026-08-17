@@ -1,0 +1,10 @@
+{
+    "id": "dark-alliance",
+    "title": "Dark Alliance",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Response:<\/keyword> If an ally or companion uses a special ability, discard this condition and exert an <symbol>urukhai<\/symbol> lurker to prevent that."
+}

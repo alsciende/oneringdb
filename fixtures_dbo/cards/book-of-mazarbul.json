@@ -1,0 +1,10 @@
+{
+    "id": "book-of-mazarbul",
+    "title": "Book of Mazarbul",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "",
+    "text": "<keyword>Tale.<\/keyword>  Bearer must be a Dwarf.<br>At the start of each fellowship phase when the fellowship is at site 4 or higher, you may draw a card for each Dwarf companion. "
+}

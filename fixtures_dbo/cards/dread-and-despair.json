@@ -1,0 +1,10 @@
+{
+    "id": "dread-and-despair",
+    "title": "Dread and Despair",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Spot 2 <symbol>orc<\/symbol> minions to discard a condition from play. The Free Peoples player may discard the top 6 cards of his or her draw deck to prevent this."
+}

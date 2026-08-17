@@ -1,0 +1,10 @@
+{
+    "id": "foraging-orc",
+    "title": "Foraging Orc",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "When you play this minion, you may spot another <symbol>orc<\/symbol> minion and a companion who has resistance 3 or less to add <symbol>twilight2<\/symbol>."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "easterling-army",
+    "title": "Easterling Army",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 6,
+    "type": "minion",
+    "text": "<keyword>Easterling.<\/keyword> <keyword>Fierce.<\/keyword> <keyword>Skirmish:<\/keyword> Spot 2 burdens and exert this minion to make an Easterling strength +1. <keyword>Skirmish:<\/keyword> Spot 4 burdens and exert this minion to make an Easterling strength +2. <keyword>Skirmish:<\/keyword> Spot 6 burdens and exert this minion to make an Easterling strength +3."
+}

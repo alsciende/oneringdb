@@ -1,0 +1,10 @@
+{
+    "id": "stone-tower",
+    "title": "Stone Tower",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

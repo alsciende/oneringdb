@@ -1,0 +1,10 @@
+{
+    "id": "from-hideous-eyrie",
+    "title": "From Hideous Eyrie",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "You may remove from the game 4 <symbol>wraith<\/symbol> cards in your discard pile instead of paying the twilight cost for this card. Make your Nazg\u00fbl in a fierce skirmish strength +2."
+}

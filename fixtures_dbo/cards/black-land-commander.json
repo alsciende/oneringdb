@@ -1,0 +1,10 @@
+{
+    "id": "black-land-commander",
+    "title": "Black Land Commander",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "While you can spot a companion of strength 12 or more, this minion is strength +5.<br><keyword>Skirmish:<\/keyword> Remove 2 threats to make a character skirmishing this minion strength \u20132."
+}

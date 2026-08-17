@@ -1,0 +1,10 @@
+{
+    "id": "orkish-runner",
+    "title": "Orkish Runner",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Shadow:<\/keyword> Exert this minion and spot another <symbol>orc<\/symbol> minion to add <symbol>twilightX<\/symbol>, where X is the number of the current region."
+}

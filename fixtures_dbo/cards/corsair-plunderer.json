@@ -1,0 +1,10 @@
+{
+    "id": "corsair-plunderer",
+    "title": "Corsair Plunderer",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Corsair.<\/keyword> <br>When you play this minion, you may discard 2 cards from hand to add 2 <symbol>raider<\/symbol> tokens to a card that already has a <symbol>raider<\/symbol> token on it."
+}

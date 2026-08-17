@@ -1,0 +1,10 @@
+{
+    "id": "arwen-reflection-of-luthien",
+    "title": "Arwen",
+    "subtitle": "Reflection of Luthien",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "While the fellowship is at a forest site, each of your other <symbol>elven<\/symbol> companions is resistance +1.<br><keyword>Skirmish:<\/keyword> Exert Arwen to make a minion she is skirmishing strength \u20131 for each other companion assigned to a skirmish."
+}

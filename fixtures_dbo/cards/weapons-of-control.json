@@ -1,0 +1,10 @@
+{
+    "id": "weapons-of-control",
+    "title": "Weapons of Control",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "When you play this, add an <symbol>urukhai<\/symbol> token here for each wounded companion.<br><keyword>Skirmish:<\/keyword> Discard this from play or remove 2 tokens from here to make a companion skirmishing an <symbol>urukhai<\/symbol> minion strength \u20131."
+}

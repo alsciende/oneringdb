@@ -1,0 +1,10 @@
+{
+    "id": "ulaire-enquea-black-threat",
+    "title": "Ulaire Enquea",
+    "subtitle": "Black Threat",
+    "culture": "Wraith",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Fierce. Toil 1.<\/keyword> <i>(For each<\/i> <symbol>wraith<\/symbol> <i>character you exert when playing this, its twilight cost is \u20131.)<\/i> <br><keyword>Response:<\/keyword> If you are playing a <symbol>wraith<\/symbol> event that has toil X, exert \u00dalair\u00eb Enqu\u00eba to reduce that event\u2019s twilight cost by X."
+}

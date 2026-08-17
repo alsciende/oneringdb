@@ -30,7 +30,7 @@ lint:
 	$(php) bin/console lint:container
 	$(php) php vendor/bin/ecs --fix
 	$(php) php vendor/bin/rector
-	$(php) php vendor/bin/phpstan -v
+	$(php) php vendor/bin/phpstan -v --memory-limit=-1
 
 test:
 	$(php) php bin/phpunit

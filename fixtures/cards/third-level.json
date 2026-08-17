@@ -1,0 +1,9 @@
+{
+    "id": "third-level",
+    "title": "Third Level",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Fortification.<\/keyword> <br><keyword>Skirmish:<\/keyword> Exert a <symbol>gondor<\/symbol> Man or spot 2 rangers to transfer this condition from your support area to a minion skirmishing a <symbol>gondor<\/symbol> Man."
+}

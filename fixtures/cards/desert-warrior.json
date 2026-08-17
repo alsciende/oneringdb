@@ -1,0 +1,9 @@
+{
+    "id": "desert-warrior",
+    "title": "Desert Warrior",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <br>At the start of each skirmish involving this minion, you may remove <symbol>twilight3<\/symbol> to wound a companion or ally he is skirmishing. "
+}

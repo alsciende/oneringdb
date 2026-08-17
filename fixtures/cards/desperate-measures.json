@@ -1,0 +1,9 @@
+{
+    "id": "desperate-measures",
+    "title": "Desperate Measures",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Spot a <symbol>sauron<\/symbol> Orc and remove a burden to make the Free Peoples player discard top 5 cards from his or her draw deck."
+}

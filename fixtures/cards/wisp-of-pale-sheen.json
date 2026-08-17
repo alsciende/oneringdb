@@ -1,0 +1,9 @@
+{
+    "id": "wisp-of-pale-sheen",
+    "title": "Wisp of Pale Sheen",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Twilight.<\/keyword> <keyword>Regroup:<\/keyword> Spot another <symbol>sauron<\/symbol> or twilight minion and discard this minion to add a burden."
+}

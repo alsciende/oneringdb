@@ -1,0 +1,10 @@
+{
+    "id": "war-preparations",
+    "title": "War Preparations",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Remove a threat to reinforce an <symbol>orc<\/symbol> token."
+}

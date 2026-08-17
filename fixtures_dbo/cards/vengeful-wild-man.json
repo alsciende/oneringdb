@@ -1,0 +1,10 @@
+{
+    "id": "vengeful-wild-man",
+    "title": "Vengeful Wild Man",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "At the start of the maneuver phase, spot another <symbol>men<\/symbol> Man and exert this minion to add a threat. Then add an additional threat for each companion you spot over 4."
+}

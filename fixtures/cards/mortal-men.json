@@ -1,0 +1,9 @@
+{
+    "id": "mortal-men",
+    "title": "Mortal Men",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>gondor<\/symbol> Man strength +2 (and exert a minion if you spot a <symbol>rohan<\/symbol> token)."
+}

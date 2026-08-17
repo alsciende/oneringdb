@@ -1,0 +1,9 @@
+{
+    "id": "southron-leader",
+    "title": "Southron Leader",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 5,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <br><keyword>Archery:<\/keyword> Spot 4 Free Peoples cultures and either exert this minion or remove a threat to wound a companion (except the Ring-bearer)."
+}

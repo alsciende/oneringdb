@@ -1,0 +1,9 @@
+{
+    "id": "ulaire-otsea-lieutenant-of-morgul",
+    "title": "Úlairë Otsëa",
+    "subtitle": "Lieutenant of Morgul",
+    "culture": "wraith",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Shadow:<\/keyword> Exert Úlairë Otsëa to make a <symbol>wraith<\/symbol> minion <keyword>fierce<\/keyword> until the regroup phase."
+}

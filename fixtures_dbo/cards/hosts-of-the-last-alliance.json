@@ -1,0 +1,10 @@
+{
+    "id": "hosts-of-the-last-alliance",
+    "title": "Hosts of the Last Alliance",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<keyword>Tale.<\/keyword>  <br>While you can spot an Elf companion, the minion archery total is -1.  <br><keyword>Response:<\/keyword> If an Elf is about to take a wound, discard this condition to prevent that wound. "
+}

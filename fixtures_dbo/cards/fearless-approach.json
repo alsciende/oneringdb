@@ -1,0 +1,10 @@
+{
+    "id": "fearless-approach",
+    "title": "Fearless Approach",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot an <symbol>urukhai<\/symbol> minion.<br>When you play this, if you spot a battleground site on the adventure path, reinforce 3 <symbol>urukhai<\/symbol> tokens.<br>Each time the Free Peoples player plays the fellowship\u2019s next site, you may discard a condition from play."
+}

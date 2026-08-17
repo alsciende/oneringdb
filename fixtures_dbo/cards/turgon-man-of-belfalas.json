@@ -1,0 +1,10 @@
+{
+    "id": "turgon-man-of-belfalas",
+    "title": "Turgon",
+    "subtitle": "Man of Belfalas",
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Knight.<\/keyword>To play, spot a knight.<br><keyword>Maneuver:<\/keyword> Exert Turgon to wound a minion bearing a <symbol>gondor<\/symbol> Fortification."
+}

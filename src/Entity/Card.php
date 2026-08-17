@@ -40,7 +40,7 @@ class Card implements \Stringable
     #[ORM\Column(type: Types::STRING, enumType: Type::class, nullable: false)]
     private Type $type;
 
-    #[ORM\Column('text', length: 1024)]
+    #[ORM\Column('text', length: 1024, nullable: false)]
     private string $text;
 
     /**
@@ -179,20 +179,6 @@ class Card implements \Stringable
     }
 
     /**
-     * @return array<Pack>
-     */
-    #[Ignore]
-    public function getPacks(): array
-    {
-        $packs = [];
-        foreach ($this->getPackCards() as $packCard) {
-            $packs[] = $packCard->getPack();
-        }
-
-        return $packs;
-    }
-
-    /**
      * @return array<string, mixed>
      */
     public function toArray(): array
@@ -200,11 +186,11 @@ class Card implements \Stringable
         return [
             'id' => $this->getId(),
             'title' => $this->getTitle(),
-            'culture' => $this->getCulture(),
+            'subtitle' => $this->getSubtitle(),
+            'culture' => $this->getCulture()?->value,
             'twilight_cost' => $this->getTwilightCost(),
-            'type' => $this->getType(),
+            'type' => $this->getType()->value,
             'text' => $this->getText(),
-            'pack_names' => $this->getPacks(),
         ];
     }
 

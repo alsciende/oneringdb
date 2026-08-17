@@ -1,0 +1,10 @@
+{
+    "id": "rumil-elven-protector",
+    "title": "Rumil",
+    "subtitle": "Elven Protector",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Ally",
+    "subtype": "Elf",
+    "text": ""
+}

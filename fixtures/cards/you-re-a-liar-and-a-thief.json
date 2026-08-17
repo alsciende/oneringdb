@@ -1,0 +1,9 @@
+{
+    "id": "you-re-a-liar-and-a-thief",
+    "title": "You’re a Liar and a Thief",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Response:<\/keyword> If Gollum wins a skirmish, wound a companion (except the Ring-bearer)."
+}

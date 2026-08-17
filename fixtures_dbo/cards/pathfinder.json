@@ -1,0 +1,10 @@
+{
+    "id": "pathfinder",
+    "title": "Pathfinder",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Fellowship or Regroup:<\/keyword> Spot a ranger to play the fellowship\u2019s next site (replacing opponent\u2019s site if necessary). "
+}

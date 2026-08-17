@@ -1,0 +1,9 @@
+{
+    "id": "taurnil-sharp-eyed-bowman",
+    "title": "Taurnil",
+    "subtitle": "Sharp-eyed Bowman",
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "To play, spot an Elf.<br>While Taurnil bears a ranged weapon, the twilight cost of each Shadow possession is +2, and he does not add to the fellowship archery total."
+}

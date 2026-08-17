@@ -1,0 +1,10 @@
+{
+    "id": "scouting",
+    "title": "Scouting",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot Sm\u00e9agol. <br>Each time the fellowship moves, add a threat or discard this condition. <br><keyword>Maneuver:<\/keyword> Discard Sm\u00e9agol to discard a minion. An opponent may exert a minion twice to prevent this."
+}

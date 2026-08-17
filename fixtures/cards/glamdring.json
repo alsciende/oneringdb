@@ -1,0 +1,9 @@
+{
+    "id": "glamdring",
+    "title": "Glamdring",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 2,
+    "type": "possession",
+    "text": "Bearer must be Gandalf. <br>He is <keyword>damage +1<\/keyword>. <br><keyword>Fellowship:<\/keyword> or <keyword>Regroup:<\/keyword> Exert Gandalf to reveal an opponent’s hand. Remove <symbol>twilight1<\/symbol> for each Orc revealed."
+}

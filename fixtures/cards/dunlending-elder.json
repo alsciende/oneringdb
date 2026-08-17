@@ -1,0 +1,9 @@
+{
+    "id": "dunlending-elder",
+    "title": "Dunlending Elder",
+    "subtitle": null,
+    "culture": "dunland",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "While you control 2 sites, this minion is strength +5, fierce and <keyword>damage +1<\/keyword>."
+}

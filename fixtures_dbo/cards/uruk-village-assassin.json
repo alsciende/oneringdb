@@ -1,0 +1,10 @@
+{
+    "id": "uruk-village-assassin",
+    "title": "Uruk Village Assassin",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1<\/keyword>.<br>At the start of the maneuver phase, you may spot another <symbol>urukhai<\/symbol> minion and remove 3 <symbol>urukhai<\/symbol> tokens to take control of a site or discard a follower."
+}

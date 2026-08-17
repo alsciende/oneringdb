@@ -1,0 +1,9 @@
+{
+    "id": "the-witch-king-deathless-lord",
+    "title": "The Witch-king",
+    "subtitle": "Deathless Lord",
+    "culture": "wraith",
+    "twilight_cost": 8,
+    "type": "minion",
+    "text": "<keyword>Fierce.<\/keyword> Each time a companion is killed in a skirmish involving a Nazgûl, wound an ally twice or exert a companion."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "intimidate",
+    "title": "Intimidate",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Response",
+    "text": "<keyword>Spell.<\/keyword> <br>If a companion is about to take a wound, spot Gandalf to prevent that wound."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "ghastly-wound",
+    "title": "Ghastly Wound",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make an <symbol>urukhai<\/symbol> minion strength +2 and <keyword>damage +1<\/keyword>."
+}

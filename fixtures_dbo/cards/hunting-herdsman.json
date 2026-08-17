@@ -1,0 +1,10 @@
+{
+    "id": "hunting-herdsman",
+    "title": "Hunting Herdsman",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Hunter 1.<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +1.)<\/i><br>This minion is strength +3 for each follower you can spot."
+}

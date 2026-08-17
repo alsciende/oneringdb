@@ -12,7 +12,7 @@ readonly class CardCondition
     public function __construct(
         private string $value,
         private Operand $operand = Operand::Name,
-        private Operator $operator = Operator::EQ
+        private Operator $operator = Operator::EQ,
     ) {
     }
 

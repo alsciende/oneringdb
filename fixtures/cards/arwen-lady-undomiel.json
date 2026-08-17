@@ -1,0 +1,9 @@
+{
+    "id": "arwen-lady-undomiel",
+    "title": "Arwen",
+    "subtitle": "Lady Undómiel",
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "While you can spot 3 <symbol>elven<\/symbol> allies whose home is site 3, each minion skirmishing Arwen is strength -3. "
+}

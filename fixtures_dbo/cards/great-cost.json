@@ -1,0 +1,10 @@
+{
+    "id": "great-cost",
+    "title": "Great Cost",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

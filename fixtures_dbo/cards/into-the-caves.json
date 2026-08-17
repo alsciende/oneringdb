@@ -1,0 +1,10 @@
+{
+    "id": "into-the-caves",
+    "title": "Into the Caves",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot 3 <symbol>rohan<\/symbol> companions.<br><keyword>Assignment:<\/keyword> Assign a minion to Frodo to make that minion lose all keywords of your choice and unable to gain keywords until the regroup phase."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "aragorn-elessar-telcontar",
+    "title": "Aragorn",
+    "subtitle": "Elessar Telcontar",
+    "culture": "Gondor",
+    "twilight_cost": 5,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "When you play Aragorn, you may heal another companion. At the start of each fellowship phase, you may exert a companion of one culture to heal a companion of another culture. "
+}

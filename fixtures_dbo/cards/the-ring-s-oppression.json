@@ -1,0 +1,10 @@
+{
+    "id": "the-ring-s-oppression",
+    "title": "The Ring's Oppression",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Response:<\/keyword> If a <symbol>sauron<\/symbol> Orc kills a companion, add 1 burden (or 3 if the Ring-bearer wears The One Ring)."
+}

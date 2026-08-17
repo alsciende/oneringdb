@@ -1,0 +1,10 @@
+{
+    "id": "red-wrath",
+    "title": "Red Wrath",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 5,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Exert a <symbol>raider<\/symbol> Man to wound a companion he is skirmishing twice."
+}

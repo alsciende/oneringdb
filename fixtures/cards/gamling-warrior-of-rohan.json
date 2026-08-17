@@ -1,0 +1,9 @@
+{
+    "id": "gamling-warrior-of-rohan",
+    "title": "Gamling",
+    "subtitle": "Warrior of Rohan",
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Valiant.<\/keyword> To play, spot a <symbol>rohan<\/symbol> Man. <br><keyword>Skirmish:<\/keyword> Play a <symbol>rohan<\/symbol> possession on Gamling to make him strength +2 and <keyword>damage +1.<\/keyword>"
+}

@@ -1,0 +1,10 @@
+{
+    "id": "mordor-savage",
+    "title": "Mordor Savage",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Skirmish:<\/keyword> Exert this minion and spot another <symbol>sauron<\/symbol> minion to add a threat."
+}

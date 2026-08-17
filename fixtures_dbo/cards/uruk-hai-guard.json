@@ -1,0 +1,10 @@
+{
+    "id": "uruk-hai-guard",
+    "title": "Uruk-hai Guard",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1. <br>Assignment:<\/keyword> Exert this minion and spot a companion to prevent the Free Peoples player from assigning that companion to this minion."
+}

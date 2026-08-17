@@ -1,0 +1,10 @@
+{
+    "id": "soldier-of-rohan",
+    "title": "Soldier of Rohan",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "While the Ring-bearer is assigned to a skirmish, this companion is strength +2."
+}

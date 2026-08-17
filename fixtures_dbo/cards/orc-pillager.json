@@ -1,0 +1,10 @@
+{
+    "id": "orc-pillager",
+    "title": "Orc Pillager",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

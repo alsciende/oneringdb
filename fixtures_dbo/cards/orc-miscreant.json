@@ -1,0 +1,10 @@
+{
+    "id": "orc-miscreant",
+    "title": "Orc Miscreant",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "To play, spot an <symbol>orc<\/symbol> minion. <br><keyword>Regroup:<\/keyword> Exert this minion to add a burden."
+}

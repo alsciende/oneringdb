@@ -1,0 +1,10 @@
+{
+    "id": "wielding-the-ring",
+    "title": "Wielding the Ring",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

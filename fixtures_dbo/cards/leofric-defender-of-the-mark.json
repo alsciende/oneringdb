@@ -1,0 +1,10 @@
+{
+    "id": "leofric-defender-of-the-mark",
+    "title": "Leofric",
+    "subtitle": "Defender of the Mark",
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Skirmish:<\/keyword> If L\u00e9ofric is in a skirmish, exert him to play a <symbol>rohan<\/symbol> skirmish event from your draw deck."
+}

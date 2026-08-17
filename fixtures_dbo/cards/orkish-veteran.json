@@ -1,0 +1,10 @@
+{
+    "id": "orkish-veteran",
+    "title": "Orkish Veteran",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each time you play an <symbol>orc<\/symbol> mount, you may reinforce an <symbol>orc<\/symbol> token.<br><keyword>Regroup:<\/keyword> Exert Orkish Veteran to make the Free Peoples player wound a companion."
+}

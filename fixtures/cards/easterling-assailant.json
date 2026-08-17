@@ -1,0 +1,9 @@
+{
+    "id": "easterling-assailant",
+    "title": "Easterling Assailant",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Easterling.<\/keyword> <br><keyword>Skirmish:<\/keyword> Remove a burden and exert this minion to heal another Easterling (or 2 Easterlings if you have initiative)."
+}

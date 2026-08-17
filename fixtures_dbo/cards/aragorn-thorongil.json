@@ -1,0 +1,10 @@
+{
+    "id": "aragorn-thorongil",
+    "title": "Aragorn",
+    "subtitle": "Thorongil",
+    "culture": "Gondor",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Ranger. Hunter 2.<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +2.)<\/i><br><keyword>Maneuver:<\/keyword> Add a threat to exert a non-hunter minion with strength less than Aragorn's."
+}

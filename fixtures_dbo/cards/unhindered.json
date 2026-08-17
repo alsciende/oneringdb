@@ -1,0 +1,10 @@
+{
+    "id": "unhindered",
+    "title": "Unhindered",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make a Nazg\u00fbl strength +2. If that Nazg\u00fbl wins this skirmish, the Shadow has initiative until the end of the turn, regardless of the Free Peoples player\u2019s hand."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "frenzied-attack",
+    "title": "Frenzied Attack",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "If a minion is skirmishing a Free Peoples character who has resistance 2 or less, spot Gollum to wound that character twice."
+}

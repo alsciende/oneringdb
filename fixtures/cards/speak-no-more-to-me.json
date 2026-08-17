@@ -1,0 +1,9 @@
+{
+    "id": "speak-no-more-to-me",
+    "title": "Speak No More to Me",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Exert a <symbol>sauron<\/symbol> minion to return a Free Peoples condition to its owner's hand (or 2 if both are <symbol>shire<\/symbol> conditions)."
+}

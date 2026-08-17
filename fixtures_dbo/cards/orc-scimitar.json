@@ -1,0 +1,10 @@
+{
+    "id": "orc-scimitar",
+    "title": "Orc Scimitar",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a <symbol>sauron<\/symbol> Orc.<br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight1<\/symbol> to make bearer strength +1 (limit +3)."
+}

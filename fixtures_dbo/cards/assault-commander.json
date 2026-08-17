@@ -1,0 +1,10 @@
+{
+    "id": "assault-commander",
+    "title": "Assault Commander",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<br>Shadow:<\/keyword> Exert this minion and spot a Free Peoples condition to make an unbound companion resistance \u20131 for each card that has the same card title as that condition."
+}

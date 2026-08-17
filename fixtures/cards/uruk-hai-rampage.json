@@ -1,0 +1,9 @@
+{
+    "id": "uruk-hai-rampage",
+    "title": "Uruk-hai Rampage",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "To play, spot an Uruk-hai. <br><keyword>Response:<\/keyword> If your Uruk-hai wins a skirmish, remove <symbol>twilight3<\/symbol> to make him <keyword>fierce<\/keyword> until the regroup phase."
+}

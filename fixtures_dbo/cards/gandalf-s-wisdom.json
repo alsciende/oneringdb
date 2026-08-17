@@ -1,0 +1,10 @@
+{
+    "id": "gandalf-s-wisdom",
+    "title": "Gandalf's Wisdom",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": " <br>The twilight cost of each possession or artifact played on Gandalf or a character who has the Gandalf signet is -1. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "drawing-his-eye",
+    "title": "Drawing His Eye",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Fellowship",
+    "text": "For each <symbol>gondor<\/symbol> companion you spot, reveal 1 card at random from a Shadow player's hand. Choose a revealed Shadow card to be discarded, then its owner draws a card. "
+}

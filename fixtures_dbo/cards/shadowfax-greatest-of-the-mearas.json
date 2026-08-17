@@ -1,0 +1,10 @@
+{
+    "id": "shadowfax-greatest-of-the-mearas",
+    "title": "Shadowfax",
+    "subtitle": "Greatest of the Mearas",
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Mount",
+    "text": "Bearer must be a <symbol>gandalf<\/symbol> Wizard.<br>Discard all other possessions on bearer and bearer may not bear a hand weapon.<br><keyword>Fellowship:<\/keyword> Add a threat to remove a burden."
+}

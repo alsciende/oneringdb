@@ -1,0 +1,9 @@
+{
+    "id": "unheard-of",
+    "title": "Unheard of",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "If a Dwarf who is damage +X wins a skirmish, wound a minion not assigned to a skirmish X times."
+}

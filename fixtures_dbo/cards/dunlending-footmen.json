@@ -1,0 +1,10 @@
+{
+    "id": "dunlending-footmen",
+    "title": "Dunlending Footmen",
+    "subtitle": null,
+    "culture": "Dunland",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": ""
+}

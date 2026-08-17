@@ -1,0 +1,10 @@
+{
+    "id": "fires-brightly-burning",
+    "title": "Fires Brightly Burning",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "You may remove from the game 4 <symbol>men<\/symbol> cards in your discard pile instead of paying the twilight cost for this card. Make your <symbol>men<\/symbol> minion strength +2."
+}

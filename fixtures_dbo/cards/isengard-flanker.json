@@ -1,0 +1,10 @@
+{
+    "id": "isengard-flanker",
+    "title": "Isengard Flanker",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

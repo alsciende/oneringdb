@@ -1,0 +1,10 @@
+{
+    "id": "perspective",
+    "title": "Perspective",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Maneuver:<\/keyword> Add 2 threats and spot a Wizard to prevent a Shadow player from using special abilities on Shadow cards until the regroup phase."
+}

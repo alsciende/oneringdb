@@ -1,0 +1,10 @@
+{
+    "id": "orc-trooper",
+    "title": "Orc Trooper",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "For each card in your hand, this minion is strength +1. "
+}

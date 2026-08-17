@@ -1,0 +1,10 @@
+{
+    "id": "white-hand-invader",
+    "title": "White Hand Invader",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword><br>When you play this minion, exert a companion for each site you control."
+}

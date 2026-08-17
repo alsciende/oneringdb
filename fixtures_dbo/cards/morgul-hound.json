@@ -1,0 +1,10 @@
+{
+    "id": "morgul-hound",
+    "title": "Morgul Hound",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "While you can spot 2 wounds on the Ring\u2013bearer, this minion is strength +4 and fierce."
+}

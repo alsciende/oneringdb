@@ -1,0 +1,10 @@
+{
+    "id": "orc-raid-commander",
+    "title": "Orc Raid Commander",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

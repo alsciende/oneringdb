@@ -1,0 +1,10 @@
+{
+    "id": "chamber-of-records",
+    "title": "Chamber of Records",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "When you play this, you may spot a Dwarf to place 2 <symbol>dwarven<\/symbol> tokens here.<br><keyword>Fellowship:<\/keyword> Discard this from play or remove a <symbol>dwarven<\/symbol> token from here to reveal the top card of your draw deck. If it is a <symbol>dwarven<\/symbol> card, take it into your hand, otherwise, place it in your discard pile. "
+}

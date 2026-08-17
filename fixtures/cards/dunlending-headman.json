@@ -1,0 +1,9 @@
+{
+    "id": "dunlending-headman",
+    "title": "Dunlending Headman",
+    "subtitle": null,
+    "culture": "dunland",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "When you play this minion, you may spot 2 other <symbol>dunland<\/symbol> Men to take control of a site. The Free Peoples player may discard 2 cards from hand to prevent this."
+}

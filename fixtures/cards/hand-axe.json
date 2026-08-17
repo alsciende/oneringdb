@@ -1,0 +1,9 @@
+{
+    "id": "hand-axe",
+    "title": "Hand Axe",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "Bearer must be a Dwarf.<br>This weapon may be borne in addition to 1 other hand weapon.<br><keyword>Archery:<\/keyword> Discard this weapon to make the fellowship archery total +1. "
+}

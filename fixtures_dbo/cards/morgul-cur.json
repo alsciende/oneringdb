@@ -1,0 +1,10 @@
+{
+    "id": "morgul-cur",
+    "title": "Morgul Cur",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "While you can spot a Nazg\u00fbl, this minion is strength +2."
+}

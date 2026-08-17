@@ -1,0 +1,10 @@
+{
+    "id": "spurred-to-battle",
+    "title": "Spurred to Battle",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, exert an <symbol>orc<\/symbol> minion. <br>At the start of the Shadow phase, add <symbol>twilight1<\/symbol>."
+}

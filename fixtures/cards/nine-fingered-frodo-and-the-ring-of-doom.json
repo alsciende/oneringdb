@@ -1,0 +1,9 @@
+{
+    "id": "nine-fingered-frodo-and-the-ring-of-doom",
+    "title": "Nine-fingered Frodo and the Ring of Doom",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Tale.<\/keyword> <br>Exert a <symbol>shire<\/symbol> character to remove a burden or 2 threats. "
+}

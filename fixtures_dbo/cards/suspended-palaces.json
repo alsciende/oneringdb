@@ -1,0 +1,10 @@
+{
+    "id": "suspended-palaces",
+    "title": "Suspended Palaces",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

@@ -1,0 +1,9 @@
+{
+    "id": "uruk-foot-soldier",
+    "title": "Uruk Foot Soldier",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 1,
+    "type": "minion",
+    "text": "<keyword>Tracker.<\/keyword> <keyword>Fierce.<\/keyword><br>During a fierce skirmish involving this minion, it is strength +3 and <keyword>damage +1.<\/keyword> "
+}

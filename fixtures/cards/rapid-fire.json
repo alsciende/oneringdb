@@ -1,0 +1,9 @@
+{
+    "id": "rapid-fire",
+    "title": "Rapid Fire",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 6,
+    "type": "event",
+    "text": "<keyword>Archery: <\/keyword>Exert a <symbol>raider<\/symbol> archer to make the minion archery total +1 for each burden (limit +5). "
+}

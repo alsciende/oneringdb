@@ -1,0 +1,10 @@
+{
+    "id": "well-crafted-armor",
+    "title": "Well-crafted Armor",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Armor",
+    "text": "Bearer must be a Dwarf. Each time bearer takes a wound, you may reinforce a <symbol>dwarven<\/symbol> token.<br><keyword>Skirmish:<\/keyword> Discard a <symbol>dwarven<\/symbol> card from hand to make bearer <keyword>damage +1<\/keyword>."
+}

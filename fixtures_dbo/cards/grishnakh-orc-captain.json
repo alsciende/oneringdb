@@ -1,0 +1,10 @@
+{
+    "id": "grishnakh-orc-captain",
+    "title": "Grishnakh",
+    "subtitle": "Orc Captain",
+    "culture": "Sauron",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Tracker.<\/keyword><br>The site number of each <symbol>sauron<\/symbol> Orc is -3. <br><keyword>Shadow:<\/keyword> Exert Grishn\u00e1kh twice and spot another <symbol>sauron<\/symbol> Orc to draw 3 cards. The Free Peoples player may add 2 burdens to prevent this."
+}

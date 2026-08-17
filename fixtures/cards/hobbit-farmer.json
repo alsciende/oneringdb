@@ -1,0 +1,9 @@
+{
+    "id": "hobbit-farmer",
+    "title": "Hobbit Farmer",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "ally",
+    "text": "While you can spot your site 1, this ally has the game text of that site.  <br><keyword>Fellowship:<\/keyword> Exert this ally and spot opponent’s site 1 to replace it with your site 1."
+}

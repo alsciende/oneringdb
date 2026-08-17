@@ -1,0 +1,9 @@
+{
+    "id": "morgul-mongrel",
+    "title": "Morgul Mongrel",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "While you can spot 3 wounds on the Ring–bearer, this minion is fierce and <keyword>damage +1<\/keyword>."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "stand-against-darkness",
+    "title": "Stand Against Darkness",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Maneuver:<\/keyword> Exert an Elf to discard a <symbol>sauron<\/symbol> minion, a <symbol>sauron<\/symbol> condition, or a <symbol>sauron<\/symbol> possession."
+}

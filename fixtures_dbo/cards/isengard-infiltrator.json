@@ -1,0 +1,10 @@
+{
+    "id": "isengard-infiltrator",
+    "title": "Isengard Infiltrator",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword><br>While the fellowship is at a forest site, the fellowship archery total is \u20131.<br>Each <symbol>elven<\/symbol> companion skirmishing this minion is strength \u20132."
+}

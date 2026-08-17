@@ -1,0 +1,10 @@
+{
+    "id": "lorien-elf",
+    "title": "Lorien Elf",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 1,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "To play, spot an Elf."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "crack-into-rubble",
+    "title": "Crack Into Rubble",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Exert 2 Ents to liberate a site and discard a Shadow condition."
+}

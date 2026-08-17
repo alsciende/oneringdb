@@ -1,0 +1,10 @@
+{
+    "id": "boromir-s-gauntlets",
+    "title": "Boromir's Gauntlets",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Gauntlets",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man.  <br><keyword>Skirmish:<\/keyword> Exert bearer to cancel a skirmish involving bearer.  Any Shadow player may remove <symbol>twilight1<\/symbol> to prevent this. "
+}

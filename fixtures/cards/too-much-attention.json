@@ -1,0 +1,9 @@
+{
+    "id": "too-much-attention",
+    "title": "Too Much Attention",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Response:<\/keyword> If the Ring-bearer puts on The One Ring, spot an <symbol>isengard<\/symbol> minion to make the Free Peoples player discard the top 5 cards of his or her draw deck. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "stand-to-arms",
+    "title": "Stand to Arms",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "If you have initiative, discard 2 cards from hand to wound a roaming minion skirmishing a <symbol>gondor<\/symbol> Man twice."
+}

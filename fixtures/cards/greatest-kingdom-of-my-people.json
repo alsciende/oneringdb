@@ -1,0 +1,9 @@
+{
+    "id": "greatest-kingdom-of-my-people",
+    "title": "Greatest Kingdom of My People",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<keyword>Tale.<\/keyword>  Exert a Dwarf to play this condition. <br>Each time your opponent plays an Orc, that player discards the top card of his or her draw deck."
+}

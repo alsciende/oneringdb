@@ -1,0 +1,9 @@
+{
+    "id": "glamdring-lightning-brand",
+    "title": "Glamdring",
+    "subtitle": "Lightning Brand",
+    "culture": "gandalf",
+    "twilight_cost": 2,
+    "type": "possession",
+    "text": "Bearer must be Gandalf. He is <keyword>damage +1<\/keyword>. Each time you play a spell during a skirmish, you may make Gandalf <keyword>damage +1<\/keyword> until the end of that skirmish."
+}

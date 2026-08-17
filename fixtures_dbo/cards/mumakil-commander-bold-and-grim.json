@@ -1,0 +1,10 @@
+{
+    "id": "mumakil-commander-bold-and-grim",
+    "title": "M\u00fbmakil Commander",
+    "subtitle": "Bold and Grim",
+    "culture": "Men",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "While at a battleground, this minion is strength +2.<br>Each mounted Man is strength +1.<br><keyword>Regroup:<\/keyword> Shuffle any number of your <symbol>men<\/symbol> mounts in play into your draw deck."
+}

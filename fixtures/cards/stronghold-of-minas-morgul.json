@@ -1,0 +1,9 @@
+{
+    "id": "stronghold-of-minas-morgul",
+    "title": "Stronghold of Minas Morgul",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Response:<\/keyword> If your <symbol>wraith<\/symbol> minion wins a skirmish, place a <symbol>wraith<\/symbol> token here (limit 1 per site). <br><keyword>Regroup:<\/keyword> Spot 3 <symbol>wraith<\/symbol> tokens here to exhaust the Ring–bearer. Discard this condition."
+}

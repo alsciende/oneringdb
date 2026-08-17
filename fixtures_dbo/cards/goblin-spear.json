@@ -1,0 +1,10 @@
+{
+    "id": "goblin-spear",
+    "title": "Goblin Spear",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": ""
+}

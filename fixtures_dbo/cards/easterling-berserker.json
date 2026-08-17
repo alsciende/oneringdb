@@ -1,0 +1,10 @@
+{
+    "id": "easterling-berserker",
+    "title": "Easterling Berserker",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Easterling.<\/keyword> To play, spot an Easterling. <br>While this minion is unwounded, he is <keyword>damage +2<\/keyword>. <br><keyword>Skirmish:<\/keyword> Wound 2 other <symbol>raider<\/symbol> Men to heal this minion. "
+}

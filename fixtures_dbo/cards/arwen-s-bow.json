@@ -1,0 +1,10 @@
+{
+    "id": "arwen-s-bow",
+    "title": "Arwen's Bow",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Ranged Weapon",
+    "text": "Bearer must be an <symbol>elven<\/symbol> companion.<br><keyword>Archery:<\/keyword> If bearer is Arwen, discard 2 <symbol>elven<\/symbol> cards from hand to wound a minion."
+}

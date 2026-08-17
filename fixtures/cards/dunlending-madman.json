@@ -1,0 +1,9 @@
+{
+    "id": "dunlending-madman",
+    "title": "Dunlending Madman",
+    "subtitle": null,
+    "culture": "dunland",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "Each time this minion wins a skirmish, you may make him <keyword>strength +2<\/keyword> and <keyword>fierce<\/keyword> until the regroup phase. "
+}

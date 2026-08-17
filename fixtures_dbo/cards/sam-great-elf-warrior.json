@@ -1,0 +1,10 @@
+{
+    "id": "sam-great-elf-warrior",
+    "title": "Sam",
+    "subtitle": "Great Elf Warrior",
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Ring-bound.<\/keyword> <br>Sam is strength +1 for each <symbol>shire<\/symbol> companion you can spot. <br><keyword>Response:<\/keyword> If Frodo dies, make Sam the Ring-bearer (resistance 5).  "
+}

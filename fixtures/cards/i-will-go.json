@@ -1,0 +1,9 @@
+{
+    "id": "i-will-go",
+    "title": "I Will Go",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 3,
+    "type": "condition",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man. <br>If you have initiative, bearer is defender +1."
+}

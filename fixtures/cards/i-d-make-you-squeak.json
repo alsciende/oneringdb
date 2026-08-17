@@ -1,0 +1,9 @@
+{
+    "id": "i-d-make-you-squeak",
+    "title": "I’d Make You Squeak",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "To play, exert 2 <symbol>sauron<\/symbol> Orcs. Plays to your support area.<br>The Shadow number of each site is +1 for each wound on a Hobbit (limit +3)."
+}

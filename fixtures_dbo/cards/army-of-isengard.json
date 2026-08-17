@@ -1,0 +1,10 @@
+{
+    "id": "army-of-isengard",
+    "title": "Army of Isengard",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 9,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1<\/keyword> <br>To play, spot an Uruk\u2013Hai. <br><keyword>Menace -<\/keyword> When you play this minion, it becomes fierce."
+}

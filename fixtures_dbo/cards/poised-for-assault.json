@@ -1,0 +1,10 @@
+{
+    "id": "poised-for-assault",
+    "title": "Poised for Assault",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time a companion loses a skirmish involving an <symbol>urukhai<\/symbol> minion, place an <symbol>urukhai<\/symbol> token here.<br><keyword>Skirmish:<\/keyword> Remove 2 <symbol>urukhai<\/symbol> tokens from here to take control of a site."
+}

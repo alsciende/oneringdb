@@ -1,0 +1,10 @@
+{
+    "id": "make-haste",
+    "title": "Make Haste",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "<keyword>Stealth.<\/keyword> <br>Spot a <symbol>shire<\/symbol> companion and return him or her to your hand to make a Shadow player choose to remove <symbol>twilight2<\/symbol> or discard a minion."
+}

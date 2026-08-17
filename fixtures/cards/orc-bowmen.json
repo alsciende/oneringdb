@@ -1,0 +1,9 @@
+{
+    "id": "orc-bowmen",
+    "title": "Orc Bowmen",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "condition",
+    "text": "<br>While you can spot a <symbol>sauron<\/symbol> Orc, add 1 to the minion archery total."
+}

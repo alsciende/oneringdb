@@ -1,0 +1,9 @@
+{
+    "id": "knight-of-dol-amroth",
+    "title": "Knight of Dol Amroth",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Knight.<\/keyword> <br>Each time this companion wins a skirmish, you may wound a minion he is skirmishing."
+}

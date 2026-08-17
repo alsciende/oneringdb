@@ -1,0 +1,10 @@
+{
+    "id": "eomer-s-spear-trusty-weapon",
+    "title": "\u00c9omer\u2019s Spear",
+    "subtitle": "Trusty Weapon",
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a <symbol>rohan<\/symbol> Man.<br>If bearer is \u00c9omer and he is unwounded, he is <keyword>damage +1<\/keyword> and resistance +1.<br><keyword>Skirmish:<\/keyword> If bearer is \u00c9omer, discard this possession to wound a minion he is skirmishing."
+}

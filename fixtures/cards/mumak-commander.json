@@ -1,0 +1,9 @@
+{
+    "id": "mumak-commander",
+    "title": "Mûmak Commander",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 8,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <br>To play, spot a <symbol>raider<\/symbol> Man. <br>While you can spot 6 threats, each time this minion wins a skirmish, the companion he was skirmishing is killed."
+}

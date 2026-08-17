@@ -1,0 +1,9 @@
+{
+    "id": "southron-assassin",
+    "title": "Southron Assassin",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword>  <br>Each time a companion or ally loses a skirmish involving a Southron, you may remove <symbol>twilight1<\/symbol> to make the Free Peoples player wound a Ring-bound companion. "
+}

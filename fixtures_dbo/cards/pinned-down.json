@@ -1,0 +1,10 @@
+{
+    "id": "pinned-down",
+    "title": "Pinned Down",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": " <br>While you can spot a <symbol>moria<\/symbol> archer, the fellowship archery total is -1."
+}

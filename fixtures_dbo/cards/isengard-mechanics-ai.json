@@ -1,0 +1,10 @@
+{
+    "id": "isengard-mechanics-ai",
+    "title": "Isengard Mechanics (AI)",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

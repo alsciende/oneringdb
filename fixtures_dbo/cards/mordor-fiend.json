@@ -1,0 +1,10 @@
+{
+    "id": "mordor-fiend",
+    "title": "Mordor Fiend",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Shadow:<\/keyword> If you cannot spot another minion and there are 3 or fewer twilight tokens, add <symbol>twilight3<\/symbol> (or <symbol>twilight5<\/symbol>if this minion is roaming)."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "dark-approach",
+    "title": "Dark Approach",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Play a Nazg\u00fbl. His twilight cost is \u20131 for each forest site you can spot (limit \u20134)."
+}

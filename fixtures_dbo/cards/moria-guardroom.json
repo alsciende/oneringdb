@@ -1,0 +1,10 @@
+{
+    "id": "moria-guardroom",
+    "title": "Moria Guardroom",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 3,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": ""
+}

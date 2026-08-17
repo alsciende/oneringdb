@@ -1,0 +1,10 @@
+{
+    "id": "raging-dunlending",
+    "title": "Raging Dunlending",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "When you play this minion, you may exert it to make it fierce until the regroup phase.  While you can spot 6 companions, each <symbol>men<\/symbol> minion is <keyword>Fierce.<\/keyword> "
+}

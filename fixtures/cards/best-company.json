@@ -1,0 +1,9 @@
+{
+    "id": "best-company",
+    "title": "Best Company",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make a Dwarf strength +2 (or +4 if at a battleground). "
+}

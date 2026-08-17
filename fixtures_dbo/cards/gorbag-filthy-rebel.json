@@ -1,0 +1,10 @@
+{
+    "id": "gorbag-filthy-rebel",
+    "title": "Gorbag",
+    "subtitle": "Filthy Rebel",
+    "culture": "Orc",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Hunter 3.<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +3.)<\/i><br>When you play Gorbag, you may discard a card from the top of the Free Peoples player\u2019s deck for each hunter character you can spot."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "leechcraft",
+    "title": "Leechcraft",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<keyword>Spell. <\/keyword> To play, exert Saruman or an <symbol>isengard<\/symbol> Man.  <br>Plays on a Free Peoples Man.  <br>Special abilities in bearer’s game text may not be used. "
+}

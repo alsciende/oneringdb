@@ -1,0 +1,9 @@
+{
+    "id": "pippin-mr-took",
+    "title": "Pippin",
+    "subtitle": "Mr. Took",
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "companion",
+    "text": "<keyword>Fellowship:<\/keyword> Play Gandalf or Aragorn; his twilight cost is -2. "
+}

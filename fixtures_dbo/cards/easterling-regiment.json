@@ -1,0 +1,10 @@
+{
+    "id": "easterling-regiment",
+    "title": "Easterling Regiment",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Easterling.<\/keyword> <keyword>Fierce.<\/keyword> <br>Each time Easterling Regiment wins a skirmish, you may add <symbol>twilight1<\/symbol> for each burden."
+}

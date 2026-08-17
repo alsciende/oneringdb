@@ -1,0 +1,9 @@
+{
+    "id": "moment-of-respite",
+    "title": "Moment of Respite",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "At the start of your regroup phase, you may discard 2 cards from hand to heal Gandalf."
+}

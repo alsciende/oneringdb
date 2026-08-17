@@ -1,0 +1,10 @@
+{
+    "id": "rumil-silvan-elf",
+    "title": "R\u00famil",
+    "subtitle": "Silvan Elf",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "<keyword>Hunter 1.<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +1.)<\/i> <br>While you can spot a wounded minion, R\u00famil is strength +1 and gains archer.<br><keyword>Archery:<\/keyword> Exert another <symbol>elven<\/symbol> hunter and add a threat to wound a minion."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "morgul-destroyer",
+    "title": "Morgul Destroyer",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "When you play this minion, you may spot a Nazg\u00fbl to add 2 threats. The Free Peoples player may wound the Ring\u2013bearer to prevent this. <br><keyword>Skirmish:<\/keyword> Remove a threat to make this minion strength +3."
+}

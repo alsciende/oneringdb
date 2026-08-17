@@ -1,0 +1,10 @@
+{
+    "id": "under-foot",
+    "title": "Under Foot",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Shadow:<\/keyword> If you have initiative, spot a <symbol>raider<\/symbol> Man and discard this condition to reconcile your hand. <br><keyword>Skirmish:<\/keyword> Discard this condition to make a <symbol>raider<\/symbol> Man strength +2. "
+}

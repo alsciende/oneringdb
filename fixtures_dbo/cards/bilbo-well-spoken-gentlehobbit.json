@@ -1,0 +1,10 @@
+{
+    "id": "bilbo-well-spoken-gentlehobbit",
+    "title": "Bilbo",
+    "subtitle": "Well-spoken Gentlehobbit",
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Ally",
+    "subtype": "Hobbit",
+    "text": "<keyword>Fellowship:<\/keyword> Exert Bilbo and discard a tale to discard a Shadow condition from an opponent\u2019s support area. "
+}

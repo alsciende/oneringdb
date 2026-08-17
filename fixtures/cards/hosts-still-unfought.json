@@ -1,0 +1,9 @@
+{
+    "id": "hosts-still-unfought",
+    "title": "Hosts Still Unfought",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "To play, spot 2 <symbol>raider<\/symbol> Men. <br>Discard any number of cards from hand. The Free Peoples player then discards any number of cards from hand. For each card you discarded more than the Free Peoples player, add <symbol>twilight1<\/symbol>."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "hornburg-parapet",
+    "title": "Hornburg Parapet",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 8,
+    "type": "site",
+    "text": "<keyword>Battleground.<\/keyword> The fellowship archery total is +1. The minion archery total is ?-1. "
+}

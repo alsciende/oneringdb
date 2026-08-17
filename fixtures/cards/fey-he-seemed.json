@@ -1,0 +1,9 @@
+{
+    "id": "fey-he-seemed",
+    "title": "Fey He Seemed",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Make a <symbol>rohan<\/symbol> Man strength +2 (or +3 and <keyword>damage +1<\/keyword> if skirmishing a wounded minion)."
+}

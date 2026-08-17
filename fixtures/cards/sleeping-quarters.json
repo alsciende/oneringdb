@@ -1,0 +1,9 @@
+{
+    "id": "sleeping-quarters",
+    "title": "Sleeping Quarters",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "site",
+    "text": "When the fellowship moves from this site, the Free Peoples player may spot 3 Hobbits to remove <symbol>twilight2<\/symbol>."
+}

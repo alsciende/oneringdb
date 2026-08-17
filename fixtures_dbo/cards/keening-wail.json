@@ -1,0 +1,10 @@
+{
+    "id": "keening-wail",
+    "title": "Keening Wail",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 7,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": ""
+}

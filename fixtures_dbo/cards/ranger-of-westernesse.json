@@ -1,0 +1,10 @@
+{
+    "id": "ranger-of-westernesse",
+    "title": "Ranger of Westernesse",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Ranger.<\/keyword> When you play this companion, you may play the fellowship's next site. "
+}

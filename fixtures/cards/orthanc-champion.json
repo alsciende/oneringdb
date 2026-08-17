@@ -1,0 +1,9 @@
+{
+    "id": "orthanc-champion",
+    "title": "Orthanc Champion",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 5,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword>  <br><keyword>Assignment: <\/keyword>Exert Orthanc Champion to assign it to an unbound companion.  <br>That companion may exert to prevent this. "
+}

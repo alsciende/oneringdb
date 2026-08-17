@@ -1,0 +1,10 @@
+{
+    "id": "trap-is-sprung",
+    "title": "Trap Is Sprung",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "Regroup",
+    "text": ""
+}

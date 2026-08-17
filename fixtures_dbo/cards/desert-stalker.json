@@ -1,0 +1,10 @@
+{
+    "id": "desert-stalker",
+    "title": "Desert Stalker",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Southron.<\/keyword> <keyword>Ambush<\/keyword> <symbol>twilight2<\/symbol>. <br><keyword>Maneuver:<\/keyword> Exert this minion and spot 4 Free Peoples cultures to exert every companion."
+}

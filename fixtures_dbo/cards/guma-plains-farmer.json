@@ -1,0 +1,10 @@
+{
+    "id": "guma-plains-farmer",
+    "title": "Guma",
+    "subtitle": "Plains Farmer",
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Ally",
+    "subtype": "Man",
+    "text": "<keyword>Villager.<\/keyword> <br>Discard Guma if an opponent controls his home site.  <br><keyword>Fellowship:<\/keyword> Exert Guma to heal a <symbol>rohan<\/symbol> Man. "
+}

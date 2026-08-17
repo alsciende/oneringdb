@@ -1,0 +1,9 @@
+{
+    "id": "questions-that-need-answering",
+    "title": "Questions That Need Answering",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 3,
+    "type": "event",
+    "text": "<keyword>Spell.<\/keyword> <br><keyword>Fellowship:<\/keyword> If the twilight pool has fewer than 3 twilight tokens, spot Gandalf to look at the top 4 cards of your draw deck. Take 2 of those cards into hand and discard the rest."
+}

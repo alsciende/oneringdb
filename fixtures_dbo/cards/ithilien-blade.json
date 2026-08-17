@@ -1,0 +1,10 @@
+{
+    "id": "ithilien-blade",
+    "title": "Ithilien Blade",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man.<br>While you can spot a roaming minion, bearer is strength +1.<br><keyword>Maneuver:<\/keyword> Exert bearer twice to discard a roaming minion."
+}

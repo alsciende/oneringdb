@@ -1,0 +1,9 @@
+{
+    "id": "assault-ladder",
+    "title": "Assault Ladder",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Machine.<\/keyword> <keyword>Shadow:<\/keyword> Exert an Uruk-hai to place an <symbol>isengard<\/symbol> token on this card. <keyword>Skirmish:<\/keyword> Spot 3 <symbol>isengard<\/symbol> tokens here to make an Uruk-hai strength +3. Discard this condition."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "citadel-to-gate",
+    "title": "Citadel to Gate",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 5,
+    "type": "event",
+    "text": "Exert Gandalf twice to remove all threats and to heal all companions of one culture (except <symbol>gandalf<\/symbol>)."
+}

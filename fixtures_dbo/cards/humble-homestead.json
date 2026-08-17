@@ -1,0 +1,10 @@
+{
+    "id": "humble-homestead",
+    "title": "Humble Homestead",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

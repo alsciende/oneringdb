@@ -1,0 +1,10 @@
+{
+    "id": "gorgoroth-agitator",
+    "title": "Gorgoroth Agitator",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Besieger.<\/keyword> <br>To play, spot a <symbol>sauron<\/symbol> Orc. <br>When you play this minion, if you can spot another besieger, you may add a threat for each companion over 4. <br><keyword>Shadow:<\/keyword> Remove a threat to play a <symbol>sauron<\/symbol> engine from your discard pile."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "morgul-skulker",
+    "title": "Morgul Skulker",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "When you play this minion, you may shuffle up to 2 <symbol>wraith<\/symbol> cards from your discard pile into your draw deck."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "gleaming-in-the-snow",
+    "title": "Gleaming in the Snow",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Exert a <symbol>sauron<\/symbol> Orc and spot a <symbol>gondor<\/symbol> companion to add a burden. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "stout-resistance",
+    "title": "Stout Resistance",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Add a threat to make a <symbol>gondor<\/symbol> Man strength +3."
+}

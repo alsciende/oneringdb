@@ -1,0 +1,9 @@
+{
+    "id": "athelas",
+    "title": "Athelas",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man. <br><keyword>Fellowship:<\/keyword> Discard this possession to heal a companion or to remove a Shadow condition from a companion."
+}

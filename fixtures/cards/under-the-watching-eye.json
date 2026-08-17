@@ -1,0 +1,9 @@
+{
+    "id": "under-the-watching-eye",
+    "title": "Under the Watching Eye",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<keyword>Search.<\/keyword> To play, exert a <symbol>sauron<\/symbol> tracker.   <br>Each time the fellowship moves, the Free Peoples player must exert a companion."
+}

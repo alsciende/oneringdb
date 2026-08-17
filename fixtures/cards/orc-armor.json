@@ -1,0 +1,9 @@
+{
+    "id": "orc-armor",
+    "title": "Orc Armor",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a Hobbit. <br>Each Orc and each Uruk-hai skirmishing bearer is strength –1."
+}

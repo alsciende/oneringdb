@@ -1,0 +1,10 @@
+{
+    "id": "nazgul-blade",
+    "title": "Nazg\u00fbl Blade",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a Nazg\u00fbl. <br>While bearer is at a battleground or forest site, he is strength +1."
+}

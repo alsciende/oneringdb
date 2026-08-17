@@ -1,0 +1,9 @@
+{
+    "id": "anduril-king-s-blade",
+    "title": "Andúril",
+    "subtitle": "King's Blade",
+    "culture": "gondor",
+    "twilight_cost": 3,
+    "type": "artifact",
+    "text": "Bearer must be Aragorn. <br>If you cannot spot a threat, Aragorn is defender +1."
+}

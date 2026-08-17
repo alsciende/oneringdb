@@ -1,0 +1,10 @@
+{
+    "id": "ulaire-nelya-black-mantled-wraith",
+    "title": "\u00dalair\u00eb Nelya",
+    "subtitle": "Black-Mantled Wraith",
+    "culture": "Wraith",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Fierce.<\/keyword> <br><keyword>Regroup:<\/keyword> If you have initiative, discard \u00dalair\u00eb Nelya to exert each Ring-bound companion."
+}

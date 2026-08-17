@@ -1,0 +1,9 @@
+{
+    "id": "uruk-hai-marauder",
+    "title": "Uruk-hai Marauder",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword>  <br>The twilight cost of this minion is -1 for each site you control. "
+}

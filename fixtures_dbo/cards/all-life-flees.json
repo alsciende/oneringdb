@@ -1,0 +1,10 @@
+{
+    "id": "all-life-flees",
+    "title": "All Life Flees",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "To play, spot a Nazg\u00fbl.<br>Remove <symbol>twilightX<\/symbol> to choose one: discard a follower from play that has a twilight cost of X; or play from deck a <symbol>wraith<\/symbol> minion that has a twilight cost of X."
+}

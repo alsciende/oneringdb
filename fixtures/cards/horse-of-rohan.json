@@ -1,0 +1,9 @@
+{
+    "id": "horse-of-rohan",
+    "title": "Horse of Rohan",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "possession",
+    "text": "To play, spot a <symbol>rohan<\/symbol> Man. Bearer must be a Man, Elf, or Wizard.  <br>At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. "
+}

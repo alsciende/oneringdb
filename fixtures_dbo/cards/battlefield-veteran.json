@@ -1,0 +1,10 @@
+{
+    "id": "battlefield-veteran",
+    "title": "Battlefield Veteran",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "<keyword>Skirmish:<\/keyword> Discard this minion to make a minion strength +1."
+}

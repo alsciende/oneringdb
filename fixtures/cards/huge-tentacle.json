@@ -1,0 +1,9 @@
+{
+    "id": "huge-tentacle",
+    "title": "Huge Tentacle",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Tentacle.<\/keyword> <keyword>Damage +1.<\/keyword>  <br>When you play this minion, you may play Watcher in the Water from your draw deck.  <br>This minion may not bear possessions and is discarded if not at a marsh. "
+}

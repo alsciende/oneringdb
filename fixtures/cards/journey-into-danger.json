@@ -1,0 +1,9 @@
+{
+    "id": "journey-into-danger",
+    "title": "Journey Into Danger",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<keyword>Search.<\/keyword>  To play, exert a <symbol>sauron<\/symbol> Orc.   <br>While you can spot 5 companions, each companion’s twilight cost is +2."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "city-gates",
+    "title": "City Gates",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 1,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "When the Fellowship moves to this site, add a threat (or 2 if you can spot a hunter minion) for each companion over 4."
+}

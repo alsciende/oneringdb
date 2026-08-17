@@ -1,0 +1,9 @@
+{
+    "id": "wounded",
+    "title": "Wounded",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "To play, exert an <symbol>isengard<\/symbol> Man.  Plays on a Free Peoples Man.  <br>When you play this condition, exert bearer.  <br>Wounds may not be removed from bearer. "
+}

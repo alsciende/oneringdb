@@ -1,0 +1,10 @@
+{
+    "id": "new-awakened",
+    "title": "New-awakened",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 6,
+    "type": "Event",
+    "subtype": "Fellowship",
+    "text": "<keyword>Spell.<\/keyword> <keyword>Toil 2.<\/keyword> (For each <symbol>gandalf<\/symbol> character you exert when playing this, its twilight cost is \u20132.) Spot a <symbol>gandalf<\/symbol> Wizard to discard 2 conditions from play. "
+}

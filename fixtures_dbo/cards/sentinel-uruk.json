@@ -1,0 +1,10 @@
+{
+    "id": "sentinel-uruk",
+    "title": "Sentinel Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword> <keyword>Lurker.<\/keyword> (Skirmishes involving lurker minions must be resolved after any others.) <br><keyword>Response:<\/keyword> If a <symbol>urukhai<\/symbol> minion is about to take a wound in a skirmish, exert or discard this minion to prevent that. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "the-flame-of-anor",
+    "title": "The Flame of Anor",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "<keyword>Spell.<\/keyword><br>Spot 3 <symbol>gandalf<\/symbol> companions to make a minion skirmishing a companion strength \u20133."
+}

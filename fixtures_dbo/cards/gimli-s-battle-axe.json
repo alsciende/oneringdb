@@ -1,0 +1,10 @@
+{
+    "id": "gimli-s-battle-axe",
+    "title": "Gimli's Battle Axe",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be Gimli. <br>He is <keyword>damage +1<\/keyword>. <br>Each time Gimli wins a skirmish, you may wound an Orc."
+}

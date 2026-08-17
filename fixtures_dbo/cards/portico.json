@@ -1,0 +1,10 @@
+{
+    "id": "portico",
+    "title": "Portico",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Fortification<\/keyword>. This condition is twilight cost -1 for each <symbol>gondor<\/symbol> ranger you spot.<br><keyword>Skirmish:<\/keyword> Exert a <symbol>gondor<\/symbol> Man or spot 2 rangers to transfer this condition from your support area to a minion skirmishing a <symbol>gondor<\/symbol> Man."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "meneldor-misty-mountain-eagle",
+    "title": "Meneldor",
+    "subtitle": "Misty Mountain Eagle",
+    "culture": "Gandalf",
+    "twilight_cost": 3,
+    "type": "Follower",
+    "subtype": "",
+    "text": "<keyword>Aid<\/keyword> - <symbol>twilight1<\/symbol>. <i>(At the start of the maneuver phase, you may add<\/i><symbol>twilight1<\/symbol> <i>to transfer this to a companion.)<\/i><br>To play, spot a <symbol>gandalf<\/symbol> follower.<br>Bearer is strength +1 for each other <symbol>gandalf<\/symbol> follower you can spot."
+}

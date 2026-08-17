@@ -1,0 +1,10 @@
+{
+    "id": "mysterious-wizard",
+    "title": "Mysterious Wizard",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

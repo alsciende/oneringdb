@@ -1,0 +1,10 @@
+{
+    "id": "not-bound-to-his-fate",
+    "title": "Not Bound to His Fate",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man.<br> Each time bearer wins a skirmish, you may transfer this condition to another <symbol>gondor<\/symbol> Man.<br> At the end of each turn, if bearer is not Aragorn, return this condition to hand."
+}

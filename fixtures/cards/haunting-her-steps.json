@@ -1,0 +1,9 @@
+{
+    "id": "haunting-her-steps",
+    "title": "Haunting Her Steps",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Response:<\/keyword> If a special ability of an ally or unbound companion is used, exert Gríma to cancel that action. "
+}

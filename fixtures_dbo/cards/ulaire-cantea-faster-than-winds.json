@@ -1,0 +1,10 @@
+{
+    "id": "ulaire-cantea-faster-than-winds",
+    "title": "\u00dalair\u00eb Cant\u00eba",
+    "subtitle": "Faster Than Winds",
+    "culture": "Wraith",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Fierce.<\/keyword> <br>When you play \u00dalair\u00eb Cant\u00eba, add a threat for each companion over 4. <br><keyword>Maneuver:<\/keyword> Remove 2 threats and spot another <symbol>wraith<\/symbol> minion to discard a possession."
+}

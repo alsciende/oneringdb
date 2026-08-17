@@ -1,0 +1,9 @@
+{
+    "id": "no-stranger-to-the-shadows",
+    "title": "No Stranger to the Shadows",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "Bearer must be a ranger. Limit 1 per ranger. <br>Each site’s Shadow number is -1."
+}

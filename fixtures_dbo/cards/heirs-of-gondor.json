@@ -1,0 +1,10 @@
+{
+    "id": "heirs-of-gondor",
+    "title": "Heirs of Gondor",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

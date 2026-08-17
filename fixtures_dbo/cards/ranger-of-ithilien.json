@@ -1,0 +1,10 @@
+{
+    "id": "ranger-of-ithilien",
+    "title": "Ranger of Ithilien",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Ring-bound.<\/keyword> <keyword>Ranger.<\/keyword><br>When this companion is in your starting fellowship, his twilight cost is -1.  <br>While skirmishing a roaming minion, this companion is strength +2. "
+}

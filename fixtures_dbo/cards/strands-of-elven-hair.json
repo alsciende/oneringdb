@@ -1,0 +1,10 @@
+{
+    "id": "strands-of-elven-hair",
+    "title": "Strands of Elven Hair",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Support Area",
+    "text": "To play, spot a Dwarf. When you play this possession, add 2 <symbol>elven<\/symbol> tokens here. <br><keyword>Fellowship:<\/keyword> Discard this possession or remove an <symbol>elven<\/symbol> token from here to reveal the top card of your draw deck. If it is a <symbol>dwarven<\/symbol> or <symbol>elven<\/symbol> card, you may take it into hand."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "rohan-worker",
+    "title": "Rohan Worker",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Follower",
+    "subtype": "",
+    "text": "<keyword>Aid \u2013<\/keyword> <symbol>twilight1<\/symbol>.<br>Each time you transfer this to a companion, except a <symbol>rohan<\/symbol> companion, exert bearer twice.<br>Each time bearer wins a skirmish, you may liberate a site."
+}

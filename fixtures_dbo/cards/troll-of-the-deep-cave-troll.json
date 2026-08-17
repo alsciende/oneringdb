@@ -1,0 +1,10 @@
+{
+    "id": "troll-of-the-deep-cave-troll",
+    "title": "Troll of the Deep",
+    "subtitle": "Cave Troll",
+    "culture": "Orc",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Troll",
+    "text": "To play, spot an <symbol>orc<\/symbol> Orc.<br> <keyword>Skirmish<\/keyword>: Remove a threat to make an <symbol>orc<\/symbol> minion strength +2. "
+}

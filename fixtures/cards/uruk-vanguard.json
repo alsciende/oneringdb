@@ -1,0 +1,9 @@
+{
+    "id": "uruk-vanguard",
+    "title": "Uruk Vanguard",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 10,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword> (or <keyword>damage +2<\/keyword> if at a battleground).  To play, spot an Uruk-hai.  <br>While at a battleground, this minion is <keyword>fierce.<\/keyword> "
+}

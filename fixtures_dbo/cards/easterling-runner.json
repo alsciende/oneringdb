@@ -1,0 +1,10 @@
+{
+    "id": "easterling-runner",
+    "title": "Easterling Runner",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Shadow:<\/keyword> Exert this minion, spot another  <symbol>men<\/symbol> minion, and remove a culture token to reinforce a <symbol>men<\/symbol> token."
+}

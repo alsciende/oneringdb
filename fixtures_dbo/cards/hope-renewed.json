@@ -1,0 +1,10 @@
+{
+    "id": "hope-renewed",
+    "title": "Hope Renewed",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "Discard a <symbol>gondor<\/symbol> possession from play to discard a possession from play and you may reinforce a <symbol>gondor<\/symbol> token. "
+}

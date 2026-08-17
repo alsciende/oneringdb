@@ -1,0 +1,10 @@
+{
+    "id": "black-land-runner",
+    "title": "Black Land Runner",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "To play, spot an <symbol>orc<\/symbol> Orc.<br>While you can spot more sites on the adventure path than minions, this minion is strength +5."
+}

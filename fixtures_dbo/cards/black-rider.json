@@ -1,0 +1,10 @@
+{
+    "id": "black-rider",
+    "title": "Black Rider",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Fierce.<\/keyword> <br>This minion is strength +1 for each companion you can spot."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "ulaire-otsea-black-mantled-wraith",
+    "title": "\u00dalair\u00eb Ots\u00eba",
+    "subtitle": "Black-Mantled Wraith",
+    "culture": "Wraith",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Regroup:<\/keyword> If you have initiative, discard \u00dalair\u00eb Ots\u00eba to make the Free Peoples player exert a Ring\u2013bound companion twice or return an unbound companion to his or her hand."
+}

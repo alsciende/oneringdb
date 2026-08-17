@@ -1,0 +1,10 @@
+{
+    "id": "shadowplay",
+    "title": "Shadowplay",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot 2 <symbol>shire<\/symbol> companions. <br>Each time a minion is played, you may exert a Hobbit companion to exert that minion (limit once per turn)."
+}

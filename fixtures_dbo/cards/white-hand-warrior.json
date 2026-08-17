@@ -1,0 +1,10 @@
+{
+    "id": "white-hand-warrior",
+    "title": "White Hand Warrior",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1. Hunter 4.<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +4.)<\/i><br>Each time this minion is assigned to a non-hunter companion, you may heal a hunter. "
+}

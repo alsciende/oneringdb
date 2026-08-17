@@ -1,0 +1,9 @@
+{
+    "id": "bound-by-rage",
+    "title": "Bound By Rage",
+    "subtitle": null,
+    "culture": "dunland",
+    "twilight_cost": 3,
+    "type": "condition",
+    "text": "When you play this condition, you may spot 2 <symbol>dunland<\/symbol> Men to place 2 <symbol>dunland<\/symbol> tokens here. <keyword>Response:<\/keyword> If a <symbol>dunland<\/symbol> Man is about to take a wound, discard this condition or remove a <symbol>dunland<\/symbol> token from here to prevent that wound."
+}

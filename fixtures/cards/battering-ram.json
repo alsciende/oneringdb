@@ -1,0 +1,9 @@
+{
+    "id": "battering-ram",
+    "title": "Battering Ram",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<keyword>Machine.<\/keyword> <br><keyword>Shadow:<\/keyword> Exert an Uruk-hai to place an <symbol>isengard<\/symbol> token on this card. <br><keyword>Skirmish:<\/keyword> Spot 5 companions and an <symbol>isengard<\/symbol> token here to make an Uruk-hai <keyword>damage +1.<\/keyword> Discard this condition."
+}

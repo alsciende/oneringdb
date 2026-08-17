@@ -1,0 +1,9 @@
+{
+    "id": "white-rocks",
+    "title": "White Rocks",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 3,
+    "type": "site",
+    "text": "<keyword>Battleground.<\/keyword> The Shadow number of this site is +1 for each mounted companion. "
+}

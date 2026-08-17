@@ -1,0 +1,10 @@
+{
+    "id": "shingle-in-a-storm",
+    "title": "Shingle in a Storm",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

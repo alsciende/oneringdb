@@ -1,0 +1,10 @@
+{
+    "id": "throne-of-isengard",
+    "title": "Throne of Isengard",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 2,
+    "type": "Artifact",
+    "subtype": "Support Area",
+    "text": "Each time you play Saruman, spot a minion. That minion is <keyword>fierce<\/keyword> until the start of the regroup phase.<br>Each Wizard is strength +3 and damage +1. "
+}

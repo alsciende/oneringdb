@@ -1,0 +1,10 @@
+{
+    "id": "chieftain-of-dunland",
+    "title": "Chieftain of Dunland",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Fierce.<br>Skirmish:<\/keyword> Spot a site you control and remove <symbol>twilight2<\/symbol> to make a <symbol>men<\/symbol> Man strength +2.<br><keyword>Skirmish:<\/keyword> Spot 2 sites you control and remove <symbol>twilight2<\/symbol> to make a <symbol>men<\/symbol> Man strength +3.<br><keyword>Skirmish:<\/keyword> Spot 3 sites you control and remove <symbol>twilight2<\/symbol> to make a <symbol>men<\/symbol> Man strength +4."
+}

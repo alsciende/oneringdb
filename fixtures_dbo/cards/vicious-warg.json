@@ -1,0 +1,10 @@
+{
+    "id": "vicious-warg",
+    "title": "Vicious Warg",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Possession",
+    "subtype": "Mount",
+    "text": "Bearer must be an <symbol>orc<\/symbol> Orc with strength 9 or less.<br>Bearer is fierce."
+}

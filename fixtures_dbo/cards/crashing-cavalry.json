@@ -1,0 +1,10 @@
+{
+    "id": "crashing-cavalry",
+    "title": "Crashing Cavalry",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

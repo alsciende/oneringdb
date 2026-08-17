@@ -1,0 +1,9 @@
+{
+    "id": "easterling-attacker",
+    "title": "Easterling Attacker",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Easterling.<\/keyword> <br><keyword>Skirmish:<\/keyword> Exert this minion to make him <keyword>damage +1<\/keyword>."
+}

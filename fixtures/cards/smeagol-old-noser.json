@@ -1,0 +1,9 @@
+{
+    "id": "smeagol-old-noser",
+    "title": "Sméagol",
+    "subtitle": "Old Noser",
+    "culture": "gollum",
+    "twilight_cost": 0,
+    "type": "companion",
+    "text": "<keyword>Ring-bound.<\/keyword> To play, add a burden. <br><keyword>Regroup:<\/keyword> Exert Sméagol (or Gollum) twice to reveal the top 4 cards of your draw deck. Wound a minion for each Shadow card revealed. Place those 4 cards beneath your draw deck in any order."
+}

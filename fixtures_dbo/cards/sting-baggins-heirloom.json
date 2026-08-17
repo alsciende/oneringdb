@@ -1,0 +1,10 @@
+{
+    "id": "sting-baggins-heirloom",
+    "title": "Sting",
+    "subtitle": "Baggins Heirloom",
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be Frodo.<br><keyword>Skirmish:<\/keyword> Exert Frodo to make Sm\u00e9agol strength +2 or Gollum strength -2."
+}

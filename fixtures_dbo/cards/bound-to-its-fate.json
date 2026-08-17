@@ -1,0 +1,10 @@
+{
+    "id": "bound-to-its-fate",
+    "title": "Bound to its Fate",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Spot an <symbol>orc<\/symbol> minion to reveal the Free Peoples player's hand. The Free Peoples player chooses to either discard a revealed Free Peoples event or add a burden."
+}

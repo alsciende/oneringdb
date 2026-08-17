@@ -1,0 +1,9 @@
+{
+    "id": "black-numenorean",
+    "title": "Black Númenorean",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 6,
+    "type": "minion",
+    "text": "<keyword>Corsair.<\/keyword> <keyword>Fierce.<\/keyword> <br><keyword>Skirmish:<\/keyword> If you have initiative, remove a <symbol>raider<\/symbol> token to discard a possession borne by a character skirmishing this minion."
+}

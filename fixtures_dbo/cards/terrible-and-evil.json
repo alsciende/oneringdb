@@ -1,0 +1,10 @@
+{
+    "id": "terrible-and-evil",
+    "title": "Terrible and Evil",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "<keyword>Spell.<\/keyword> <br>Exert Gandalf X times to wound a minion X times. If that minion is a Nazg\u00fbl, wound it again."
+}

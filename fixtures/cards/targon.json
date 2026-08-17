@@ -1,0 +1,9 @@
+{
+    "id": "targon",
+    "title": "Targon",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Ranger.<\/keyword> <br><keyword>Skirmish:<\/keyword> If you have initiative, discard 2 cards from hand to wound a Man Targon is skirmishing."
+}

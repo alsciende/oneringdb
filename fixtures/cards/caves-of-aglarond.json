@@ -1,0 +1,9 @@
+{
+    "id": "caves-of-aglarond",
+    "title": "Caves of Aglarond",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 3,
+    "type": "site",
+    "text": "<keyword>Underground.<\/keyword> <keyword>Sanctuary.<\/keyword> <keyword>Maneuver:<\/keyword> Spot your Uruk-hai and remove <symbol>twilight2<\/symbol> to make one of your Uruk-hai <keyword>fierce<\/keyword> until the regroup phase. "
+}

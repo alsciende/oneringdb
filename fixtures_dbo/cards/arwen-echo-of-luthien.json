@@ -1,0 +1,10 @@
+{
+    "id": "arwen-echo-of-luthien",
+    "title": "Arwen",
+    "subtitle": "Echo of Luthien",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": ""
+}

@@ -1,0 +1,9 @@
+{
+    "id": "wish-for-our-kinfolk",
+    "title": "Wish For Our Kinfolk",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Fellowship:<\/keyword> Exert a Dwarf companion and either an <symbol>elven<\/symbol> companion or a <symbol>gondor<\/symbol> Man to add a <symbol>dwarven<\/symbol> token here. <br><keyword>Skirmish:<\/keyword> Remove a <symbol>dwarven<\/symbol> token here to make a companion <keyword>damage +1<\/keyword>."
+}

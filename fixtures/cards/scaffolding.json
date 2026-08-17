@@ -1,0 +1,9 @@
+{
+    "id": "scaffolding",
+    "title": "Scaffolding",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Each time a regroup action discards an <symbol>isengard<\/symbol> Orc, you may stack that Orc on this card. <keyword>Response:<\/keyword> If an <symbol>isengard<\/symbol> Orc is about to take a wound, discard 2 cards stacked here to prevent that wound."
+}

@@ -12,7 +12,7 @@ use App\Repository\PackRepository;
 class PackService
 {
     public function __construct(
-        private readonly PackRepository $repository
+        private readonly PackRepository $repository,
     ) {
     }
 
@@ -25,7 +25,9 @@ class PackService
     {
         $packs = [];
 
-        foreach ($this->repository->findBy([], ['id' => 'ASC']) as $pack) {
+        foreach ($this->repository->findBy([], [
+            'id' => 'ASC',
+        ]) as $pack) {
             $packs[$pack->getId()] = $pack->getName();
         }
 

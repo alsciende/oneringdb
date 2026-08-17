@@ -1,0 +1,10 @@
+{
+    "id": "courtyard-parapet",
+    "title": "Courtyard Parapet",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Dwelling.<\/keyword> When the fellowship moves to this site, the first Shadow player may discard 2 cards from hand to add a burden."
+}

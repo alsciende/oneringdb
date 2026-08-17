@@ -1,0 +1,9 @@
+{
+    "id": "southron-soldier",
+    "title": "Southron Soldier",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <keyword>Ambush<\/keyword> <symbol>twilight2<\/symbol>. "
+}

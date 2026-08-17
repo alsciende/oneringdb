@@ -1,0 +1,10 @@
+{
+    "id": "morgul-tormentor",
+    "title": "Morgul Tormentor",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each time the Free Peoples player assigns this minion to skirmish an unwounded companion, he or she must add a burden or discard a card from hand."
+}

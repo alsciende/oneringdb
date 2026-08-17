@@ -1,0 +1,10 @@
+{
+    "id": "shagrat-captain-of-cirith-ungol",
+    "title": "Shagrat",
+    "subtitle": "Captain of Cirith Ungol",
+    "culture": "Sauron",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword> <br>Each time Shagrat loses a skirmish, you may exert a character."
+}

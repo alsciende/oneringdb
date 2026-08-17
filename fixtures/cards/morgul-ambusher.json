@@ -1,0 +1,9 @@
+{
+    "id": "morgul-ambusher",
+    "title": "Morgul Ambusher",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "While you can spot 3 threats, the minion archery total is +2."
+}

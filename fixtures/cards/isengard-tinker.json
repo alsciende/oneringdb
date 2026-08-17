@@ -1,0 +1,9 @@
+{
+    "id": "isengard-tinker",
+    "title": "Isengard Tinker",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 1,
+    "type": "minion",
+    "text": "<keyword>Regroup:<\/keyword> Discard an <symbol>isengard<\/symbol> Orc to make the Free Peoples player wound a companion."
+}

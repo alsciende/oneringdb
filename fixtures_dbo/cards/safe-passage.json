@@ -1,0 +1,10 @@
+{
+    "id": "safe-passage",
+    "title": "Safe Passage",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "When you play this condition, name forest, mountain, plains, or river. Each time the fellowship moves to a site that has the named keyword, you may exert Gollum or Sm\u00e9agol to remove <symbol>twilight4<\/symbol>."
+}

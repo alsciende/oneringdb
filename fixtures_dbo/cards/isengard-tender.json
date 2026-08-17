@@ -1,0 +1,10 @@
+{
+    "id": "isengard-tender",
+    "title": "Isengard Tender",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 1,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

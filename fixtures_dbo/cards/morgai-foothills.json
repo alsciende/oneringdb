@@ -1,0 +1,10 @@
+{
+    "id": "morgai-foothills",
+    "title": "Morgai Foothills",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "When the fellowship moves from site 4<symbol>king<\/symbol>, remove <symbol>twilight1<\/symbol> for each Ring-bound companion you spot. <br><keyword>Regroup:<\/keyword> Discard a card from hand for each Ring-bound companion you can spot. Discard this condition."
+}

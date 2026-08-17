@@ -1,0 +1,10 @@
+{
+    "id": "pippin-brave-decoy",
+    "title": "Pippin",
+    "subtitle": "Brave Decoy",
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Skirmish:<\/keyword> If Pippin is not assigned to a skirmish, spot an unbound companion who has less resistance than Pippin to have Pippin replace him or her in a skirmish. "
+}

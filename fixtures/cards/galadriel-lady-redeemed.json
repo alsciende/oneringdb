@@ -1,0 +1,9 @@
+{
+    "id": "galadriel-lady-redeemed",
+    "title": "Galadriel",
+    "subtitle": "Lady Redeemed",
+    "culture": "elven",
+    "twilight_cost": 3,
+    "type": "companion",
+    "text": "When Galadriel is in your starting fellowship, her twilight cost is –3. <br><keyword>Fellowship<\/keyword> or <keyword>Regroup:<\/keyword>  Discard an <symbol>elven<\/symbol> event from hand to discard a Shadow condition or Shadow possession. "
+}

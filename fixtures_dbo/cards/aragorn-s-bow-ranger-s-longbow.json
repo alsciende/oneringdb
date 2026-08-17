@@ -1,0 +1,10 @@
+{
+    "id": "aragorn-s-bow-ranger-s-longbow",
+    "title": "Aragorn\u2019s Bow",
+    "subtitle": "Ranger's Longbow",
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Ranged Weapon",
+    "text": "Bearer must be Aragorn.<br>He is an <keyword>archer<\/keyword>.<br><keyword>Archery:<\/keyword> Add a threat to wound a minion\u00a0with the lowest strength."
+}

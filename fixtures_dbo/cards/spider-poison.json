@@ -1,0 +1,10 @@
+{
+    "id": "spider-poison",
+    "title": "Spider Poison",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Support Area",
+    "text": "<keyword>Skirmish:<\/keyword> Remove a threat or a burden to transfer this possession to a companion skirmishing Shelob. Each time bearer is assigned to a skirmish, bearer must exert."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "flashing-steel",
+    "title": "Flashing Steel",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Exert an Elf to make a minion skirmishing that Elf strength -3. "
+}

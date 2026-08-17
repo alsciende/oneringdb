@@ -1,0 +1,10 @@
+{
+    "id": "anguish",
+    "title": "Anguish",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Remove 3 threats to make a character skirmishing a <symbol>sauron<\/symbol> Orc strength \u20133."
+}

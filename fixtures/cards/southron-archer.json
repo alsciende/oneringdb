@@ -1,0 +1,9 @@
+{
+    "id": "southron-archer",
+    "title": "Southron Archer",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <keyword>Archer.<\/keyword> <br>While you can spot another Southron, the minion archery total is +1 for each site you control. "
+}

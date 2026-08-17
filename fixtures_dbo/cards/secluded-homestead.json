@@ -1,0 +1,10 @@
+{
+    "id": "secluded-homestead",
+    "title": "Secluded Homestead",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot 2 Elves.<br>When you play this, add an <symbol>elven<\/symbol> token here for each forest site and each river site on the adventure path.<br><keyword>Regroup:<\/keyword> Discard this from play or remove 2 tokens from here to reconcile your hand."
+}

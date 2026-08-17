@@ -1,0 +1,10 @@
+{
+    "id": "into-the-west",
+    "title": "Into the West",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Regroup:<\/keyword> Exert an Elf to reveal the top card of your draw deck. If it is an <symbol>elven<\/symbol> card, remove 3 threats. Place the revealed card beneath your draw deck."
+}

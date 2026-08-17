@@ -1,0 +1,10 @@
+{
+    "id": "violent-hurl",
+    "title": "Violent Hurl",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make an <symbol>urukhai<\/symbol> minion strength +2 (and <keyword>damage +1<\/keyword> if that minion is a hunter)."
+}

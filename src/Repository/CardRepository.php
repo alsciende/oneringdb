@@ -42,11 +42,11 @@ class CardRepository extends ServiceEntityRepository
         $searchConditions = $this->syntaxDecoder->decode($query);
         $queryBuilder = $this->searchQueryBuilder->buildQuery($searchConditions);
 
-//        if ($sort === 'position') {
-//            $queryBuilder->orderBy("pc.{$sort}");
-//        } else {
-//            $queryBuilder->orderBy("c.{$sort}");
-//        }
+        //        if ($sort === 'position') {
+        //            $queryBuilder->orderBy("pc.{$sort}");
+        //        } else {
+        //            $queryBuilder->orderBy("c.{$sort}");
+        //        }
         $queryBuilder->orderBy($sort);
 
         return $queryBuilder->setCacheable(false);

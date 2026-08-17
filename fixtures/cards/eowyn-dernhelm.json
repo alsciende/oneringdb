@@ -1,0 +1,9 @@
+{
+    "id": "eowyn-dernhelm",
+    "title": "Éowyn",
+    "subtitle": "Dernhelm",
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Valiant.<\/keyword> <br>While skirmishing a mounted minion, Éowyn is strength +2. <br>While skirmishing a fierce minion, Éowyn is strength +2."
+}

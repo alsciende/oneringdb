@@ -1,0 +1,10 @@
+{
+    "id": "no-mere-ranger",
+    "title": "No Mere Ranger",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Skirmish:<\/keyword> Exert Aragorn to make another companion strength +2 (or +3 if that companion has the Aragorn signet). "
+}

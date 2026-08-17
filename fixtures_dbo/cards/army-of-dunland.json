@@ -1,0 +1,10 @@
+{
+    "id": "army-of-dunland",
+    "title": "Army of Dunland",
+    "subtitle": null,
+    "culture": "Dunland",
+    "twilight_cost": 11,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": "brilliant-light",
+    "title": "Brilliant Light",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make a <symbol>rohan<\/symbol> companion strength +2 (or +3 and <keyword>damage +1<\/keyword> if he or she is a hunter companion)."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "dead-man-of-dunharrow",
+    "title": "Dead Man of Dunharrow",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Enduring.<\/keyword> To play, add a threat. <br>When you play this companion, exert him twice. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "gimli-lockbearer",
+    "title": "Gimli",
+    "subtitle": "Lockbearer",
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Dwarf",
+    "text": ""
+}

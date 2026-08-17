@@ -1,0 +1,10 @@
+{
+    "id": "held-ground",
+    "title": "Held Ground",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot 2 Nazg\u00fbl and add up to 3 threats. <br>Each time a companion is about to be killed, you may remove a threat to discard up to 2 possessions. <br>Discard this condition and remove 3 threats during the regroup phase."
+}

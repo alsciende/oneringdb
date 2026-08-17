@@ -1,0 +1,10 @@
+{
+    "id": "vengeful-savage",
+    "title": "Vengeful Savage",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "Each time this minion wins a skirmish, you may stack a <symbol>men<\/symbol> minion from your discard pile on a <symbol>men<\/symbol> possession in your support area."
+}

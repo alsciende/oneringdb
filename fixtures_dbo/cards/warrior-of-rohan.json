@@ -1,0 +1,10 @@
+{
+    "id": "warrior-of-rohan",
+    "title": "Warrior of Rohan",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "Possessions cannot be transferred from this companion to another character.<br><keyword>Fellowship:<\/keyword> Play a possession on this companion to liberate a site."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "ulaire-enquea-lieutenant-of-morgul",
+    "title": "\u00dalair\u00eb Enqu\u00eba",
+    "subtitle": "Lieutenant of Morgul",
+    "culture": "Wraith",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Fierce.<\/keyword>  <br><keyword>Maneuver:<\/keyword> Spot 6 companions (or 5 burdens) and exert \u00dalair\u00eb Enqu\u00eba to wound a companion (except the Ring-bearer)."
+}

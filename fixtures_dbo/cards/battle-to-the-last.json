@@ -1,0 +1,10 @@
+{
+    "id": "battle-to-the-last",
+    "title": "Battle to the Last",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

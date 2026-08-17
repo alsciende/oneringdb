@@ -1,0 +1,9 @@
+{
+    "id": "long-slow-wrath",
+    "title": "Long Slow Wrath",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Exert an unbound Hobbit to make him strength +1 and <keyword>damage +1<\/keyword> for each <symbol>gandalf<\/symbol> companion you can spot."
+}

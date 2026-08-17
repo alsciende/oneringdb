@@ -1,0 +1,9 @@
+{
+    "id": "swordsman-of-the-northern-kingdom",
+    "title": "Swordsman of the Northern Kingdom",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make a ranger strength +2 (or +4 when skirmishing a roaming minion)."
+}

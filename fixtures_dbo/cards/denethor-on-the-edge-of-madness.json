@@ -1,0 +1,10 @@
+{
+    "id": "denethor-on-the-edge-of-madness",
+    "title": "Denethor",
+    "subtitle": "On the Edge of Madness",
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "Each time the fellowship moves from a site, add a burden.<br><keyword>Skirmish:<\/keyword> Exert another <symbol>gondor<\/symbol> Man to make him or her strength +1 and <keyword>damage +1<\/keyword>."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "war-and-valor",
+    "title": "War and Valor",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>gondor<\/symbol> Man strength +2 (or +3 and <keyword>damage +1<\/keyword> if skirmishing a roaming minion). "
+}

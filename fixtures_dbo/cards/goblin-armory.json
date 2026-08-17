@@ -1,0 +1,10 @@
+{
+    "id": "goblin-armory",
+    "title": "Goblin Armory",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": " <br>Each time you play a <symbol>moria<\/symbol> weapon, add <symbol>twilight1<\/symbol>.  <br><keyword>Response:<\/keyword> If a <symbol>moria<\/symbol> Orc is about to take a wound, discard this condition to prevent that wound."
+}

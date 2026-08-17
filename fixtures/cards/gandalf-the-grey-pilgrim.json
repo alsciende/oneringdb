@@ -1,0 +1,9 @@
+{
+    "id": "gandalf-the-grey-pilgrim",
+    "title": "Gandalf",
+    "subtitle": "The Grey Pilgrim",
+    "culture": "gandalf",
+    "twilight_cost": 4,
+    "type": "companion",
+    "text": "At the start of each of your turns, you may draw a card. "
+}

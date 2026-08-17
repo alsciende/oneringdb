@@ -1,0 +1,9 @@
+{
+    "id": "out-of-darkness",
+    "title": "Out of Darkness",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Make a Dwarf strength +2. You may also exert that Dwarf to draw 2 cards."
+}

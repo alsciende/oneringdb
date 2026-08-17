@@ -1,0 +1,10 @@
+{
+    "id": "easterling-footman",
+    "title": "Easterling Footman",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Easterling.<\/keyword> <br><keyword>Maneuver:<\/keyword> If you cannot spot 2 burdens, spot another Easterling and discard a card from hand to add a burden."
+}

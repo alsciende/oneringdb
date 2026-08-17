@@ -1,0 +1,9 @@
+{
+    "id": "promise-keeping",
+    "title": "Promise Keeping",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 4,
+    "type": "condition",
+    "text": "Each time a companion takes a wound during a skirmish that involved a <symbol>gollum<\/symbol> minion, exert a companion."
+}

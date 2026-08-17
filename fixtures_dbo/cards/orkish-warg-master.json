@@ -1,0 +1,10 @@
+{
+    "id": "orkish-warg-master",
+    "title": "Orkish Warg-master",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each time a mounted <symbol>orc<\/symbol> minion wins a skirmish, you may make the Free Peoples player place a card from his or her hand on top of his or her deck.<br><keyword>Shadow:<\/keyword> Exert bearer to play an <symbol>orc<\/symbol> mount from your discard pile."
+}

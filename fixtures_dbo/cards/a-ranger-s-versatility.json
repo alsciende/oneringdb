@@ -1,0 +1,10 @@
+{
+    "id": "a-ranger-s-versatility",
+    "title": "A Ranger's Versatility",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Maneuver:<\/keyword> Exert a ranger at a river or forest to exhaust a minion."
+}

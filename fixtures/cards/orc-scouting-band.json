@@ -1,0 +1,9 @@
+{
+    "id": "orc-scouting-band",
+    "title": "Orc Scouting Band",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Tracker.<\/keyword><br>The roaming penalty for each <symbol>sauron<\/symbol> minion you play is -1.  <br><keyword>Skirmish:<\/keyword> Exert this minion to wound a character it is skirmishing."
+}

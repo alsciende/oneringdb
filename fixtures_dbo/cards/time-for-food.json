@@ -1,0 +1,10 @@
+{
+    "id": "time-for-food",
+    "title": "Time for Food",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Response",
+    "text": "If a skirmish event is played, spot Sm\u00e9agol to cancel that event."
+}

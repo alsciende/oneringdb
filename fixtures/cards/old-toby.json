@@ -1,0 +1,9 @@
+{
+    "id": "old-toby",
+    "title": "Old Toby",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "<keyword>Pipeweed.<\/keyword>  <br>When you play this possession, you may draw a card."
+}

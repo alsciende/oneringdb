@@ -1,0 +1,10 @@
+{
+    "id": "guarded-fastness",
+    "title": "Guarded Fastness",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "If you have initiative, discard 2 cards from hand to heal all <symbol>rohan<\/symbol> allies."
+}

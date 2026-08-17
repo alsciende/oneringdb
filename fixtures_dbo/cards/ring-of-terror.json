@@ -1,0 +1,10 @@
+{
+    "id": "ring-of-terror",
+    "title": "Ring of Terror",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 0,
+    "type": "Artifact",
+    "subtype": "Ring",
+    "text": "Bearer must be a Nazg\u00fbl.<br>Bearer is <keyword>damage +1<\/keyword>.<br>When you play this artifact, you may remove 2 threats to take a <symbol>wraith<\/symbol> card into hand from your discard pile.<br><keyword>Response:<\/keyword> If a player reconciles, return bearer to his owner's hand."
+}

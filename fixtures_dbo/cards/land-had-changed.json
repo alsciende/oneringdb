@@ -1,0 +1,10 @@
+{
+    "id": "land-had-changed",
+    "title": "Land Had Changed",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make an Uruk-hai strength +2 (or spot a site you control to make that Uruk-hai strength +3 instead). You may then liberate a site to make that Uruk-hai strength +2 and <keyword>damage +1<\/keyword>."
+}

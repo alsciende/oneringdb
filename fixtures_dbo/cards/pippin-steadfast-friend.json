@@ -1,0 +1,10 @@
+{
+    "id": "pippin-steadfast-friend",
+    "title": "Pippin",
+    "subtitle": "Steadfast Friend",
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Fellowship.<\/keyword><br> Pippin is strength +1 for each tale you can spot."
+}

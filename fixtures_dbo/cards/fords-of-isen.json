@@ -1,0 +1,10 @@
+{
+    "id": "fords-of-isen",
+    "title": "Fords of Isen",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 2,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>River.<\/keyword> Each character is strength +1 for each card borne by that character."
+}

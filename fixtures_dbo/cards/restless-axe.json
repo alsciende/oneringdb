@@ -1,0 +1,10 @@
+{
+    "id": "restless-axe",
+    "title": "Restless Axe",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Regroup:<\/keyword> Exert a Dwarf to shuffle a <symbol>dwarven<\/symbol> condition (and all cards stacked on it) into your draw deck. Exert a minion for each card shuffled into your draw deck. "
+}

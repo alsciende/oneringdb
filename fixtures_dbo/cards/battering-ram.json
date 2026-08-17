@@ -1,0 +1,10 @@
+{
+    "id": "battering-ram",
+    "title": "Battering Ram",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

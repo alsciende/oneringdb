@@ -1,0 +1,9 @@
+{
+    "id": "have-patience",
+    "title": "Have Patience",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 3,
+    "type": "event",
+    "text": "<keyword>Fellowship:<\/keyword> Spot Gandalf to heal an unbound companion twice. "
+}

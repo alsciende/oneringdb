@@ -1,0 +1,10 @@
+{
+    "id": "elite-rider",
+    "title": "Elite Rider",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "When this companion is in your starting fellowship, his twilight cost is -1. <br>While skirmishing a wounded minion, this companion is strength +2. "
+}

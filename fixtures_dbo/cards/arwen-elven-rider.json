@@ -1,0 +1,10 @@
+{
+    "id": "arwen-elven-rider",
+    "title": "Arwen",
+    "subtitle": "Elven Rider",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": ""
+}

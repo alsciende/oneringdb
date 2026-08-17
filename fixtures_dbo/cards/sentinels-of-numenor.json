@@ -1,0 +1,10 @@
+{
+    "id": "sentinels-of-numenor",
+    "title": "Sentinels of N\u00famenor",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>gondor<\/symbol> companion strength +2 (or +4 if in a <keyword>fierce<\/keyword> skirmish). "
+}

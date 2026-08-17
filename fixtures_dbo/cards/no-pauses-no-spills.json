@@ -1,0 +1,10 @@
+{
+    "id": "no-pauses-no-spills",
+    "title": "No Pauses",
+    "subtitle": "No Spills",
+    "culture": "Dwarven",
+    "twilight_cost": 4,
+    "type": "Event",
+    "subtype": "Fellowship",
+    "text": "<keyword>Toil 2.<\/keyword> <i>(For each<\/i> <symbol>dwarven<\/symbol> <i>character you exert when playing this, its twilight cost is \u20132.)<\/i> <br>Spot 2 Dwarves to draw up to 4 cards."
+}

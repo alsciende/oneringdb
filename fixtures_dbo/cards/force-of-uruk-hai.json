@@ -1,0 +1,10 @@
+{
+    "id": "force-of-uruk-hai",
+    "title": "Force of Uruk-hai",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword> Each time this minion is about to take a wound at a battleground site, you may spot another <symbol>urukhai<\/symbol> card to make the Free Peoples player draw a card instead."
+}

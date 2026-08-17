@@ -1,0 +1,10 @@
+{
+    "id": "mountain-troll",
+    "title": "Mountain-troll",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 10,
+    "type": "Minion",
+    "subtype": "Troll",
+    "text": "When you play this minion, you may discard 5 <symbol>orc<\/symbol> minions from play to make it twilight cost \u201310 and <keyword>fierce.<br>Shadow:<\/keyword> Remove <symbol>twilight3<\/symbol> to play an <symbol>orc<\/symbol> Orc from your discard pile. Its twilight cost is \u20132."
+}

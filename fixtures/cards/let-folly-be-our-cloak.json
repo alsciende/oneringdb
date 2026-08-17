@@ -1,0 +1,9 @@
+{
+    "id": "let-folly-be-our-cloak",
+    "title": "Let Folly Be Our Cloak",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Fellowship:<\/keyword> Exert X companions to remove <symbol>twilightX<\/symbol>."
+}

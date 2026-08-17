@@ -1,0 +1,9 @@
+{
+    "id": "dwarven-axe",
+    "title": "Dwarven Axe",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "Bearer must be a Dwarf. <br>Each time a player’s minion loses a skirmish to bearer, that player discards the top card from his or her draw deck."
+}

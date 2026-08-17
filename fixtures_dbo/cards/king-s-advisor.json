@@ -1,0 +1,10 @@
+{
+    "id": "king-s-advisor",
+    "title": "King's Advisor",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "Exert Gandalf twice to make an opponent exert a minion for each <symbol>rohan<\/symbol> companion you spot."
+}

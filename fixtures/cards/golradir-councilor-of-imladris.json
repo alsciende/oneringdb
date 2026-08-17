@@ -1,0 +1,9 @@
+{
+    "id": "golradir-councilor-of-imladris",
+    "title": "Golradir",
+    "subtitle": "Councilor of Imladris",
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "ally",
+    "text": "To play, spot an Elf.  <br><keyword>Skirmish:<\/keyword> Exert Golradir to make an Orc strength -1. "
+}

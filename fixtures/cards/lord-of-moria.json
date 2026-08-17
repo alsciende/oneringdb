@@ -1,0 +1,9 @@
+{
+    "id": "lord-of-moria",
+    "title": "Lord of Moria",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "<br>Each Dwarf is <keyword>damage +1.<\/keyword>"
+}

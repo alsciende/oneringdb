@@ -1,0 +1,10 @@
+{
+    "id": "beorning-axe",
+    "title": "Beorning Axe",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be a <symbol>gandalf<\/symbol> Man.<br>While Grimbeorn is bearing this possession, each time he wins a skirmish, you may take a <symbol>gandalf<\/symbol> card from your discard pile into hand."
+}

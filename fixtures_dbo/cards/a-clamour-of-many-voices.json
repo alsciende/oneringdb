@@ -1,0 +1,10 @@
+{
+    "id": "a-clamour-of-many-voices",
+    "title": "A Clamour of Many\u00a0Voices",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time a Dwarf wins a skirmish in which you played a <symbol>dwarven<\/symbol> event, you may draw a card."
+}

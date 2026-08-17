@@ -1,0 +1,10 @@
+{
+    "id": "knight-s-mount",
+    "title": "Knight's Mount",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Mount",
+    "text": "Bearer must be a <keyword>knight.<\/keyword> <br>Each time bearer wins a skirmish, you may wound a minion who is not assigned to a skirmish."
+}

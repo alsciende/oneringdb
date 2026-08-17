@@ -1,0 +1,9 @@
+{
+    "id": "the-witch-king-lord-of-the-nazgul",
+    "title": "The Witch-king",
+    "subtitle": "Lord of the Nazgûl",
+    "culture": "wraith",
+    "twilight_cost": 8,
+    "type": "minion",
+    "text": "<keyword>Twilight.<\/keyword>  <br>Return to Its Master may not be played. <br>Each time The Witch-king wins a skirmish, you may exert him to wound the Ring-bearer twice. "
+}

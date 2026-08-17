@@ -1,0 +1,10 @@
+{
+    "id": "faramir-ithilien-ranger",
+    "title": "Faramir",
+    "subtitle": "Ithilien Ranger",
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": ""
+}

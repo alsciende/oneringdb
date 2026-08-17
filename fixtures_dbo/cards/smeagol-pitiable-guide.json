@@ -1,0 +1,10 @@
+{
+    "id": "smeagol-pitiable-guide",
+    "title": "Sm\u00e9agol",
+    "subtitle": "Pitiable Guide",
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Companion",
+    "subtype": "",
+    "text": "<keyword>Ring-bound.<\/keyword><br> To play, add a burden.<br> Each time Sm\u00e9agol wins a skirmish, you may shuffle up to 2 <symbol>gollum<\/symbol> cards from your discard pile into your draw deck.<br> <keyword>Skirmish<\/keyword>: Exert a Ring-bound companion to make Sm\u00e9agol strength +2."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "eomer-keeper-of-oaths",
+    "title": "Éomer",
+    "subtitle": "Keeper of Oaths",
+    "culture": "rohan",
+    "twilight_cost": 3,
+    "type": "companion",
+    "text": "<keyword>Valiant.<\/keyword> When you play Éomer (except in your starting fellowship), you may reveal the top 10 cards of your draw deck and play all <symbol>rohan<\/symbol> possessions revealed. Shuffle your draw deck."
+}

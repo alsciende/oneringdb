@@ -1,0 +1,10 @@
+{
+    "id": "merry-resolute-friend",
+    "title": "Merry",
+    "subtitle": "Resolute Friend",
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Fellowship.<\/keyword><br> <keyword>Skirmish<\/keyword>: If Merry is not assigned to a skirmish, take 2 <symbol>shire<\/symbol> cards from your discard pile and remove them from the game to make a companion strength +2."
+}

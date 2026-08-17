@@ -1,0 +1,10 @@
+{
+    "id": "hugin-emissary-from-laketown",
+    "title": "Hugin",
+    "subtitle": "Emissary from Laketown",
+    "culture": "Gandalf",
+    "twilight_cost": 1,
+    "type": "Ally",
+    "subtype": "Man",
+    "text": "To play, spot Gandalf.<br><keyword>Fellowship:<\/keyword> Exert Hugin to reveal a Free Peoples card from your discard pile and place it beneath your draw deck. "
+}

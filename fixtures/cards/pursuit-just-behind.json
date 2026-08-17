@@ -1,0 +1,9 @@
+{
+    "id": "pursuit-just-behind",
+    "title": "Pursuit Just Behind",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Exert a ranger companion to wound every minion."
+}

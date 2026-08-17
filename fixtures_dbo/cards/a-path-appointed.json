@@ -1,0 +1,10 @@
+{
+    "id": "a-path-appointed",
+    "title": "A Path Appointed",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Fellowship:<\/keyword> Exert a <symbol>gondor<\/symbol> Man and either a <symbol>dwarven<\/symbol> companion or a <symbol>rohan<\/symbol> companion to add a <symbol>gondor<\/symbol> token here. <br><keyword>Regroup:<\/keyword> Remove a <symbol>gondor<\/symbol> token here to discard a minion."
+}

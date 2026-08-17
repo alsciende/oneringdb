@@ -1,0 +1,10 @@
+{
+    "id": "the-sap-is-in-the-bough",
+    "title": "The Sap is in the Bough",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Discard a companion from hand to make a <symbol>gandalf<\/symbol> companion strength +3 (or +4 if you can spot 3 Ents)."
+}

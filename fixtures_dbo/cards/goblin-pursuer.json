@@ -1,0 +1,10 @@
+{
+    "id": "goblin-pursuer",
+    "title": "Goblin Pursuer",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "If the fellowship has moved more than once this turn, this minion is strength +3. "
+}

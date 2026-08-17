@@ -1,0 +1,10 @@
+{
+    "id": "sam-innocent-traveler",
+    "title": "Sam",
+    "subtitle": "Innocent Traveler",
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Ring-bound.<\/keyword> While Sam bears the One Ring, he is resistance \u20134.<br><keyword>Maneuver:<\/keyword> If Sam is bearing a follower, exert him to heal another Hobbit.<br><keyword>Response:<\/keyword> If Frodo is killed, make Sam the Ring-bearer."
+}

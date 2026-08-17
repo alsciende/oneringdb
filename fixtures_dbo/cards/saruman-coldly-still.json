@@ -1,0 +1,10 @@
+{
+    "id": "saruman-coldly-still",
+    "title": "Saruman",
+    "subtitle": "Coldly Still",
+    "culture": "Men",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Wizard",
+    "text": "Each <symbol>men<\/symbol> minion bearing a possession is strength +2.<br><keyword>Skirmish:<\/keyword> Exert Saruman to play a <symbol>men<\/symbol> possession from your discard pile."
+}

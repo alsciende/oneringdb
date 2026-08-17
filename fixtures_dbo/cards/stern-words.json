@@ -1,0 +1,10 @@
+{
+    "id": "stern-words",
+    "title": "Stern Words",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "To play, spot a <symbol>gandalf<\/symbol> Wizard.<br> Bearer must be a companion.<br> Each time bearer wins a skirmish, you may transfer this condition to another companion."
+}

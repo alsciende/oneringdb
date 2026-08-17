@@ -1,0 +1,10 @@
+{
+    "id": "gnawing-burning",
+    "title": "Gnawing",
+    "subtitle": "Burning",
+    "culture": "Isengard",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": ""
+}

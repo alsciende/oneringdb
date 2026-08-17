@@ -1,0 +1,10 @@
+{
+    "id": "grousing-hillman",
+    "title": "Grousing Hillman",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "While you control a site, this minion is strength +3 and <keyword>fierce<\/keyword>."
+}

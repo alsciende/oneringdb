@@ -1,0 +1,10 @@
+{
+    "id": "smeagol-hurried-guide",
+    "title": "Sm\u00e9agol",
+    "subtitle": "Hurried Guide",
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Companion",
+    "subtype": "",
+    "text": "<keyword>Ring-bound.<\/keyword> To play, add a burden. <br><keyword>Skirmish:<\/keyword> If you have initiative, discard 2 cards from your hand. Sm\u00e9agol cannot be overwhelmed unless his strength is tripled."
+}

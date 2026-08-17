@@ -7,7 +7,7 @@ namespace App\Exception;
 class BadOperandException extends SyntaxException
 {
     public function __construct(
-        public string $value
+        public string $value,
     ) {
         parent::__construct();
     }

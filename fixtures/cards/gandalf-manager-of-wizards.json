@@ -1,0 +1,9 @@
+{
+    "id": "gandalf-manager-of-wizards",
+    "title": "Gandalf",
+    "subtitle": "Manager of Wizards",
+    "culture": "gandalf",
+    "twilight_cost": 4,
+    "type": "companion",
+    "text": "<keyword>Skirmish:<\/keyword> Place 3 cards from hand on top of your draw deck to make a minion skirmishing an unbound companion strength –3. Any Shadow player may place 3 cards from his or her hand on top of his or her draw deck to prevent this."
+}

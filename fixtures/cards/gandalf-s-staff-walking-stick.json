@@ -1,0 +1,9 @@
+{
+    "id": "gandalf-s-staff-walking-stick",
+    "title": "Gandalf's Staff",
+    "subtitle": "Walking Stick",
+    "culture": "gandalf",
+    "twilight_cost": 2,
+    "type": "artifact",
+    "text": "Bearer must be Gandalf.  <br>While you can spot 2 twilight tokens, Gandalf is <keyword>damage +2.<\/keyword>"
+}

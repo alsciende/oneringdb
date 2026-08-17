@@ -1,0 +1,9 @@
+{
+    "id": "host-of-thousands",
+    "title": "Host of Thousands",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Shadow:<\/keyword> Play a <symbol>moria<\/symbol> Orc from your discard pile."
+}

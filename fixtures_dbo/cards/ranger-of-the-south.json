@@ -1,0 +1,10 @@
+{
+    "id": "ranger-of-the-south",
+    "title": "Ranger of the South",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Ranger.<\/keyword> While you can spot a<symbol>gondor<\/symbol>token, this companion is strength +2."
+}

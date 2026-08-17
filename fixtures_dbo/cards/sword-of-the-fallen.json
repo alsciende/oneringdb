@@ -1,0 +1,10 @@
+{
+    "id": "sword-of-the-fallen",
+    "title": "Sword of the Fallen",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be an Elf.<br>Each minion skirmishing bearer is strength -1 for each wound on that minion.<br><keyword>Skirmish:<\/keyword> Exert bearer to exert a minion skirmishing bearer."
+}

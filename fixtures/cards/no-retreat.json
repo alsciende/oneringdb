@@ -1,0 +1,9 @@
+{
+    "id": "no-retreat",
+    "title": "No Retreat",
+    "subtitle": null,
+    "culture": "dunland",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "Plays on a site you control.  <br><keyword>Regroup:<\/keyword> Spot 2 <symbol>dunland<\/symbol> Men and discard this condition to make the Free Peoples player choose to move again this turn (if the move limit allows). "
+}

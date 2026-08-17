@@ -1,0 +1,9 @@
+{
+    "id": "foul-horde",
+    "title": "Foul Horde",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Warg-rider.<\/keyword><br>While Foul Horde is not exhausted, it is <keyword>fierce.<\/keyword><br>While Foul Horde has at least 3 vitality, it is <keyword>Ambush<\/keyword> <symbol>twilight1<\/symbol>. <br>While Foul Horde has at least 4 vitality, it is <keyword>damage +1.<\/keyword>"
+}

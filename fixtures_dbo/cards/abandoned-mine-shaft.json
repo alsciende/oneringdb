@@ -1,0 +1,10 @@
+{
+    "id": "abandoned-mine-shaft",
+    "title": "Abandoned Mine Shaft",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Underground.<\/keyword> If this site is not in region 1 when the fellowship moves from here during the regroup phase, add a burden."
+}

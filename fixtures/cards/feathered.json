@@ -1,0 +1,9 @@
+{
+    "id": "feathered",
+    "title": "Feathered",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make a minion skirmishing an Elf strength -2 for each wound on that minion. "
+}

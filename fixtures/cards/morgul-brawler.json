@@ -1,0 +1,9 @@
+{
+    "id": "morgul-brawler",
+    "title": "Morgul Brawler",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "While the Ring-bearer is exhausted, this minion is strength +3, fierce and <keyword>damage +1<\/keyword>."
+}

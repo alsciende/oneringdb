@@ -1,0 +1,10 @@
+{
+    "id": "tower-of-ecthelion",
+    "title": "Tower of Ecthelion",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Sanctuary.<\/keyword> <keyword>Fellowship:<\/keyword> If you cannot spot 3 threats, add 3 threats to make the move limit for this turn +1."
+}

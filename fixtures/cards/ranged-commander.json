@@ -1,0 +1,9 @@
+{
+    "id": "ranged-commander",
+    "title": "Ranged Commander",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Archer.<\/keyword>  <br>The twilight cost of each <symbol>isengard<\/symbol> archer is -1.  <br><keyword>Archery:<\/keyword> Exert Ranged Commander to make the Free Peoples player wound an unbound companion; this minion does not add to the minion archery total. "
+}

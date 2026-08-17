@@ -1,0 +1,10 @@
+{
+    "id": "host-of-moria-legion-of-the-underdeeps",
+    "title": "Host of Moria",
+    "subtitle": "Legion of the Underdeeps",
+    "culture": "Moria",
+    "twilight_cost": 7,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "When you play Host of Moria, you may play a <symbol>moria<\/symbol> card from your discard pile. "
+}

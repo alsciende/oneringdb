@@ -1,0 +1,9 @@
+{
+    "id": "rosie-cotton-hobbiton-lass",
+    "title": "Rosie Cotton",
+    "subtitle": "Hobbiton Lass",
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "ally",
+    "text": "Sam is strength +1.  <br><keyword>Fellowship:<\/keyword> Exert Rosie Cotton to heal Sam."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "devilry-of-orthanc",
+    "title": "Devilry of Orthanc",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "<keyword>Machine.<\/keyword><br><keyword>Shadow:<\/keyword> Exert an Uruk-hai to place an <symbol>isengard<\/symbol> token on this card. <br><keyword>Maneuver:<\/keyword> Spot 8 <symbol>isengard<\/symbol> tokens here to exert every character. Discard this condition."
+}

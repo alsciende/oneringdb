@@ -1,0 +1,9 @@
+{
+    "id": "denethor-wizened-steward",
+    "title": "Denethor",
+    "subtitle": "Wizened Steward",
+    "culture": "gondor",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "Denethor is strength +1 for each other <symbol>gondor<\/symbol> Man you can spot (limit +4)."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "eowyn-lady-of-ithilien",
+    "title": "\u00c9owyn",
+    "subtitle": "Lady of Ithilien",
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Skirmish:<\/keyword> Exert \u00c9owyn to choose an opponent. That opponent must wound a minion for each wound on each minion skirmishing \u00c9owyn."
+}

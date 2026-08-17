@@ -1,0 +1,10 @@
+{
+    "id": "our-foes-are-weak",
+    "title": "Our Foes Are Weak",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "To play, spot an <symbol>urukhai<\/symbol> minion. <br>Bearer must be an unbound companion. Limit 1 per bearer. "
+}

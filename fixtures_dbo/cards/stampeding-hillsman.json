@@ -1,0 +1,10 @@
+{
+    "id": "stampeding-hillsman",
+    "title": "Stampeding Hillsman",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Regroup:<\/keyword> Spot a <symbol>men<\/symbol> minion in your discard pile and discard this minion to place that minion on your <symbol>men<\/symbol> support area possession."
+}

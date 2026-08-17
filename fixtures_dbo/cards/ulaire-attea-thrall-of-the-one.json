@@ -1,0 +1,10 @@
+{
+    "id": "ulaire-attea-thrall-of-the-one",
+    "title": "\u00dalair\u00eb Att\u00eba",
+    "subtitle": "Thrall of the One",
+    "culture": "Wraith",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Enduring.<\/keyword> <br><keyword>Regroup:<\/keyword> Exert \u00dalair\u00eb Att\u00eba and spot your <symbol>wraith<\/symbol> minion to return that minion to your hand."
+}

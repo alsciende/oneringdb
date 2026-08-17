@@ -1,0 +1,10 @@
+{
+    "id": "orc-strategist",
+    "title": "Orc Strategist",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

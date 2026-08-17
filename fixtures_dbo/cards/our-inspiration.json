@@ -1,0 +1,10 @@
+{
+    "id": "our-inspiration",
+    "title": "Our Inspiration",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "Spot a <symbol>rohan<\/symbol> Man to play a possession from your discard pile for each hunter character you can spot."
+}

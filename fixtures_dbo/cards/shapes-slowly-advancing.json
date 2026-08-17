@@ -1,0 +1,10 @@
+{
+    "id": "shapes-slowly-advancing",
+    "title": "Shapes Slowly Advancing",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Regroup:<\/keyword> Discard your Nazg\u00fbl from play to add a <symbol>wraith<\/symbol> token here. The Free Peoples player may return a companion to hand to prevent the placement of that token. When you can spot 4 <symbol>wraith<\/symbol> tokens on this condition, the Ring-bearer is corrupted."
+}

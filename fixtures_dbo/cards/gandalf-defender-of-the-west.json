@@ -1,0 +1,10 @@
+{
+    "id": "gandalf-defender-of-the-west",
+    "title": "Gandalf",
+    "subtitle": "Defender of the West",
+    "culture": "Gandalf",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Wizard",
+    "text": "While you cannot spot 3 companions of the same culture, Gandalf is strength \u20132."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "dangerous-gamble",
+    "title": "Dangerous Gamble",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 2,
+    "type": "event",
+    "text": "<keyword>Shadow:<\/keyword> Spot a <symbol>moria<\/symbol> minion to reveal a card at random from the Free Peoples player’s hand. Add <symbol>twilightX<\/symbol>, where X is the twilight cost of the card revealed. "
+}

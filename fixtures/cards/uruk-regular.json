@@ -1,0 +1,9 @@
+{
+    "id": "uruk-regular",
+    "title": "Uruk Regular",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Damage +1.<\/keyword>  <br><keyword>Shadow:<\/keyword> Exert this minion to play an Uruk-hai; its twilight cost is -1 for each other Uruk-hai you can spot. "
+}

@@ -1,0 +1,9 @@
+{
+    "id": "isengard-scimitar",
+    "title": "Isengard Scimitar",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "Bearer must be an <symbol>isengard<\/symbol> Orc.<br>When you play this weapon, you may add <symbol>twilight1<\/symbol> for each site you control."
+}

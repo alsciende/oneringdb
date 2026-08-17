@@ -1,0 +1,9 @@
+{
+    "id": "orc-brood",
+    "title": "Orc Brood",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Skirmish:<\/keyword> Discard 3 cards from hand to make this minion strength +3."
+}

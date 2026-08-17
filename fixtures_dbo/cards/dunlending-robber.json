@@ -1,0 +1,10 @@
+{
+    "id": "dunlending-robber",
+    "title": "Dunlending Robber",
+    "subtitle": null,
+    "culture": "Dunland",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "Each time this minion wins a skirmish, you may make him strength +2 and <keyword>fierce<\/keyword> until the regroup phase. "
+}

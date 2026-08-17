@@ -1,0 +1,10 @@
+{
+    "id": "gorbag-lieutenant-of-cirith-ungol",
+    "title": "Gorbag",
+    "subtitle": "Lieutenant of Cirith Ungol",
+    "culture": "Wraith",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "While you can spot a Nazg\u00fbl, Gorbag is strength +2 and <keyword>damage +1<\/keyword>."
+}

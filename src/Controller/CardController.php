@@ -14,7 +14,7 @@ class CardController extends AbstractController
 {
     #[Route('/card/{id}', name: 'app_card')]
     public function index(
-        #[MapEntity(expr: 'repository.getCard(id)')] Card $card
+        #[MapEntity(expr: 'repository.getCard(id)')] Card $card,
     ): Response {
         return $this->render('card/index.html.twig', [
             'card' => $card,

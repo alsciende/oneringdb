@@ -1,0 +1,10 @@
+{
+    "id": "loyalty-unshaken",
+    "title": "Loyalty Unshaken",
+    "subtitle": null,
+    "culture": "Dwarven",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "When you play this condition, you may stack 2 cards from hand here and draw a card for each <symbol>dwarven<\/symbol> card you stack. <br><keyword>Skirmish:<\/keyword> Make a Dwarf strength +2. Also, make that Dwarf damage +2 for each <symbol>dwarven<\/symbol> card stacked on this condition. Discard this condition."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "sam-samwise-the-brave",
+    "title": "Sam",
+    "subtitle": "Samwise the Brave",
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Ring-bound.<\/keyword><br><keyword>Response:<\/keyword> If a Shadow card is about to add any number of burdens, spot Frodo and exert Sam to prevent this.<br><keyword>Response:<\/keyword> If Frodo is killed, make Sam the <keyword>Ring-bearer (resistance 5).<\/keyword>"
+}

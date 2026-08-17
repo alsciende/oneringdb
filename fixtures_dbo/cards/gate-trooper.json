@@ -1,0 +1,10 @@
+{
+    "id": "gate-trooper",
+    "title": "Gate Trooper",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 1,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "When you play this minion, you may exert him and spot 5 burdens to draw a card."
+}

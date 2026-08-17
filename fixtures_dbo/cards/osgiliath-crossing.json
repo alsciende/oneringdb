@@ -1,0 +1,10 @@
+{
+    "id": "osgiliath-crossing",
+    "title": "Osgiliath Crossing",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 6,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>River.<\/keyword> <keyword>Shadow:<\/keyword> Exert 2 minions and spot 6 companions to draw 2 cards."
+}

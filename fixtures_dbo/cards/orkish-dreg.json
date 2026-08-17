@@ -1,0 +1,10 @@
+{
+    "id": "orkish-dreg",
+    "title": "Orkish Dreg",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "Each time you play this minion, you may spot another <symbol>orc<\/symbol> minion to exert a companion for each Free Peoples culture you can spot over 2."
+}

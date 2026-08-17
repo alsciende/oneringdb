@@ -1,0 +1,9 @@
+{
+    "id": "trust-me-as-you-once-did",
+    "title": "Trust Me as You Once Did",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "<br><keyword>Skirmish:<\/keyword> Exert Gandalf to make a companion strength +1 for each companion with the Gandalf signet you can spot (limit +3). "
+}

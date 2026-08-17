@@ -1,0 +1,9 @@
+{
+    "id": "wind-that-sped-ships",
+    "title": "Wind That Sped Ships",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Make a corsair strength +1 for each <symbol>raider<\/symbol> token you spot (limit +6). If you have initiative, you may place this event on top of your draw deck."
+}

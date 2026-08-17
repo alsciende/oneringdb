@@ -1,0 +1,10 @@
+{
+    "id": "so-fair-so-desperate-so-desperate",
+    "title": "So Fair, So Desperate",
+    "subtitle": "So Desperate",
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "If the Shadow has initiative, add a threat to make an unbound Hobbit strength +1 for each <symbol>shire<\/symbol> card you spot."
+}

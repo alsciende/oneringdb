@@ -1,0 +1,10 @@
+{
+    "id": "bilbo-aged-ring-bearer",
+    "title": "Bilbo",
+    "subtitle": "Aged Ring-bearer",
+    "culture": "Shire",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Ring-bound.<\/keyword><br>While Bilbo is not assigned to a skirmish, each Ring-bound Hobbit is strength +1.<br>At the start of each skirmish involving Bilbo, you may remove a burden for each other Ring-bound Hobbit you can spot."
+}

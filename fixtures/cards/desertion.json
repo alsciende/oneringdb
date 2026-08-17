@@ -1,0 +1,9 @@
+{
+    "id": "desertion",
+    "title": "Desertion",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "To play, spot an <symbol>isengard<\/symbol> Man. Plays on a companion (except the Ring-bearer). <keyword>Assignment:<\/keyword> Assign an <symbol>isengard<\/symbol> minion with less strength than bearer to skirmish bearer. Discard this condition."
+}

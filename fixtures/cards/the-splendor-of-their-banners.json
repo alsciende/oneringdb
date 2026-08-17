@@ -1,0 +1,9 @@
+{
+    "id": "the-splendor-of-their-banners",
+    "title": "The Splendor of Their Banners",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Tale.<\/keyword> Bearer must be an Elf companion. <br><keyword>Archery:<\/keyword> If bearer is an archer, exert bearer to make the fellowship archery total +1."
+}

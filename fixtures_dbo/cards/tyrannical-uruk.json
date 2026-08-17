@@ -1,0 +1,10 @@
+{
+    "id": "tyrannical-uruk",
+    "title": "Tyrannical Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword> <keyword>Toil 1.<\/keyword> (For each <symbol>urukhai<\/symbol> character you exert when playing this, its twilight cost is \u20131.)"
+}

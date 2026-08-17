@@ -1,0 +1,10 @@
+{
+    "id": "scroll-of-isildur",
+    "title": "Scroll of Isildur",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Artifact",
+    "subtype": "Support Area",
+    "text": "<keyword>Tale.<\/keyword> To play, spot a <symbol>gondor<\/symbol> Man. <br>The Ring-bearer is resistance +1 for each <symbol>gondor<\/symbol> artifact you can spot (limit +3). <br><keyword>Fellowship:<\/keyword> Discard this artifact to play a ring from your discard pile. "
+}

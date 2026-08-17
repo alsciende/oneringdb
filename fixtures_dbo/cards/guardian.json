@@ -1,0 +1,10 @@
+{
+    "id": "guardian",
+    "title": "Guardian",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 4,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

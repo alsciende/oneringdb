@@ -1,0 +1,10 @@
+{
+    "id": "in-twilight",
+    "title": "In Twilight",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "",
+    "text": "Bearer must be a <symbol>wraith<\/symbol> minion.<br> When you play this, you may draw a card.<br> Each time bearer wins a skirmish, you may transfer this condition to another <symbol>wraith<\/symbol> minion."
+}

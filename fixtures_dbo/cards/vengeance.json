@@ -1,0 +1,10 @@
+{
+    "id": "vengeance",
+    "title": "Vengeance",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Skirmish:<\/keyword> Make an <symbol>isengard<\/symbol> tracker strength +2 for each card borne by the character it is skirmishing. "
+}

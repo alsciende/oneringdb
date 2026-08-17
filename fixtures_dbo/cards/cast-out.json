@@ -1,0 +1,10 @@
+{
+    "id": "cast-out",
+    "title": "Cast Out",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 4,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Toil 2.<\/keyword> <i>(For each <\/i><symbol>rohan<\/symbol> <i>character you exert when playing this, its twilight cost is \u20132.)<\/i> <br><keyword>Maneuver:<\/keyword> Spot a <symbol>rohan<\/symbol> Man and discard this condition to exert a minion. <br><keyword>Maneuver:<\/keyword> Spot a mounted <symbol>rohan<\/symbol> Man and discard this condition to return an exhausted minion to its owner\u2019s hand."
+}

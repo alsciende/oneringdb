@@ -1,0 +1,10 @@
+{
+    "id": "uruk-soldier",
+    "title": "Uruk Soldier",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1<\/keyword>.  <br>When you play this minion, you may make the Free Peoples player discard the top card of his or her draw deck."
+}

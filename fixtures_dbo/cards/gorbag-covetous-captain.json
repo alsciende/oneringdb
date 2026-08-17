@@ -1,0 +1,10 @@
+{
+    "id": "gorbag-covetous-captain",
+    "title": "Gorbag",
+    "subtitle": "Covetous Captain",
+    "culture": "Wraith",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "For each wound on the Ring-bearer, each <symbol>wraith<\/symbol> Orc is strength +1."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "ulaire-enquea-thrall-of-the-one",
+    "title": "Úlairë Enquëa",
+    "subtitle": "Thrall of The One",
+    "culture": "wraith",
+    "twilight_cost": 6,
+    "type": "minion",
+    "text": "<keyword>Enduring.<\/keyword> <br>Shadow cards cannot exert Úlairë Enquëa during a skirmish phase. <br><keyword>Skirmish:<\/keyword> If Úlairë Enquëa is skirmishing, heal him to add a burden. "
+}

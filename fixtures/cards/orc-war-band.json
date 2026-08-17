@@ -1,0 +1,9 @@
+{
+    "id": "orc-war-band",
+    "title": "Orc War Band",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Skirmish:<\/keyword> Exert this minion to wound a character it is skirmishing."
+}

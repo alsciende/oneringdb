@@ -1,0 +1,10 @@
+{
+    "id": "merry-s-armor",
+    "title": "Merry's Armor",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 0,
+    "type": "Possession",
+    "subtype": "Armor",
+    "text": "Bearer must be Merry. <br>While you can spot 3 <symbol>rohan<\/symbol> Men, Merry cannot be overwhelmed unless his strength is tripled."
+}

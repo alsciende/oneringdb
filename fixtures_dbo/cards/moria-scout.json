@@ -1,0 +1,10 @@
+{
+    "id": "moria-scout",
+    "title": "Moria Scout",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "When you play this minion, spot an Elf to add <symbol>twilight2<\/symbol>."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "the-palantir-of-orthanc-seventh-seeing-stone",
+    "title": "The Palantír of Orthanc",
+    "subtitle": "Seventh Seeing-stone",
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "artifact",
+    "text": "To play, spot an <symbol>isengard<\/symbol> minion.  Plays to your support area.<br><keyword>Shadow:<\/keyword> Spot an <symbol>isengard<\/symbol> minion and remove <symbol>twilight2<\/symbol> to reveal the top card of any draw deck. You may place that card beneath that draw deck. "
+}

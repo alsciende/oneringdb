@@ -1,0 +1,10 @@
+{
+    "id": "shrouded-elf",
+    "title": "Shrouded Elf",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "<keyword>Response:<\/keyword> If you play an event during a skirmish involving this companion, exert this companion to place that event on top of your draw deck."
+}

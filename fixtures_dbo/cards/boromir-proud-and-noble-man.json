@@ -1,0 +1,10 @@
+{
+    "id": "boromir-proud-and-noble-man",
+    "title": "Boromir",
+    "subtitle": "Proud and Noble Man",
+    "culture": "Gondor",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Ranger.<\/keyword><br>When you play Boromir (except in\u00a0your starting fellowship), you may play a possession with a twilight cost of 1 or less on him from your draw deck. Reshuffle your draw deck."
+}

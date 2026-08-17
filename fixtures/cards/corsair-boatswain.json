@@ -1,0 +1,9 @@
+{
+    "id": "corsair-boatswain",
+    "title": "Corsair Boatswain",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Corsair.<\/keyword> To play, spot a <symbol>raider<\/symbol> Man. <br><keyword>Shadow:<\/keyword> Exert this minion to play a <symbol>raider<\/symbol> support area possession from your draw deck. "
+}

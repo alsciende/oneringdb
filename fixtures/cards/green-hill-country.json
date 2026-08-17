@@ -1,0 +1,9 @@
+{
+    "id": "green-hill-country",
+    "title": "Green Hill Country",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "site",
+    "text": "The twilight cost of each Hobbit is -1."
+}

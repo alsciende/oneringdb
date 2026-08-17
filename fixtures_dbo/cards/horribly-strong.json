@@ -1,0 +1,10 @@
+{
+    "id": "horribly-strong",
+    "title": "Horribly Strong",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 2,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Discard Gollum from play to wound an unbound companion who has resistance 6 or less."
+}

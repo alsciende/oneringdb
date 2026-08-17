@@ -1,0 +1,10 @@
+{
+    "id": "gandalf-the-grey-pilgrim",
+    "title": "Gandalf",
+    "subtitle": "The Grey Pilgrim",
+    "culture": "Gandalf",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Wizard",
+    "text": ""
+}

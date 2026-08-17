@@ -1,0 +1,10 @@
+{
+    "id": "cirion",
+    "title": "Cirion",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "While you have only 4 or 5 cards in hand, Cirion is strength +2."
+}

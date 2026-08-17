@@ -1,0 +1,10 @@
+{
+    "id": "legolas-woodland-emissary",
+    "title": "Legolas",
+    "subtitle": "Woodland Emissary",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "At the start of the archery phase, you may spot another Elf to exert a minion. "
+}

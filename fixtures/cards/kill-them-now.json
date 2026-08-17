@@ -1,0 +1,9 @@
+{
+    "id": "kill-them-now",
+    "title": "Kill Them Now",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make an <symbol>isengard<\/symbol> tracker strength +2 (or +4 if skirmishing a character bearing a search card). "
+}

@@ -29,11 +29,12 @@ class GetCardsByFieldCommand extends Command implements LoggerAwareInterface
     private SymfonyStyle $io;
 
     public function __construct(
-        public CardRepository $cardRepository
+        public CardRepository $cardRepository,
     ) {
         parent::__construct();
     }
 
+    #[\Override]
     public function getStyle(): SymfonyStyle
     {
         return $this->io;

@@ -1,0 +1,10 @@
+{
+    "id": "hardy-garrison",
+    "title": "Hardy Garrison",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot 2 <symbol>gondor<\/symbol> Men. <br>Each time you lose initiative, you may wound a minion. "
+}

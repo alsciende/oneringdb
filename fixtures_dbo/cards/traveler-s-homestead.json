@@ -1,0 +1,10 @@
+{
+    "id": "traveler-s-homestead",
+    "title": "Traveler's Homestead",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 3,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": "treebeard-guardian-of-the-forest",
+    "title": "Treebeard",
+    "subtitle": "Guardian of the Forest",
+    "culture": "Gandalf",
+    "twilight_cost": 5,
+    "type": "Companion",
+    "subtype": "Ent",
+    "text": ""
+}

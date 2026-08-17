@@ -1,0 +1,9 @@
+{
+    "id": "hope-comes",
+    "title": "Hope Comes",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "To play, spot 2 Elves. <br><keyword>Response:<\/keyword> If an <symbol>elven<\/symbol> skirmish event is played, discard this condition to draw 3 cards."
+}

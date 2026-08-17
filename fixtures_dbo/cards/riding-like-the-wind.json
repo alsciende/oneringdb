@@ -1,0 +1,10 @@
+{
+    "id": "riding-like-the-wind",
+    "title": "Riding Like the Wind",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": "song-of-the-shire",
+    "title": "Song of the Shire",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Fellowship:<\/keyword> Exert a <symbol>shire<\/symbol> companion and either a <symbol>rohan<\/symbol> companion or a <symbol>gandalf<\/symbol> companion to add a <symbol>shire<\/symbol> token here. <br><keyword>Skirmish:<\/keyword> Remove a <symbol>shire<\/symbol> token here to prevent an unbound companion from being overwhelmed unless his or her strength is tripled."
+}

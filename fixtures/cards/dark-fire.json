@@ -1,0 +1,9 @@
+{
+    "id": "dark-fire",
+    "title": "Dark Fire",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "To play, spot The Balrog.  <br>Plays on Gandalf.  <br>Each time the fellowship moves, Gandalf must exert. "
+}

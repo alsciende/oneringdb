@@ -1,0 +1,9 @@
+{
+    "id": "herugrim",
+    "title": "Herugrim",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 2,
+    "type": "possession",
+    "text": "Bearer must be Théoden.<br>He is <keyword>damage +1.<\/keyword>"
+}

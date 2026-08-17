@@ -1,0 +1,10 @@
+{
+    "id": "uruk-hai-armory",
+    "title": "Uruk-hai Armory",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": " <br>While you can spot an Uruk-hai, the fellowship archery total is -1."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "gate-troll",
+    "title": "Gate Troll",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 8,
+    "type": "Minion",
+    "subtype": "Troll",
+    "text": ""
+}

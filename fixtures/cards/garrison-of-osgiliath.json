@@ -1,0 +1,9 @@
+{
+    "id": "garrison-of-osgiliath",
+    "title": "Garrison of Osgiliath",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "<keyword>Fortification.<\/keyword> When you play this condition, you may spot a <symbol>gondor<\/symbol> Man to place 2 <symbol>gondor<\/symbol> tokens here. <keyword>Skirmish:<\/keyword> Discard this condition or remove a <symbol>gondor<\/symbol> token from here to make a <symbol>gondor<\/symbol> Man strength +1."
+}

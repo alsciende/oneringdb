@@ -1,0 +1,10 @@
+{
+    "id": "ulaire-nertea-black-horseman",
+    "title": "Ulaire Nertea",
+    "subtitle": "Black Horseman",
+    "culture": "Wraith",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "The twilight cost of each mount is \u20131. <br>While \u00dalair\u00eb Nert\u00eba is mounted, each Nazg\u00fbl is strength +1 and has <keyword>muster.<\/keyword> <i>(At the start of the regroup phase, you may discard a card from hand to draw a card.)<\/i>"
+}

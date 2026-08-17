@@ -1,0 +1,10 @@
+{
+    "id": "a-task-now-to-be-done",
+    "title": "A Task Now to Be Done",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": ""
+}

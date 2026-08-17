@@ -1,0 +1,10 @@
+{
+    "id": "uruk-village-stormer",
+    "title": "Uruk Village Stormer",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1<\/keyword>.<br>While you can spot a companion of strength 12 or more, this minion is strength +4.<br>Each time a companion or ally is killed during a skirmish involving an <symbol>urukhai<\/symbol> minion, you may take control of a site."
+}

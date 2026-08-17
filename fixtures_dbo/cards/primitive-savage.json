@@ -1,0 +1,10 @@
+{
+    "id": "primitive-savage",
+    "title": "Primitive Savage",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 5,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "While you can spot a companion of strength 12 or more, this minion is strength +5.<br>Each time this minion wins a skirmish, if he bears a hand weapon, you may take control of a site."
+}

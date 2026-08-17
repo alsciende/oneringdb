@@ -1,0 +1,9 @@
+{
+    "id": "quickbeam-bregalad",
+    "title": "Quickbeam",
+    "subtitle": "Bregalad",
+    "culture": "gandalf",
+    "twilight_cost": 4,
+    "type": "companion",
+    "text": "Quickbeam’s twilight cost is –1 for each Ent or unbound Hobbit you can spot."
+}

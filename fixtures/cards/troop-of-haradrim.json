@@ -1,0 +1,9 @@
+{
+    "id": "troop-of-haradrim",
+    "title": "Troop of Haradrim",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 5,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <br>While you can spot 2 threats, this minion is an archer. <br>While you can spot 3 threats, this minion is fierce. <br>While you can spot 4 threats, this minion is <keyword>damage +1<\/keyword>."
+}

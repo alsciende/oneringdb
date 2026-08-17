@@ -1,0 +1,9 @@
+{
+    "id": "rumil-elven-protector",
+    "title": "Rúmil",
+    "subtitle": "Elven Protector",
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "ally",
+    "text": "<keyword>Archer.<\/keyword> <br><keyword>Archery:<\/keyword> Exert Rúmil to wound an Orc."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "sauron-s-hatred",
+    "title": "Sauron's Hatred",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "To play, spot a <symbol>sauron<\/symbol> Orc. <br><keyword>Shadow:<\/keyword> Remove a threat to play a <symbol>sauron<\/symbol> Orc without paying any roaming penalty. <br><keyword>Regroup:<\/keyword> Spot a <symbol>sauron<\/symbol> Orc and remove <symbol>twilight4<\/symbol> to add a threat."
+}

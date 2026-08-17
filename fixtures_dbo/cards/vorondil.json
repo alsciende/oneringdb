@@ -1,0 +1,10 @@
+{
+    "id": "vorondil",
+    "title": "Vorondil",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "While no opponent controls a site, Vorondil is strength +2. <br><keyword>Regroup:<\/keyword> Exert 3 <symbol>gondor<\/symbol> Men or 2 knights to liberate a site."
+}

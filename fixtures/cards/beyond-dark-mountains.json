@@ -1,0 +1,9 @@
+{
+    "id": "beyond-dark-mountains",
+    "title": "Beyond Dark Mountains",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Response:<\/keyword> If a companion or ally is killed, exert an <symbol>isengard<\/symbol> minion to add a burden (or 2 burdens if Aragorn, Gandalf, or Théoden is killed). "
+}

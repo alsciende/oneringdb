@@ -1,0 +1,10 @@
+{
+    "id": "library-of-orthanc",
+    "title": "Library of Orthanc",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 2,
+    "type": "Artifact",
+    "subtype": "Support Area",
+    "text": "<keyword>Shadow:<\/keyword> Play an <symbol>isengard<\/symbol> minion to stack the top card of your draw deck on this card. <keyword>Skirmish:<\/keyword> Remove <symbol>twilight1<\/symbol> and discard a Free Peoples card stacked here to make an <symbol>isengard<\/symbol> minion strength +1. <keyword>Regroup:<\/keyword> Remove <symbol>twilight1<\/symbol> to take an <symbol>isengard<\/symbol> card stacked here into hand. "
+}

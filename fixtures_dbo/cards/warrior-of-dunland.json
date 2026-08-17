@@ -1,0 +1,10 @@
+{
+    "id": "warrior-of-dunland",
+    "title": "Warrior of Dunland",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Ambush<\/keyword> <symbol>twilight1<\/symbol>. While this minion is at a plains site, it gains an additional ambush <symbol>twilight1<\/symbol>."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "attack-on-helm-s-deep",
+    "title": "Attack on Helm's Deep",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "<br><keyword>Shadow:<\/keyword> Play an Uruk-hai to place an <symbol>isengard<\/symbol> token on this card.  <br><keyword>Regroup: <\/keyword>Remove 3 <symbol>isengard<\/symbol> tokens from this card and discard an Uruk-hai to take control of a site. "
+}

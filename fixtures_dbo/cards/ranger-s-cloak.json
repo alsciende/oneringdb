@@ -1,0 +1,10 @@
+{
+    "id": "ranger-s-cloak",
+    "title": "Ranger\u2019s Cloak",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Cloak",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man.<br>While bearer is a ranger or at a forest site, each minion skirmishing bearer is site number +2.<br><keyword>Skirmish:<\/keyword> Add a threat or exert bearer to make a minion skirmishing a <symbol>gondor<\/symbol> Man site number +2."
+}

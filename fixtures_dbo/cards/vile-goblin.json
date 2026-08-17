@@ -1,0 +1,10 @@
+{
+    "id": "vile-goblin",
+    "title": "Vile Goblin",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

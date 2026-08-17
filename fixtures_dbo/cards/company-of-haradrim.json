@@ -1,0 +1,10 @@
+{
+    "id": "company-of-haradrim",
+    "title": "Company of Haradrim",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Southron.<\/keyword><br><keyword>Regroup:<\/keyword> Remove <symbol>twilight9<\/symbol> and spot another Southron to make the move limit -1 for this turn (to a minimum of 1)."
+}

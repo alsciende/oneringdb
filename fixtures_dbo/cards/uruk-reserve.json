@@ -1,0 +1,10 @@
+{
+    "id": "uruk-reserve",
+    "title": "Uruk Reserve",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 4,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1. Lurker.<\/keyword> <i>(Skirmishes involving lurker minions must be resolved after any others.)<\/i><br>Each time your <symbol>urukhai<\/symbol> minion is about to be killed in a skirmish, you may place that minion on the bottom of your draw deck instead."
+}

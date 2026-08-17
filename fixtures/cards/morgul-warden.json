@@ -1,0 +1,9 @@
+{
+    "id": "morgul-warden",
+    "title": "Morgul Warden",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "For each other <symbol>sauron<\/symbol> Orc you can spot, Morgul Warden is strength +1."
+}

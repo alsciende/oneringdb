@@ -1,0 +1,10 @@
+{
+    "id": "elven-supplies",
+    "title": "Elven Supplies",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Fellowship:<\/keyword> Remove a culture token from a Free Peoples card to add an <symbol>elven<\/symbol> token here.<br><keyword>Skirmish:<\/keyword> Remove 2 <symbol>elven<\/symbol> tokens from here to make a minion skirmishing an <symbol>elven<\/symbol> companion strength -1."
+}

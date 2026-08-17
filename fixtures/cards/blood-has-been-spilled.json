@@ -1,0 +1,9 @@
+{
+    "id": "blood-has-been-spilled",
+    "title": "Blood Has Been Spilled",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Skirmish:<\/keyword> Discard a mount borne by a <symbol>rohan<\/symbol> Man to prevent that Man from being overwhelmed unless his or her strength is tripled."
+}

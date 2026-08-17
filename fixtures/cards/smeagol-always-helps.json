@@ -1,0 +1,9 @@
+{
+    "id": "smeagol-always-helps",
+    "title": "Sméagol",
+    "subtitle": "Always Helps",
+    "culture": "gollum",
+    "twilight_cost": 0,
+    "type": "companion",
+    "text": "<keyword>Ring-bound.<\/keyword> To play, add a burden. <br><keyword>Assignment:<\/keyword> Assign a minion to Sméagol and add 2 threats to exhaust that minion."
+}

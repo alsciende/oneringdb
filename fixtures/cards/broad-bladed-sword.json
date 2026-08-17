@@ -1,0 +1,9 @@
+{
+    "id": "broad-bladed-sword",
+    "title": "Broad-bladed Sword",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be an Uruk-hai. Bearer may not take wounds (except during skirmish phases). "
+}

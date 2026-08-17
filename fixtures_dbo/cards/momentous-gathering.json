@@ -1,0 +1,10 @@
+{
+    "id": "momentous-gathering",
+    "title": "Momentous Gathering",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Fellowship",
+    "text": "Choose one: spot an Ent to take a <symbol>gandalf<\/symbol> companion into hand from your draw deck; or spot 2 Ents to take a <symbol>gandalf<\/symbol> companion and a <symbol>gandalf<\/symbol> condition into hand from your draw deck. Shuffle your draw deck."
+}

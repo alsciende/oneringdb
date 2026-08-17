@@ -1,0 +1,10 @@
+{
+    "id": "leaving-forever",
+    "title": "Leaving Forever",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot 3 Elves. <br>Each time the fellowship moves, add a threat or discard this condition. <br><keyword>Regroup:<\/keyword> Discard this condition to discard a condition or draw 2 cards."
+}

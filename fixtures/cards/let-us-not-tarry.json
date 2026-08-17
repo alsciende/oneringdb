@@ -1,0 +1,9 @@
+{
+    "id": "let-us-not-tarry",
+    "title": "Let Us Not Tarry",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 3,
+    "type": "event",
+    "text": "Exert Gandalf to make a minion skirmishing an unbound companion strength –1 for each Gandalf signet you spot."
+}

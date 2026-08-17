@@ -1,0 +1,9 @@
+{
+    "id": "iron-fist-of-the-orc",
+    "title": "Iron Fist of the Orc",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "Each time a regroup action discards an <symbol>isengard<\/symbol> Orc, you may stack that Orc on this card. <keyword>Regroup:<\/keyword> Discard 3 cards stacked here and remove <symbol>twilight1<\/symbol>to discard a Free Peoples possession."
+}

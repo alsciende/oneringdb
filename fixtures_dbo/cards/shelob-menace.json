@@ -1,0 +1,10 @@
+{
+    "id": "shelob-menace",
+    "title": "Shelob",
+    "subtitle": "Menace",
+    "culture": "Gollum",
+    "twilight_cost": 6,
+    "type": "Minion",
+    "subtype": "Spider",
+    "text": "<keyword>Fierce.<\/keyword> Each time Shelob wins a skirmish, you may add threats up to the number of burdens you can spot.<br>Each time Shelob wins a skirmish, you may play Gollum from your discard pile; he is strength +3 and <keyword>fierce<\/keyword> until the end of turn."
+}

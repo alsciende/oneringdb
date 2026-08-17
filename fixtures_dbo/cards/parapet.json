@@ -1,0 +1,10 @@
+{
+    "id": "parapet",
+    "title": "Parapet",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<keyword>Fortification.<\/keyword><keyword>Archery:<\/keyword> Spot 2 <symbol>rohan<\/symbol> Men to remove 2 tokens from a machine or to make the minion archery total -3. Discard this condition."
+}

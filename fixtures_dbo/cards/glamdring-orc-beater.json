@@ -1,0 +1,10 @@
+{
+    "id": "glamdring-orc-beater",
+    "title": "Glamdring",
+    "subtitle": "Orc Beater",
+    "culture": "Gandalf",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Hand Weapon",
+    "text": "Bearer must be Gandalf.<br>Bearer is <keyword>damage +1<\/keyword>.<br>Each time a companion is about to take a wound, you may discard a companion from hand to prevent that."
+}

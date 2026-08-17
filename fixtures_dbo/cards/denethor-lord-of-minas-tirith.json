@@ -1,0 +1,10 @@
+{
+    "id": "denethor-lord-of-minas-tirith",
+    "title": "Denethor",
+    "subtitle": "Lord of Minas Tirith",
+    "culture": "Gondor",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "To play, spot 2 <symbol>gondor<\/symbol> Men. <br><keyword>Fellowship:<\/keyword> If at a sanctuary, exert Denethor to take a <symbol>gondor<\/symbol> card into hand from your draw deck, then reshuffle. Choose an opponent who may draw 2 cards."
+}

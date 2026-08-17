@@ -1,0 +1,10 @@
+{
+    "id": "strange-and-terrible",
+    "title": "Strange and Terrible",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Shadow",
+    "text": "Spot a <symbol>gollum<\/symbol> minion at a mountain site to play a minion from your discard pile. "
+}

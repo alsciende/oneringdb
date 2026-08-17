@@ -1,0 +1,10 @@
+{
+    "id": "undisciplined",
+    "title": "Undisciplined",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 8,
+    "type": "Event",
+    "subtype": "Assignment",
+    "text": "<keyword>Toil 3.<\/keyword> (For each <symbol>orc<\/symbol> character you exert when playing this, its twilight cost is \u20133.) Assign an <symbol>orc<\/symbol> minion to a companion (except the Ring-bearer)."
+}

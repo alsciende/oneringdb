@@ -1,0 +1,9 @@
+{
+    "id": "southron-fanatic",
+    "title": "Southron Fanatic",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <br>Each time a Man is assigned to skirmish this minion, wound that Man. "
+}

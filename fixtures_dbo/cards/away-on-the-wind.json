@@ -1,0 +1,10 @@
+{
+    "id": "away-on-the-wind",
+    "title": "Away on the Wind",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Response:<\/keyword> If Faramir is about to take a wound, discard this condition from play and place Boromir or Denethor in the dead pile from play to prevent that and heal Faramir twice. "
+}

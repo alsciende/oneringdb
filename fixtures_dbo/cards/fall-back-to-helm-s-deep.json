@@ -1,0 +1,10 @@
+{
+    "id": "fall-back-to-helm-s-deep",
+    "title": "Fall Back to Helm's Deep",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "Maneuver",
+    "text": "If the fellowship is at a plains site, exert a <symbol>rohan<\/symbol> companion to return a minion to its owner's hand."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "southron-thief",
+    "title": "Southron Thief",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <br><keyword>Archery:<\/keyword> Spot another <symbol>raider<\/symbol> Man, spot 6 companions, and remove a threat to exert a companion."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "gollum-plotting-deceiver",
+    "title": "Gollum",
+    "subtitle": "Plotting Deceiver",
+    "culture": "Gollum",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "",
+    "text": "If you have initiative during the Shadow phase, you may play this minion from your discard pile."
+}

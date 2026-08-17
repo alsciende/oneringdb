@@ -1,0 +1,9 @@
+{
+    "id": "desert-nomad",
+    "title": "Desert Nomad",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 4,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <br>While you can spot 2 threats, this minion is <keyword>damage +1<\/keyword>."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "wandering-hillman",
+    "title": "Wandering Hillman",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "To play, spot a <symbol>men<\/symbol> Man.<br>While you can spot a companion of strength 10 or more, this minion is strength +3.<br><keyword>Maneuver:<\/keyword> Remove 2 burdens or 2 threats to control a site."
+}

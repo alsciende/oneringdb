@@ -1,0 +1,9 @@
+{
+    "id": "wreathed-in-shadow",
+    "title": "Wreathed in Shadow",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "To play, spot a Nazgûl.  Plays to your support area.<br><keyword>Archery:<\/keyword> Remove <symbol>twilight1<\/symbol> to make the fellowship archery total -1."
+}

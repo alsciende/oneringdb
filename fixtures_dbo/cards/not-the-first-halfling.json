@@ -1,0 +1,10 @@
+{
+    "id": "not-the-first-halfling",
+    "title": "Not the First Halfling",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Fellowship:<\/keyword> Exert Gandalf and either an <symbol>elven<\/symbol> companion or a <symbol>shire<\/symbol> companion to add a <symbol>gandalf<\/symbol> token here.  <br><keyword>Skirmish:<\/keyword> Remove a <symbol>gandalf<\/symbol> token here to make a minion skirmishing an unbound companion strength \u20132."
+}

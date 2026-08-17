@@ -1,0 +1,9 @@
+{
+    "id": "golden-light-on-the-land",
+    "title": "Golden Light on the Land",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 0,
+    "type": "condition",
+    "text": "To play, spot a Dwarf. Plays to your support area.<br>At a site which is not underground, each <symbol>moria<\/symbol> Orc’s twilight cost is +2.  <br>Discard this condition during the <keyword>regroup<\/keyword> phase. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "skulking-goblin",
+    "title": "Skulking Goblin",
+    "subtitle": null,
+    "culture": "Orc",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": "The fellowship's current site gains underground."
+}

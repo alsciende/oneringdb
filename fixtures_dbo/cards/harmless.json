@@ -1,0 +1,10 @@
+{
+    "id": "harmless",
+    "title": "Harmless",
+    "subtitle": null,
+    "culture": "Men",
+    "twilight_cost": 2,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

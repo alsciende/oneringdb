@@ -1,0 +1,10 @@
+{
+    "id": "flotsam-and-jetsam",
+    "title": "Flotsam and Jetsam",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Response",
+    "text": "If a companion (except a Hobbit) wins a skirmish, heal a Hobbit."
+}

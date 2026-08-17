@@ -1,0 +1,10 @@
+{
+    "id": "eomer-horsemaster",
+    "title": "\u00c9omer",
+    "subtitle": "Horsemaster",
+    "culture": "Rohan",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Valiant. Hunter 2.<\/keyword> <i>(While skirmishing a non-hunter character, this character is strength +2.)<\/i><br>While you can spot a <symbol>rohan<\/symbol> Man, \u00c9omer\u2019s twilight cost is -1.<br><keyword>Skirmish:<\/keyword> Discard a <symbol>rohan<\/symbol> card from hand to make \u00c9omer strength +2."
+}

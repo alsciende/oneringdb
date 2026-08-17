@@ -1,0 +1,10 @@
+{
+    "id": "urgency",
+    "title": "Urgency",
+    "subtitle": null,
+    "culture": "Isengard",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "",
+    "text": "<keyword>Weather.<\/keyword><br> Each time the fellowship moves, add <symbol>twilight1<\/symbol> for each Ent you can spot.<br> <keyword>Skirmish<\/keyword>: Discard this condition from play to make a non-<symbol>wraith<\/symbol> minion strength +1."
+}

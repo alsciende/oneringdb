@@ -1,0 +1,10 @@
+{
+    "id": "frodo-resolute-hobbit",
+    "title": "Frodo",
+    "subtitle": "Resolute Hobbit",
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Ring-bearer (resistance 12).<\/keyword>"
+}

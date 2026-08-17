@@ -1,0 +1,10 @@
+{
+    "id": "nenya-ring-of-adamant",
+    "title": "Nenya",
+    "subtitle": "Ring of Adamant",
+    "culture": "Elven",
+    "twilight_cost": 0,
+    "type": "Artifact",
+    "subtype": "Ring",
+    "text": "Bearer must be Galadriel. <br><keyword>Maneuver:<\/keyword> Heal 2 companions and place up to 2 cards from hand on top of your draw deck. Discard this artifact. "
+}

@@ -1,0 +1,9 @@
+{
+    "id": "dismay-our-enemies",
+    "title": "Dismay Our Enemies",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Response:<\/keyword> If an Elf archer wins a skirmish, make an opponent choose a minion to discard.  That opponent may remove <symbol>twilight3<\/symbol> to prevent this. "
+}

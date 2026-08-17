@@ -1,0 +1,10 @@
+{
+    "id": "orc-runner",
+    "title": "Orc Runner",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Orc",
+    "text": ""
+}

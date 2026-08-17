@@ -1,0 +1,9 @@
+{
+    "id": "we-must-have-it",
+    "title": "We Must Have It",
+    "subtitle": null,
+    "culture": "gollum",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Shadow:<\/keyword> Play Gollum from your draw deck or discard pile. <br><keyword>Skirmish:<\/keyword> Discard a card at random from hand to make Gollum strength +3."
+}

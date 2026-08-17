@@ -1,0 +1,9 @@
+{
+    "id": "dagger-strike",
+    "title": "Dagger Strike",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>gondor<\/symbol> or <symbol>shire<\/symbol> companion bearing a hand weapon strength +2 and <keyword>damage +1.<\/keyword>"
+}

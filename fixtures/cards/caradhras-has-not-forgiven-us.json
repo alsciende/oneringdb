@@ -1,0 +1,9 @@
+{
+    "id": "caradhras-has-not-forgiven-us",
+    "title": "Caradhras Has Not Forgiven Us",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 3,
+    "type": "event",
+    "text": "<keyword>Spell.<\/keyword> <keyword>Weather.<\/keyword> <br><keyword>Maneuver:<\/keyword> Exert a <symbol>isengard<\/symbol> minion and spot 5 companions to discard an exhausted companion (except the Ring-bearer)."
+}

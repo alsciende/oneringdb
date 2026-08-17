@@ -1,0 +1,10 @@
+{
+    "id": "defenses-long-held",
+    "title": "Defenses Long Held",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Event",
+    "subtype": "Skirmish",
+    "text": "Make a ranger strength +2 and you may reinforce a <symbol>gondor<\/symbol> token."
+}

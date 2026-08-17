@@ -1,0 +1,10 @@
+{
+    "id": "candle-corpses",
+    "title": "Candle Corpses",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Wraith",
+    "text": "<keyword>Enduring.<\/keyword><br> Each time the Free Peoples player assigns this minion to a companion, you may spot another <symbol>wraith<\/symbol> Wraith and remove <symbol>twilight2<\/symbol> to wound that companion."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "gimli-son-of-gloin",
+    "title": "Gimli",
+    "subtitle": "Son of Gloin",
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Dwarf",
+    "text": "<keyword>Damage +1<\/keyword>. <br><keyword>Skirmish:<\/keyword> Exert Gimli to make him strength +2."
+}

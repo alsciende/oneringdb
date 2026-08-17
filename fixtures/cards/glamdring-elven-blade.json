@@ -1,0 +1,9 @@
+{
+    "id": "glamdring-elven-blade",
+    "title": "Glamdring",
+    "subtitle": "Elven Blade",
+    "culture": "gandalf",
+    "twilight_cost": 2,
+    "type": "possession",
+    "text": "Bearer must be Gandalf. <br>He is <keyword>Damage +1.<\/keyword> <br><keyword>Skirmish:<\/keyword> If you have more cards in hand than each opponent, discard 2 cards from hand to make an opponent exert a minion."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "doors-of-durin",
+    "title": "Doors of Durin",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": "<keyword>Marsh.<\/keyword> Each companion of a race that has the most companions is strength \u20131 until the regroup phase."
+}

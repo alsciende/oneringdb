@@ -1,0 +1,10 @@
+{
+    "id": "throne-of-the-dark-lord",
+    "title": "Throne of the Dark Lord",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 2,
+    "type": "Artifact",
+    "subtype": "Support Area",
+    "text": "To play, spot 2 minions.<br>While you can spot Sauron, each other minion is <keyword>damage +1<\/keyword>.<br>While the fellowship is in the same region as Mount Doom, each companion is resistance -2."
+}

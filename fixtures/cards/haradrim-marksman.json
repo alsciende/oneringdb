@@ -1,0 +1,9 @@
+{
+    "id": "haradrim-marksman",
+    "title": "Haradrim Marksman",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 5,
+    "type": "minion",
+    "text": "<keyword>Southron.<\/keyword> <keyword>Archer.<\/keyword> <br>While you can spot another <symbol>raider<\/symbol> Man, Ring-bound companions cannot take archery wounds."
+}

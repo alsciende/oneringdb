@@ -1,0 +1,10 @@
+{
+    "id": "radagast-the-brown",
+    "title": "Radagast",
+    "subtitle": "The Brown",
+    "culture": "Gandalf",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Wizard",
+    "text": "The move limit is +1. <br>Each time the fellowship moves during the regroup phase, each opponent may discard 2 cards from hand to draw 2 cards."
+}

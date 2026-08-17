@@ -1,0 +1,10 @@
+{
+    "id": "theoden-tall-and-proud",
+    "title": "Th\u00e9oden",
+    "subtitle": "Tall and Proud",
+    "culture": "Rohan",
+    "twilight_cost": 3,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Valiant.<\/keyword> <br>While you can spot a <symbol>rohan<\/symbol> Man, Th\u00e9oden\u2019s twilight cost is \u20131. <br>If Th\u00e9oden is killed, you may play a <symbol>rohan<\/symbol> companion from your discard pile or draw deck."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "held-ground",
+    "title": "Held Ground",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "To play, spot 2 Nazgûl and add up to 3 threats. <br>Each time a companion is about to be killed, you may remove a threat to discard up to 2 possessions. <br>Discard this condition and remove 3 threats during the regroup phase."
+}

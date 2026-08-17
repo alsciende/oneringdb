@@ -1,0 +1,9 @@
+{
+    "id": "minas-tirith-sixth-circle",
+    "title": "Minas Tirith Sixth Circle",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 3,
+    "type": "site",
+    "text": "<keyword>Sanctuary.<\/keyword> If the fellowship moves from this site during the regroup phase, heal each <symbol>gondor<\/symbol> companion."
+}

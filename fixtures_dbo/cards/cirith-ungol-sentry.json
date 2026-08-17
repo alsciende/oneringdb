@@ -1,0 +1,10 @@
+{
+    "id": "cirith-ungol-sentry",
+    "title": "Cirith Ungol Sentry",
+    "subtitle": null,
+    "culture": "Sauron",
+    "twilight_cost": 2,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword>"
+}

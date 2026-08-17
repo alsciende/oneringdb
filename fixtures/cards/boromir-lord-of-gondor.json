@@ -1,0 +1,9 @@
+{
+    "id": "boromir-lord-of-gondor",
+    "title": "Boromir",
+    "subtitle": "Lord of Gondor",
+    "culture": "gondor",
+    "twilight_cost": 3,
+    "type": "companion",
+    "text": ""
+}

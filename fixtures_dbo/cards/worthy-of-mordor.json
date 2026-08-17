@@ -1,0 +1,10 @@
+{
+    "id": "worthy-of-mordor",
+    "title": "Worthy of Mordor",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": ""
+}

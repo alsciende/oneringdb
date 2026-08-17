@@ -1,0 +1,9 @@
+{
+    "id": "elf-song",
+    "title": "Elf-song",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Fellowship:<\/keyword> Spot an Elf to remove a burden."
+}

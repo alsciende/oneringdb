@@ -1,0 +1,10 @@
+{
+    "id": "merry-impatient-hobbit",
+    "title": "Merry",
+    "subtitle": "Impatient Hobbit",
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": ""
+}

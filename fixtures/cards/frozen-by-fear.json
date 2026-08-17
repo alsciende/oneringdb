@@ -1,0 +1,9 @@
+{
+    "id": "frozen-by-fear",
+    "title": "Frozen by Fear",
+    "subtitle": null,
+    "culture": "wraith",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Skirmish:<\/keyword> Make a Nazgûl strength +2 (or +3 if the Ring-bearer is assigned to a skirmish that has not resolved)."
+}

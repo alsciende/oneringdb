@@ -1,0 +1,9 @@
+{
+    "id": "sword-of-gondor",
+    "title": "Sword of Gondor",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "possession",
+    "text": "Bearer must be a <symbol>gondor<\/symbol> Man.  <br>While skirmishing a Man or a roaming minion, bearer is <keyword>damage +1.<\/keyword> "
+}

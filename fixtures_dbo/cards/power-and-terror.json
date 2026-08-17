@@ -1,0 +1,10 @@
+{
+    "id": "power-and-terror",
+    "title": "Power and Terror",
+    "subtitle": null,
+    "culture": "Moria",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Shadow:<\/keyword> Reveal any number of <symbol>moria<\/symbol> Orcs from your hand to play The Balrog. Its twilight cost is -2 for each Orc revealed. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "frodo-wicked-masster",
+    "title": "Frodo",
+    "subtitle": "Wicked Masster!",
+    "culture": "Shire",
+    "twilight_cost": 0,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Ring-bearer (resistance 10).<\/keyword> <br><keyword>Ring-bound.<\/keyword> <br><keyword>Skirmish:<\/keyword> At sites 6<symbol>king<\/symbol> to 8<symbol>king<\/symbol>, add 4 burdens to wound a minion skirmishing Frodo."
+}

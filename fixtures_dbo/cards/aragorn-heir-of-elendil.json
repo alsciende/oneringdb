@@ -1,0 +1,10 @@
+{
+    "id": "aragorn-heir-of-elendil",
+    "title": "Aragorn",
+    "subtitle": "Heir of Elendil",
+    "culture": "Gondor",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Defender +1.<\/keyword> "
+}

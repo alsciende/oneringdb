@@ -1,0 +1,9 @@
+{
+    "id": "fierce-in-despair",
+    "title": "Fierce in Despair",
+    "subtitle": null,
+    "culture": "raider",
+    "twilight_cost": 7,
+    "type": "event",
+    "text": "Spot 2 <symbol>raider<\/symbol> Men to discard a companion (except the Ring-bearer)."
+}

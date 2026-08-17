@@ -1,0 +1,10 @@
+{
+    "id": "white-hand-sieger",
+    "title": "White Hand Sieger",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 0,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword><br>To play, spot an <symbol>urukhai<\/symbol> minion and you must control a site."
+}

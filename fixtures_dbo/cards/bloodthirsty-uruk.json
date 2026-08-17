@@ -1,0 +1,10 @@
+{
+    "id": "bloodthirsty-uruk",
+    "title": "Bloodthirsty Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword> While you can spot an exhausted companion, this minion is strength +3."
+}

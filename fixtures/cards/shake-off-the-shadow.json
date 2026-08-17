@@ -1,0 +1,9 @@
+{
+    "id": "shake-off-the-shadow",
+    "title": "Shake Off the Shadow",
+    "subtitle": null,
+    "culture": "elven",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "<keyword>Fellowship:<\/keyword> Exert an Elf companion and either a <symbol>gandalf<\/symbol> companion or a <symbol>dwarven<\/symbol> companion to add an <symbol>elven<\/symbol> token here. <br><keyword>Archery:<\/keyword> Remove an <symbol>elven<\/symbol> token here to add 1 to the fellowship archery total (limit +2)."
+}

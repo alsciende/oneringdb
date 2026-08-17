@@ -1,0 +1,9 @@
+{
+    "id": "warg-master",
+    "title": "Warg-master",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "<keyword>Warg-rider.<\/keyword><br>When you play this minion, you may play an <symbol>isengard<\/symbol> mount from your discard pile. <br>While this minion is not exhausted, he is <keyword>fierce.<\/keyword><br>"
+}

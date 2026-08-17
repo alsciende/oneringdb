@@ -1,0 +1,9 @@
+{
+    "id": "goblin-wallcrawler",
+    "title": "Goblin Wallcrawler",
+    "subtitle": null,
+    "culture": "moria",
+    "twilight_cost": 2,
+    "type": "minion",
+    "text": "While at an underground site, this minion is strength +2.  <br>While you can spot another <symbol>moria<\/symbol> Orc, the fellowship archery total is -1."
+}

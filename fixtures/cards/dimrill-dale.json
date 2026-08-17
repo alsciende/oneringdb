@@ -1,0 +1,9 @@
+{
+    "id": "dimrill-dale",
+    "title": "Dimrill Dale",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 3,
+    "type": "site",
+    "text": "<keyword>Sanctuary.<\/keyword> The twilight cost of the first <symbol>moria<\/symbol> Orc played each Shadow phase is -2."
+}

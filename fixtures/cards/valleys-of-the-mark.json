@@ -1,0 +1,9 @@
+{
+    "id": "valleys-of-the-mark",
+    "title": "Valleys of the Mark",
+    "subtitle": null,
+    "culture": "rohan",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": " <br>Each time your opponent plays a roaming minion, you may spot a villager to exert that minion. "
+}

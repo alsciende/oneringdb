@@ -1,0 +1,10 @@
+{
+    "id": "easterling-skirmisher",
+    "title": "Easterling Skirmisher",
+    "subtitle": null,
+    "culture": "Raider",
+    "twilight_cost": 1,
+    "type": "Minion",
+    "subtype": "Man",
+    "text": "<keyword>Easterling.<\/keyword>  <br>When you play this minion, you may spot another Easterling to add <symbol>twilight1<\/symbol> for each burden (limit <symbol>twilight4<\/symbol>). "
+}

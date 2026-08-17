@@ -1,0 +1,9 @@
+{
+    "id": "eomer-third-marshal-of-riddermark",
+    "title": "Éomer",
+    "subtitle": "Third Marshal of Riddermark",
+    "culture": "rohan",
+    "twilight_cost": 3,
+    "type": "companion",
+    "text": "While you can spot a <symbol>rohan<\/symbol> Man, Éomer’s twilight cost is -1.  <br>Éomer is strength +2 for each wound on each minion he is skirmishing. "
+}

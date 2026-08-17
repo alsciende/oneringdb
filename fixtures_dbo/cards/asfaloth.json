@@ -1,0 +1,10 @@
+{
+    "id": "asfaloth",
+    "title": "Asfaloth",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Possession",
+    "subtype": "Mount",
+    "text": "Bearer must be an Elf. When played on Arwen, Asfaloth\u2019s twilight cost is -2. While at a plains site, bearer is strength +2. Discard Asfaloth when at an underground site."
+}

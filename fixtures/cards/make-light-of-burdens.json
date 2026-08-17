@@ -1,0 +1,9 @@
+{
+    "id": "make-light-of-burdens",
+    "title": "Make Light of Burdens",
+    "subtitle": null,
+    "culture": "dwarven",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "Plays to your support area.<br><keyword>Maneuver:<\/keyword> Exert a Dwarf companion and discard the top 3 cards from your draw deck to discard either a Shadow condition from a Dwarf or a weather condition. "
+}

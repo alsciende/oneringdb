@@ -1,0 +1,10 @@
+{
+    "id": "focus",
+    "title": "Focus",
+    "subtitle": null,
+    "culture": "Elven",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time Legolas wins a skirmish, you may heal a hunter <symbol>dwarven<\/symbol> Dwarf or hunter <symbol>gondor<\/symbol> Man.<br><keyword>Skirmish:<\/keyword> Discard this condition to make an <symbol>elven<\/symbol> Elf strength +2."
+}

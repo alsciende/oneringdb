@@ -1,0 +1,10 @@
+{
+    "id": "the-nazgul",
+    "title": "The Nazg\u00fbl",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 14,
+    "type": "Minion",
+    "subtype": "Nazgul",
+    "text": "<keyword>Fierce.<\/keyword> <br>To play, spot a Nazg\u00fbl.  <br><keyword>Menace -<\/keyword> When you play this minion, you may add 2 burdens."
+}

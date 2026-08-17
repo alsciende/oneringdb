@@ -1,0 +1,10 @@
+{
+    "id": "aragorn-heir-to-the-throne-of-gondor",
+    "title": "Aragorn",
+    "subtitle": "Heir to the Throne of Gondor",
+    "culture": "Gondor",
+    "twilight_cost": 4,
+    "type": "Companion",
+    "subtype": "Man",
+    "text": "<keyword>Hunter 2.<\/keyword><br>While you can spot 3 Free Peoples cultures, Aragorn is <keyword>defender +1<\/keyword>.<br>While you can spot 2 Shadow cultures, Aragorn is <keyword>defender +1<\/keyword>."
+}

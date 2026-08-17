@@ -1,0 +1,10 @@
+{
+    "id": "rivendell-waterfall",
+    "title": "Rivendell Waterfall",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 0,
+    "type": "Site",
+    "subtype": "Sanctuary",
+    "text": "<keyword>Forest.<\/keyword> <keyword>Sanctuary.<\/keyword> While you can spot a ranger at Rivendell Waterfall, the move limit is +1 for this turn."
+}

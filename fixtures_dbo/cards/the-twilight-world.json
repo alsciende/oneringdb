@@ -1,0 +1,10 @@
+{
+    "id": "the-twilight-world",
+    "title": "The Twilight World",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Response:<\/keyword> If Ring-bearer puts on The One Ring, exert a Nazg\u00fbl to add 2 burdens."
+}

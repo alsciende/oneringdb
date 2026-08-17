@@ -1,0 +1,10 @@
+{
+    "id": "merry-swordthain",
+    "title": "Merry",
+    "subtitle": "Swordthain",
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Companion",
+    "subtype": "Hobbit",
+    "text": "<keyword>Skirmish:<\/keyword> If Merry is not assigned to a skirmish, return him to your hand to play up to 2 <symbol>rohan<\/symbol> possessions from your discard pile."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "unknown-perils",
+    "title": "Unknown Perils",
+    "subtitle": null,
+    "culture": "gandalf",
+    "twilight_cost": 2,
+    "type": "condition",
+    "text": "<br><keyword>Response:<\/keyword> If a companion is about to take a wound, spot 4 twilight tokens and exert Gandalf to prevent that wound. "
+}

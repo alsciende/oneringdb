@@ -1,0 +1,10 @@
+{
+    "id": "gloin-son-of-groin",
+    "title": "Gl\u00f3in",
+    "subtitle": "Son of Groin",
+    "culture": "Dwarven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Dwarf",
+    "text": "Each time Gl\u00f3in wins a skirmish, you may draw 3 cards, then place 3 cards from your hand beneath your draw deck in any order.<br><keyword>Skirmish:<\/keyword> Remove a <symbol>dwarven<\/symbol> token to make Gl\u00f3in strength +2."
+}

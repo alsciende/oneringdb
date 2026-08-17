@@ -1,0 +1,10 @@
+{
+    "id": "don-t-let-go",
+    "title": "Don't Let Go",
+    "subtitle": null,
+    "culture": "Shire",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "<keyword>Skirmish:<\/keyword> Discard this condition to make a Hobbit strength +1 for each of the following that is true: he or she is participating in a fierce skirmish; he or she has resistance 7 or more; he or she is at a dwelling site; you can spot an unwounded Hobbit."
+}

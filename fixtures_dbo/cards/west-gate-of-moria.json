@@ -1,0 +1,10 @@
+{
+    "id": "west-gate-of-moria",
+    "title": "West Gate of Moria",
+    "subtitle": null,
+    "culture": null,
+    "twilight_cost": 2,
+    "type": "Site",
+    "subtype": "Standard",
+    "text": ""
+}

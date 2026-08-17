@@ -1,0 +1,10 @@
+{
+    "id": "more-unbearable",
+    "title": "More Unbearable",
+    "subtitle": null,
+    "culture": "Wraith",
+    "twilight_cost": 1,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "To play, spot a Nazg\u00fbl. <br><keyword>Regroup:<\/keyword> Discard a Nazg\u00fbl to place a <symbol>wraith<\/symbol> token on this card. While there are 3 <symbol>wraith<\/symbol> tokens on this card, the Shadow has initiative, regardless of the Free Peoples player\u2019s hand."
+}

@@ -1,0 +1,9 @@
+{
+    "id": "noble-leaders",
+    "title": "Noble Leaders",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "When you play this condition, place a <symbol>gondor<\/symbol> token here for each of the following characters you can spot: Aragorn, Boromir, Denethor or Faramir. <br><keyword>Skirmish:<\/keyword> Remove a token from here or discard this condition to make a <symbol>gondor<\/symbol> companion strength +1 and <keyword>damage +1<\/keyword>."
+}

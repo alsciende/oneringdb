@@ -1,0 +1,10 @@
+{
+    "id": "still-far-ahead",
+    "title": "Still Far Ahead",
+    "subtitle": null,
+    "culture": "Gollum",
+    "twilight_cost": 0,
+    "type": "Event",
+    "subtype": "Fellowship",
+    "text": "Spot Sm\u00e9agol to play the fellowship\u2019s next site (replacing opponent\u2019s site if necessary). The Shadow number of the fellowship\u2019s next site is -1 until the end of the turn."
+}

@@ -1,0 +1,10 @@
+{
+    "id": "cast-from-the-hall",
+    "title": " Cast from the Hall",
+    "subtitle": null,
+    "culture": "Rohan",
+    "twilight_cost": 0,
+    "type": "Condition",
+    "subtype": "Support Area",
+    "text": "Each time you play a <symbol>rohan<\/symbol> possession, add a <symbol>rohan<\/symbol> token here.<br><keyword>Skirmish:<\/keyword> Remove 3 <symbol>rohan<\/symbol> tokens from here to make a <symbol>rohan<\/symbol> companion strength +1 and <keyword>damage +1<\/keyword>."
+}

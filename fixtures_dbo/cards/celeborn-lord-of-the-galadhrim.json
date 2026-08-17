@@ -1,0 +1,10 @@
+{
+    "id": "celeborn-lord-of-the-galadhrim",
+    "title": "Celeborn",
+    "subtitle": "Lord of the Galadhrim",
+    "culture": "Elven",
+    "twilight_cost": 2,
+    "type": "Companion",
+    "subtype": "Elf",
+    "text": "At the start of each skirmish involving Celeborn, you may reveal the top card of your draw deck. If it is an <symbol>elven<\/symbol> card, you may discard it to wound each minion in that skirmish. "
+}

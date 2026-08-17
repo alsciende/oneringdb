@@ -1,0 +1,10 @@
+{
+    "id": "coat-of-mail",
+    "title": "Coat of Mail",
+    "subtitle": null,
+    "culture": "Gondor",
+    "twilight_cost": 1,
+    "type": "Possession",
+    "subtype": "Armor",
+    "text": "Bearer must be a Man. <br>Bearer may not be overwhelmed unless his or her strength is tripled."
+}

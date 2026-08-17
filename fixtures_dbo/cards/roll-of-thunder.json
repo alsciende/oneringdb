@@ -1,0 +1,10 @@
+{
+    "id": "roll-of-thunder",
+    "title": "Roll of Thunder",
+    "subtitle": null,
+    "culture": "Gandalf",
+    "twilight_cost": 3,
+    "type": "Event",
+    "subtype": "",
+    "text": "<keyword>Fellowship or Maneuver:<\/keyword> Spot Gandalf to discard a Shadow possession or Shadow artifact. "
+}

@@ -1,0 +1,10 @@
+{
+    "id": "overpowering-uruk",
+    "title": "Overpowering Uruk",
+    "subtitle": null,
+    "culture": "Uruk-hai",
+    "twilight_cost": 3,
+    "type": "Minion",
+    "subtype": "Uruk-hai",
+    "text": "<keyword>Damage +1.<\/keyword> <keyword>Muster.<\/keyword> (At the start of the regroup phase, you may discard a card from hand to draw a card.) While this minion is skirmishing a character who has resistance 3 or less, this minion is strength +3."
+}

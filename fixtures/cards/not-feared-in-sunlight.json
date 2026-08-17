@@ -1,0 +1,9 @@
+{
+    "id": "not-feared-in-sunlight",
+    "title": "Not Feared in Sunlight",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "condition",
+    "text": "To play, spot 2 Hobbits.  <br>Each Nazgûl is strength -4.  Discard this condition during the regroup phase. "
+}

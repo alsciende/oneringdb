@@ -1,0 +1,9 @@
+{
+    "id": "uruk-scout",
+    "title": "Uruk Scout",
+    "subtitle": null,
+    "culture": "isengard",
+    "twilight_cost": 3,
+    "type": "minion",
+    "text": "<keyword>Tracker.<\/keyword> <keyword>Damage +1.<\/keyword>  <br>The roaming penalty for each <symbol>isengard<\/symbol> minion you play is -1. <br><keyword>Response:<\/keyword> If an event is played that spots or exerts a ranger, exert this minion to cancel that event. "
+}

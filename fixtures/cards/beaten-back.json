@@ -1,0 +1,9 @@
+{
+    "id": "beaten-back",
+    "title": "Beaten Back",
+    "subtitle": null,
+    "culture": "sauron",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "Make a <symbol>sauron<\/symbol> minion strength +2 for each site you control. If you have initiative, that minion is <keyword>fierce<\/keyword> until the regroup phase. "
+}

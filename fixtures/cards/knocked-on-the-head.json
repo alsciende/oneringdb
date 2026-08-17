@@ -1,0 +1,9 @@
+{
+    "id": "knocked-on-the-head",
+    "title": "Knocked on the Head",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 0,
+    "type": "event",
+    "text": "<keyword>Regroup:<\/keyword> Play an unbound Hobbit from your discard pile. "
+}

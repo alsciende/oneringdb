@@ -1,0 +1,9 @@
+{
+    "id": "arwen-elven-rider",
+    "title": "Arwen",
+    "subtitle": "Elven Rider",
+    "culture": "elven",
+    "twilight_cost": 2,
+    "type": "companion",
+    "text": "<keyword>Ranger.<\/keyword> <br><keyword>Response:<\/keyword> If the Ring-bearer is about to take a wound, discard 3 cards from hand to prevent that wound. "
+}

@@ -1,0 +1,9 @@
+{
+    "id": "meant-to-be-alone",
+    "title": "Meant to Be Alone",
+    "subtitle": null,
+    "culture": "shire",
+    "twilight_cost": 1,
+    "type": "event",
+    "text": "<keyword>Fellowship:<\/keyword> Spot a Hobbit companion (except the Ring-bearer) to reveal a card at random from an opponent’s hand.  Remove <symbol>twilightX<\/symbol>, where X is the twilight cost of the card revealed. "
+}

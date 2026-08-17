@@ -1,0 +1,9 @@
+{
+    "id": "pippin-s-armor",
+    "title": "Pippin's Armor",
+    "subtitle": null,
+    "culture": "gondor",
+    "twilight_cost": 0,
+    "type": "possession",
+    "text": "Bearer must be Pippin. <br>While you can spot 3 <symbol>gondor<\/symbol> Men, Pippin may take no more than 1 wound in a skirmish."
+}
