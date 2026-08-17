@@ -31,7 +31,7 @@ class Pack implements \Stringable
     private ?int $size = null;
 
     #[ORM\Column(type: Types::DATE_MUTABLE, nullable: true)]
-    private ?\DateTimeInterface $release_date = null;
+    private ?\DateTime $release_date = null;
 
     /**
      * @var Collection<int, PackCard>
@@ -100,7 +100,7 @@ class Pack implements \Stringable
 
     public function setReleaseDate(?\DateTimeInterface $release_date): static
     {
-        $this->release_date = $release_date;
+        $this->release_date = $release_date ? \DateTime::createFromInterface($release_date) : null;
 
         return $this;
     }
@@ -159,15 +159,6 @@ class Pack implements \Stringable
             'size' => $this->getSize(),
             'releaseDate' => $this->getReleaseDate(),
         ];
-    }
-
-    public function updateFrom(self $pack): void
-    {
-        $this->setId($pack->getId())
-            ->setName($pack->getName())
-            ->setSize($pack->getSize())
-            ->setReleaseDate($pack->getReleaseDate())
-        ;
     }
 
     #[\Override]
