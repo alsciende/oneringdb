@@ -121,7 +121,7 @@ class CsvLotroCommand extends Command
             STREAM_FILTER_READ,
         );
 
-        $headers = fgetcsv($stream);
+        $headers = fgetcsv($stream, escape: '\\');
         if ($headers === false) {
             throw new \RuntimeException('Cannot read headers in CSV file');
         }
@@ -130,7 +130,7 @@ class CsvLotroCommand extends Command
         $progress = $io->createProgressBar();
         $progress->start();
         try {
-            while ($line = fgetcsv($stream)) {
+            while ($line = fgetcsv($stream, escape: '\\')) {
                 ++$number;
                 /** @var CardRow $combine */
                 $combine = array_combine($headers, $line);
@@ -184,7 +184,7 @@ class CsvLotroCommand extends Command
             } else {
                 $culture = null;
             }
-            $card = (new Card())
+            $card = new Card()
                 ->setId($line['Id'])
                 ->setCulture($culture)
                 ->setTitle($line['Title'])
@@ -202,7 +202,7 @@ class CsvLotroCommand extends Command
         ]);
 
         if (! $packCard instanceof PackCard) {
-            $packCard = (new PackCard())
+            $packCard = new PackCard()
                 ->setCard($card)
                 ->setLore($line['Lore'])
                 ->setPack($pack)

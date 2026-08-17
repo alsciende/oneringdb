@@ -21,9 +21,9 @@ use Doctrine\ORM\Mapping\Cache;
 class PackCard implements \Stringable
 {
     #[ORM\Id]
-    #[ORM\Column(type: 'integer')]
+    #[ORM\Column(type: 'integer', nullable: false)]
     #[ORM\GeneratedValue(strategy: 'IDENTITY')]
-    private ?int $id = null;
+    private int $id;
 
     #[ORM\ManyToOne(targetEntity: Card::class, inversedBy: 'packCards')]
     #[ORM\JoinColumn(name: 'card_id', referencedColumnName: 'id')]
@@ -33,10 +33,10 @@ class PackCard implements \Stringable
     #[ORM\JoinColumn(name: 'pack_id', referencedColumnName: 'id')]
     private ?Pack $pack = null;
 
-    #[ORM\Column]
+    #[ORM\Column(type: 'integer', nullable: true)]
     private ?int $quantity = null;
 
-    #[ORM\Column]
+    #[ORM\Column(type: 'integer', nullable: true)]
     private ?int $position = null;
 
     #[ORM\Column(length: 1023, nullable: true)]
@@ -45,7 +45,7 @@ class PackCard implements \Stringable
     #[ORM\Column(length: 255, nullable: true)]
     private ?string $image_url = null;
 
-    public function getId(): ?int
+    public function getId(): int
     {
         return $this->id;
     }

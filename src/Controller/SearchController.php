@@ -81,6 +81,9 @@ class SearchController extends AbstractController implements LoggerAwareInterfac
         ]);
     }
 
+    /**
+     * @param FormInterface<SimpleCardSearch> $form
+     */
     public function search(FormInterface $form, ?string $title = null): Response
     {
         /** @var SimpleCardSearch $search */

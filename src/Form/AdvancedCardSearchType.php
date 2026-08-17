@@ -7,6 +7,7 @@ namespace App\Form;
 use App\Entity\Pack;
 use App\Enum\Culture;
 use App\Enum\Type;
+use App\Search\AdvancedCardSearch;
 use Doctrine\ORM\EntityRepository;
 use Doctrine\ORM\QueryBuilder;
 use Symfony\Bridge\Doctrine\Form\Type\EntityType;
@@ -17,6 +18,9 @@ use Symfony\Component\Form\Extension\Core\Type\SubmitType;
 use Symfony\Component\Form\Extension\Core\Type\TextType;
 use Symfony\Component\Form\FormBuilderInterface;
 
+/**
+ * @extends AbstractType<AdvancedCardSearch>
+ */
 class AdvancedCardSearchType extends AbstractType
 {
     #[\Override]

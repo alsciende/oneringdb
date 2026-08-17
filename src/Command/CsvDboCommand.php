@@ -47,7 +47,7 @@ class CsvDboCommand extends Command
         $io->section($filename);
         $languages = $this->readFile($this->projectDir . "/data/dbo.{$filename}.csv");
         $io->note('Lines: ' . count($languages));
-        $filter = array_filter($languages, fn ($row): bool => $row['Name'] === $language);
+        $filter = array_filter($languages, fn (array $row): bool => $row['Name'] === $language);
         if (count($filter) === 0) {
             $io->error('Cannot find language ' . $language);
 
@@ -139,15 +139,15 @@ class CsvDboCommand extends Command
         $io->section('Texts');
         $texts = $this->readFile($this->projectDir . '/data/dbo.Texts.csv');
         $io->note('Lines before language filter: ' . count($texts));
-        $texts = array_filter($texts, fn ($row): bool => $row['LanguageID'] === $languageID);
+        $texts = array_filter($texts, fn (array $row): bool => $row['LanguageID'] === $languageID);
         $io->note('Lines after language filter: ' . count($texts));
 
         foreach ($cards as $card) {
-            $localTexts = array_filter($texts, fn ($row): bool => $row['CardID'] === $card['ID']);
+            $localTexts = array_filter($texts, fn (array $row): bool => $row['CardID'] === $card['ID']);
             foreach ($textTypes as $textType) {
                 $this->addProperty($card, $localTexts, $textType['ID'], $textType['Name']);
             }
-            $localCardSubTypes = array_filter($cardSubTypes, fn ($row): bool => $row['CardID'] === $card['ID']);
+            $localCardSubTypes = array_filter($cardSubTypes, fn (array $row): bool => $row['CardID'] === $card['ID']);
             if (count($localCardSubTypes) > 0) {
                 $card['SubType'] = $subTypes[array_first($localCardSubTypes)['SubTypeID']];
             }
@@ -222,7 +222,7 @@ class CsvDboCommand extends Command
      */
     private function addProperty(array &$card, array $texts, string $propertyID, string $propertyName): void
     {
-        $filter = array_filter($texts, fn ($row): bool => $row['TextTypeID'] === $propertyID);
+        $filter = array_filter($texts, fn (array $row): bool => $row['TextTypeID'] === $propertyID);
         if (count($filter) > 0) {
             $card[$propertyName] = array_first($filter)['Text'];
         }
@@ -247,13 +247,13 @@ class CsvDboCommand extends Command
             STREAM_FILTER_READ,
         );
 
-        $headers = fgetcsv($stream, separator: "\t");
+        $headers = fgetcsv($stream, separator: "\t", escape: '\\');
         if ($headers === false) {
             throw new \RuntimeException('Cannot read headers in file ' . $filepath);
         }
 
         $data = [];
-        while ($line = fgetcsv($stream, separator: "\t")) {
+        while ($line = fgetcsv($stream, separator: "\t", escape: '\\')) {
             try {
                 $data[] = array_combine($headers, $line);
             } catch (\Throwable $exception) {

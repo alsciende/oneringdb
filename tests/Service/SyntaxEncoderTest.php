@@ -22,19 +22,19 @@ class SyntaxEncoderTest extends TestCase
     {
         return [
             [
-                (new AdvancedCardSearch())->setTitle('rosie'),
+                new AdvancedCardSearch()->setTitle('rosie'),
                 'rosie',
             ],
             [
-                (new AdvancedCardSearch())->setTitle('rosie')->setType(Type::Ally),
+                new AdvancedCardSearch()->setTitle('rosie')->setType(Type::Ally),
                 'rosie t:ally',
             ],
             [
-                (new AdvancedCardSearch())->setTitle('rosie')->setCulture(Culture::Shire),
+                new AdvancedCardSearch()->setTitle('rosie')->setCulture(Culture::Shire),
                 'rosie c:sh',
             ],
             [
-                (new AdvancedCardSearch())->setTitle('rosie cotton'),
+                new AdvancedCardSearch()->setTitle('rosie cotton'),
                 '"rosie cotton"',
             ],
         ];
