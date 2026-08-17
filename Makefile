@@ -35,6 +35,8 @@ lint:
 test:
 	$(php) php bin/phpunit
 
+ci: lint test
+
 db:
 #	$(php) php bin/console doctrine:database:drop --force
 #	$(php) php bin/console doctrine:database:create

@@ -16,5 +16,5 @@ return RectorConfig::configure()
         SymfonySetList::SYMFONY_CONSTRUCTOR_INJECTION,
         SymfonySetList::ANNOTATIONS_TO_ATTRIBUTES,
     ])
-    ->withPhpSets(php84: true)
+    ->withPhpSets(php85: true)
     ->withTypeCoverageLevel(45);
