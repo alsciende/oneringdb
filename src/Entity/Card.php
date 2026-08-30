@@ -11,7 +11,6 @@ use Doctrine\Common\Collections\Collection;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
 use Doctrine\ORM\Mapping\Cache;
-use Symfony\Component\Serializer\Annotation\Ignore;
 
 #[ORM\Entity(repositoryClass: CardRepository::class)]
 #[Cache(usage: 'READ_ONLY')]
@@ -47,7 +46,6 @@ class Card implements \Stringable
      * @var Collection<int, PackCard>
      */
     #[ORM\OneToMany(targetEntity: PackCard::class, mappedBy: 'card', cascade: ['persist', 'remove'])]
-    #[Ignore]
     private Collection $packCards;
 
     public function __construct()

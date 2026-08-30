@@ -10,7 +10,6 @@ use Doctrine\Common\Collections\Collection;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
 use Doctrine\ORM\Mapping\Cache;
-use Symfony\Component\Serializer\Annotation\Ignore;
 
 #[ORM\Entity(repositoryClass: PackRepository::class)]
 #[Cache(usage: 'READ_ONLY')]
@@ -37,7 +36,6 @@ class Pack implements \Stringable
      * @var Collection<int, PackCard>
      */
     #[ORM\OneToMany(targetEntity: PackCard::class, mappedBy: 'pack')]
-    #[Ignore]
     private Collection $packCards;
 
     public function __construct()
