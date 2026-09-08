@@ -3,7 +3,7 @@ twig:
     file_name_pattern: '*.twig'
     globals:
         cultures: '@App\Service\CultureService'
-        packs: '@App\Service\PackService'
+        sets: '@App\Service\PublishedSetService'
 
 when@test:
     twig:

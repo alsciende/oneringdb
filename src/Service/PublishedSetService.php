@@ -4,15 +4,15 @@ declare(strict_types=1);
 
 namespace App\Service;
 
-use App\Repository\PackRepository;
+use App\Repository\PublishedSetRepository;
 
 /**
- * Provides data about Packs.
+ * Provides data about PublishedSets.
  */
-class PackService
+class PublishedSetService
 {
     public function __construct(
-        private readonly PackRepository $repository,
+        private readonly PublishedSetRepository $repository,
     ) {
     }
 
@@ -23,14 +23,14 @@ class PackService
      */
     public function all(): array
     {
-        $packs = [];
+        $publishedSets = [];
 
         foreach ($this->repository->findBy([], [
             'id' => 'ASC',
-        ]) as $pack) {
-            $packs[$pack->getId()] = $pack->getName();
+        ]) as $publishedSet) {
+            $publishedSets[$publishedSet->getId()] = $publishedSet->getName();
         }
 
-        return $packs;
+        return $publishedSets;
     }
 }

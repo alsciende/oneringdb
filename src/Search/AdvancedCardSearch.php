@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace App\Search;
 
-use App\Entity\Pack;
+use App\Entity\PublishedSet;
 use App\Enum\Culture;
 use App\Enum\Type;
 
@@ -15,7 +15,7 @@ class AdvancedCardSearch
     private ?int $twilightCost = null;
     private ?Type $type = null;
     private ?string $text = null;
-    private ?Pack $pack = null;
+    private ?PublishedSet $publishedSet = null;
 
     public function getTitle(): ?string
     {
@@ -77,14 +77,14 @@ class AdvancedCardSearch
         return $this;
     }
 
-    public function getPack(): ?Pack
+    public function getPublishedSet(): ?PublishedSet
     {
-        return $this->pack;
+        return $this->publishedSet;
     }
 
-    public function setPack(?Pack $pack): self
+    public function setPublishedSet(?PublishedSet $publishedSet): self
     {
-        $this->pack = $pack;
+        $this->publishedSet = $publishedSet;
 
         return $this;
     }

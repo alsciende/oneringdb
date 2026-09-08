@@ -40,7 +40,7 @@ class PackCardRepository extends ServiceEntityRepository
         $qb = $this->createQueryBuilder('c');
 
         foreach ($criterias as $key => $value) {
-            if (in_array($key, ['card_id', 'pack_id', 'flavor_text'], true)) {
+            if (in_array($key, ['card_id', 'published_set_id', 'flavor_text'], true)) {
                 $qb->andWhere($qb->expr()->like("LOWER(c.{$key})", "LOWER(:{$key})"))
                     ->setParameter($key, "%{$value}%");
             } else {

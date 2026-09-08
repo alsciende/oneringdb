@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace App\Service;
 
-use App\Entity\Pack;
+use App\Entity\PublishedSet;
 use App\Enum\Culture;
 use App\Enum\Type;
 use App\Search\AdvancedCardSearch;
@@ -51,8 +51,8 @@ class SyntaxEncoder
             $queryParts[] = sprintf('%s:%s', Operand::Text->value, $this->formatValue($search->getText()));
         }
 
-        if ($search->getPack() instanceof Pack) {
-            $queryParts[] = sprintf('%s:%s', Operand::Pack->value, $search->getPack()->getId());
+        if ($search->getPublishedSet() instanceof PublishedSet) {
+            $queryParts[] = sprintf('%s:%s', Operand::Pack->value, $search->getPublishedSet()->getId());
         }
 
         return implode(' ', $queryParts);

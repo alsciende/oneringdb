@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace App\Form;
 
-use App\Entity\Pack;
+use App\Entity\PublishedSet;
 use App\Enum\Culture;
 use App\Enum\Type;
 use App\Search\AdvancedCardSearch;
@@ -51,12 +51,12 @@ class AdvancedCardSearchType extends AbstractType
                 'required' => false,
                 'label' => 'card_search_text_input_label',
             ])
-            ->add('pack', EntityType::class, [
-                'class' => Pack::class,
+            ->add('published_set', EntityType::class, [
+                'class' => PublishedSet::class,
                 'query_builder' => fn (EntityRepository $er): QueryBuilder => $er->createQueryBuilder('p')->setCacheable(true),
-                'placeholder' => 'card_search_pack_input_placeholder',
+                'placeholder' => 'card_search_published_set_input_placeholder',
                 'required' => false,
-                'label' => 'card_search_pack_input_label',
+                'label' => 'card_search_published_set_input_label',
             ])
             ->add('search', SubmitType::class, [
                 'label' => 'card_search_search_button_label',

@@ -31,7 +31,7 @@ readonly class SearchQueryBuilder
             ->from(Card::class, 'c')
             ->leftJoin('c.packCards', 'pc')
             ->addSelect('pc')
-            ->leftJoin('pc.pack', 'p')
+            ->leftJoin('pc.publishedSet', 'p')
             ->addSelect('p')
         ;
 

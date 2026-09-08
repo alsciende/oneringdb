@@ -44,8 +44,8 @@
                             Sets
                         </a>
                         <ul class="dropdown-menu">
-                            {% for id,name in packs.all %}
-                                <li><a class="dropdown-item" href="{{ path('app_pack', {pack:id}) }}">{{ name }}</a>
+                            {% for id,name in sets.all %}
+                                <li><a class="dropdown-item" href="{{ path('app_published_set', {set:id}) }}">{{ name }}</a>
                                 </li>
                             {% endfor %}
                         </ul>

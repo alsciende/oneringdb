@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 namespace App\Command;
 
-use App\Entity\Pack;
+use App\Entity\PublishedSet;
 use App\Repository\PackCardRepository;
-use App\Repository\PackRepository;
+use App\Repository\PublishedSetRepository;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
@@ -26,7 +26,7 @@ class JsonExportCommand extends Command
     public function __construct(
         #[Autowire(param: 'kernel.project_dir')]
         private readonly string $projectDir,
-        private readonly PackRepository $packRepository,
+        private readonly PublishedSetRepository $publishedSetRepository,
         private readonly PackCardRepository $packCardRepository,
     ) {
         parent::__construct();
@@ -47,15 +47,15 @@ class JsonExportCommand extends Command
         $slugger = new AsciiSlugger();
 
         $setId = $input->getArgument('set');
-        $pack = $this->packRepository->find($setId);
-        if (! $pack instanceof Pack) {
-            throw new \RuntimeException('Cannot find pack ' . $setId);
+        $publishedSet = $this->publishedSetRepository->find($setId);
+        if (! $publishedSet instanceof PublishedSet) {
+            throw new \RuntimeException('Cannot find set ' . $setId);
         }
 
         $dir = $this->projectDir . '/fixtures/cards/';
 
         $packCards = $this->packCardRepository->findBy([
-            'pack' => $pack,
+            'publishedSet' => $publishedSet,
         ]);
 
         $progress = $io->createProgressBar();
@@ -74,7 +74,7 @@ class JsonExportCommand extends Command
             $filename = sprintf(
                 '%s/fixtures/pack_cards/%s/%s.json',
                 $this->projectDir,
-                $packCard->getPack()->getId(),
+                $packCard->getPublishedSet()->getId(),
                 $card->getId()
             );
             if (! $fs->exists($filename)) {

@@ -4,16 +4,16 @@ declare(strict_types=1);
 
 namespace App\Entity;
 
-use App\Repository\PackRepository;
+use App\Repository\PublishedSetRepository;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
 use Doctrine\ORM\Mapping\Cache;
 
-#[ORM\Entity(repositoryClass: PackRepository::class)]
+#[ORM\Entity(repositoryClass: PublishedSetRepository::class)]
 #[Cache(usage: 'READ_ONLY')]
-class Pack implements \Stringable
+class PublishedSet implements \Stringable
 {
     #[ORM\Id]
     #[ORM\GeneratedValue(strategy: 'NONE')]
@@ -128,7 +128,7 @@ class Pack implements \Stringable
     {
         if (! $this->packCards->contains($card)) {
             $this->packCards->add($card);
-            $card->setPack($this);
+            $card->setPublishedSet($this);
         }
 
         return $this;
@@ -138,8 +138,8 @@ class Pack implements \Stringable
     {
         if ($this->packCards->removeElement($card)) {
             // set the owning side to null (unless already changed)
-            if ($card->getPack() === $this) {
-                $card->setPack(null);
+            if ($card->getPublishedSet() === $this) {
+                $card->setPublishedSet(null);
             }
         }
 

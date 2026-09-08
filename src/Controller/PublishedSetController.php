@@ -4,24 +4,24 @@ declare(strict_types=1);
 
 namespace App\Controller;
 
-use App\Entity\Pack;
+use App\Entity\PublishedSet;
 use App\Form\SimpleCardSearchType;
 use App\Search\SimpleCardSearch;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Attribute\Route;
 
-class PackController extends AbstractController
+class PublishedSetController extends AbstractController
 {
-    #[Route('/set/{pack}', name: 'app_pack')]
-    public function index(Pack $pack): Response
+    #[Route('/set/{set}', name: 'app_published_set')]
+    public function index(PublishedSet $set): Response
     {
         return $this->forward('\App\Controller\SearchController::search', [
-            'form' => $this->createForm(SimpleCardSearchType::class, new SimpleCardSearch('p:' . $pack->getId()), [
+            'form' => $this->createForm(SimpleCardSearchType::class, new SimpleCardSearch('p:' . $set->getId()), [
                 'action' => $this->generateUrl('app_search_cards'),
                 'method' => 'GET',
             ]),
-            'title' => $pack->getName(),
+            'title' => $set->getName(),
         ]);
     }
 }

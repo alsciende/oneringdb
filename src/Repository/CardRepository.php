@@ -5,8 +5,8 @@ declare(strict_types=1);
 namespace App\Repository;
 
 use App\Entity\Card;
-use App\Entity\Pack;
 use App\Entity\PackCard;
+use App\Entity\PublishedSet;
 use App\SearchQueryBuilder\SearchQueryBuilder;
 use App\Service\SyntaxDecoder;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
@@ -54,13 +54,13 @@ class CardRepository extends ServiceEntityRepository
     /**
      * @return array<Card>
      */
-    public function findByPack(Pack $pack): array
+    public function findByPublishedSet(PublishedSet $publishedSet): array
     {
         $qb = $this->getEntityManager()->createQueryBuilder();
         $qb
             ->select('c')->from(Card::class, 'c')
-            ->join(PackCard::class, 'pc', Join::WITH, 'pc.pack = :pack')
-            ->setParameter('pack', $pack);
+            ->join(PackCard::class, 'pc', Join::WITH, 'pc.publishedSet = :publishedSet')
+            ->setParameter('publishedSet', $publishedSet);
 
         return $qb->getQuery()->setCacheable(true)->getResult();
     }
@@ -73,7 +73,7 @@ class CardRepository extends ServiceEntityRepository
         return $this->createQueryBuilder('c')
             ->leftJoin('c.packCards', 'pc')
             ->addSelect('pc')
-            ->leftJoin('pc.pack', 'p')
+            ->leftJoin('pc.publishedSet', 'p')
             ->addSelect('p')
             ->where('c.id = :id')
             ->setParameter('id', $id)

@@ -4,24 +4,24 @@ declare(strict_types=1);
 
 namespace App\Repository;
 
-use App\Entity\Pack;
+use App\Entity\PublishedSet;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
 
 /**
- * @extends ServiceEntityRepository<Pack>
+ * @extends ServiceEntityRepository<PublishedSet>
  */
-class PackRepository extends ServiceEntityRepository
+class PublishedSetRepository extends ServiceEntityRepository
 {
     public function __construct(ManagerRegistry $registry)
     {
-        parent::__construct($registry, Pack::class);
+        parent::__construct($registry, PublishedSet::class);
     }
 
     /**
      * @param array<string, mixed> $criterias
      *
-     * @return Pack[] Returns an array of Card objects which have a name that contains the provided string
+     * @return PublishedSet[] Returns an array of Card objects which have a name that contains the provided string
      */
     public function findByPartialField(array $criterias): array
     {

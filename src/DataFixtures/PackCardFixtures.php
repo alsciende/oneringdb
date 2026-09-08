@@ -6,8 +6,8 @@ namespace App\DataFixtures;
 
 use App\Dto\DtoPackCard;
 use App\Entity\Card;
-use App\Entity\Pack;
 use App\Entity\PackCard;
+use App\Entity\PublishedSet;
 use Doctrine\Bundle\FixturesBundle\Fixture;
 use Doctrine\Common\DataFixtures\DependentFixtureInterface;
 use Doctrine\Persistence\ObjectManager;
@@ -26,7 +26,7 @@ class PackCardFixtures extends Fixture implements DependentFixtureInterface
     public function load(ObjectManager $manager): void
     {
         $cardRepository = $manager->getRepository(Card::class);
-        $packRepository = $manager->getRepository(Pack::class);
+        $publishedSetRepository = $manager->getRepository(PublishedSet::class);
 
         $finder = new Finder();
         $finder->files()->in($this->projectDir . '/fixtures/pack_cards/')->name('*.json');
@@ -35,7 +35,7 @@ class PackCardFixtures extends Fixture implements DependentFixtureInterface
             $dto = $this->serializer->deserialize($file->getContents(), DtoPackCard::class, 'json');
             $packCard = new PackCard();
             $packCard->setCard($cardRepository->find($dto->cardId));
-            $packCard->setPack($packRepository->find($dto->packId));
+            $packCard->setPublishedSet($publishedSetRepository->find($dto->packId));
             $packCard->setLore($dto->lore);
             $packCard->setPosition($dto->position);
             $packCard->setImageUrl($dto->imageUrl);
@@ -51,7 +51,7 @@ class PackCardFixtures extends Fixture implements DependentFixtureInterface
     {
         return [
             CardFixtures::class,
-            PackFixtures::class,
+            PublishedSetFixtures::class,
         ];
     }
 }

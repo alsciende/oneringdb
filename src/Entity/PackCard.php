@@ -29,9 +29,9 @@ class PackCard implements \Stringable
     #[ORM\JoinColumn(name: 'card_id', referencedColumnName: 'id')]
     private ?Card $card = null;
 
-    #[ORM\ManyToOne(targetEntity: Pack::class, inversedBy: 'packCards')]
+    #[ORM\ManyToOne(targetEntity: PublishedSet::class, inversedBy: 'packCards')]
     #[ORM\JoinColumn(name: 'pack_id', referencedColumnName: 'id')]
-    private ?Pack $pack = null;
+    private ?PublishedSet $publishedSet = null;
 
     #[ORM\Column(type: 'integer', nullable: true)]
     private ?int $quantity = null;
@@ -110,14 +110,14 @@ class PackCard implements \Stringable
         return $this;
     }
 
-    public function getPack(): ?Pack
+    public function getPublishedSet(): ?PublishedSet
     {
-        return $this->pack;
+        return $this->publishedSet;
     }
 
-    public function setPack(?Pack $pack): static
+    public function setPublishedSet(?PublishedSet $publishedSet): static
     {
-        $this->pack = $pack;
+        $this->publishedSet = $publishedSet;
 
         return $this;
     }
@@ -129,7 +129,7 @@ class PackCard implements \Stringable
     {
         return [
             'card_id' => $this->card->getId(),
-            'pack_id' => $this->pack->getId(),
+            'pack_id' => $this->publishedSet->getId(),
             'quantity' => $this->quantity,
             'position' => $this->position,
             'lore' => $this->lore,
@@ -140,6 +140,6 @@ class PackCard implements \Stringable
     #[\Override]
     public function __toString(): string
     {
-        return sprintf('%s (#%s) x %s (#%s)', $this->card->getFullTitle(), $this->card->getId(), $this->pack->getName(), $this->pack->getId());
+        return sprintf('%s (#%s) x %s (#%s)', $this->card->getFullTitle(), $this->card->getId(), $this->publishedSet->getName(), $this->publishedSet->getId());
     }
 }
