@@ -1,6 +1,6 @@
 ![develop status](https://github.com/alsciende/lotrtcgdb/actions/workflows/symfony.yml/badge.svg?branch=main)
 
-# LotrTcgDB
+# TwilightDB
 
 ## How to help
 
