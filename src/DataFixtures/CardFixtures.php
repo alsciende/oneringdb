@@ -56,7 +56,7 @@ class CardFixtures extends Fixture implements DependentFixtureInterface
             $card->setText($dto->gameText);
             $card->setLore($dto->flavorText);
             $card->setPosition((int) $dto->cardNumber);
-            $card->setImageUrl($dto->file);
+            $card->setImageUrl(sprintf('https://lotrtcgwiki.com/wiki/_media/cards:lotr%s.jpg', $card->getId()));
             $card->setRarity(Rarity::CODES[$dto->rarity] ?? throw new \RuntimeException("Unknown rarity code \"{$dto->rarity}\" in {$file}"));
             $card->setUnique($dto->unique);
             $card->setSubtype($dto->subtype);
