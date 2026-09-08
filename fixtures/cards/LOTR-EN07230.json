@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07230.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "230",
+  "name": "Éowyn's Sword",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Rohan",
+  "subtitle": "Dernhelm's Blade",
+  "twilight_cost": "1",
+  "strength_modifier": "+3",
+  "game_text": "Bearer must be Éowyn.\nYou may play this possession any time you could play a skirmish event.\nWhen you play this possession, you may wound a minion Éowyn is skirmishing.",
+  "flavor_text": "“A swift stroke she dealt, skilled and deadly.”"
+}

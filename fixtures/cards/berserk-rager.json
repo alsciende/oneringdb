@@ -1,9 +1,0 @@
-{
-    "id": "berserk-rager",
-    "title": "Berserk Rager",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword><br>Berserk Rager is strength +1 for each wound on a character in its skirmish. <br><keyword>Skirmish:<\/keyword> Remove 3 <symbol>isengard<\/symbol> tokens from a machine and exert Berserk Rager twice to wound every ally twice."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05060.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "60",
+  "name": "Siege Engine",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Machine</keyword>. Plays to your support area.\n<phase>Shadow</phase>: Play an Uruk-hai to place an <culture>Isengard</culture> token on a machine.\n<phase>Response</phase>: If one or more machines are about to be discarded by an opponent, discard this condition to prevent that.",
+  "flavor_text": "“Ropes… were hurled over the parapet….”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "three-monstrous-trolls",
-    "title": "Three Monstrous Trolls",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "<keyword>Tale.<\/keyword>   <br><keyword>Response:<\/keyword> If a Shadow card is about to add any number of twilight tokens, exert a Hobbit ally to prevent this. "
-}

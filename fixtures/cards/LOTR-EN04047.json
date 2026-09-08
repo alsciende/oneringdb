@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04047.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "47",
+  "name": "From the Armory",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Exert a Dwarf and stack a Free Peoples card from hand here to prevent all wounds to that Dwarf.",
+  "flavor_text": "“It’s a bit tight around the chest.”"
+}

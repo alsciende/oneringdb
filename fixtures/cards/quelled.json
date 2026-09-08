@@ -1,9 +1,0 @@
-{
-    "id": "quelled",
-    "title": "Quelled",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "Exert a <symbol>raider<\/symbol> Man to discard a Free Peoples condition. If you spot a <symbol>rohan<\/symbol> Man, discard an additional Free Peoples condition."
-}

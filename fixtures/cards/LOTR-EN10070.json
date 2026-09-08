@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10070.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "70",
+  "name": "Úlairë Nelya",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Thrall of The One",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "2",
+  "game_text": "<keyword>Enduring</keyword>. <keyword>Fierce</keyword>.\nShadow cards cannot exert Úlairë Nelya during a skirmish phase.\n<phase>Skirmish</phase>: Heal Úlairë Nelya to add <twilight>1</twilight> for each burden.",
+  "flavor_text": "“Perching now on the wall beside the ruined gate the Nazgûl sent out its deadly cries. All the cliffs echoed.”"
+}

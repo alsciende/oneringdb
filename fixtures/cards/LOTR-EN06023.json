@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN06023.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "23",
+  "name": "Naith Warband",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "3",
+  "game_text": "To play, spot 3 Elf companions.\nWhile Naith Warband bears a ranged weapon, it takes no more than 1 wound during each skirmish phase and does not add to the fellowship archery total.",
+  "flavor_text": "“‘But do not think that only by singing amid the trees… is Lothlórien maintained and defended….’”"
+}

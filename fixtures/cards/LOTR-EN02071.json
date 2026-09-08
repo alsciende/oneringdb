@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02071.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "71",
+  "name": "Throw Yourself in Next Time",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "game_text": "To play, spot a <culture>Moria</culture> Orc. Plays on a Hobbit companion.\nBearer may be exerted only by Shadow cards.",
+  "flavor_text": "“‘This is a serious journey, not a hobbit walking-party.... Now be quiet!’”"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01045.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "45",
+  "name": "Galadriel",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Elf",
+  "home_site": "6",
+  "culture": "Elven",
+  "subtitle": "Lady of Light",
+  "twilight_cost": "3",
+  "strength": "3",
+  "vitality": "3",
+  "game_text": "At the start of each of your turns, heal every ally whose home is site 6.\n<phase>Fellowship</phase>: Exert Galadriel to play an Elf for free.",
+  "flavor_text": "“Very tall they were, and the Lady no less tall than the Lord; and they were grave and beautiful... and the hair of the Lady was of deep gold....”"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01301.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "301",
+  "name": "Master Proudfoot",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Hobbit",
+  "home_site": "1",
+  "culture": "Shire",
+  "subtitle": "Distant Relative of Bilbo",
+  "twilight_cost": "1",
+  "strength": "2",
+  "vitality": "2",
+  "game_text": "<phase>Fellowship</phase>: If the twilight pool has fewer than 3 twilight tokens, add <twilight>2</twilight> to reveal the top 3 cards of your draw deck. Take all <culture>Shire</culture> cards revealed into hand and discard the rest.",
+  "flavor_text": "“His name, of course, was Proudfoot, and well merited; his feet were large, exceptionally furry....”"
+}

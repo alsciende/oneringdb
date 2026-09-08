@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07339.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "339",
+  "name": "Hall of Kings",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "1",
+  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: If you cannot spot 3 threats, add a threat to draw a card."
+}

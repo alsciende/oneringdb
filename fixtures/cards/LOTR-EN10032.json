@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10032.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "32",
+  "name": "Fifth Level",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Fortification</keyword>. Bearer is strength −1 for each fortification you can spot.\n<phase>Maneuver</phase>: Exert 2 <culture>Gondor</culture> Men or spot 3 knights to transfer this condition to a minion.",
+  "flavor_text": "“A strong citadel it was indeed....”"
+}

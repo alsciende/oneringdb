@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03109.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "109",
+  "name": "Meant to Be Alone",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Spot a Hobbit companion (except the Ring-bearer) to reveal a card at random from an opponent's hand. Remove <twilight>X</twilight>, where X is the twilight cost of the card revealed.",
+  "flavor_text": "“You are a Ring-bearer, Frodo... to bear a Ring of Power is to be alone.”"
+}

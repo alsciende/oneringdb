@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02024.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "24",
+  "name": "Hugin",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "3",
+  "culture": "Gandalf",
+  "subtitle": "Emissary from Laketown",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "To play, spot Gandalf.\n<phase>Fellowship</phase>: Exert Hugin to reveal a Free Peoples card from your discard pile and place it beneath your draw deck.",
+  "flavor_text": "Several wise Bardings were sent to Elrond to tell of the Dark Lord's new offer."
+}

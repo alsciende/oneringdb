@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07130.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "130",
+  "name": "Dark Tidings",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "<phase>Regroup</phase>: Spot 2 <culture>Raider</culture> Men and remove <twilight>3</twilight> to add a threat (limit 1).",
+  "flavor_text": "“‘…yet not all unguessed.’”"
+}

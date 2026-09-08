@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN05095.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "95",
+  "name": "Dead Marshes",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "Plays to your support area.\nWhile the fellowship is at site 4<block>Tower</block>, Ring-bound companions skirmishing <culture>Sauron</culture> Orcs are strength −1.\n<phase>Maneuver</phase>: Spot 2 <culture>Sauron</culture> Orcs to play up to 2 <culture>Sauron</culture> conditions from your discard pile. Discard this condition."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01010.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "10",
+  "name": "Dwarven Heart",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "Bearer must be a Dwarf.\nWhen you play this condition, heal bearer up to 2 times. At the start of each of your turns, exert bearer.",
+  "flavor_text": "“‘...a Dwarf goes on, be the burden twice his own weight....’”"
+}

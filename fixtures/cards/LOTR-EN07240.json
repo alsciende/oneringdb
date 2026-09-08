@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07240.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "240",
+  "name": "Long Spear",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\nYou may add a threat to play this possession any time you could play a skirmish event.",
+  "flavor_text": "“...more skilled was their knighthood with long spears....”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01076.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "76",
+  "name": "Intimidate",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Response</phase>: If a companion is about to take a wound, spot Gandalf to prevent that wound.",
+  "flavor_text": "“‘Go back to the Shadow!’”"
+}

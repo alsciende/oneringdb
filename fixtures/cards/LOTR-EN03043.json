@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03043.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "43",
+  "name": "Might of Númenor",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Tale</keyword>.\n<phase>Maneuver</phase>: Spot a <culture>Gondor</culture> companion to reveal a card at random from an opponent’s hand. Heal X companions, where X is the twilight cost of the card revealed.",
+  "flavor_text": "“‘But the lords of Minas Tirith still fight on....’”"
+}

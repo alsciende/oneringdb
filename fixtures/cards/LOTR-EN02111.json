@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02111.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "111",
+  "name": "Practically Everyone Was Invited",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Exert Bilbo to play a Hobbit from your draw deck.",
+  "flavor_text": "“Thank you, I shall certainly come.”"
+}

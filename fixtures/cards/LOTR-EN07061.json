@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07061.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "61",
+  "name": "Hobbitses Are Dead",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "Spot Gollum or Sméagol to make a Nazgûl, <culture>Sauron</culture> minion, or <culture>Gollum</culture> minion strength +2.\nIf you have initiative, you may play this event from your discard pile; place it under your draw deck instead of discarding it."
+}

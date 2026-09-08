@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04081.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "81",
+  "name": "Pengedhel",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Naith Warrior",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "To play, spot an Elf.\nWhile Pengedhel bears a ranged weapon, he is strength +2 and he does not add to the fellowship archery total.",
+  "flavor_text": "Pengedhel can wield an arrow like a short spear."
+}

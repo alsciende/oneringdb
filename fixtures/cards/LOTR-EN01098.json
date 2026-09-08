@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01098.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "98",
+  "name": "Boromir's Cloak",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Cloak",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "Bearer must be Boromir.\n<phase>Maneuver</phase>: Exert Boromir to discard a weather condition.",
+  "flavor_text": "“He was cloaked and booted as if for a journey on horseback; and indeed though his garments were rich, and his cloak was lined with fur, they were stained with long travel.”"
+}

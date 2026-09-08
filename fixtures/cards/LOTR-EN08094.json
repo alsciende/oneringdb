@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN08094.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "94",
+  "name": "Gorgoroth Agitator",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>. To play, spot a <culture>Sauron</culture> Orc.\nWhen you play this minion, if you can spot another besieger, you may add a threat for each companion over 4.\n<phase>Shadow</phase>: Remove a threat to play a <culture>Sauron</culture> engine from your discard pile."
+}

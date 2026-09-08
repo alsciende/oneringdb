@@ -1,9 +1,0 @@
-{
-    "id": "east-road",
-    "title": "East Road",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 0,
-    "type": "site",
-    "text": "Each companion’s twilight cost is +2."
-}

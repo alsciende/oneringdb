@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07340.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "340",
+  "name": "Tower of Ecthelion",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "0",
+  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: If you cannot spot 3 threats, add 3 threats to make the move limit for this turn +1."
+}

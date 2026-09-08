@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07118.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "118",
+  "name": "Second Level",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "site_number_modifier": "+2",
+  "game_text": "<keyword>Fortification</keyword>.\n<phase>Maneuver</phase>: Exert a <culture>Gondor</culture> Man or spot a ranger to transfer this condition from your support area to a minion.",
+  "flavor_text": "“…but the next faced half south….”"
+}

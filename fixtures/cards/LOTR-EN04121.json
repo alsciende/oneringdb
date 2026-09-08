@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04121.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "121",
+  "name": "Forests of Ithilien",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "Plays to your support area.\nWhile the fellowship is at site 5<block>Tower</block>, the site number of each Man in a skirmish is +2.\n<phase>Regroup</phase>: Discard this condition and exert a Ring-bound Man to liberate a site.",
+  "flavor_text": "“...a fair country of climbing woods and swift-falling streams.”"
+}

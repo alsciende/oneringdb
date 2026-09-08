@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01117.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "117",
+  "name": "Swordsman of the Northern Kingdom",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a ranger strength +2 (or +4 when skirmishing a roaming minion).",
+  "flavor_text": "“‘This is no mere Ranger. He is Aragorn, son of Arathorn... and you owe him your allegiance.’”"
+}

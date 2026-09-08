@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06024.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "24",
+  "name": "Boomed and Trumpeted",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make an Ent strength +X and <keyword>damage +X</keyword>, where X is the number of unbound Hobbits you can spot.",
+  "flavor_text": "“‘For bole and bough are burning now, the furnace roars — we go to war!’”"
+}

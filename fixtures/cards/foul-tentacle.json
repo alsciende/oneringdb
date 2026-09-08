@@ -1,9 +1,0 @@
-{
-    "id": "foul-tentacle",
-    "title": "Foul Tentacle",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Tentacle.<\/keyword>  <br>When you play this minion, you may play a tentacle from your draw deck.  <br>This minion may not bear possessions and is discarded if not at a marsh. "
-}

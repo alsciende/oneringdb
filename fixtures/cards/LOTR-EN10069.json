@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10069.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "69",
+  "name": "Úlairë Lemenya",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Thrall of The One",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "<keyword>Enduring</keyword>. <keyword>Fierce</keyword>.\nShadow cards cannot exert Úlairë Lemenya during a skirmish phase.\n<phase>Skirmish</phase>: Heal Úlairë Lemenya to wound up to 3 other <culture>Wraith</culture> minions.",
+  "flavor_text": "“It was no brigand or orc-chieftain that ordered the assault upon the Lord of Mordor’s greatest foe.”"
+}

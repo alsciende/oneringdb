@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN04280.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "280",
+  "name": "Herugrim",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Rohan",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "vitality_modifier": "+1",
+  "game_text": "Bearer must be Théoden.\nHe is <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘Here, lord, is Herugrim, your ancient blade....’”"
+}

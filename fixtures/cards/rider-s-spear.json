@@ -1,9 +1,0 @@
-{
-    "id": "rider-s-spear",
-    "title": "Rider's Spear",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be a <symbol>rohan<\/symbol> Man.  <br>If bearer is mounted, bearer is <keyword>damage +1.<\/keyword>"
-}

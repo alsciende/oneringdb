@@ -1,9 +1,0 @@
-{
-    "id": "morgul-gates",
-    "title": "Morgul Gates",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Shadow:<\/keyword> Play a Nazgûl. His twilight cost is -2."
-}

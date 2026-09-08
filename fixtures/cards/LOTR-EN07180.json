@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07180.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "180",
+  "name": "Gorbag",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "subtitle": "Lieutenant of Cirith Ungol",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "While you can spot a Nazgûl, Gorbag is strength +2 and <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘If there’s any game, me and my lads must be in it.’”"
+}

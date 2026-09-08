@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01048.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "48",
+  "name": "Haldir",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Elf of the Golden Wood",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "To play, spot an Elf.\nWhile Haldir is at site 6, 7, or 8, he is strength +2.",
+  "flavor_text": "“‘But there are some of us who still go abroad for the gathering of news and the watching of our enemies.... I am one. Haldir is my name.’”"
+}

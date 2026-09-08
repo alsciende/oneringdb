@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN05114.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "114",
+  "name": "Rare Good Ballast",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Plays on Sam.\n<phase>Response</phase>: If a regroup special ability is used, discard Sméagol or Gollum to cancel that action.",
+  "flavor_text": "“‘What a hobbit needs with coney… is some herbs and roots, especially taters — not to mention bread.’”"
+}

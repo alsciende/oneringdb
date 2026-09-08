@@ -1,9 +1,0 @@
-{
-    "id": "seventh-level",
-    "title": "Seventh Level",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 5,
-    "type": "condition",
-    "text": "<keyword>Fortification.<\/keyword> <br><keyword>Skirmish:<\/keyword> Exert 3 <symbol>gondor<\/symbol> Men to transfer this condition from your support area to a minion skirmishing a <symbol>gondor<\/symbol> Man."
-}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02021.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "21",
+  "name": "Erland",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "3",
+  "culture": "Gandalf",
+  "subtitle": "Advisor to Brand",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "2",
+  "game_text": "To play, spot Gandalf.\nShadow players may not look at or reveal cards in your hand.",
+  "flavor_text": "“‘They are good folk the Bardings. The grandson of Bard the Bowman rules them, Brand son of Bain son of Bard.’”"
+}

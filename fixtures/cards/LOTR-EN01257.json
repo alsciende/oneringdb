@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01257.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "257",
+  "name": "Morgul Skirmisher",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Maneuver</phase>: Remove <twilight>3</twilight> to exert a Hobbit (except the Ring-bearer).",
+  "flavor_text": "The Orcs of Mordor, heartened by the promise of blood and plunder, are dangerous foes in battle."
+}

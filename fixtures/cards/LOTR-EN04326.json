@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN04326.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "326",
+  "name": "Horse-country",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "1",
+  "game_text": "<keyword>Plains</keyword>. While you can spot a <culture>Rohan</culture> mount at Horse-country, the move limit is +1 for this turn."
+}

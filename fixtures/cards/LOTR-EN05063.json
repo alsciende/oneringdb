@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05063.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "63",
+  "name": "Uruk-hai Berserker",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "7",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nThis minion is strength +1 for each wound on a character in its skirmish.",
+  "flavor_text": "Goatskins full of blood poured upon berserkers before battle instill their bloodlust."
+}

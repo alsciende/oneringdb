@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01234.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "234",
+  "name": "Úlairë Nertëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Messenger of Dol Guldur",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "When you play Úlairë Nertëa, for each companion over 4, you may play 1 minion from your discard pile.",
+  "flavor_text": "Some accepted Sauron’s gift for glory and a notion of great deeds."
+}

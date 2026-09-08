@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07361.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "361",
+  "name": "Haunted Pass",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "9",
+  "shadow_number": "9",
+  "game_text": "<phase>Shadow</phase>: Remove a threat and spot your minion to draw a card."
+}

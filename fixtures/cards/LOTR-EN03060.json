@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03060.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "60",
+  "name": "Isengard Smith",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "8",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<phase>Regroup</phase>: Exert this minion to discard a weapon (or all Free Peoples possessions if you can spot 5 companions).",
+  "flavor_text": "“‘No other folk make such a trampling....’”"
+}

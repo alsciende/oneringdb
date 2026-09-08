@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10083.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "83",
+  "name": "Cirith Ungol Sentinel",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<keyword>Damage +1</keyword>.\nIf you can spot another <culture>Sauron</culture> Uruk-hai, this minion is twilight cost −1 for each possession you can spot.",
+  "flavor_text": "“‘Any trespasser found by the guard is to be held at the tower.’”"
+}

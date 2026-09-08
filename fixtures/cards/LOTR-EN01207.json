@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01207.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "207",
+  "name": "Black Breath",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Transfer this condition from your support area to a character skirmishing a Nazgûl. Burdens and wounds may not be removed from bearer.",
+  "flavor_text": "Vile breath infects the living with Shadow."
+}

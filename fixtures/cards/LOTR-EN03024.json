@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03024.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "24",
+  "name": "Phial of Galadriel",
+  "unique": true,
+  "type": "Possession",
+  "culture": "Elven",
+  "twilight_cost": "0",
+  "game_text": "To play, exert an Elf. Bearer must be the Ring-bearer.\nBearer’s resistance is +2.",
+  "flavor_text": "“‘May it be a light to you in dark places, when all other lights go out. Remember Galadriel and her Mirror!’”"
+}

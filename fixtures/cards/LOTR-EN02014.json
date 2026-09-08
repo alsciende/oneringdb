@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02014.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "14",
+  "name": "Till Durin Wakes Again",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\nEach time a Dwarf companion moves from an underground site, you may heal that Dwarf.",
+  "flavor_text": "“Gimli was silent. Having sung his song, he would say no more.”"
+}

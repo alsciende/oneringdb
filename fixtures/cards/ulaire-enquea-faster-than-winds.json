@@ -1,9 +1,0 @@
-{
-    "id": "ulaire-enquea-faster-than-winds",
-    "title": "Úlairë Enquëa",
-    "subtitle": "Faster Than Winds",
-    "culture": "wraith",
-    "twilight_cost": 6,
-    "type": "minion",
-    "text": "<keyword>Fierce.<\/keyword> <br>While you can spot 6 companions, Úlairë Enquëa is <keyword>Damage +1.<\/keyword> <br>Each time a companion is killed, you may exert Úlairë Enquëa to exert the Ring–bearer."
-}

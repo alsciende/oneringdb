@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05038.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "38",
+  "name": "Rally Point",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Regroup</phase>: Exert a knight to transfer a <culture>Gondor</culture> fortification borne by a minion to your support area.",
+  "flavor_text": "A strategic fallback helps Gondorian knights to plan their counterattack."
+}

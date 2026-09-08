@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03056.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "56",
+  "name": "Isengard Forger",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<phase>Shadow</phase>: Exert this minion to add <twilight>1</twilight>.",
+  "flavor_text": "“‘I looked on it and saw that, whereas it had once been green and fair, it was now filled with pits and forges.’”"
+}

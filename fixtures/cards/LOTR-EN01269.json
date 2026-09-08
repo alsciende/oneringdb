@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01269.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "269",
+  "name": "Orc Scimitar",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Sauron</culture> Orc.\n<phase>Skirmish</phase>: Remove <twilight>1</twilight> to make bearer strength +1 (limit +3).",
+  "flavor_text": "An Orc's weapon reflects his passion for war and cruelty."
+}

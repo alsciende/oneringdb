@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07277.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "277",
+  "name": "Gorgoroth Sapper",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Shadow</phase>: Discard 2 cards from hand to play a <culture>Sauron</culture> Orc stacked on a site you control (discard 1 card from hand instead if that Orc is a besieger).",
+  "flavor_text": "“It was against the Gate that he would throw his heaviest weight.”"
+}

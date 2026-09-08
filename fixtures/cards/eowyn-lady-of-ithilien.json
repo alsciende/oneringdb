@@ -1,9 +1,0 @@
-{
-    "id": "eowyn-lady-of-ithilien",
-    "title": "Éowyn",
-    "subtitle": "Lady of Ithilien",
-    "culture": "rohan",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Skirmish:<\/keyword> Exert Éowyn to choose an opponent. That opponent must wound a minion for each wound on each minion skirmishing Éowyn."
-}

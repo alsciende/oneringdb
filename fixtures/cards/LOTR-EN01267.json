@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01267.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "267",
+  "name": "Orc Hunters",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Exert this minion to wound a character he is skirmishing.",
+  "flavor_text": "Bred for battle, Sauron's soldiers live for the thrill of the fight — and the spoils of victory."
+}

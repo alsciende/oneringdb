@@ -1,9 +1,0 @@
-{
-    "id": "memories-of-darkness",
-    "title": "Memories of Darkness",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "To play, spot a Dwarf. <br>Each time you lose initiative (except during the fellowship phase), you may play a <symbol>dwarven<\/symbol> condition from hand or from your discard pile."
-}

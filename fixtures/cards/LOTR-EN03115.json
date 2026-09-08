@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03115.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "115",
+  "name": "Caras Galadhon",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "6",
+  "shadow_number": "3",
+  "game_text": "<keyword>Forest</keyword>. <keyword>Sanctuary</keyword>. While the fellowship is at Caras Galadhon, no more than one minion may be assigned to each skirmish."
+}

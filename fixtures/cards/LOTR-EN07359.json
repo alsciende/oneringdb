@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07359.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "359",
+  "name": "Northern Ithilien",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "8",
+  "shadow_number": "8",
+  "game_text": "<phase>Shadow</phase>: Remove 2 threats and play Gollum from your discard pile to add 2 burdens."
+}

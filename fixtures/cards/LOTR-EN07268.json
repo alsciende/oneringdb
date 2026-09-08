@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07268.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "268",
+  "name": "Encirclement",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "game_text": "For each 2 sites you control, the twilight cost of each of your <culture>Sauron</culture> cards is −1.\n<phase>Regroup</phase>: Spot a <culture>Sauron</culture> minion to draw a card (or draw 2 cards instead if that minion is a besieger). Discard this condition."
+}

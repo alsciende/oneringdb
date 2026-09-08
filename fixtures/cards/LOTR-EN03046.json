@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03046.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "46",
+  "name": "Still Sharp",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Spot The Shards of Narsil to make a <culture>Gondor</culture> companion strength +3 and <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘The shards of Narsil... the blade that cut the Ring from Sauron’s hand.’”"
+}

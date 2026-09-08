@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04249.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "249",
+  "name": "Southron Commander",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Ambush</keyword> <twilight>1</twilight>.\n<phase>Assignment</phase>: Spot 6 companions to assign this minion to the Ring-bearer. The Free Peoples player may discard an unbound companion to prevent this.",
+  "flavor_text": "“‘Almost as bad as Orcs, and much bigger.’”"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01289.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "289",
+  "name": "Frodo",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Old Bilbo's Heir",
+  "twilight_cost": "0",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Ring-bearer</keyword> (resistance 10).\nAt the start of each of your turns, you may heal a Hobbit ally.",
+  "flavor_text": "“‘But be that as it may, Mr. Frodo is as nice a young hobbit as you could wish to meet.’”"
+}

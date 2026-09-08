@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01278.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "278",
+  "name": "Strength Born of Fear",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Remove <twilight>3</twilight> to make a <culture>Sauron</culture> Orc strength +1.",
+  "flavor_text": "Fear of death in Barad-dûr's dungeons spurs Mordor's servants to even greater savagery."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03087.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "87",
+  "name": "The Dark Lord Advances",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "game_text": "<phase>Regroup</phase>: Exert a <culture>Sauron</culture> minion to reveal a card at random from the Free Peoples player’s hand. That player must discard X cards from hand, where X is the twilight cost of the card revealed.",
+  "flavor_text": "“‘A power was there that we have not felt before.’”"
+}

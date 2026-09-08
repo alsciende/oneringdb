@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06064.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "64",
+  "name": "Iron Fist of the Orc",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\nEach time a regroup action discards an <culture>Isengard</culture> Orc, you may stack that Orc on this card.\n<phase>Regroup</phase>: Discard 3 cards stacked here and remove <twilight>1</twilight> to discard a Free Peoples possession.",
+  "flavor_text": "“‘The old world will burn in the fires of industry.’”"
+}

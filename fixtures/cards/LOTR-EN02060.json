@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02060.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "60",
+  "name": "Goblin Bowman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "2",
+  "strength": "4",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "<keyword>Archer</keyword>.",
+  "flavor_text": "The crude arrows of the Goblins served notice of the dangers of Moria."
+}

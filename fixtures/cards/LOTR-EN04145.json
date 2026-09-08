@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04145.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "145",
+  "name": "Cloud of Arrows",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<phase>Archery</phase>: Exert an <culture>Isengard</culture> archer to make the minion archery total +1 and the fellowship archery total −1.",
+  "flavor_text": "“Behind them orc-archers crowded, sending a hail of darts against the bowmen on the walls.”"
+}

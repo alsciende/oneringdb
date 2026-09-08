@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06017.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "17",
+  "name": "Forewarned",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "0",
+  "game_text": "To play, spot 2 Elves. Plays to your support area.\n<phase>Fellowship</phase>: Add <twilight>1</twilight> to look at the top card of your draw deck. You may discard this condition to discard that card.",
+  "flavor_text": "“‘Whether by the sword or the slow decay of time, Aragorn will die.’”"
+}

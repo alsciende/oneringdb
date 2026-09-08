@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01075.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "75",
+  "name": "Glamdring",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Gandalf.\nHe is <keyword>damage +1</keyword>.\n<phase>Fellowship</phase> or <phase>Regroup</phase>: Exert Gandalf to reveal an opponent’s hand. Remove <twilight>1</twilight> for each Orc revealed.",
+  "flavor_text": "“...in his other hand Glamdring gleamed, cold and white.”"
+}

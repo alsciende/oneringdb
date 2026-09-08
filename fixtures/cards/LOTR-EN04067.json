@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04067.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "67",
+  "name": "Fereveldir",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Son of Thandronen",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "To play, spot an Elf.\n<phase>Skirmish</phase>: Exert Fereveldir and remove an <culture>Elven</culture> token from your condition to wound a minion Fereveldir is skirmishing.",
+  "flavor_text": "Thandronen’s sons patrol the borders of Lórien together."
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01107.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "107",
+  "name": "Great Shield",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Shield",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a Man.\nThe minion archery total is −1.",
+  "flavor_text": "The Kingdom of Gondor has smiths much practiced in creating strong tools of war."
+}

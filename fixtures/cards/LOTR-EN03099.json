@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03099.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "99",
+  "name": "Orc Trooper",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "7",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "For each card in your hand, this minion is strength +1.",
+  "flavor_text": "The Dark Lord’s power grows in unseen ways."
+}

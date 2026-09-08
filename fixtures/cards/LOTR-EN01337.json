@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01337.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "337",
+  "name": "Council Courtyard",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "0",
+  "game_text": "<keyword>Sanctuary</keyword>. When the fellowship moves from Council Courtyard, remove <twilight>2</twilight>."
+}

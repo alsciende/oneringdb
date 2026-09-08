@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN06051.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "51",
+  "name": "Banner of Westernesse",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a <culture>Gondor</culture> companion.\nEach time bearer wins a skirmish, you may heal another <culture>Gondor</culture> companion.\n<phase>Response</phase>: If bearer wins a skirmish, discard this possession to liberate a site.",
+  "flavor_text": "“‘What brought they from the foundered land / Over the flowing sea?… / and one white tree.’”"
+}

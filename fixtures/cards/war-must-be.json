@@ -1,9 +1,0 @@
-{
-    "id": "war-must-be",
-    "title": "War Must Be",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>gondor<\/symbol> Man strength +2 (or +4 if skirmishing a minion bearing a <symbol>gondor<\/symbol> fortification)."
-}

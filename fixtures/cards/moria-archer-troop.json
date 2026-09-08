@@ -1,9 +1,0 @@
-{
-    "id": "moria-archer-troop",
-    "title": "Moria Archer Troop",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 6,
-    "type": "minion",
-    "text": "<keyword>Archer.<\/keyword>  <br>While you can spot another <symbol>moria<\/symbol> archer, add 1 to the minion archery total. "
-}

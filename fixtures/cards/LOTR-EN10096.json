@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10096.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "96",
+  "name": "Rank and File",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "Each time a roaming <culture>Sauron</culture> minion takes a wound, you may add a <culture>Sauron</culture> token here.\n<phase>Regroup</phase>: Exert an Uruk-hai or discard a <culture>Sauron</culture> minion to add a <culture>Sauron</culture> token here.\n<phase>Skirmish</phase>: Remove 2 <culture>Sauron</culture> tokens from here to make a <culture>Sauron</culture> minion strength +2.",
+  "flavor_text": "“...even fear by night had scarcely over-counted them.”"
+}

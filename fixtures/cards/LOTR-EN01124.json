@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01124.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "124",
+  "name": "Cruel Caradhras",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "<keyword>Spell</keyword>. <keyword>Weather</keyword>.\n<phase>Maneuver</phase>: Exert an <culture>Isengard</culture> minion to make the opponent choose to either exert the Ring-bearer or add a burden.",
+  "flavor_text": "“‘Yonder stands Barazinbar, the Redhorn, cruel Caradhras....’”"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN03108.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "108",
+  "name": "Frying Pan",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be a Hobbit.\n<phase>Skirmish</phase>: Exert bearer to wound an Orc he or she is skirmishing.",
+  "flavor_text": "“I think I'm getting the hang of this!”"
+}

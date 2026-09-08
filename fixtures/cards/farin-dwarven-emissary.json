@@ -1,9 +1,0 @@
-{
-    "id": "farin-dwarven-emissary",
-    "title": "Farin",
-    "subtitle": "Dwarven Emissary",
-    "culture": "dwarven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "To play, spot a Dwarf. <br>While skirmishing an Orc, Farin is strength +2."
-}

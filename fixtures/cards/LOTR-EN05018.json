@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05018.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "18",
+  "name": "Fury of the White Rider",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Maneuver</phase>: Spot 3 twilight tokens and exert Gandalf to wound a minion twice.",
+  "flavor_text": "“The White Rider was upon them, and the terror of his coming filled the enemy with madness.”"
+}

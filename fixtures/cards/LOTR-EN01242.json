@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01242.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "242",
+  "name": "The Dark Lord's Summons",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Search</keyword>. To play, spot a <culture>Sauron</culture> Orc. Plays to your support area.\n<phase>Shadow</phase>: Remove <twilight>1</twilight> to reveal the top card of your draw deck. If it is a <culture>Sauron</culture> card, take it into hand. Otherwise, discard it and one other card from hand.",
+  "flavor_text": "Orcs obey the Dark Lord unquestioningly."
+}

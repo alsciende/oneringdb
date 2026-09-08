@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01137.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "137",
+  "name": "Saruman’s Reach",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Search</keyword>.\n<phase>Maneuver</phase>: Exert an Uruk-hai to make the opponent choose to either exert 2 companions or make the Ring-bearer put on The One Ring until the regroup phase.",
+  "flavor_text": "Saruman used both magic and minions to impose his will."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05037.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "37",
+  "name": "Men of Númenor",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Wound a minion bearing a <culture>Gondor</culture> fortification.",
+  "flavor_text": "“‘...I do not love the bright sword for its sharpness, nor the arrow for its swiftness, nor the warrior for his glory....’”"
+}

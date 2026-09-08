@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08002.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "2",
+  "name": "Battle in Earnest",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Regroup",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "Spot a Dwarf who is damage +X to place X wounds on minions.",
+  "flavor_text": "“‘...they laughed when they looked on us, for they were a great army still.’”"
+}

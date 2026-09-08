@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05030.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "30",
+  "name": "We Must Have It",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gollum",
+  "twilight_cost": "0",
+  "game_text": "<phase>Shadow</phase>: Play Gollum from your draw deck or discard pile.\n<phase>Skirmish</phase>: Discard a card at random from hand to make Gollum strength +3.",
+  "flavor_text": "“‘No, sweet one. See, my precious: if we has it, then we can escape, even from Him, eh?’”"
+}

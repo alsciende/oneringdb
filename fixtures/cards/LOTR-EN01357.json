@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01357.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "357",
+  "name": "Brown Lands",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "8",
+  "shadow_number": "6",
+  "game_text": "<keyword>River</keyword>. For each minion archer at Brown Lands, the minion archery total is +1 (limit +4)."
+}

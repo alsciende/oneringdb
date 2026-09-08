@@ -1,9 +1,0 @@
-{
-    "id": "long-prepared",
-    "title": "Long Prepared",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "To play, add 2 threats. <br><keyword>Skirmish:<\/keyword> Exert a <symbol>gondor<\/symbol> Man to wound a roaming minion that Man is skirmishing. <br>Discard this condition at the start of the regroup phase."
-}

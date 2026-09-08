@@ -1,9 +1,0 @@
-{
-    "id": "not-listening",
-    "title": "Not Listening",
-    "subtitle": null,
-    "culture": "gollum",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Response:<\/keyword> If Sméagol wins a skirmish, heal him and remove 2 burdens."
-}

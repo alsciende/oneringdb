@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01216.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "216",
+  "name": "Morgul Blade",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be a Nazgûl.\nThis weapon may be borne in addition to 1 other hand weapon.\n<phase>Skirmish</phase>: Discard this possession to transfer Blade Tip from your support area or discard pile to a companion bearer is skirmishing."
+}

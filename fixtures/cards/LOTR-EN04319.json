@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04319.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "319",
+  "name": "Severed His Bonds",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Stealth</keyword>.\n<phase>Skirmish</phase>: At sites 1<block>Tower</block> to 4<block>Tower</block>, cancel a skirmish involving a Hobbit. At any other site, prevent a Hobbit from being overwhelmed unless his or her strength is tripled.",
+  "flavor_text": "“‘The cord was cut!’”"
+}

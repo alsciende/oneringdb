@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07299.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "299",
+  "name": "Orc Destroyer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Shadow</phase>: Remove <twilight>3</twilight> and spot 3 <culture>Sauron</culture> Orcs to draw a card.",
+  "flavor_text": "“…all the hills and rocks about the Morannon were filled with hidden foes….”"
+}

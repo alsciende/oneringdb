@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03092.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "92",
+  "name": "Massing in the East",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "<phase>Regroup</phase>: Exert a <culture>Sauron</culture> minion to discard a card from the top of the Free Peoples player’s draw deck for each of these races you can spot in the fellowship: Dwarf, Elf, Man, and Wizard.",
+  "flavor_text": "“The power of the Black Land grows....”"
+}

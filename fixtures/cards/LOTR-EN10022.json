@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10022.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "22",
+  "name": "Reclaim the Precious",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "<phase>Assignment</phase>: Assign Gollum to a companion bearing an artifact. The Free Peoples player may add a burden to prevent this and assign Gollum.\n<phase>Regroup</phase>: Exert Gollum twice to discard a possession. Discard this condition.",
+  "flavor_text": "“...white fangs gleamed, and then snapped as they bit.”"
+}

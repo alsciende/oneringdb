@@ -22,7 +22,7 @@ class PublishedSetFixtures extends Fixture
     public function load(ObjectManager $manager): void
     {
         $finder = new Finder();
-        $finder->files()->in($this->projectDir . '/fixtures/packs/')->name('*.json');
+        $finder->files()->in($this->projectDir . '/fixtures/published_sets/')->name('*.json');
         foreach ($finder as $file) {
             $publishedSet = $this->serializer->deserialize($file->getContents(), PublishedSet::class, 'json');
             $manager->persist($publishedSet);

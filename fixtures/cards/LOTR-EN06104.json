@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06104.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "104",
+  "name": "Orc Insurgent",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Shadow</phase>: Exert this minion to draw X cards and add <twilight>X</twilight>, where X is the number of Free Peoples cultures you spot over 2.",
+  "flavor_text": "“‘You’ve spoken more than enough, Uglúk,’ sneered the evil voice. ‘I wonder how they would like it in Lugbúrz.’”"
+}

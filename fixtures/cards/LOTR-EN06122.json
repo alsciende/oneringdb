@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN06122.png",
+  "set_number": "6",
+  "rarity": "P",
+  "card_number": "122",
+  "name": "The Witch-king",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Deathless Lord",
+  "twilight_cost": "8",
+  "strength": "14",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "<keyword>Fierce</keyword>.\nEach time a companion is killed in a skirmish involving a Nazgûl, wound an ally twice or exert a companion.",
+  "flavor_text": "“‘Dead? No, you cannot kill them.’”"
+}

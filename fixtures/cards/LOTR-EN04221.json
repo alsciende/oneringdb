@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04221.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "221",
+  "name": "Desert Spearman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\nAt the start of each skirmish involving this minion, you may remove <twilight>3</twilight> to wound a companion or ally he is skirmishing.",
+  "flavor_text": "Long spears are used by Southrons to attack while riding desert beasts."
+}

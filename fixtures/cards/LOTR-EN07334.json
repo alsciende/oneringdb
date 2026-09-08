@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN07334.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "334",
+  "name": "Steps of Edoras",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "1",
+  "game_text": "Each <culture>Gondor</culture> companion is <keyword>defender +1</keyword> until the end of the turn."
+}

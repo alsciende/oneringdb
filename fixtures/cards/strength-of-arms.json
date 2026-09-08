@@ -1,9 +1,0 @@
-{
-    "id": "strength-of-arms",
-    "title": "Strength of Arms",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": " <br>Each time an Elf wins a skirmish, you may place an <symbol>elven<\/symbol> token on this card.  <br><keyword>Skirmish: <\/keyword>Make a minion skirmishing an Elf strength -1 for each <symbol>elven<\/symbol> token here (limit -3). Discard this condition. "
-}

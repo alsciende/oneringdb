@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04362.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "362",
+  "name": "Orthanc Library",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "9",
+  "shadow_number": "9",
+  "game_text": "When the fellowship moves to Orthanc Library, each Shadow player may draw a card for each companion over 4."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06102.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "102",
+  "name": "Gate Sentry",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Maneuver</phase>: Exert this minion twice and spot another <culture>Sauron</culture> minion to discard a condition.",
+  "flavor_text": "“In it there was a single gate of iron, and upon its battlement sentinels paced unceasingly.”"
+}

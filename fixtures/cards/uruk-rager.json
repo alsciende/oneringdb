@@ -1,9 +1,0 @@
-{
-    "id": "uruk-rager",
-    "title": "Uruk Rager",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Damage +1<\/keyword>.  <br>Each time this minion wins a skirmish, the Free Peoples player must discard the top 2 cards of his or her draw deck."
-}

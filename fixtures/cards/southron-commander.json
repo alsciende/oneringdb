@@ -1,9 +1,0 @@
-{
-    "id": "southron-commander",
-    "title": "Southron Commander",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword> <keyword>Ambush<\/keyword> <symbol>twilight1<\/symbol>.<br><keyword>Assignment:<\/keyword> Spot 6 companions to assign this minion to the Ring-bearer. The Free Peoples player may discard an unbound companion to prevent this. "
-}

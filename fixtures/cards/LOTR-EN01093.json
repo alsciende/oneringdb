@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01093.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "93",
+  "name": "Arwen's Fate",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Exert Aragorn to make Arwen strength +3, or exert Arwen to make Aragorn strength +3.",
+  "flavor_text": "For the love of a mortal Man, Arwen, daughter of Elrond, must forsake her Elven heritage, and give up forever her journey to the Undying Lands."
+}

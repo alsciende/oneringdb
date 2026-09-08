@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01153.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "153",
+  "name": "Uruk Slayer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Skirmish</phase>: Remove <twilight>1</twilight> to make this minion strength +1 (limit +3).",
+  "flavor_text": "A foe who is willing to kill or die outright is a foe to be feared indeed."
+}

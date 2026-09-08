@@ -1,9 +1,0 @@
-{
-    "id": "great-hill-troll",
-    "title": "Great Hill Troll",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 9,
-    "type": "minion",
-    "text": "<keyword>Besieger.<\/keyword> <keyword>Fierce.<\/keyword> <br>The twilight cost of this minion is –1 for each <symbol>sauron<\/symbol> engine you spot. <br>When you play this minion at sites 5<symbol>king<\/symbol> to 9<symbol>king<\/symbol>, you may discard a Free Peoples condition."
-}

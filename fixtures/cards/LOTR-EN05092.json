@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN05092.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "92",
+  "name": "Sigewulf",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "4",
+  "culture": "Rohan",
+  "subtitle": "Brave Volunteer",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "<keyword>Villager</keyword>.\n<phase>Regroup</phase>: Exert Sigewulf and spot 5 valiant Men to discard a minion.",
+  "flavor_text": "The courage of Sigewulf and other Rohirrim like him will not be forgotten."
+}

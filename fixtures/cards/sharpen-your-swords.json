@@ -1,9 +1,0 @@
-{
-    "id": "sharpen-your-swords",
-    "title": "Sharpen Your Swords",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "Spot Gandalf to make a <symbol>gondor<\/symbol> companion strength +1 for each <symbol>gondor<\/symbol> companion you spot (limit +4)."
-}

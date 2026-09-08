@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN08077.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "77",
+  "name": "Morgul Squealer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<phase>Shadow</phase>: Discard this minion to play a <culture>Wraith</culture> minion from your discard pile.\n<phase>Shadow</phase>: Spot 6 companions and discard this minion to play up to 2 <culture>Wraith</culture> minions from your draw deck; their twilight costs are each -1."
+}

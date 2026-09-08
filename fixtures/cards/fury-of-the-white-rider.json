@@ -1,9 +1,0 @@
-{
-    "id": "fury-of-the-white-rider",
-    "title": "Fury of the White Rider",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 3,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword><br><keyword>Maneuver:<\/keyword> Spot 3 twilight tokens and exert Gandalf to wound a minion twice."
-}

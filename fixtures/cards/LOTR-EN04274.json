@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04274.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "274",
+  "name": "Firefoot",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Rohan",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\nIf bearer is Éomer, he is <keyword>defender +1</keyword>.\nAt the start of each skirmish involving bearer, each minion skirmishing bearer must exert.",
+  "flavor_text": "Riders of his éored claimed that Éomer’s horse had no equal, save Shadowfax."
+}

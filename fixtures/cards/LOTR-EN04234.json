@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04234.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "234",
+  "name": "Flanking Attack",
+  "unique": false,
+  "type": "Event",
+  "culture": "Raider",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase> or <phase>Skirmish</phase>: Exert a Southron to add <twilight>3</twilight>.",
+  "flavor_text": "“‘Our scouts report more Haradrim making their way up here....’”"
+}

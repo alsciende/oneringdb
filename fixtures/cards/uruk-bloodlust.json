@@ -1,9 +1,0 @@
-{
-    "id": "uruk-bloodlust",
-    "title": "Uruk Bloodlust",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 3,
-    "type": "condition",
-    "text": "<br><keyword>Response:<\/keyword> If your Uruk-hai wins a skirmish, remove <symbol>twilight1<\/symbol> to heal him."
-}

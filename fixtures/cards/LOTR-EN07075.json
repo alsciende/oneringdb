@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07075.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "75",
+  "name": "Sweeter Meats",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Response",
+  "culture": "Gollum",
+  "twilight_cost": "0",
+  "game_text": "If a minion is about to take a wound, spot Gollum to prevent that wound.",
+  "flavor_text": "“‘It may well be, oh yes, it may very well be, that when She throws away the bones and the empty clothes… we shall find It!’”"
+}

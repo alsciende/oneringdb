@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03011.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "11",
+  "name": "Cast It Into the Fire!",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Spot an Elf to make each opponent discard a card from his or her hand. Draw a card for each card discarded in this way.",
+  "flavor_text": "“‘It should have been cast then into Orodruin’s fire nigh at hand where it was made.’”"
+}

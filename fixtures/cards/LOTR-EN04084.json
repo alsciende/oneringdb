@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04084.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "84",
+  "name": "Sword-wall",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "<phase>Skirmish</phase> or <phase>Regroup</phase>: Spot 3 Elf companions to liberate a site or exert a minion.",
+  "flavor_text": "A fixed line of Elven blades can hold off great numbers of the Enemy’s hordes."
+}

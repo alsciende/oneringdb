@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04013.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "13",
+  "name": "Dunlending Pillager",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "1",
+  "site_number": "3",
+  "game_text": "Each time this minion wins a skirmish, you may discard a Free Peoples possession (or 2 possessions if you spot 6 companions).",
+  "flavor_text": "“‘Not in half a thousand years have they forgotten their grievance that the lords of Gondor gave the Mark to Eorl the Young and made alliance with him.’”"
+}

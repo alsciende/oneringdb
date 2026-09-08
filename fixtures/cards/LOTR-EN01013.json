@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01013.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "13",
+  "name": "Gimli",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Dwarf",
+  "culture": "Dwarven",
+  "subtitle": "Son of Glóin",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Skirmish</phase>: Exert Gimli to make him strength +2.",
+  "flavor_text": "“There was a younger dwarf at Glóin’s side: his son Gimli.”"
+}

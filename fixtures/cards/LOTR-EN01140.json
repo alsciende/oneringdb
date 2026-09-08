@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01140.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "140",
+  "name": "Spies of Saruman",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "To play, exert an <culture>Isengard</culture> minion. Plays on a site.\nWhile the fellowship is at this site, skip the archery phase. Discard this condition at the end of the turn.",
+  "flavor_text": "“‘...they are crebain out of Fangorn or Dunland. I do not know what they are about....’”"
+}

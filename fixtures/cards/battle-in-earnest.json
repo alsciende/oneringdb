@@ -1,9 +1,0 @@
-{
-    "id": "battle-in-earnest",
-    "title": "Battle in Earnest",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "Spot a Dwarf who is damage +X to place X wounds on minions."
-}

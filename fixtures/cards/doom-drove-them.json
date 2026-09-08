@@ -1,9 +1,0 @@
-{
-    "id": "doom-drove-them",
-    "title": "Doom Drove Them",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Fellowship:<\/keyword> Exert a <symbol>rohan<\/symbol> companion and either a <symbol>gondor<\/symbol> Man or a <symbol>shire<\/symbol> companion to add a <symbol>rohan<\/symbol> token here. <br><keyword>Skirmish:<\/keyword> Remove a <symbol>rohan<\/symbol> token here to exert a minion skirmishing a companion."
-}

@@ -1,9 +1,0 @@
-{
-    "id": "orc-pursuer",
-    "title": "Orc Pursuer",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Tracker.<\/keyword><br>The site number of each <symbol>sauron<\/symbol> Orc is -1.<br>When you play this minion, you may exert him and remove <symbol>twilight2<\/symbol> to draw a card."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01059.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "59",
+  "name": "Shoulder to Shoulder",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Maneuver</phase>: Add <twilight>1</twilight> and exert a Dwarf to heal an Elf, or add <twilight>1</twilight> and exert an Elf to heal a Dwarf.",
+  "flavor_text": "“‘May it be a sign that though the world is now dark better days are at hand, and that friendship shall be renewed between out peoples.’”"
+}

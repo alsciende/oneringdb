@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03018.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "18",
+  "name": "Galdor",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Elf",
+  "home_site": "3",
+  "culture": "Elven",
+  "subtitle": "Councilor From The West",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "2",
+  "game_text": "To play, spot an Elf.\n<phase>Regroup</phase>: Exert Galdor and spot a minion to return that minion to its owner’s hand.",
+  "flavor_text": "“‘My heart tells me that Sauron will expect us to take the western way, when he learns what has befallen. He soon will.’”"
+}

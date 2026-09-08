@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01063.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "63",
+  "name": "Stand Against Darkness",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Exert an Elf to discard a <culture>Sauron</culture> minion, a <culture>Sauron</culture> condition, or a <culture>Sauron</culture> possession.",
+  "flavor_text": "“What power still remains lies with us, here in Imladris, or with Círdan at the Havens, or in Lórien. But have they the strength, have we here the strength to withstand the Enemy...?’”"
+}

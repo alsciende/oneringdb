@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN10089.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "89",
+  "name": "Gothmog's Warg",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "vitality_modifier": "+1",
+  "game_text": "Bearer must be a <culture>Sauron</culture> Orc.\nFor each site you control, bearer is strength +1 (or +2 if bearer is Gothmog).",
+  "flavor_text": "“‘Form ranks, you maggots! Form ranks!’”"
+}

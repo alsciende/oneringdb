@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06042.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "42",
+  "name": "Nasty, Foul Hobbitses",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gollum",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If Gollum wins a skirmish, add a burden.",
+  "flavor_text": "“‘We ought to wring their filthy little necks!’”"
+}

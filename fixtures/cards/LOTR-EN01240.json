@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01240.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "240",
+  "name": "Band of the Eye",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Response</phase>: If this minion wins a skirmish, remove <twilight>2</twilight> to make the Free Peoples player discard a card at random from hand.",
+  "flavor_text": "Far more Orcs has Sauron bred in the pits under Barad-dûr than Saruman could ever imagine."
+}

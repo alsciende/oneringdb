@@ -1,9 +1,0 @@
-{
-    "id": "ships-of-great-draught",
-    "title": "Ships of Great Draught",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 2,
-    "type": "possession",
-    "text": "<keyword>Shadow:<\/keyword> Remove a threat or discard a <symbol>raider<\/symbol> card from hand to add a <symbol>raider<\/symbol> token here. <br><keyword>Regroup:<\/keyword> Remove 2 <symbol>raider<\/symbol> tokens here to place a <symbol>raider<\/symbol> card from your discard pile on top of your draw deck."
-}

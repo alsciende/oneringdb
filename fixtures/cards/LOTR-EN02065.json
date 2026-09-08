@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02065.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "65",
+  "name": "Goblin Spearman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "While bearing a Goblin Spear, this minion is <keyword>damage +2</keyword>.",
+  "flavor_text": "“...with the speed of a striking snake, he charged into the Company and thrust with his spear....”"
+}

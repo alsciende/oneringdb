@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07244.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "244",
+  "name": "Mustering for Battle",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 3 <culture>Rohan</culture> Men.\n<phase>Maneuver</phase>: Exert a <culture>Rohan</culture> companion twice or discard this condition to play a <culture>Rohan</culture> possession from your discard pile.",
+  "flavor_text": "“‘For we are already at war, as you may have seen, and you do not find us all unprepared.’”"
+}

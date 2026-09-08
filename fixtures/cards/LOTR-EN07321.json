@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07321.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "321",
+  "name": "Merry",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Swordthain",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Theoden",
+  "game_text": "<phase>Skirmish</phase>: If Merry is not assigned to a skirmish, return him to your hand to play up to 2 <culture>Rohan</culture> possessions from your discard pile.",
+  "flavor_text": "“‘And I would not have it said of me in song only that I was always left behind!’”"
+}

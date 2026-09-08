@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07161.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "161",
+  "name": "Southron Brigand",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\n<phase>Shadow</phase>: Remove <twilight>3</twilight> and spot 3 <culture>Raider</culture> Men to make one of those Men <keyword>damage +1</keyword> until the regroup phase.",
+  "flavor_text": "“...gathered about the standard of their chieftain.”"
+}

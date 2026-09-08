@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04356.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "356",
+  "name": "Hornburg Causeway",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "7",
+  "shadow_number": "6",
+  "game_text": "<keyword>Battleground</keyword>. The minion archery total is +2 for each unbound companion over 3."
+}

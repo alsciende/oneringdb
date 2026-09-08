@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05023.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "23",
+  "name": "Follow Sméagol",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "Plays on Sméagol.\n<phase>Regroup</phase>: Exert Sméagol or Gollum to play the fellowship’s next site (replacing opponent’s site if necessary).",
+  "flavor_text": "“‘Follow Sméagol very carefully, and you may go a long way, quite a long way, before He catches you, yes perhaps.’”"
+}

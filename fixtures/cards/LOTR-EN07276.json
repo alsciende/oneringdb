@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07276.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "276",
+  "name": "Gorgoroth Ransacker",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Skirmish</phase>: If this minion is stacked on a site you control, discard him to make a <culture>Sauron</culture> Orc strength +5 (or +10 if you have initiative).",
+  "flavor_text": "“...company upon company of the enemy pressed to the walls.”"
+}

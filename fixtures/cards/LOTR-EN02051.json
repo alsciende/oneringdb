@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02051.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "51",
+  "name": "The Balrog",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Balrog",
+  "culture": "Moria",
+  "subtitle": "Durin's Bane",
+  "twilight_cost": "12",
+  "strength": "17",
+  "vitality": "5",
+  "site_number": "4",
+  "game_text": "<keyword>Damage +1</keyword>. <keyword>Fierce</keyword>.\nWhile you can spot The Balrog, discard all other minions. Skip the archery phase. Discard The Balrog if not underground.",
+  "flavor_text": "“Indeed I saw upon the bridge that which haunts our darkest dreams....”"
+}

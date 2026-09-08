@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01227.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "227",
+  "name": "Threshold of Shadow",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make a Nazgûl strength +2 (or +4 if you spot 5 burdens).",
+  "flavor_text": "“‘They did not need the guidance of their horses any longer: you had become visible to them….’”"
+}

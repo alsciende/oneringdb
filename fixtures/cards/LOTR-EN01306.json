@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01306.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "306",
+  "name": "Pippin",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Friend to Frodo",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "Your opponent may not discard your <culture>Shire</culture> tales from play.",
+  "flavor_text": "“‘Baggins? Sure I know a Baggins — Frodo's my second cousin once-removed, on his mother's side and my third cousin twice-removed on his father's side, if you follow me.’”"
+}

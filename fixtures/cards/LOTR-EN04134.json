@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04134.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "134",
+  "name": "Sword of Gondor",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Gondor</culture> Man.\nWhile skirmishing a Man or a roaming minion, bearer is <keyword>damage +1</keyword>.",
+  "flavor_text": "“Four tall Men stood there.... All had swords at their sides....”"
+}

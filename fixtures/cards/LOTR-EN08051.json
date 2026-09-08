@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08051.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "51",
+  "name": "Castamir of Umbar",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "7",
+  "strength": "14",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "<keyword>Corsair</keyword>. <keyword>Enduring</keyword>. <keyword>Fierce</keyword>.\n<phase>Shadow</phase>: Exert Castamir of Umbar and play a corsair to add 2 <culture>Raider</culture> tokens to a card that already has a <culture>Raider</culture> token on it.",
+  "flavor_text": "“‘They have long ceased to fear the might of Gondor.’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "ithilien-wilderness",
-    "title": "Ithilien Wilderness",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "Plays to your support area.<br>At the start of each phase during which the fellowship has moved to 7<symbol>tower<\/symbol>, 8<symbol>tower<\/symbol>, or 9<symbol>tower<\/symbol> and the twilight pool has fewer than 7 twilight tokens, you may add <symbol>twilight8<\/symbol>.<br><keyword>Skirmish:<\/keyword> Discard this condition to make a <symbol>raider<\/symbol> Man strength +2."
-}

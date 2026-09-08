@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01064.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "64",
+  "name": "Support of the Last Homely House",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Exert an Elf ally whose home is site 3. Until the regroup phase, that ally is strength +3 and participates in archery fire and skirmishes.",
+  "flavor_text": "“Merely to be there was a cure for weariness, fear, and sadness.”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04009.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "9",
+  "name": "Dunlending Arsonist",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "1",
+  "site_number": "3",
+  "game_text": "Each time this minion wins a skirmish, you may play a <culture>Dunland</culture> Man from hand; his twilight cost is −2. That Man is <keyword>fierce</keyword> and <keyword>damage +1</keyword> until the regroup phase.",
+  "flavor_text": "“‘They bring fire... and they are burning as they come, rick, cot, and tree.’”"
+}

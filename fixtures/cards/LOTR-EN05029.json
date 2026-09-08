@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05029.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "29",
+  "name": "Sméagol",
+  "unique": true,
+  "type": "Companion",
+  "culture": "Gollum",
+  "subtitle": "Slinker",
+  "twilight_cost": "0",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ring-bound</keyword>. To play, add a burden.\n<phase>Skirmish</phase>: Add a burden to make Sméagol strength +2 and take no wounds.",
+  "flavor_text": "“‘...that it is my fate to receive help from you, where I least looked for it, and your fate to help me whom you long pursued with evil purpose.’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "mordor-brute",
-    "title": "Mordor Brute",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "Each <symbol>sauron<\/symbol> Orc bearing a possession cannot take wounds (except during skirmish phases)."
-}

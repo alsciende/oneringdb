@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07128.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "128",
+  "name": "While We Yet Live",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "Make a roaming minion skirmishing a <culture>Gondor</culture> Man strength −3.",
+  "flavor_text": "“‘…not if the Nameless One himself should come, not even he could enter….’”"
+}

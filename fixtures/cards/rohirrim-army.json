@@ -1,9 +1,0 @@
-{
-    "id": "rohirrim-army",
-    "title": "Rohirrim Army",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 5,
-    "type": "companion",
-    "text": "To play, spot 3 <symbol>rohan<\/symbol> companions. <br>You may play Rohirrim Army any time you could play a regroup event. <br> When you play Rohirrim Army, you may discard a minion."
-}

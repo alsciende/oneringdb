@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01131.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "131",
+  "name": "Orthanc Assassin",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Archer</keyword>. <keyword>Damage +1</keyword>.",
+  "flavor_text": "Black-feathered arrows from Uruk-hai bows reign over the corpses of Saruman’s enemies."
+}

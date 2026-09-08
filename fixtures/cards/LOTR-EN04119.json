@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04119.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "119",
+  "name": "Faramir's Cloak",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Cloak",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "Bearer must be Faramir.\nEach roaming minion skirmishing a Ring-bound Man is strength –1.",
+  "flavor_text": "Captain Faramir and his rangers were clad in green and brown of varied hues, better to walk unseen in the glades of Ithilien."
+}

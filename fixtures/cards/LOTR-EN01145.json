@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01145.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "145",
+  "name": "Uruk Brood",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Skirmish</phase>: Remove <twilight>2</twilight> to make this minion strength +1 for each other Uruk-hai you spot.",
+  "flavor_text": "“‘He does not see the caverns hidden deep beneath this tower... nor does he know what is growing there.’”"
+}

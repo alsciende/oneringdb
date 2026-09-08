@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN06050.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "50",
+  "name": "Aragorn",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Defender of Free Peoples",
+  "twilight_cost": "4",
+  "strength": "8",
+  "vitality": "4",
+  "signet": "Theoden",
+  "game_text": "<phase>Skirmish</phase>: Remove an <culture>Elven</culture> token to make a minion skirmishing Aragorn strength −3.\n<phase>Skirmish</phase>: Remove a <culture>Dwarven</culture> token to heal a Dwarf.\n<phase>Regroup</phase>: If Aragorn is mounted, remove a <culture>Gollum</culture> token to wound a minion twice.",
+  "flavor_text": "“‘...this is the hour when we draw swords together.’”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04071.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "71",
+  "name": "Haldir",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Emissary of the Galadhrim",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "While no opponent controls a site, Haldir is strength +2.\n<phase>Regroup</phase>: Exert Haldir at a battleground and exert another Elf to liberate a site.",
+  "flavor_text": "“‘In days of old, my people stood beside the King of Gondor — we come to honor that allegiance.’”"
+}

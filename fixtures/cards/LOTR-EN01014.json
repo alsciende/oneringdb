@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01014.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "14",
+  "name": "Gimli's Battle Axe",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Dwarven",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Gimli.\nHe is <keyword>damage +1</keyword>.\nEach time Gimli wins a skirmish, you may wound an Orc.",
+  "flavor_text": "“Beside them Gimli stood with his stout legs apart, wielding his dwarf-axe.”"
+}

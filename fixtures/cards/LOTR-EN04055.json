@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04055.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "55",
+  "name": "Restless Axe",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "2",
+  "game_text": "<phase>Regroup</phase>: Exert a Dwarf to shuffle a <culture>Dwarven</culture> condition (and all cards stacked on it) into your draw deck. Exert a minion for each card shuffled into your draw deck.",
+  "flavor_text": "“‘Give me a row of orc-necks and room to swing and all weariness will fall from me!’”"
+}

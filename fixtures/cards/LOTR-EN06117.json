@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06117.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "117",
+  "name": "Meduseld",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "0",
+  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: Exert 3 companions with the Gandalf signet to play an unbound companion from your dead pile."
+}

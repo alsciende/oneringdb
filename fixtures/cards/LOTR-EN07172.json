@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07172.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "172",
+  "name": "Troop of Haradrim",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\nWhile you can spot 2 threats, this minion is an <keyword>archer</keyword>.\nWhile you can spot 3 threats, this minion is <keyword>fierce</keyword>.\nWhile you can spot 4 threats, this minion is <keyword>damage +1</keyword>."
+}

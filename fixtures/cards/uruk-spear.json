@@ -1,9 +1,0 @@
-{
-    "id": "uruk-spear",
-    "title": "Uruk Spear",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be an Uruk-hai.  <br><keyword>Maneuver:<\/keyword> Exert bearer to discard a Free Peoples mount. "
-}

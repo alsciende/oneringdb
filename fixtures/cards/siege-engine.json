@@ -1,9 +1,0 @@
-{
-    "id": "siege-engine",
-    "title": "Siege Engine",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "<keyword>Machine.<\/keyword> <br><keyword>Shadow:<\/keyword> Play an Uruk-hai to place an <symbol>isengard<\/symbol> token on a machine.<br><keyword>Response:<\/keyword> If one or more machines are about to be discarded by an opponent, discard this condition to prevent that."
-}

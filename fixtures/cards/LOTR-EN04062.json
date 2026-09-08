@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04062.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "62",
+  "name": "Elven Bow",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be an Elf.\nBearer is an <keyword>archer</keyword>.",
+  "flavor_text": "No finer bows could defend Helm’s Deep than those of the Golden Wood."
+}

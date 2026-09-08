@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN05100.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "100",
+  "name": "Grishnákh",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "subtitle": "Orc Captain",
+  "twilight_cost": "4",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<keyword>Tracker</keyword>.\nThe site number of each <culture>Sauron</culture> Orc is −3.\n<phase>Shadow</phase>: Exert Grishnákh twice and spot another <culture>Sauron</culture> Orc to draw 3 cards. The Free Peoples player may add 2 burdens to prevent this.",
+  "flavor_text": "“‘They might agree with me, with Grishnákh….’”"
+}

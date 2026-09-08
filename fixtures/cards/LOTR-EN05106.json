@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05106.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "106",
+  "name": "Orc Infantry",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<phase>Regroup</phase>: Spot a <culture>Sauron</culture> condition and discard this minion to take control of a site.",
+  "flavor_text": "Barad-dûr sent Orcs to all corners of Middle-earth."
+}

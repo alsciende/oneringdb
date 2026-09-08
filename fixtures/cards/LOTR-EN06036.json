@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06036.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "36",
+  "name": "Threw Down My Enemy",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Skirmish</phase>: Make a minion skirmishing Gandalf strength −1 for each wound on each character in the skirmish.",
+  "flavor_text": "“‘...he fell from the high place and broke the mountain-side where he smote it in his ruin.’”"
+}

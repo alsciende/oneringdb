@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10086.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "86",
+  "name": "Gorgoroth Keeper",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\nWhile you control a site, this minion’s twilight cost is −2.\n<phase>Regroup</phase>: Stack this minion on a site you control.",
+  "flavor_text": "“...new foes came swirling behind....”"
+}

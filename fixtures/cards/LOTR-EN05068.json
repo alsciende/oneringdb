@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05068.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "68",
+  "name": "Wolf-voices",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make an <culture>Isengard</culture> Orc strength +2 (and heal it if mounted).",
+  "flavor_text": "“‘…these howls freeze my blood.’”"
+}

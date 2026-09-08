@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01264.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "264",
+  "name": "Orc Bowmen",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "game_text": "Plays to your support area.\nWhile you can spot a <culture>Sauron</culture> Orc, add 1 to the minion archery total.",
+  "flavor_text": "Where volleys of Orcish arrows fly, the defenders of the West fall."
+}

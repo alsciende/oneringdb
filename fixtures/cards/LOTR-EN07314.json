@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07314.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "314",
+  "name": "Stronghold of Cirith Ungol",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "<phase>Response</phase>: If your <culture>Sauron</culture> minion wins a skirmish, place a <culture>Sauron</culture> token here (limit 1 per site).\n<phase>Regroup</phase>: Add <twilight>2</twilight> for each token here. Discard this condition.",
+  "flavor_text": "“In the Land of Mordor where the Shadows lie.”"
+}

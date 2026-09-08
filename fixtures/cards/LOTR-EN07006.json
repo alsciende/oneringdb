@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07006.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "6",
+  "name": "Gimli",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Dwarf",
+  "culture": "Dwarven",
+  "subtitle": "Faithful Companion",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Theoden",
+  "game_text": "<keyword>Damage +1</keyword>.\nWhile you have initiative, Gimli is strength +2.",
+  "flavor_text": "“‘I will go with you even on the Paths of the Dead, and to whatever end they may lead….’”"
+}

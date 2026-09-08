@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07018.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "18",
+  "name": "Bow of the Galadhrim",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Elven",
+  "subtitle": "Gift of Galadriel",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be Legolas.\nEach time you play an <culture>Elven</culture> skirmish event during a skirmish involving Legolas, you may heal him."
+}

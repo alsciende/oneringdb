@@ -1,9 +1,0 @@
-{
-    "id": "southron-conquerer",
-    "title": "Southron Conquerer",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword> <keyword>Archer.<\/keyword> <br>While you can spot 6 twilight tokens, other <symbol>raider<\/symbol> Men are <keyword>damage +1<\/keyword>. <br>While you can spot 9 twilight tokens, other <symbol>raider<\/symbol> Men are <keyword>damage +1<\/keyword>."
-}

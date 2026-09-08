@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06108.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "108",
+  "name": "Wisp of Pale Sheen",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Wraith",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Twilight</keyword>.\n<phase>Regroup</phase>: Spot another <culture>Sauron</culture> or twilight minion and discard this minion to add a burden.",
+  "flavor_text": "“‘They do not see what lies ahead / When Sun has failed and Moon is dead.’”"
+}

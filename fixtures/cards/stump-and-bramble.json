@@ -1,9 +1,0 @@
-{
-    "id": "stump-and-bramble",
-    "title": "Stump and Bramble",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Spot an <symbol>isengard<\/symbol> minion and an Ent ally. Until the regroup phase, that ally is <keyword>damage +2<\/keyword> and participates in archery fire and skirmishes. "
-}

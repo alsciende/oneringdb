@@ -1,9 +1,0 @@
-{
-    "id": "malice",
-    "title": "Malice",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Archery:<\/keyword> Spot a <symbol>moria<\/symbol> Orc and a <symbol>sauron<\/symbol> Orc to wound an archer."
-}

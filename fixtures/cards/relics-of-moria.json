@@ -1,9 +1,0 @@
-{
-    "id": "relics-of-moria",
-    "title": "Relics of Moria",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<br><keyword>Shadow:<\/keyword> Remove <symbol>twilight2<\/symbol> to play a <symbol>moria<\/symbol> possession from your discard pile."
-}

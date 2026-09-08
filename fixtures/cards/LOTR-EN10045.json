@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10045.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "45",
+  "name": "Mûmak Chieftain",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\nWhen you play this minion, you may play a mount on him from your discard pile. Its twilight cost is −2.",
+  "flavor_text": "The commander of a mûmak never imagines he is in complete control of the beast."
+}

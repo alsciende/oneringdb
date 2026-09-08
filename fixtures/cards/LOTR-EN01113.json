@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01113.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "113",
+  "name": "A Ranger's Versatility",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Exert a ranger at a river or forest to exhaust a minion.",
+  "flavor_text": "“‘If you bring a Ranger with you, it is well to pay attention to him, especially if the Ranger is Aragorn.’”"
+}

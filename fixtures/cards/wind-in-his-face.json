@@ -1,9 +1,0 @@
-{
-    "id": "wind-in-his-face",
-    "title": "Wind in His Face",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "Make a <symbol>rohan<\/symbol> Man strength +2. If that Man is mounted, choose an opponent who must place a random card from hand beneath his or her draw deck."
-}

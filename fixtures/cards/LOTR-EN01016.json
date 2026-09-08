@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01016.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "16",
+  "name": "Greatest Kingdom of My People",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Tale</keyword>. Exert a Dwarf to play this condition. Plays to your support area.\nEach time your opponent plays an Orc, that player discards the top card of his or her draw deck.",
+  "flavor_text": "“‘With golden roof and silver floor / And runes of power upon the door.’”"
+}

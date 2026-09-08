@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01066.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "66",
+  "name": "The Tale of Gil-galad",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "vitality_modifier": "+1",
+  "game_text": "<keyword>Tale</keyword>. Bearer must be an Elf.\n<phase>Skirmish</phase>: Discard this condition to make bearer strength +2.",
+  "flavor_text": "“Gil-galad was an Elven-king / Of him the harpers sadly sing: / the last whose realm was fair and free / between the Mountains and the Sea.”"
+}

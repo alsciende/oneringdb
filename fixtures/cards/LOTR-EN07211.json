@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07211.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "211",
+  "name": "Úlairë Cantëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Faster Than Winds",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<keyword>Fierce</keyword>.\nWhen you play Úlairë Cantëa, add a threat for each companion over 4.\n<phase>Maneuver</phase>: Remove 2 threats and spot another <culture>Wraith</culture> minion to discard a possession.",
+  "flavor_text": "“...and of the winged terror, the ‘Nazgûl.’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "seeking-it-always",
-    "title": "Seeking It Always",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Search.<\/keyword>   <br><keyword>Response:<\/keyword> If a stealth event is played, exert a <symbol>sauron<\/symbol> tracker to cancel that event."
-}

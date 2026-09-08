@@ -1,9 +1,0 @@
-{
-    "id": "legolas-elven-stalwart",
-    "title": "Legolas",
-    "subtitle": "Elven Stalwart",
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Archer.<\/keyword>  <br>While you can spot 3 wounded minions, each minion skirmishing Legolas is strength –3."
-}

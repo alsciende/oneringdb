@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04115.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "115",
+  "name": "Defend It and Hope",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Exert a <culture>Gondor</culture> Man to wound a minion once (or twice if that minion is an Uruk-hai).",
+  "flavor_text": "“‘Is it not said that no foe has ever taken the Hornburg, if men defended it?’”"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN02050.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "50",
+  "name": "The Balrog's Sword",
+  "unique": true,
+  "type": "Artifact",
+  "subtype": "Hand Weapon",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "strength_modifier": "+3",
+  "game_text": "Bearer must be The Balrog.\nIt is <keyword>damage +1</keyword>.\nThis weapon may be borne in addition to 1 other hand weapon.",
+  "flavor_text": "“In its right hand was a blade like a stabbing tongue of fire....”"
+}

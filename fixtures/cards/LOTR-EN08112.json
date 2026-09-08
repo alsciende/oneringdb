@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08112.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "112",
+  "name": "Song of the Shire",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Exert a <culture>Shire</culture> companion and either a <culture>Rohan</culture> companion or a <culture>Gandalf</culture> companion to add a <culture>Shire</culture> token here.\n<phase>Skirmish</phase>: Remove a <culture>Shire</culture> token here to prevent an unbound companion from being overwhelmed unless his or her strength is tripled."
+}

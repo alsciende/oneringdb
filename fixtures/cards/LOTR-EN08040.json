@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN08040.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "40",
+  "name": "Knight's Mount",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be a knight.\nEach time bearer wins a skirmish, you may wound a minion who is not assigned to a skirmish.",
+  "flavor_text": "“Like thunder they broke upon the enemy....”"
+}

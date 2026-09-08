@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN06018.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "18",
+  "name": "Galadriel",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Elf",
+  "home_site": "6",
+  "culture": "Elven",
+  "subtitle": "Keeper of Nenya",
+  "twilight_cost": "3",
+  "strength": "3",
+  "vitality": "3",
+  "game_text": "At the start of each turn, heal Galadriel.\n<phase>Skirmish</phase>: Exert Galadriel to discard the top card of your draw deck. If it is a Shadow card, make a minion skirmishing an Elf strength −3.",
+  "flavor_text": "“‘In Dwimordene, in Lórien / More fair than thoughts of Mortal Men.’”"
+}

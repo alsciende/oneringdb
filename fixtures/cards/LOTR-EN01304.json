@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01304.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "304",
+  "name": "Noble Intentions",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Exert a companion (except a Hobbit) to make a Hobbit strength +3.",
+  "flavor_text": "“‘You carry the fate of us all, little one.... If this is indeed the will of the Council, then Gondor will see it done.’”"
+}

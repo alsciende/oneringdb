@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08043.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "43",
+  "name": "Shadow Host",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Wraith",
+  "culture": "Gondor",
+  "twilight_cost": "5",
+  "strength": "9",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Enduring</keyword>. To play, spot 2 exhausted <culture>Gondor</culture> Wraiths and add 2 threats.\nWhile Shadow Host is exhausted, it is <keyword>defender +1</keyword>.",
+  "flavor_text": "“...fear went on before them, until they came to Calembel upon Ciril, and the sun went down like blood behind Pinnath Gelin....”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04201.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "201",
+  "name": "Uruk Veteran",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Regroup</phase>: Stack this minion on a site you control.\n<phase>Shadow</phase>: If stacked on a site you control, play this minion. Its twilight cost is −1.",
+  "flavor_text": "“‘We come to kill, by sun or moon.’”"
+}

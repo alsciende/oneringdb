@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07114.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "114",
+  "name": "Pippin's Sword",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Pippin.\n<phase>Skirmish</phase>: Exert Pippin twice make him strength +1 for each <culture>Gondor</culture> companion you spot.",
+  "flavor_text": "“The old man laid the sword along his lap, and Pippin put his hand to the hilt….”"
+}

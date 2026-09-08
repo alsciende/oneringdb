@@ -1,9 +1,0 @@
-{
-    "id": "theoden-leader-of-spears",
-    "title": "Théoden",
-    "subtitle": "Leader of Spears",
-    "culture": "rohan",
-    "twilight_cost": 3,
-    "type": "companion",
-    "text": "<keyword>Valiant.<\/keyword> While you can spot a <symbol>rohan<\/symbol> Man, Théoden’s twilight cost is –1. <br>Each time the fellowship moves, you may exert a <symbol>rohan<\/symbol> companion to exert a minion."
-}

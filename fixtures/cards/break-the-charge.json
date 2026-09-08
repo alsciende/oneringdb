@@ -1,9 +1,0 @@
-{
-    "id": "break-the-charge",
-    "title": "Break the Charge",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "<keyword>Archery:<\/keyword> Exert 3 Elf companions to make the fellowship archery total +2."
-}

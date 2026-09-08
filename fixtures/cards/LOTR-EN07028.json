@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07028.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "28",
+  "name": "Shadow Between",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "To play, spot an Elf.\nAt the start of your regroup phase, you may discard this condition or a card from hand to heal an Elf.",
+  "flavor_text": "“‘But did I not also fortell that you shall neither have wife, nor bind any woman to you….’”"
+}

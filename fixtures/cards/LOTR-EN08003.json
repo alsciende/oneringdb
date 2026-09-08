@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08003.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "3",
+  "name": "Blood Runs Chill",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Regroup",
+  "culture": "Dwarven",
+  "twilight_cost": "2",
+  "game_text": "Spot a Dwarf who is damage +X and exert that Dwarf twice to make an opponent discard X Shadow cards.",
+  "flavor_text": "“...the Dark Door gaped before them like the mouth of night.”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04279.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "279",
+  "name": "Helm! Helm!",
+  "unique": false,
+  "type": "Event",
+  "culture": "Rohan",
+  "twilight_cost": "2",
+  "game_text": "<phase>Regroup</phase>: Spot 2 mounted <culture>Rohan</culture> Men to liberate a site or draw 3 cards.",
+  "flavor_text": "“And with that shout the king came. His horse was white as snow, golden was his shield, and his spear was long.”"
+}

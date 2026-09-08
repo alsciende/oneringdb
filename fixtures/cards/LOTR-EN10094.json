@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10094.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "94",
+  "name": "Orc Ravager",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "To play, spot a <culture>Sauron</culture> minion.\n<phase>Shadow</phase>: Remove 2 threats to discard a condition.",
+  "flavor_text": "“The Captains of the West were foundering in a gathering sea.”"
+}

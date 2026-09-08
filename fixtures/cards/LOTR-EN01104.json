@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01104.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "104",
+  "name": "Eregion's Trails",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Exert a ranger to make each roaming minion strength −3 until the regroup phase.",
+  "flavor_text": "“Guided by Aragorn they struck a good path. It looked to Frodo like the remains of an ancient road, that had once been broad and well planned....”"
+}

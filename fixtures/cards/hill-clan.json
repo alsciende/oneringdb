@@ -1,9 +1,0 @@
-{
-    "id": "hill-clan",
-    "title": "Hill Clan",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 8,
-    "type": "minion",
-    "text": "Each time this minion wins a skirmish, you may play a <symbol>dunland<\/symbol> Man from hand. That Man is fierce and damage +2 until the regroup phase."
-}

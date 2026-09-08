@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04031.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "31",
+  "name": "Over the Isen",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Dunland",
+  "twilight_cost": "0",
+  "game_text": "Plays to your support area.\n<phase>Assignment</phase>: Spot a site you control and remove <twilight>2</twilight> to assign a <culture>Dunland</culture> Man to an unbound companion.",
+  "flavor_text": "Like their ancestors years before, the Dunlendings came down from Isengard."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07195.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "195",
+  "name": "Morgul on the March",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a Nazgûl.\nEach time the Free Peoples player draws a card (except during the regroup phase), add a threat.\n<phase>Regroup</phase>: Discard a Nazgûl and this condition to add a threat."
+}

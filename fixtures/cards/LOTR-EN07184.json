@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07184.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "184",
+  "name": "More Unbearable",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a Nazgûl.\n<phase>Regroup</phase>: Discard a Nazgûl to place a <culture>Wraith</culture> token on this card.\nWhile there are 3 <culture>Wraith</culture> tokens on this card, the Shadow has initiative, regardless of the Free Peoples player’s hand."
+}

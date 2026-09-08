@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN05033.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "33",
+  "name": "City Wall",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "strength_modifier": "-3",
+  "game_text": "<keyword>Fortification</keyword>. Plays to your support area.\n<phase>Skirmish</phase>: Exert a <culture>Gondor</culture> Man or spot 3 knights to transfer this condition from your support area to a minion skirmishing a <culture>Gondor</culture> Man.",
+  "flavor_text": "The war-weary defenses of Osgiliath still protected the Men of Gondor."
+}

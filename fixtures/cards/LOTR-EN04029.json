@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04029.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "29",
+  "name": "No Refuge",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Dunland",
+  "twilight_cost": "0",
+  "game_text": "Plays to your support area.\nWhile a <culture>Dunland</culture> Man is stacked on a site, the Shadow number of each site is +5.",
+  "flavor_text": "As their homes were ravaged by the wild men, refugees fled to the safety of Helm’s Deep."
+}

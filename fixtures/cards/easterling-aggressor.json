@@ -1,9 +1,0 @@
-{
-    "id": "easterling-aggressor",
-    "title": "Easterling Aggressor",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Easterling.<\/keyword> <br><keyword>Skirmish:<\/keyword> If you have initiative or you spot 3 Easterlings, discard 2 cards from hand to heal another Easterling."
-}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04153.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "153",
+  "name": "Gríma",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Isengard",
+  "subtitle": "Son of Galmód",
+  "twilight_cost": "2",
+  "strength": "4",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "Each unbound companion (or ally) bearing a Shadow condition is strength −1.",
+  "flavor_text": "“‘Did I not counsel you, lord, to forbid his staff?’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "dunlending-footmen",
-    "title": "Dunlending Footmen",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "The twilight cost of this minion during a skirmish phase is –2."
-}

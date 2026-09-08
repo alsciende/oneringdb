@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN06027.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "27",
+  "name": "Ent Avenger",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Ent",
+  "culture": "Gandalf",
+  "twilight_cost": "4",
+  "strength": "6",
+  "vitality": "4",
+  "game_text": "While you can spot 3 Ents, this companion is strength +2.",
+  "flavor_text": "“As they drew near the flash and flicker of their eyes could be seen.”"
+}

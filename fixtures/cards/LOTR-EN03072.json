@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03072.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "72",
+  "name": "Trapped and Alone",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\nEach character skirmishing an <culture>Isengard</culture> Orc loses all <keyword>damage</keyword> bonuses from weapons.",
+  "flavor_text": "“‘...I had no chance of escape, and my days were bitter.’”"
+}

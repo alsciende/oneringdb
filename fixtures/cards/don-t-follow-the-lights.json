@@ -1,9 +1,0 @@
-{
-    "id": "don-t-follow-the-lights",
-    "title": "Don’t Follow the Lights",
-    "subtitle": null,
-    "culture": "gollum",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Response:<\/keyword> If Sméagol wins a skirmish, add a burden to discard a minion."
-}

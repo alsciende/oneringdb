@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08016.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "16",
+  "name": "Let Us Not Tarry",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "game_text": "Exert Gandalf to make a minion skirmishing an unbound companion strength −1 for each Gandalf signet you spot.",
+  "flavor_text": "“‘There is much to say and to do, and you are weary.’”"
+}

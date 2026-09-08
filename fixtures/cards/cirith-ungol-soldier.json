@@ -1,9 +1,0 @@
-{
-    "id": "cirith-ungol-soldier",
-    "title": "Cirith Ungol Soldier",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Shadow:<\/keyword> Spot a possession to make this minion fierce until the regroup phase. "
-}

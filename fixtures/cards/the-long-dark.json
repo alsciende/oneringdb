@@ -1,9 +1,0 @@
-{
-    "id": "the-long-dark",
-    "title": "The Long Dark",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "<br>When the fellowship moves to site 4 or 5, add <symbol>twilight2<\/symbol> for each Dwarf companion.  <br><keyword>Skirmish:<\/keyword> Discard this condition to make your <symbol>moria<\/symbol> Orc strength +2."
-}

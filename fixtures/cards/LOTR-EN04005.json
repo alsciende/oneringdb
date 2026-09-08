@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04005.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "5",
+  "name": "Burn Every Village",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dunland",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Dunland</culture> Man strength +2 (or +4 if you control a site).",
+  "flavor_text": "“‘Take your rabble through the Westemnet; take back the lands they stole from you.’”"
+}

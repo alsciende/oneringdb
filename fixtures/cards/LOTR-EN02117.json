@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN02117.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "117",
+  "name": "Town Center",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "1",
+  "game_text": "<phase>Fellowship</phase>: Play a <culture>Shire</culture> ally to draw a card."
+}

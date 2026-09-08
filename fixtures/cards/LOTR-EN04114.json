@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04114.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "114",
+  "name": "Damrod",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Ranger of Ithilien",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<keyword>Ring-bound</keyword>. <keyword>Ranger</keyword>. To play, spot a Ring-bound Man.\n<phase>Skirmish</phase>: Exert Damrod to exhaust a Man he is skirmishing.",
+  "flavor_text": "“‘I doubt not that the days of Gondor are numbered, and the walls of Minas Tirith are doomed, so great is His strength and malice.’”"
+}

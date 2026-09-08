@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06062.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "62",
+  "name": "Fires and Foul Fumes",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "game_text": "<phase>Regroup</phase>: Discard 4 <culture>Isengard</culture> Orcs to wound a companion 4 times (except the Ring-bearer).",
+  "flavor_text": "“‘One of them... got caught in a spray of some liquid fire and burned like a torch: a horrible sight.’”"
+}

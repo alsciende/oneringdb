@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06095.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "95",
+  "name": "Hrethel",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Rider of Rohan",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "To play, spot a <culture>Rohan</culture> Man.\n<phase>Skirmish</phase>: Heal a minion skirmishing Hrethel to make Hrethel strength +3 (limit +3).",
+  "flavor_text": "“…gaining on the Orcs, gaining on them like a tide over the flats on folk straying in a quicksand.”"
+}

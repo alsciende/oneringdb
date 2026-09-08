@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01006.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "6",
+  "name": "Delving",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Exert a Dwarf companion to draw 3 cards.",
+  "flavor_text": "“‘...they delved too greedily and too deep, and disturbed that from which they fled, Durin’s Bane.’”"
+}

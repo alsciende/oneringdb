@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01295.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "295",
+  "name": "Hobbit Farmer",
+  "unique": false,
+  "type": "Ally",
+  "subtype": "Hobbit",
+  "home_site": "1",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "strength": "2",
+  "vitality": "2",
+  "game_text": "While you can spot your site 1, this ally has the game text of that site.\n<phase>Fellowship</phase>: Exert this ally and spot opponent's site 1 to replace it with your site 1.",
+  "flavor_text": "“‘...where our hearts truly lie is in peace and quiet and good-tilled earth....’”"
+}

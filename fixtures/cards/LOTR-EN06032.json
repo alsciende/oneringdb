@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN06032.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "32",
+  "name": "Host of Fangorn",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Ent",
+  "culture": "Gandalf",
+  "twilight_cost": "13",
+  "strength": "10",
+  "vitality": "4",
+  "game_text": "To play, spot 2 Ent companions.\nHost of Fangorn’s twilight cost is −2 for each Ent or unbound Hobbit you can spot.",
+  "flavor_text": "“‘Of course, it is likely enough, my friends... that we are going to our doom, the last march of the Ents.’”"
+}

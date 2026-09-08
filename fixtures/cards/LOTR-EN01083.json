@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01083.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "83",
+  "name": "Servant of the Secret Fire",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Skirmish</phase>: Spot Gandalf to make a minion strength -3.",
+  "flavor_text": "“‘I am a servant of the Secret Fire, wielder of the flame of Anor. You cannot pass.’”"
+}

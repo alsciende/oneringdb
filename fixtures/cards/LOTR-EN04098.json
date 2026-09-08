@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04098.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "98",
+  "name": "Mithrandir, Mithrandir!",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Maneuver</phase>: Exert Gandalf to wound each minion who has strength of 6 or less.",
+  "flavor_text": "“The wild men fell on their faces before him.”"
+}

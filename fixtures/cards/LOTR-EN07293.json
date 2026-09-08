@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07293.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "293",
+  "name": "Mordor Warrior",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Discard a card from your hand to make a companion skirmishing this minion strength −1 for each other <culture>Sauron</culture> Orc you spot (limit −3).",
+  "flavor_text": "“Sauron had taken the proffered bait in jaws of steel.”"
+}

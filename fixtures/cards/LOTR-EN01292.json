@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01292.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "292",
+  "name": "The Gaffer's Pipe",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Pipe",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a Hobbit.\n<phase>Fellowship</phase>: Discard a pipeweed possession and spot X pipes to remove <twilight>X</twilight>.",
+  "flavor_text": "“‘This... is the one art that we certainly claim to be our own invention. When Hobbits first began to smoke is not known....’”"
+}

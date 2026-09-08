@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03025.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "25",
+  "name": "Saelbeth",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Elf",
+  "home_site": "3",
+  "culture": "Elven",
+  "subtitle": "Elven Councilor",
+  "twilight_cost": "2",
+  "strength": "4",
+  "vitality": "3",
+  "game_text": "To play, spot an Elf.\n<phase>Skirmish</phase>: Exert Saelbeth to make an Uruk-hai strength −1.",
+  "flavor_text": "The wisdom of Saelbeth prepared the Company for the dangers they would face."
+}

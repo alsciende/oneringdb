@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08050.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "50",
+  "name": "Black Sails of Umbar",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "game_text": "When you play this possession, you may add a <culture>Raider</culture> token here.\n<phase>Shadow</phase>: Remove X <culture>Raider</culture> tokens here to play a corsair from your discard pile; its twilight cost is -X. Discard this possession."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03102.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "102",
+  "name": "Our List of Allies Grows Thin",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "To play, exert a <culture>Sauron</culture> minion. Plays to your support area.\nEach time the fellowship moves, add <twilight>1</twilight> for each ally you can spot.",
+  "flavor_text": "“The enemy is moving.... His eye is fixed on Rivendell. And Saruman, you tell me, has betrayed us.”"
+}

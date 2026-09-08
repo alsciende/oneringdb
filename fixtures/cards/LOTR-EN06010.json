@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN06010.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "10",
+  "name": "Suspended Palaces",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "2",
+  "game_text": "Plays to your support area. When you play this condition, you may spot a Dwarf to place 2 <culture>Dwarven</culture> tokens here.\n<phase>Fellowship</phase>: Discard this condition or remove a <culture>Dwarven</culture> token from here to stack the top card of your draw deck on a <culture>Dwarven</culture> condition that has a card stacked on it."
+}

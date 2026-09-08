@@ -1,9 +1,0 @@
-{
-    "id": "eowyn-s-sword",
-    "title": "Éowyn's Sword",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be Éowyn.  <br>While you can spot a villager, Éowyn is <keyword>damage +1.<\/keyword> "
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07245.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "245",
+  "name": "Riding Armor",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Armor",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\n<phase>Response</phase>: If you have initiative and bearer is about to take a wound in a skirmish, discard 3 cards from hand to prevent that wound."
+}

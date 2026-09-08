@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08038.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "38",
+  "name": "King of the Dead",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Wraith",
+  "culture": "Gondor",
+  "subtitle": "Oathbreaker",
+  "twilight_cost": "4",
+  "strength": "7",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Enduring</keyword>. To play, spot a <culture>Gondor</culture> Wraith and add 2 threats.\n<phase>Response</phase>: If Aragorn is about to take a wound in a skirmish, exert King of the Dead to prevent that wound.",
+  "flavor_text": "“‘...crying out that the King of the Dead was upon them.’”"
+}

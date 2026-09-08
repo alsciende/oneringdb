@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03039.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "39",
+  "name": "Banner of the White Tree",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Tale</keyword>.\n<phase>Maneuver</phase>: Exert a <culture>Gondor</culture> companion to make that companion strength +3 and <keyword>defender +1</keyword> until the regroup phase.",
+  "flavor_text": "“Many Elves and many mighty Men, and many of their friends, had perished in the war.”"
+}

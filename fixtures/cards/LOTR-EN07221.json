@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07221.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "221",
+  "name": "The Witch-king",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Morgul King",
+  "twilight_cost": "8",
+  "strength": "14",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "<keyword>Fierce</keyword>.\nWhen you play The Witch-king, you may remove a threat to take a <culture>Wraith</culture> card into hand from your discard pile.\nThe Ring-bearer cannot take threat wounds."
+}

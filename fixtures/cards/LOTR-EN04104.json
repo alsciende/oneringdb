@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04104.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "104",
+  "name": "Treebeard",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Ent",
+  "home_site": "2, 8",
+  "culture": "Gandalf",
+  "subtitle": "Oldest Living Thing",
+  "twilight_cost": "4",
+  "strength": "12",
+  "vitality": "4",
+  "game_text": "<keyword>Unhasty</keyword>.\n<phase>Fellowship</phase>: Exert Treebeard and discard an unbound companion from hand to heal an unbound companion.",
+  "flavor_text": "“‘No, I am not tired. I do not easily get tired. And I do not sit down. I am not very, hm, bendable.’”"
+}

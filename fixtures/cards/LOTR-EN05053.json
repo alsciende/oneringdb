@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05053.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "53",
+  "name": "Isengard Rider",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Warg-rider</keyword>.\nWhile this minion is not exhausted, he is <keyword>fierce</keyword>.",
+  "flavor_text": "“‘He has taken Orcs into his service, and Wolf-riders, and evil Men….’”"
+}

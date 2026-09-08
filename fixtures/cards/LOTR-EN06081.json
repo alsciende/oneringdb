@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06081.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "81",
+  "name": "Southron Invaders",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Ambush</keyword> <twilight>1</twilight>.\nWhen you play this minion, you may spot another Southron to play a minion with ambush from your discard pile.",
+  "flavor_text": "“‘So when you said “Men out of the South, all in red and gold,” I said “were there any oliphaunts? For if there was, I was going to take a look....”’”"
+}

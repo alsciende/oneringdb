@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02045.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "45",
+  "name": "Too Much Attention",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<phase>Response</phase>: If the Ring-bearer puts on The One Ring, spot an <culture>Isengard</culture> minion to make the Free Peoples player discard the top 5 cards of his or her draw deck.",
+  "flavor_text": "“‘A little more caution from you — that is not a trinket you carry.’”"
+}

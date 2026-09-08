@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04110.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "110",
+  "name": "Arrows Thick in the Air",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "3",
+  "game_text": "<phase>Archery</phase> or <phase>Skirmish</phase>: Exert 2 Ring-bound Men to wound each roaming minion.",
+  "flavor_text": "“He came to rest in the fern a few feet away, face downward, green arrow-feathers sticking from his neck below a golden collar.”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "ordulus-young-warrior",
-    "title": "Ordulus",
-    "subtitle": "Young Warrior",
-    "culture": "elven",
-    "twilight_cost": 1,
-    "type": "companion",
-    "text": "To play, spot an Elf.  <br>The twilight cost of each ranged weapon played on Ordulus is -1. "
-}

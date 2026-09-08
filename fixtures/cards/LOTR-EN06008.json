@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06008.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "8",
+  "name": "Too Long Have These Peasants Stood",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dunland",
+  "twilight_cost": "2",
+  "game_text": "<phase>Response</phase>: If a <culture>Dunland</culture> Man wins a skirmish, discard all conditions.",
+  "flavor_text": "The rabble of Dunland pillaged their way across the Mark."
+}

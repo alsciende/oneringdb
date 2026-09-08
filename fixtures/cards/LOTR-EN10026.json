@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN10026.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "26",
+  "name": "Cursed of Erech",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Wraith",
+  "culture": "Gondor",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "game_text": "<keyword>Enduring</keyword>. To play, add a threat.\nWhen you play Cursed of Erech, exert him twice.\nAt the start of the maneuver phase, you may exert another <culture>Gondor</culture> Wraith to make Cursed of Erech <keyword>defender +1</keyword> until the regroup phase.",
+  "flavor_text": "“...a black dread fell on them....”"
+}

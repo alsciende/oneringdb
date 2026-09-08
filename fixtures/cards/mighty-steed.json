@@ -1,9 +1,0 @@
-{
-    "id": "mighty-steed",
-    "title": "Mighty Steed",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 3,
-    "type": "event",
-    "text": "If Gandalf is not assigned to a skirmish, spot Shadowfax or exert Gandalf to have him replace an unbound companion in a skirmish."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06047.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "47",
+  "name": "You’re a Liar and a Thief",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gollum",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If Gollum wins a skirmish, wound a companion (except the Ring-bearer).",
+  "flavor_text": "“‘No, sweet one. See, my precious: if we has it, then we can escape, even from Him, eh?’”"
+}

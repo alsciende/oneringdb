@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06099.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "99",
+  "name": "Corpse Lights",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Wraith",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Twilight</keyword>.\n<phase>Skirmish</phase>: Exert this minion to make a <culture>Sauron</culture> or twilight minion strength +1 for each twilight minion you can spot.",
+  "flavor_text": "“‘I tried once; but you cannot reach them. Only shapes to see, perhaps, not to touch.’”"
+}

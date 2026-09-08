@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01261.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "261",
+  "name": "Orc Ambusher",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<keyword>Tracker</keyword>.\nThe roaming penalty for each <culture>Sauron</culture> minion you play is −1.\n<phase>Response</phase>: If a Free Peoples regroup event is played, exert this minion to cancel that event.",
+  "flavor_text": "“‘Orcs will often pursue foes for many leagues....’”"
+}

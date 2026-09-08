@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN05115.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "115",
+  "name": "Sam",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Nice Sensible Hobbit",
+  "twilight_cost": "2",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Ring-bound</keyword>.\nWhile you can spot Frodo and Sméagol, Sam may not be overwhelmed unless his strength is tripled.\n<phase>Response</phase>: If Frodo is killed, make Sam the <keyword>Ring-bearer</keyword> (resistance 5).",
+  "flavor_text": "“Trust Sméagol now? Very, very good.”"
+}

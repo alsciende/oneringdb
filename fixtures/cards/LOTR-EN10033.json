@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10033.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "33",
+  "name": "Hardy Garrison",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "game_text": "To play, spot 2 <culture>Gondor</culture> Men.\nEach time you lose initiative, you may wound a minion.",
+  "flavor_text": "“All before the walls on either side of the Gate the ground was choked with wreck and with bodies of the slain....”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07285.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "285",
+  "name": "Mordor Defender",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Exert this minion and spot another <culture>Sauron</culture> minion to add a threat.",
+  "flavor_text": "“...towards Mordor where the first bitter assault would come....”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "sneaking",
-    "title": "Sneaking!",
-    "subtitle": null,
-    "culture": "gollum",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "<keyword>Stealth.<\/keyword> <br>Heal Sméagol (or cancel Sméagol’s skirmish if he has more vitality than the minion or minions he is skirmishing)."
-}

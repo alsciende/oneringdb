@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10011.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "11",
+  "name": "Galadriel",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Lady Redeemed",
+  "twilight_cost": "3",
+  "strength": "3",
+  "vitality": "3",
+  "game_text": "When Galadriel is in your starting fellowship, her twilight cost is –3.\n<phase>Fellowship</phase> or <phase>Regroup</phase>: Discard an <culture>Elven</culture> event from hand to discard a Shadow condition or Shadow possession.",
+  "flavor_text": "“‘I pass the test,’ she said. ‘I will diminish, and go into the West, and remain Galadriel.’”"
+}

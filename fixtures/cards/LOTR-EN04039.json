@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04039.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "39",
+  "name": "Wild Man Raid",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dunland",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Spot 3 <culture>Dunland</culture> Men to discard a Free Peoples possession or condition.",
+  "flavor_text": "Not even the smallest of trinkets was safe from the destruction of the Dunlendings."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01268.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "268",
+  "name": "Orc Inquisitor",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "When you play this minion, you may make the Free Peoples player discard a card at random from hand.",
+  "flavor_text": "Cruel questioners of Mordor tore the secret from poor Gollum, that Sauron's most prized possession once again was found."
+}

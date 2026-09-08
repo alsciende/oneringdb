@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN05064.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "64",
+  "name": "War-warg",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength_modifier": "+4",
+  "vitality_modifier": "+2",
+  "game_text": "Bearer must be a warg-rider.\n<phase>Response</phase>: If a skirmish special ability is used in a skirmish involving bearer, exert bearer to cancel that action.",
+  "flavor_text": "Bigger and stronger wargs were ridden into battle."
+}

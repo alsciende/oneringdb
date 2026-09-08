@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07113.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "113",
+  "name": "Pippin's Armor",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Armor",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "strength_modifier": "+2",
+  "vitality_modifier": "-1",
+  "game_text": "Bearer must be Pippin.\nWhile you can spot 3 <culture>Gondor</culture> Men, Pippin may take no more than 1 wound in a skirmish.",
+  "flavor_text": "“‘Here do I swear fealty and service to Gondor….’”"
+}

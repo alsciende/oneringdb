@@ -1,9 +1,0 @@
-{
-    "id": "sting",
-    "title": "Sting",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be Frodo. <br><keyword>Fellowship:<\/keyword> or <keyword>Regroup:<\/keyword> Exert Frodo to reveal an opponent’s hand.  Remove <symbol>twilight1<\/symbol> for each Orc revealed (limit <symbol>twilight4<\/symbol>)."
-}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04195.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "195",
+  "name": "Uruk Seeker",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Tracker</keyword>. <keyword>Fierce</keyword>.\nWhile skirmishing a character bearing a search card, this minion is strength +2 and <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘No crying out, no trying to escape.’”"
+}

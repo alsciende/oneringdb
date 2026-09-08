@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04206.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "206",
+  "name": "Uruk-hai Patrol",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nWhile you control a site, this minion is <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘We are the servants of Saruman the Wise....’”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04193.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "193",
+  "name": "Uruk Runner",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Tracker</keyword>. <keyword>Fierce</keyword>.\nDuring a fierce skirmish involving this minion, it is strength +2.",
+  "flavor_text": "“‘Run, curse you! Run while night lasts!’”"
+}

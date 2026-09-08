@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07313.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "313",
+  "name": "Some Secret Art of Flame",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a <culture>Sauron</culture> Orc.\n<phase>Regroup</phase>: Play a <culture>Sauron</culture> condition to place a <culture>Sauron</culture> token on this card.\nWhile there are 3 tokens on this card, the Shadow has initiative, regardless of the Free Peoples player’s hand."
+}

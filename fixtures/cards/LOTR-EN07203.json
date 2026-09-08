@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07203.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "203",
+  "name": "Nazgûl Scimitar",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be a <culture>Wraith</culture> minion.\nWhile you can spot 5 threats, bearer is <keyword>damage +1</keyword>.",
+  "flavor_text": "“...small black figures in rank upon rank....”"
+}

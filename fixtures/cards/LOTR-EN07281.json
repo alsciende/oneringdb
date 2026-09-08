@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07281.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "281",
+  "name": "Great Siege-towers",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Engine</keyword>.\n<phase>Shadow</phase>: Play a besieger to place a <culture>Sauron</culture> token here.\n<phase>Skirmish</phase>: Remove a <culture>Sauron</culture> token from a condition to make a <culture>Sauron</culture> Orc strength +1 (limit +2)."
+}

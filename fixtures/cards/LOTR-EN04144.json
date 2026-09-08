@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04144.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "144",
+  "name": "Burning of Westfold",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "Plays to your support area.\n<phase>Shadow</phase>: If you control a site, play an Uruk-hai to discard a Free Peoples condition.",
+  "flavor_text": "“We have found many of our folk lying slain as they fled....”"
+}

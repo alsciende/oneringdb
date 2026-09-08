@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07083.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "83",
+  "name": "City of Men",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Make a <culture>Gondor</culture> Man strength +2. If that Man is skirmishing a <culture>Sauron</culture> minion, discard that minion at the end of the skirmish.",
+  "flavor_text": "“‘I will gladly give my life to defend her beauty, her memory… her wisdom.’”"
+}

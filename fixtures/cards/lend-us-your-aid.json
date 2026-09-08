@@ -1,9 +1,0 @@
-{
-    "id": "lend-us-your-aid",
-    "title": "Lend Us Your Aid",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Exert Gimli twice to make him and each Elf companion strength +3 until the regroup phase."
-}

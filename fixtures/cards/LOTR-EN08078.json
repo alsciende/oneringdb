@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08078.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "78",
+  "name": "Streaming to the Field",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "3",
+  "game_text": "For each <culture>Moria</culture> Orc you can spot, the Free Peoples player must have an additional card in hand to have initiative.\n<phase>Skirmish</phase>: Discard this condition to make a <culture>Moria</culture> Orc strength +2.",
+  "flavor_text": "“They had been mustered….”"
+}

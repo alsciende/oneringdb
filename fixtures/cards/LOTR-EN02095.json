@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN02095.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "95",
+  "name": "Vile Blade",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Sauron</culture> Orc.\nBearer is strength +2 while skirmishing a Man or Elf.",
+  "flavor_text": "The blood of enemies slain that day blackened the edge of the commanders blade."
+}

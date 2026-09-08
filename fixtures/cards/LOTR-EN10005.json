@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10005.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "5",
+  "name": "Arwen",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Echo of Lúthien",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<phase>Skirmish</phase>: Discard a card from hand to discard the bottom card of your draw deck. If the bottom card was an <culture>Elven</culture> card, each minion skirmishing Arwen is strength -3.",
+  "flavor_text": "“‘...mine is the choice of Lúthien, and as she so have I chosen, both the sweet and the bitter.’”"
+}

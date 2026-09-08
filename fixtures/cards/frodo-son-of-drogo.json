@@ -1,9 +1,0 @@
-{
-    "id": "frodo-son-of-drogo",
-    "title": "Frodo",
-    "subtitle": "Son of Drogo",
-    "culture": "shire",
-    "twilight_cost": 0,
-    "type": "companion",
-    "text": "<keyword>Ring-bearer (resistance 10).<\/keyword>  <br><keyword>Fellowship:<\/keyword> Exert another companion who has the Frodo signet to heal Frodo."
-}

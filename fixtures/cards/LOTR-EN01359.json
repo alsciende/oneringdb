@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01359.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "359",
+  "name": "Shores of Nen Hithoel",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "8",
+  "shadow_number": "9",
+  "game_text": "<keyword>River</keyword>. <phase>Shadow</phase>: Spot 5 Orc minions to prevent the fellowship from moving again this turn."
+}

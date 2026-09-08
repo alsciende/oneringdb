@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10053.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "53",
+  "name": "Black Marshal",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<phase>Shadow</phase>: Exert a Nazgûl and play a <culture>Wraith</culture> minion to add <twilight>1</twilight> (or <twilight>2</twilight> if you have initiative).",
+  "flavor_text": "“...at their head was one greater than all the rest: a Rider, all black....”"
+}

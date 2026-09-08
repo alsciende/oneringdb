@@ -1,9 +1,0 @@
-{
-    "id": "between-nazgul-and-prey",
-    "title": "Between Nazgûl and Prey",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 4,
-    "type": "event",
-    "text": "Exert an enduring <symbol>wraith<\/symbol> minion twice to assign that minion to an unbound companion."
-}

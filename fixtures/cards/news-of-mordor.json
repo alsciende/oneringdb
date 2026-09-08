@@ -1,9 +1,0 @@
-{
-    "id": "news-of-mordor",
-    "title": "News of Mordor",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Spot an <symbol>isengard<\/symbol> minion to make a Nazgûl <keyword>damage +1.<\/keyword> "
-}

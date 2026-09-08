@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05117.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "117",
+  "name": "You Must Help Us",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Play Sméagol from your discard pile to heal each Ring-bound Hobbit twice.",
+  "flavor_text": "“‘You will have to come with us, that’s all, while we keep an eye on you.’”"
+}

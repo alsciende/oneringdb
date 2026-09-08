@@ -1,9 +1,0 @@
-{
-    "id": "loathsome",
-    "title": "Loathsome",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "If a skirmish that involved a Nazgûl is about to end, discard a possession borne by a companion in that skirmish."
-}

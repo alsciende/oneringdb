@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07086.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "86",
+  "name": "Denethor",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Wizened Steward",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "Denethor is strength +1 for each other <culture>Gondor</culture> Man you can spot (limit +4).",
+  "flavor_text": "“‘…in desperate hours gentleness may be repaid with death.’”"
+}

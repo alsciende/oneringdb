@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01017.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "17",
+  "name": "Grimir",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Dwarf",
+  "home_site": "3",
+  "culture": "Dwarven",
+  "subtitle": "Dwarven Elder",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "3",
+  "game_text": "<phase>Fellowship</phase>: Exert Grimir to shuffle a <culture>Dwarven</culture> event from your discard pile into your draw deck.",
+  "flavor_text": "Old and grey after many years spent in exile before the Lonely Mountain was reclaimed, Grimir can still wield his axe with strength."
+}

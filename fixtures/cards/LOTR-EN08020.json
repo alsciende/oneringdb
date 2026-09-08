@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08020.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "20",
+  "name": "Saved From the Fire",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Fellowship",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "Spot Gandalf and place a companion (except the Ring-bearer) in the dead pile to take up to 3 cards from that companion’s culture into hand from your draw deck. Shuffle your draw deck.",
+  "flavor_text": "“...we will bear Faramir, Steward of Gondor, to a place where he can sleep in peace....”"
+}

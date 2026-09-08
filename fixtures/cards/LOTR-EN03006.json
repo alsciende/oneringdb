@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03006.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "6",
+  "name": "Storm of Argument",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Reveal a card at random from an opponent’s hand. Shuffle up to X <culture>Dwarven</culture> cards from your discard pile into your draw deck, where X is the twilight cost of the card revealed.",
+  "flavor_text": "“‘I will be dead before I see the Ring in the hands of an Elf!’”"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07098.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "98",
+  "name": "Gondorian Sword",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Gondor</culture> Man.\n<phase>Skirmish</phase>: Discard 3 cards from hand to make bearer <keyword>damage +1</keyword>."
+}

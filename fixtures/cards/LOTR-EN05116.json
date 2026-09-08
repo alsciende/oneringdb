@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN05116.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "116",
+  "name": "Sting",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Shire",
+  "subtitle": "Baggins Heirloom",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Frodo.\n<phase>Skirmish</phase>: Exert Frodo to make Sméagol strength +2 or Gollum strength −2.",
+  "flavor_text": "“This is Sting. You have seen it before once upon a time.”"
+}

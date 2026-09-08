@@ -1,9 +1,0 @@
-{
-    "id": "orc-chieftain",
-    "title": "Orc Chieftain",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "When you play a weapon on this minion, add <symbol>twilight2<\/symbol> (limit once per turn)."
-}

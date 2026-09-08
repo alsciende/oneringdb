@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07291.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "291",
+  "name": "Mordor Trooper",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Remove 2 threats to make a <culture>Sauron</culture> Orc strength +6.",
+  "flavor_text": "“...and then all hope was quenched.”"
+}

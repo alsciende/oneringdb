@@ -1,9 +1,0 @@
-{
-    "id": "gorgoroth-patrol",
-    "title": "Gorgoroth Patrol",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Besieger.<\/keyword> <br><keyword>Regroup:<\/keyword> If this minion is stacked on a site you control, discard this minion to make the move limit for this turn –1."
-}

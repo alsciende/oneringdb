@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04048.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "48",
+  "name": "Gimli",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Dwarf",
+  "culture": "Dwarven",
+  "subtitle": "Lockbearer",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Damage +1</keyword>.\nGimli is strength +1 for each unbound Hobbit companion you can spot.",
+  "flavor_text": "“You speak evil of that which is fair beyond the reach of your thought, and only little wit can excuse you.”"
+}

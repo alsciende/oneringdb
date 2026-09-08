@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02064.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "64",
+  "name": "Goblin Scrabbler",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "When you play this minion, you may discard an <culture>Dwarven</culture> condition.\nThe roaming penalty for each <culture>Moria</culture> Orc you play is −1.",
+  "flavor_text": "“Orcs were as keen as hounds on a scent, it was said, but they could also climb.”"
+}

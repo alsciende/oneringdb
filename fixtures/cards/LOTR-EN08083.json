@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN08083.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "83",
+  "name": "Winged Mount",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "To play, discard 2 cards from hand. Bearer must be a Nazgûl.\n<phase>Response</phase>: If bearer is about to take a wound, remove a threat to prevent that wound.",
+  "flavor_text": "“A creature of an older world maybe it was….”"
+}

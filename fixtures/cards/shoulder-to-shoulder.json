@@ -1,9 +1,0 @@
-{
-    "id": "shoulder-to-shoulder",
-    "title": "Shoulder to Shoulder",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<br><keyword>Maneuver:<\/keyword> Add <symbol>twilight1<\/symbol> and exert a Dwarf to heal an Elf, or add <symbol>twilight1<\/symbol> and exert an Elf to heal a Dwarf."
-}

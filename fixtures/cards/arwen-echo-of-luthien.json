@@ -1,9 +1,0 @@
-{
-    "id": "arwen-echo-of-luthien",
-    "title": "Arwen",
-    "subtitle": "Echo of Lúthien",
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Skirmish:<\/keyword>  Discard a card from hand to discard the bottom card of your draw deck. If the bottom card was an <symbol>elven<\/symbol> card, each minion skirmishing Arwen is strength –3."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07129.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "129",
+  "name": "Bold Men and Grim",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 2 <culture>Raider</culture> Men and add a threat.\nEach time a companion is about to be killed, you may remove a threat to discard a companion (except the Ring-bearer).\nDiscard this condition at the start of the regroup phase."
+}

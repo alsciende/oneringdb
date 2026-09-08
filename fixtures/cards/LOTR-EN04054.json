@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04054.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "54",
+  "name": "Rest by Blind Night",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Regroup</phase>: Shuffle any number of <culture>Dwarven</culture> conditions (and all cards stacked on them) into your draw deck.",
+  "flavor_text": "“‘And yet even I, Dwarf of many journeys... cannot run all the way to Isengard without any pause....’”"
+}

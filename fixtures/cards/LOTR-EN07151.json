@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07151.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "151",
+  "name": "Hosts Still Unfought",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Maneuver",
+  "culture": "Raider",
+  "twilight_cost": "0",
+  "game_text": "To play, spot 2 <culture>Raider</culture> Men.\nDiscard any number of cards from hand. The Free Peoples player then discards any number of cards from hand. For each card you discarded more than the Free Peoples player, add <twilight>1</twilight>."
+}

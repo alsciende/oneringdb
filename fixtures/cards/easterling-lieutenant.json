@@ -1,9 +1,0 @@
-{
-    "id": "easterling-lieutenant",
-    "title": "Easterling Lieutenant",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Easterling.<\/keyword> <br>Each time this minion is assigned to an unbound companion, you may exert him to add a burden. "
-}

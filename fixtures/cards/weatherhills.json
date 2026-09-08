@@ -1,9 +1,0 @@
-{
-    "id": "weatherhills",
-    "title": "Weatherhills",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 3,
-    "type": "site",
-    "text": "Each Nazgûl’s twilight cost is -1."
-}

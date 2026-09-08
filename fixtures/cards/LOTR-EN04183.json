@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04183.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "183",
+  "name": "Uruk Crossbowman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Archer</keyword>.\n<phase>Archery</phase>: Exert this minion to make the Free Peoples player wound an unbound companion; this minion does not add to the minion archery total.",
+  "flavor_text": "Both the weapon and its wielder were foul creations of Saruman."
+}

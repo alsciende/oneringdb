@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04278.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "278",
+  "name": "Heavy Chain",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Armor",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a Man.\nBearer may not be overwhelmed unless his or her strength is tripled.",
+  "flavor_text": "What Man of an earlier age wore this chain? Was his end worth a song?"
+}

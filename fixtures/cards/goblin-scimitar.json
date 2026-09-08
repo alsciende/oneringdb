@@ -1,9 +1,0 @@
-{
-    "id": "goblin-scimitar",
-    "title": "Goblin Scimitar",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 0,
-    "type": "possession",
-    "text": "Bearer must be a <symbol>moria<\/symbol> Orc. <br>When you play this possession, you may draw a card."
-}

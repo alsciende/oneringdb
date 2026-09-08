@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01094.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "94",
+  "name": "Athelas",
+  "unique": false,
+  "type": "Possession",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a <culture>Gondor</culture> Man.\n<phase>Fellowship</phase>: Discard this possession to heal a companion or to remove a Shadow condition from a companion.",
+  "flavor_text": "The hands of the king are the hands of a healer, and so shall the true king be known."
+}

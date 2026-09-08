@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05031.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "31",
+  "name": "Alcarin",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Warrior of Lamedon",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "game_text": "<keyword>Knight</keyword>. The twilight cost of each other knight in your starting fellowship is −1.\n<phase>Assignment</phase>: Assign Alcarin to a minion bearing a <culture>Gondor</culture> fortification to heal Alcarin.",
+  "flavor_text": "Named for a mighty king, Alcarin is determined to prove himself in battle."
+}

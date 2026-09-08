@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04024.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "24",
+  "name": "Hillman Rabble",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "1",
+  "site_number": "3",
+  "game_text": "Each time this minion wins a skirmish, you may stack it on a site you control.\n<phase>Shadow</phase>: If stacked on a site you control, play this minion. Its twilight cost is –2.",
+  "flavor_text": "The relentless fury of the Dunlendings consumed one village after another."
+}

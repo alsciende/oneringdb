@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08017.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "17",
+  "name": "Mighty Steed",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "If Gandalf is not assigned to a skirmish, spot Shadowfax or exert Gandalf to have Gandalf replace an unbound companion in a skirmish.",
+  "flavor_text": "“‘He always turns up when things are darkest. Go on! Go on, White Rider! Gandalf! Gandalf!’”"
+}

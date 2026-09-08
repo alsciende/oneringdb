@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07169.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "169",
+  "name": "Surging Up",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "<phase>Regroup</phase>: Exert an Easterling and discard this condition to make the move limit −1 for this turn. The Free Peoples player may add 2 burdens to prevent this.\n<phase>Skirmish</phase>: Discard this condition to heal an Easterling."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01258.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "258",
+  "name": "Morgul Skulker",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "When you play this minion, you may shuffle up to 2 <culture>Wraith</culture> cards from your discard pile into your draw deck.",
+  "flavor_text": "Sly servants of the Ringwraiths of Morgul Vale, Morgul Orcs are alert to the desires of their masters."
+}

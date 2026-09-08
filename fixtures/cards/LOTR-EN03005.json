@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03005.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "5",
+  "name": "Song of Durin",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Tale</keyword>. To play, exert a Dwarf. Plays to your support area.\nThe twilight cost of each <culture>Dwarven</culture> weapon is +2.\n<phase>Fellowship</phase>: Discard this condition to discard up to 2 <culture>Dwarven</culture> conditions.",
+  "flavor_text": "“No harp is wrung, no hammer falls: / The darkness dwells in Durin’s halls....”"
+}

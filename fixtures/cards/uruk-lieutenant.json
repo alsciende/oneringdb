@@ -1,9 +1,0 @@
-{
-    "id": "uruk-lieutenant",
-    "title": "Uruk Lieutenant",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Damage +1<\/keyword>.  <br>This minion is strength +1 for each other Uruk-hai you can spot."
-}

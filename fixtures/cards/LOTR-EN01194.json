@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01194.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "194",
+  "name": "Relentless",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Search</keyword>.\n<phase>Response</phase>: If a stealth event is played, spot 3 <culture>Moria</culture> minions to cancel that event.",
+  "flavor_text": "“‘Then dig a hole in the ground,’ said Legolas, ‘if that is more after the fashion of your kind. But you must dig swift and deep, if you wish to hide from Orcs.’”"
+}

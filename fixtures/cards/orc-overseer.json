@@ -1,9 +1,0 @@
-{
-    "id": "orc-overseer",
-    "title": "Orc Overseer",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Regroup:<\/keyword> Exert Orc Overseer twice to exhaust a companion (except the Ring-bearer). "
-}

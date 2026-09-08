@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN05093.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "93",
+  "name": "Théoden",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "King of the Golden Hall",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Valiant</keyword>.\n<phase>Maneuver</phase>: Play a <culture>Rohan</culture> possession on Théoden to heal a <culture>Rohan</culture> ally.",
+  "flavor_text": "“‘You thought I remained in Meduseld bent like an old tree under winter snow.... But a west wind has shaken the boughs.’”"
+}

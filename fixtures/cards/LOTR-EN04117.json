@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04117.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "117",
+  "name": "Faramir",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Son of Denethor",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ring-bound</keyword>. <keyword>Ranger</keyword>.\nAn opponent may not play skirmish events or use skirmish special abilities during skirmishes involving Faramir.",
+  "flavor_text": "“He could see Faramir’s face, which was now unmasked; it was stern and commanding, and a keen wit lay behind his searching glance.”"
+}

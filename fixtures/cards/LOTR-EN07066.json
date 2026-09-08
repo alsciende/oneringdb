@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07066.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "66",
+  "name": "No Safe Places",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Regroup",
+  "culture": "Gollum",
+  "twilight_cost": "2",
+  "game_text": "Exert Sméagol to reveal an opponent’s hand. That opponent must discard a card from hand for each culture revealed.",
+  "flavor_text": "“…they are watching… eyes will see us.”"
+}

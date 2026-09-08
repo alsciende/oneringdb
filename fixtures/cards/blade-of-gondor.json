@@ -1,9 +1,0 @@
-{
-    "id": "blade-of-gondor",
-    "title": "Blade of Gondor",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be Boromir. <br>He is <keyword>damage +1.<\/keyword> <br><keyword>Skirmish:<\/keyword> Exert Boromir to wound an Orc or Uruk-hai he is skirmishing."
-}

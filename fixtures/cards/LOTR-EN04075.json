@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04075.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "75",
+  "name": "Lembas",
+  "unique": false,
+  "type": "Possession",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 3 Elves. Bearer must be a companion.\n<phase>Regroup</phase>: Discard this possession to reconcile your hand.",
+  "flavor_text": "“Sam thought that it tasted far better, somehow, than it had for a good while....”"
+}

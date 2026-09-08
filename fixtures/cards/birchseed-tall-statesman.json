@@ -1,9 +1,0 @@
-{
-    "id": "birchseed-tall-statesman",
-    "title": "Birchseed",
-    "subtitle": "Tall Statesman",
-    "culture": "gandalf",
-    "twilight_cost": 3,
-    "type": "companion",
-    "text": "<keyword>Unhasty.<\/keyword><br><keyword>Assignment:<\/keyword> Exert an unbound Hobbit or discard 2 cards from hand to allow Birchseed to skirmish. <br><keyword>Fellowship:<\/keyword> Exert Birchseed to heal an unbound Hobbit."
-}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10039.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "39",
+  "name": "Corsair Ruffian",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Corsair</keyword>.\nWhen you play this minion, you may spot another corsair and discard the top card of the Free Peoples player's draw deck to add 2 <culture>Raider</culture> tokens to a card that already has a <culture>Raider</culture> token on it.",
+  "flavor_text": "An incarnation of savagery was Ghynóh the Cruel."
+}

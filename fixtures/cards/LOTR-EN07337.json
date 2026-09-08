@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07337.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "337",
+  "name": "West Road",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "3",
+  "game_text": "<keyword>Plains</keyword>. If the Shadow has initiative, the Shadow number of this site is +3."
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07033.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "33",
+  "name": "Citadel to Gate",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Fellowship",
+  "culture": "Gandalf",
+  "twilight_cost": "5",
+  "game_text": "Exert Gandalf twice to remove all threats and to heal all companions of one culture (except <culture>Dunland</culture>).",
+  "flavor_text": "“Wherever he came men’s hearts would lift again, and the winged shadows pass from memory.”"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN06121.png",
+  "set_number": "6",
+  "rarity": "P",
+  "card_number": "121",
+  "name": "Faramir",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Ithilien Ranger",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Ring-bound</keyword>. <keyword>Ranger</keyword>.\nIf Faramir is in your starting fellowship, his twilight cost is −1.\n<phase>Fellowship</phase>: Play a ranger to heal a Ring-bound companion.",
+  "flavor_text": "“‘Not while Faramir is Captain... his life is charmed, or fate spares him for some other end.’”"
+}

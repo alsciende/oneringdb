@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04152.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "152",
+  "name": "Get Back",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<phase>Assignment</phase>: Prevent an <culture>Isengard</culture> tracker from being assigned to a skirmish by any player.",
+  "flavor_text": "“‘We do not answer to Mordor scum!’”"
+}

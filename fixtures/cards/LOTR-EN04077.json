@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04077.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "77",
+  "name": "Lórien Is Most Welcome",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 3 Elves. Plays to your support area.\nEach wounded minion loses all <keyword>damage</keyword> bonuses. Discard this condition during the regroup phase.",
+  "flavor_text": "“‘We are proud to fight alongside Men once more....’”"
+}

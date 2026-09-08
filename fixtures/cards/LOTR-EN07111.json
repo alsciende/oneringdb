@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07111.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "111",
+  "name": "Man the Walls",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "The site number of each minion skirmishing a <culture>Gondor</culture> Man is +1.",
+  "flavor_text": "“…their force was too weak to make any stroke of war on their own part….”"
+}

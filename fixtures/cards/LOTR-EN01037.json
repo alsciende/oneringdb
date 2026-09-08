@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01037.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "37",
+  "name": "Defiance",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make an Elf strength +2 (or +4 if skirmishing a Nazgûl).",
+  "flavor_text": "“‘If you want him, come and claim him!’”"
+}

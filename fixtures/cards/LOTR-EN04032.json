@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04032.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "32",
+  "name": "Ravage the Defeated",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dunland",
+  "twilight_cost": "1",
+  "game_text": "<phase>Response</phase>: If your <culture>Dunland</culture> Man wins a skirmish, discard all Free Peoples cards borne by the companion or ally he was skirmishing.",
+  "flavor_text": "What the Dunlendings cannot steal, they destroy."
+}

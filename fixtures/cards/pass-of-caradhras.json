@@ -1,9 +1,0 @@
-{
-    "id": "pass-of-caradhras",
-    "title": "Pass of Caradhras",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 2,
-    "type": "site",
-    "text": "<keyword>Mountain.<\/keyword> <keyword>Shadow:<\/keyword> Spot a <symbol>isengard<\/symbol> minion to play a weather card from your draw deck (limit 1 per turn)."
-}

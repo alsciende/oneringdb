@@ -1,9 +1,0 @@
-{
-    "id": "shelob-her-ladyship",
-    "title": "Shelob",
-    "subtitle": "Her Ladyship",
-    "culture": "gollum",
-    "twilight_cost": 6,
-    "type": "minion",
-    "text": "<keyword>Enduring.<\/keyword> <keyword>Fierce.<\/keyword> <br>When you play Shelob, if you can spot Gollum, you may spot a companion. That companion cannot be assigned to a skirmish until the end of the turn. "
-}

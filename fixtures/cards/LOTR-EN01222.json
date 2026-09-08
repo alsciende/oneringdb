@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01222.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "222",
+  "name": "Paths Seldom Trodden",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Search</keyword>. To play, spot a Nazgûl. Plays to your support area.\n<phase>Shadow</phase>: Remove <twilight>3</twilight> to replace the fellowship’s site with your version of the same site.",
+  "flavor_text": "“‘You will have to leave the open road after tonight; for the horsemen will watch it night and day.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04066.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "66",
+  "name": "Feathered",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make a minion skirmishing an Elf strength -2 for each wound on that minion.",
+  "flavor_text": "Elven swords found the same targets as their arrows."
+}

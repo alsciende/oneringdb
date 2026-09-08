@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10095.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "95",
+  "name": "Orc Slaughterer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<keyword>Enduring</keyword>.\nFor each wound on this minion, it is strength +2.",
+  "flavor_text": "“All about the hills the hosts of Mordor raged.”"
+}

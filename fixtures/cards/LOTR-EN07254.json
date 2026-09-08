@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07254.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "254",
+  "name": "Théoden",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Leader of Spears",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Theoden",
+  "game_text": "<keyword>Valiant</keyword>. While you can spot a <culture>Rohan</culture> Man, Théoden's twilight cost is −1.\nEach time the fellowship moves, you may exert a <culture>Rohan</culture> companion to exert a minion.",
+  "flavor_text": "“Forth rode Théoden. Five nights and days / east and onward rode the Eorlingas....”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02019.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "19",
+  "name": "Release the Angry Flood",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Exert an Elf to wound each Nazgûl once (or twice if at a river).",
+  "flavor_text": "“The three Riders that were still in the midst of the Ford were overwhelmed.... Their piercing cries were drowned in the roaring of the river as it carried them away.”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06009.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "9",
+  "name": "Lend Us Your Aid",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Exert Gimli twice to make him and each Elf companion strength +3 until the regroup phase.",
+  "flavor_text": "“He hewed a two-handed stroke and laid the last Orc before his feet. ‘Now my count passes Master Legolas again.’”"
+}

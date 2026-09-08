@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10010.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "10",
+  "name": "Fleet-footed",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "Make a minion skirmishing an Elf strength –2. Spot a site in a support area to place this event on top of your draw deck.",
+  "flavor_text": "Not all Elven weapons are carried in sheath or quiver."
+}

@@ -1,9 +1,0 @@
-{
-    "id": "song-of-durin",
-    "title": "Song of Durin",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "<keyword>Tale.<\/keyword>  To play, exert a Dwarf.   <br>The twilight cost of each <symbol>moria<\/symbol> weapon is +2.  <br><keyword>Fellowship:<\/keyword> Discard this condition to discard up to 2 <symbol>moria<\/symbol> conditions. "
-}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03020.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "20",
+  "name": "Golradir",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Elf",
+  "home_site": "3",
+  "culture": "Elven",
+  "subtitle": "Councilor of Imladris",
+  "twilight_cost": "2",
+  "strength": "4",
+  "vitality": "3",
+  "game_text": "To play, spot an Elf.\n<phase>Skirmish</phase>: Exert Golradir to make an Orc strength −1.",
+  "flavor_text": "Their stay at Rivendell provided the Fellowship with counsel from many sources."
+}

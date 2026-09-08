@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07344.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "344",
+  "name": "City Gates",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "5",
+  "shadow_number": "6",
+  "game_text": "When the fellowship moves to this site, add 3 threats.\nWhen the fellowship moves from this site, remove 3 threats."
+}

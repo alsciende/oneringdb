@@ -1,9 +1,0 @@
-{
-    "id": "hill-chief",
-    "title": "Hill Chief",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Shadow:<\/keyword> Spot a site you control and exert Hill Chief to draw 3 cards. "
-}

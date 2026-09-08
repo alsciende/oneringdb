@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07315.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "315",
+  "name": "Tower Walkway",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Engine</keyword>. To play, spot a <culture>Sauron</culture> Orc.\nEach besieger is strength +1 for each site you control.\n<phase>Regroup</phase>: Discard 3 <culture>Sauron</culture> Orcs to take control of a site. Discard this condition.",
+  "flavor_text": "“...the hidden Captain put forth his strength.”"
+}

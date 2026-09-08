@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06054.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "54",
+  "name": "Perilous Ventures",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Regroup</phase>: Exert 2 rangers to discard a minion (or 2 <culture>Wraith</culture> minions).",
+  "flavor_text": "“‘But still we will not sit idle and let Him do all as He would….’”"
+}

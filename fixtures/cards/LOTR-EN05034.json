@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05034.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "34",
+  "name": "Fall Back",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Discard all Shadow cards borne by a minion bearing a <culture>Gondor</culture> fortification.",
+  "flavor_text": "Osgiliath's defenses protected the Gondorian troops."
+}

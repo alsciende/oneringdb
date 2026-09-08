@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05124.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "124",
+  "name": "Break the Charge",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "<phase>Archery</phase>: Exert 3 Elf companions to make the fellowship archery total +2.",
+  "flavor_text": "A wall of Elven arrows met the attackers before they reached the Hornburg itself."
+}

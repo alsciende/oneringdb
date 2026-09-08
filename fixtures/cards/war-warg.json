@@ -1,9 +1,0 @@
-{
-    "id": "war-warg",
-    "title": "War-warg",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 4,
-    "type": "possession",
-    "text": "Bearer must be a <keyword>warg-rider.<\/keyword><br><keyword>Response:<\/keyword> If a skirmish special ability is used in a skirmish involving bearer, exert bearer to cancel that action."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01246.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "246",
+  "name": "Enduring Evil",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Spot X burdens to make a character skirmishing a <culture>Sauron</culture> Orc strength -X.",
+  "flavor_text": "“‘The Dark Tower was broken, but its foundations were not removed; for they were made with the power of the Ring, and while it remains they will endure.’”"
+}

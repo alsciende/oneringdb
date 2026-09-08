@@ -1,9 +1,0 @@
-{
-    "id": "forbidden-pool",
-    "title": "Forbidden Pool",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "Plays to your support area.<br>While the fellowship is at site 6<symbol>tower<\/symbol>, each Ring-bound Man takes no more than 1 wound during each skirmish phase.<br><keyword>Fellowship:<\/keyword> Add <symbol>twilight2<\/symbol> and discard this condition to heal a Ring-bound Man. "
-}

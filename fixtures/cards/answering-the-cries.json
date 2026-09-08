@@ -1,9 +1,0 @@
-{
-    "id": "answering-the-cries",
-    "title": "Answering the Cries",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "<br><keyword>Skirmish:<\/keyword> Discard a <symbol>gondor<\/symbol> tale from hand to make a <symbol>gondor<\/symbol> companion strength +2. "
-}

@@ -1,9 +1,0 @@
-{
-    "id": "berserk-butcher",
-    "title": "Berserk Butcher",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 6,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword> Berserk Butcher is strength +1 for each wound on each character in its skirmish. <keyword>Maneuver:<\/keyword> Remove an <symbol>isengard<\/symbol> token from a machine and exert Berserk Butcher twice to prevent all wounds to Uruk-hai until the assignment phase."
-}

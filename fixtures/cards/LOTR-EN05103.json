@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05103.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "103",
+  "name": "Orc Captain",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "When you play this minion, you may spot a <culture>Sauron</culture> condition to draw a card for each site you control (limit 3).",
+  "flavor_text": "“...far away from hidden holds and outposts in the hills came answering calls....”"
+}

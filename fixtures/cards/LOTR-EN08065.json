@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08065.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "65",
+  "name": "Ships of Great Draught",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "game_text": "<phase>Shadow</phase>: Remove a threat or discard a <culture>Raider</culture> card from hand to add a <culture>Raider</culture> token here.\n<phase>Regroup</phase>: Remove 2 <culture>Raider</culture> tokens here to place a <culture>Raider</culture> card from your discard pile on top of your draw deck."
+}

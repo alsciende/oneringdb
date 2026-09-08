@@ -1,9 +1,0 @@
-{
-    "id": "haldir-emissary-of-the-galadhrim",
-    "title": "Haldir",
-    "subtitle": "Emissary of the Galadhrim",
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "While no opponent controls a site, Haldir is strength +2. <br><keyword>Regroup:<\/keyword> Exert Haldir at a battleground and exert another Elf to liberate a site. "
-}

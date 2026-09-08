@@ -1,9 +1,0 @@
-{
-    "id": "lost-to-the-goblins",
-    "title": "Lost to the Goblins",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Response:<\/keyword> If the Ring-bearer exerts or takes a wound, discard a card from the top of your draw deck for each <symbol>moria<\/symbol> minion you spot. For each Shadow card discarded in this way, add a burden (limit 3 burdens)."
-}

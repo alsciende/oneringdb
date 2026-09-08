@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01281.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "281",
+  "name": "Under the Watching Eye",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Search</keyword>. To play, exert a <culture>Sauron</culture> tracker. Plays to your support area.\nEach time the fellowship moves, the Free Peoples player must exert a companion.",
+  "flavor_text": "What the Lidless Eye of Sauron does not see, his countless minions observe and report."
+}

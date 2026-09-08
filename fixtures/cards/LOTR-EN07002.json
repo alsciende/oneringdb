@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07002.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "2",
+  "name": "The One Ring",
+  "unique": true,
+  "type": "Ring",
+  "culture": null,
+  "subtitle": "Such a Weight to Carry",
+  "game_text": "<phase>Maneuver</phase>: Add a burden to wear The One Ring until the regroup phase.\nWhile wearing The One Ring, each time the Ring-bearer is about to take a wound, add a burden instead.",
+  "flavor_text": "“…One Ring to find them….”",
+  "strength_modifier": "+2"
+}

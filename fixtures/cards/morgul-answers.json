@@ -1,9 +1,0 @@
-{
-    "id": "morgul-answers",
-    "title": "Morgul Answers",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "To play, spot a Nazgûl. <br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight3<\/symbol> and spot 3 Nazgûl to discard a possession or condition borne by a companion a Nazgûl is skirmishing."
-}

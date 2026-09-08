@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07053.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "53",
+  "name": "Captured by the Ring",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Shadow",
+  "culture": "Gollum",
+  "twilight_cost": "0",
+  "game_text": "Play Gollum from your draw deck or discard pile to add a threat.",
+  "flavor_text": "“‘Give us that….’”"
+}

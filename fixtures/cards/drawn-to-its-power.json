@@ -1,9 +1,0 @@
-{
-    "id": "drawn-to-its-power",
-    "title": "Drawn to Its Power",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": " <br>Each time a companion is killed in a skirmish involving a Nazgûl, add a burden."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04332.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "332",
+  "name": "Fangorn Forest",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "2",
+  "game_text": "<keyword>Forest</keyword>. <phase>Fellowship</phase>: Play Treebeard from your draw deck."
+}

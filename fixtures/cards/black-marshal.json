@@ -1,9 +1,0 @@
-{
-    "id": "black-marshal",
-    "title": "Black Marshal",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Shadow:<\/keyword> Exert a Nazgûl and play a <symbol>wraith<\/symbol> minion to add <symbol>twilight1<\/symbol> (or <symbol>twilight2<\/symbol> if you have initiative)."
-}

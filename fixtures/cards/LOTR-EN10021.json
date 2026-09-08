@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10021.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "21",
+  "name": "Gollum",
+  "unique": true,
+  "type": "Minion",
+  "culture": "Gollum",
+  "subtitle": "Mad Thing",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "To assign Gollum to a skirmish, the Free Peoples player must make Gollum strength +3 until the regroup phase or add a burden.",
+  "flavor_text": "“...swiftly but warily, creeping on behind, a slinking shadow among the stones.”"
+}

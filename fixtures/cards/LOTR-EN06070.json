@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06070.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "70",
+  "name": "Isengard Tender",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<phase>Regroup</phase>: If stacked on an <culture>Isengard</culture> card, discard this card and remove <twilight>2</twilight> to exhaust a companion.",
+  "flavor_text": "Unfortunate Orcs assisted in Saruman’s foul wizardry."
+}

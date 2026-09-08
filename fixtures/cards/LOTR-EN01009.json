@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01009.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "9",
+  "name": "Dwarven Axe",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a Dwarf.\nEach time a player’s minion loses a skirmish to bearer, that player discards the top card from his or her draw deck.",
+  "flavor_text": "“‘Buckler and corslet, axe and sword / And shining spears were laid in hoard.’”"
+}

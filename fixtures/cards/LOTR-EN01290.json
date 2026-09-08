@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01290.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "290",
+  "name": "Frodo",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Son of Drogo",
+  "twilight_cost": "0",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ring-bearer</keyword> (resistance 10).\n<phase>Fellowship</phase>: Exert another companion who has the Frodo signet to heal Frodo.",
+  "flavor_text": "“‘I think you'll find there's more to this Hobbit than meets the eye.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04317.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "317",
+  "name": "Sam's Pack",
+  "unique": true,
+  "type": "Possession",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "Bearer must be a Ring-bound Hobbit.\nAt the start of each turn, you may add <twilight>2</twilight> to heal a Ring-bound companion.",
+  "flavor_text": "“He still hopefully carried some of his gear in his pack....”"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN04225.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "225",
+  "name": "Easterling Captain",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>. <keyword>Fierce</keyword>.\n<phase>Skirmish</phase>: Spot 2 burdens and remove <twilight>2</twilight> to make an Easterling strength +2.\n<phase>Skirmish</phase>: Spot 4 burdens and remove <twilight>2</twilight> to make an Easterling strength +3.\n<phase>Skirmish</phase>: Spot 6 burdens and remove <twilight>2</twilight> to make an Easterling strength +4."
+}

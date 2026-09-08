@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10101.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "101",
+  "name": "Troll of Cirith Gorgor",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Troll",
+  "culture": "Sauron",
+  "twilight_cost": "7",
+  "strength": "14",
+  "vitality": "4",
+  "site_number": "6",
+  "game_text": "<keyword>Damage +1</keyword>. <keyword>Fierce</keyword>. To play, spot a <culture>Sauron</culture> minion.\nThis minion is strength +1 for each possession you can spot.",
+  "flavor_text": "“...these fell creatures would bite the throats of those that they threw down.”"
+}

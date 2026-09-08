@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01079.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "79",
+  "name": "The Nine Walkers",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "To play, spot Gandalf. Plays to your support area.\nEach time you play a companion whose race you cannot spot, that companion’s twilight cost is -2.",
+  "flavor_text": "“‘Nine companions to match the Nine Ringwraiths... So be it.’”"
+}

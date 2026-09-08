@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04301.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "301",
+  "name": "Frodo",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Courteous Halfling",
+  "twilight_cost": "0",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ring-bearer</keyword> (resistance 10).\nWhile you can spot 3 unbound companions, Shadow cards may not discard cards from your hand or from the top of your draw deck.",
+  "flavor_text": "“‘But as for us, we are Hobbits of the Shire, far to the North and West, beyond many rivers.’”"
+}

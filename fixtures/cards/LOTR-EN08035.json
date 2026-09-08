@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN08035.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "35",
+  "name": "Fourth Level",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "site_number_modifier": "-1",
+  "game_text": "<keyword>Fortification</keyword>.\n<phase>Skirmish</phase>: Exert 2 <culture>Gondor</culture> Men or spot 3 knights to transfer this condition from your support area to a minion skirmishing a <culture>Gondor</culture> Man. Exhaust that minion.",
+  "flavor_text": "“...about each was set a wall....”"
+}

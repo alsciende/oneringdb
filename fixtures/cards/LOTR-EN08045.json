@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08045.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "45",
+  "name": "Sleepless Dead",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Wraith",
+  "culture": "Gondor",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Enduring</keyword>. To play, add a threat.\nEach time this companion wins a skirmish, you may exert him to discard a minion he is skirmishing.",
+  "flavor_text": "“‘...for the Dead needed no longer any weapon but fear. None would withstand them.’”"
+}

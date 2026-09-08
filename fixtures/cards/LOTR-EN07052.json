@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07052.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "52",
+  "name": "Wizard Staff",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Staff",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be a Wizard.\n<phase>Skirmish</phase>: Exert bearer twice to make a minion strength −3."
+}

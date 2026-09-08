@@ -1,9 +1,0 @@
-{
-    "id": "ready-to-fall",
-    "title": "Ready to Fall",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Shadow:<\/keyword> Spot 2 sites you control and remove <symbol>twilight2<\/symbol> to play a <symbol>dunland<\/symbol> Man from your discard pile."
-}

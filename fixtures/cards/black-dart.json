@@ -1,9 +1,0 @@
-{
-    "id": "black-dart",
-    "title": "Black Dart",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 3,
-    "type": "condition",
-    "text": "<keyword>Archery:<\/keyword> Spot your enduring or mounted Nazgûl to transfer this condition from your support area to an unbound companion. Discard a mount borne by that companion. Bearer cannot heal or bear mounts."
-}

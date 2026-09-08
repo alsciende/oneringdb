@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01248.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "248",
+  "name": "Forces of Mordor",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "<phase>Shadow</phase>: Spot X <culture>Sauron</culture> minions to add <twilight>X</twilight>.",
+  "flavor_text": "“‘...the Dark Lord is not without allies. The Easterlings and Haradrim now pay tribute to Mordor.’”"
+}

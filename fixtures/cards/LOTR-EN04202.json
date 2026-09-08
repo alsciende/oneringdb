@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04202.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "202",
+  "name": "Uruk-hai Band",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nThis minion is strength +2 for each site you control.",
+  "flavor_text": "“There were four... of greater stature, swart, slant-eyed, with thick legs and broad hands.”"
+}

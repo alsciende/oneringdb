@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08025.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "25",
+  "name": "Shelob",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Spider",
+  "culture": "Gollum",
+  "subtitle": "Eater of Light",
+  "twilight_cost": "6",
+  "strength": "8",
+  "vitality": "8",
+  "site_number": "8",
+  "game_text": "<keyword>Fierce</keyword>.\nWhen you play Shelob, you may play a <culture>Gollum</culture> possession from your draw deck.\nShelob is strength +3 for each minion stacked on a <culture>Gollum</culture> possession.",
+  "flavor_text": "“...who only desired death for all others....”"
+}

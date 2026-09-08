@@ -1,9 +1,0 @@
-{
-    "id": "gothmog-s-warg",
-    "title": "Gothmog's Warg",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be a <symbol>sauron<\/symbol> Orc. <br>For each site you control, bearer is strength +1 (or +2 if bearer is Gothmog). "
-}

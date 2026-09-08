@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04247.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "247",
+  "name": "Southron Bow",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "game_text": "Bearer must be a <culture>Raider</culture> Man.\nBearer is an <keyword>archer</keyword>.\nWhile you can spot another <culture>Raider</culture> Man, the minion archery total is +1.",
+  "flavor_text": "Volleys from Southron bows are deadly in large numbers."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06069.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "69",
+  "name": "Isengard Plodder",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<phase>Regroup</phase>: Discard an <culture>Isengard</culture> Orc to make the Free Peoples player wound a companion.",
+  "flavor_text": "Saruman dispatched his trusted Orcs to aid in the sack of Rohan."
+}

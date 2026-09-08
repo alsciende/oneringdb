@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01099.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "99",
+  "name": "Change of Plans",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Regroup</phase>: Exert a ranger to make an opponent shuffle his hand into his draw deck and draw 8 cards.",
+  "flavor_text": "“‘Then let me help you. There are other ways, Frodo — other paths that we might take.’”"
+}

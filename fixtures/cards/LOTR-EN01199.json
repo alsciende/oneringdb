@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01199.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "199",
+  "name": "Troll’s Keyward",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "Cave Troll of Moria’s twilight cost is −2.",
+  "flavor_text": "Though shorter than a Man, the Troll’s Keyward is a deadly adversary."
+}

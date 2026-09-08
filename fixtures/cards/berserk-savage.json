@@ -1,9 +1,0 @@
-{
-    "id": "berserk-savage",
-    "title": "Berserk Savage",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 6,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword><br>Berserk Savage is strength +1 for each wound on a character in its skirmish.<br> <keyword>Skirmish:<\/keyword> Remove 4 <symbol>isengard<\/symbol> tokens from a machine and exert Berserk Savage twice to make it strength +8."
-}

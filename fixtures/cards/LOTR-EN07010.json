@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07010.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "10",
+  "name": "Loyalty Unshaken",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "When you play this condition, you may stack 2 cards from hand here and draw a card for each <culture>Dwarven</culture> card you stack.\n<phase>Skirmish</phase>: Make a Dwarf strength +2. Also, make that Dwarf <keyword>damage +2</keyword> for each <culture>Dwarven</culture> card stacked on this condition. Discard this condition."
+}

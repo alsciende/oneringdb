@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04143.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "143",
+  "name": "Brought Back Alive",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Search</keyword>.\n<phase>Assignment</phase>: Exert an <culture>Isengard</culture> tracker to assign it to an unbound companion. That companion may exert to prevent this (unless that companion is a Hobbit).",
+  "flavor_text": "“‘What are they wanted for?... Why alive? Do they give good sport?’”"
+}

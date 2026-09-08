@@ -1,9 +1,0 @@
-{
-    "id": "easterling-sergeant",
-    "title": "Easterling Sergeant",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Easterling.<\/keyword> <br><keyword>Maneuver:<\/keyword> If you cannot spot a burden, spot another Easterling and exert this minion to add a burden."
-}

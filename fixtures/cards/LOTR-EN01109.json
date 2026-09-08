@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01109.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "109",
+  "name": "One Whom Men Would Follow",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Exert Aragorn to spot an ally. Until the regroup phase, that ally is strength +2 and participates in archery fire and skirmishes.",
+  "flavor_text": "“‘The skill of the elves can reforge the Sword of Elendil — but only you have the power to wield it.’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "southron-marksmen",
-    "title": "Southron Marksmen",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword> <keyword>Archer.<\/keyword> <keyword>Fierce.<\/keyword> To play, spot a <symbol>raider<\/symbol> Man. <br><keyword>Archery:<\/keyword> Exert this minion and remove a threat to make the minion archery total +1."
-}

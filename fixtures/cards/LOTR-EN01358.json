@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01358.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "358",
+  "name": "Pillars of the Kings",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "8",
+  "shadow_number": "6",
+  "game_text": "<keyword>River</keyword>. <phase>Fellowship</phase>: Discard a <culture>Gondor</culture> card from hand to heal a <culture>Gondor</culture> companion."
+}

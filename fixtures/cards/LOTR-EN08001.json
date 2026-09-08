@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08001.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "1",
+  "name": "Aggression",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "While you have initiative, each Dwarf is <keyword>damage +1</keyword>.\n<phase>Fellowship</phase>: Spot a Dwarf who is damage +X to draw X cards. Discard this condition.",
+  "flavor_text": "“‘Certainty of death, small chance of success....’”"
+}

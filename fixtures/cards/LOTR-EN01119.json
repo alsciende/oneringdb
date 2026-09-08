@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01119.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "119",
+  "name": "What Are They?",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Spot a ranger to discard a roaming minion.",
+  "flavor_text": "“‘They were men... once.’”"
+}

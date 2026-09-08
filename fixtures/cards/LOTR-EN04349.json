@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04349.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "349",
+  "name": "Helm's Gate",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "5",
+  "shadow_number": "6",
+  "game_text": "<keyword>Battleground</keyword>. Each companion and minion bearing a hand weapon is strength +2."
+}

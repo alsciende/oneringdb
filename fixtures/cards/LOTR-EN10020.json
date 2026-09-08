@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10020.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "20",
+  "name": "Final Strike",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "Any site 9 is a <keyword>mountain</keyword>.\n<phase>Shadow</phase>: If the fellowship is at any site 9, play Gollum from your discard pile.\n<phase>Response</phase>: If the Free Peoples player uses a maneuver or archery special ability, exert Gollum to cancel its effect.",
+  "flavor_text": "“The fires below awoke in anger....”"
+}

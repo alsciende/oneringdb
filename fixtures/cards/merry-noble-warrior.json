@@ -1,9 +1,0 @@
-{
-    "id": "merry-noble-warrior",
-    "title": "Merry",
-    "subtitle": "Noble Warrior",
-    "culture": "shire",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "To play, spot a <symbol>rohan<\/symbol> companion. <br><keyword>Skirmish:<\/keyword> Discard 4 cards from hand to make Merry strength +2 for each <symbol>rohan<\/symbol> companion you spot."
-}

@@ -1,9 +1,0 @@
-{
-    "id": "ulaire-cantea-lieutenant-of-dol-guldur",
-    "title": "Úlairë Cantëa",
-    "subtitle": "Lieutenant of Dol Guldur",
-    "culture": "wraith",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Fierce.<\/keyword>  <br><keyword>Skirmish:<\/keyword> Exert Úlairë Cantëa to discard a weapon borne by a character he is skirmishing."
-}

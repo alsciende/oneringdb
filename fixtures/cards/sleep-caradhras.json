@@ -1,9 +1,0 @@
-{
-    "id": "sleep-caradhras",
-    "title": "Sleep, Caradhras",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 3,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword> <br><keyword>Fellowship:<\/keyword> Exert Gandalf to discard every condition."
-}

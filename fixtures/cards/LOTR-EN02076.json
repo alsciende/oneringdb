@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02076.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "76",
+  "name": "Helpless",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "game_text": "To play, spot Frodo and a Nazgûl. Plays on Sam.\nSam’s game text does not apply.",
+  "flavor_text": "“He heard Frodo’s voice, but it seemed to come from a great distance, or from under the earth, crying out strange words.”"
+}

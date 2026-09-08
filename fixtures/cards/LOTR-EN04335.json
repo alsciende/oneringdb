@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04335.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "335",
+  "name": "Uruk Camp",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "1",
+  "game_text": "<keyword>Battleground</keyword>. <keyword>Plains</keyword>. Each time an Uruk-hai is played, that minion must exert."
+}

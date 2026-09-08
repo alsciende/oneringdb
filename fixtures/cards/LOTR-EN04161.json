@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04161.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "161",
+  "name": "Men Will Fall",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Spot Saruman or an <culture>Isengard</culture> Man to make an unbound companion strength -2.",
+  "flavor_text": "“‘The Ring of Barahir. So, Gandalf Greyhame thinks he has found Isildur’s heir, the Lost King of Gondor… Fool! That line was broken years ago.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01255.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "255",
+  "name": "Mordor's Strength",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Exert a <culture>Sauron</culture> Orc to wound a character he is skirmishing.",
+  "flavor_text": "“‘It should have ended that day, but evil was allowed to endure.’”"
+}

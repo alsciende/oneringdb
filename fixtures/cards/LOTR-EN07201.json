@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07201.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "201",
+  "name": "Morgul Spearman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "While you can spot a Nazgûl, the Free Peoples player must exert a companion to assign this minion to a skirmish.",
+  "flavor_text": "“‘And we have learned... that the Black Captain leads them once again....’”"
+}

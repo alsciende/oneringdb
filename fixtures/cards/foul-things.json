@@ -1,9 +1,0 @@
-{
-    "id": "foul-things",
-    "title": "Foul Things",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "<keyword>Shadow:<\/keyword> Play a <symbol>moria<\/symbol> minion from your discard pile. "
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04043.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "43",
+  "name": "Come Here Lad",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Stack the top 2 cards from your draw deck on a <culture>Dwarven</culture> condition that has a card already stacked on it.",
+  "flavor_text": "“You are the canniest, luckiest, most reckless fool I’ve ever met! Bless you.”"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07188.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "188",
+  "name": "Morgul Brute",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "When you play this minion, you may spot a Nazgûl to add a burden. The Free Peoples player may wound the Ring-bearer to prevent this.\n<phase>Skirmish</phase>: Remove a burden to make this minion strength +3."
+}

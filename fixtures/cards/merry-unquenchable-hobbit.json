@@ -1,9 +1,0 @@
-{
-    "id": "merry-unquenchable-hobbit",
-    "title": "Merry",
-    "subtitle": "Unquenchable Hobbit",
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "companion",
-    "text": "<keyword>Skirmish:<\/keyword> If Merry is not assigned to a skirmish, discard him to remove a <symbol>sauron<\/symbol> Orc from a skirmish involving an unbound companion. "
-}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07171.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "171",
+  "name": "Thrice Outnumbered",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Regroup",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "game_text": "Spot a threat and X <culture>Raider</culture> Men to make the Free Peoples player exert X companions (limit 3).",
+  "flavor_text": "“Southward beyond the road lay the main force of the Haradrim….”"
+}

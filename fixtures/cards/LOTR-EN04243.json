@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04243.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "243",
+  "name": "Rapid Fire",
+  "unique": false,
+  "type": "Event",
+  "culture": "Raider",
+  "twilight_cost": "6",
+  "game_text": "<phase>Archery</phase>: Exert a <culture>Raider</culture> archer to make the minion archery total +1 for each burden (limit +5).",
+  "flavor_text": "Wars between the southern kingdoms taught speed and precision to the archers of the Haradrim."
+}

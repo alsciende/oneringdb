@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03051.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "51",
+  "name": "Coming for the Ring",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "<phase>Regroup</phase>: Reveal a card at random from the Free Peoples player’s hand. Heal X <culture>Isengard</culture> minions, where X is the twilight cost of the card revealed.",
+  "flavor_text": "“‘This evil cannot be concealed by the power of the Elves....’”"
+}

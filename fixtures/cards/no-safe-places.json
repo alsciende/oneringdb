@@ -1,9 +1,0 @@
-{
-    "id": "no-safe-places",
-    "title": "No Safe Places",
-    "subtitle": null,
-    "culture": "gollum",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "Exert Sméagol to reveal an opponent’s hand. That opponent must discard a card from hand for each culture revealed."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01215.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "215",
+  "name": "The Master's Will",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Search</keyword>.\n<phase>Shadow</phase>: Spot X Nazgûl to reveal the top X cards of your draw deck. Take into your hand all <culture>Wraith</culture> cards revealed and discard the rest.",
+  "flavor_text": "“…something seemed to be compelling him to disregard all warnings, and he longed to yield.”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07040.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "40",
+  "name": "Have Patience",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Fellowship",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "Spot Gandalf to heal an unbound companion twice."
+}

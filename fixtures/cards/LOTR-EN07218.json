@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07218.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "218",
+  "name": "Úlairë Otsëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Black-Mantled Wraith",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<phase>Regroup</phase>: If you have initiative, discard Úlairë Otsëa to make the Free Peoples player exert a Ring-bound companion twice or return an unbound companion to his or her hand.",
+  "flavor_text": "“...horrible as carrion-fowl yet greater than eagles, cruel as death.”"
+}

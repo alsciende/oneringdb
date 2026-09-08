@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01175.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "175",
+  "name": "Goblin Domain",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Search</keyword>. To play, spot a <culture>Moria</culture> minion. Plays to your support area.\nEach time a companion is played to site 4 or higher, that companion comes into play exhausted.",
+  "flavor_text": "The once beautiful kingdom of Khazad-dûm has become Moria, the black pit."
+}

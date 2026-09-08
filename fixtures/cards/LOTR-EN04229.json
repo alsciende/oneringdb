@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04229.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "229",
+  "name": "Easterling Skirmisher",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>.\nWhen you play this minion, you may spot another Easterling to add <twilight>1</twilight> for each burden (limit <twilight>4</twilight>).",
+  "flavor_text": "Enemy formations are threatened by the spears of Easterling light troops."
+}

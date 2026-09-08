@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07354.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "354",
+  "name": "Pelennor Grassland",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "7",
+  "shadow_number": "6",
+  "game_text": "<keyword>Plains</keyword>. <phase>Shadow</phase>: Exert a minion and add <twilight>1</twilight>."
+}

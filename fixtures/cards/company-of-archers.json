@@ -1,9 +1,0 @@
-{
-    "id": "company-of-archers",
-    "title": "Company of Archers",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Archery:<\/keyword> Spot 2 Elf companions to discard a condition. "
-}

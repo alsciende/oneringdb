@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01050.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "50",
+  "name": "Legolas",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Greenleaf",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Frodo",
+  "game_text": "<keyword>Archer</keyword>.\n<phase>Archery</phase>: Exert Legolas to wound a minion; Legolas does not add to the fellowship archery total.",
+  "flavor_text": "“‘And I too will go with him,’ said Legolas. ‘It would be faithless now to say farewell.’”"
+}

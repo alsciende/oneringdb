@@ -1,9 +1,0 @@
-{
-    "id": "betrayal-of-isengard",
-    "title": "Betrayal of Isengard",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": " <br>Each time an opponent draws a card (or takes a card into hand) during the Shadow phase, you may remove <symbol>twilight1<\/symbol>.  <br><keyword>Maneuver:<\/keyword> Exert Gandalf to wound Saruman twice. "
-}

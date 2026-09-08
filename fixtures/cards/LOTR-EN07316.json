@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07316.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "316",
+  "name": "Troop Tower",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Engine</keyword>. To play, spot a <culture>Sauron</culture> Orc.\nAll <culture>Sauron</culture> Orcs are strength +1 for each besieger stacked on a site.\n<phase>Regroup</phase>: Discard a besieger to take control of a site. Discard this condition.",
+  "flavor_text": "“Slowly the great siege-towers built in Osgiliath rolled forward through the dark.”"
+}

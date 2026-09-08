@@ -1,9 +1,0 @@
-{
-    "id": "orc-soldier",
-    "title": "Orc Soldier",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Skirmish:<\/keyword> Exert this minion to wound a character he is skirmishing."
-}

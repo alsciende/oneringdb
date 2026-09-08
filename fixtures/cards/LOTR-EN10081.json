@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10081.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "81",
+  "name": "Cirith Ungol Guard",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<keyword>Damage +1</keyword>.",
+  "flavor_text": "“...this stronghold had been built not to keep enemies out of Mordor, but to keep them in.”"
+}

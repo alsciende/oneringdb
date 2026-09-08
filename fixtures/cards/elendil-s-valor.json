@@ -1,9 +1,0 @@
-{
-    "id": "elendil-s-valor",
-    "title": "Elendil's Valor",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Make a <symbol>gondor<\/symbol> companion <keyword>defender +1<\/keyword> until the regroup phase."
-}

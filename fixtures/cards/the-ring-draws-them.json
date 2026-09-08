@@ -1,9 +1,0 @@
-{
-    "id": "the-ring-draws-them",
-    "title": "The Ring Draws Them",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": " <br>Each time the fellowship moves, add <symbol>twilight1<\/symbol> for each burden you can spot.  <br>At the end of each of your Shadow phases, exert a Nazgûl or discard this condition. "
-}

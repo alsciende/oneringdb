@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01217.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "217",
+  "name": "Morgul Gates",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "game_text": "<phase>Shadow</phase>: Play a Nazgûl. His twilight cost is −2.",
+  "flavor_text": "The gates of Minas Morgul issued Nine Riders into the free lands, a blasphemy to ancient kings."
+}

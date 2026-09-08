@@ -1,9 +1,0 @@
-{
-    "id": "rider-s-mount",
-    "title": "Rider's Mount",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be a <symbol>rohan<\/symbol> Man.  <br>At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. "
-}

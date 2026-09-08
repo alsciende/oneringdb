@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02027.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "27",
+  "name": "Staff Asunder",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Skirmish</phase>: Discard a staff Gandalf is bearing and then exert him twice to discard a minion he is skirmishing.",
+  "flavor_text": "“At that moment Gandalf lifted his staff, and crying aloud he smote the bridge before him.”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "curse-from-mordor",
-    "title": "Curse From Mordor",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Shadow:<\/keyword> Spot a <symbol>sauron<\/symbol> Orc to discard an <symbol>elven<\/symbol> condition."
-}

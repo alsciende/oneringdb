@@ -1,9 +1,0 @@
-{
-    "id": "gorgoroth-officer",
-    "title": "Gorgoroth Officer",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Besieger.<\/keyword> <br><keyword>Skirmish:<\/keyword> Discard 2 cards from hand to play a <symbol>sauron<\/symbol> Orc stacked on a site you control. That Orc is fierce and strength +6 until the regroup phase."
-}

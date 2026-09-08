@@ -1,9 +1,0 @@
-{
-    "id": "morgul-banner-bearer",
-    "title": "Morgul Banner-bearer",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "While the total number of other minions and twilight tokens is 3 or fewer, this minion is strength +3 and an <keyword>archer<\/keyword>. "
-}

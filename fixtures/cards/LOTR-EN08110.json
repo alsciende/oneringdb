@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08110.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "110",
+  "name": "Morgai Foothills",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "When the fellowship moves from site 4<block>King</block>, remove <twilight>1</twilight> for each Ring-bound companion you spot.\n<phase>Regroup</phase>: Discard a card from hand for each Ring-bound companion you spot. Discard this condition."
+}

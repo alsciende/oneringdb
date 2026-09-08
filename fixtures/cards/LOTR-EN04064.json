@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04064.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "64",
+  "name": "Elven Sword",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be an Elf.\n<phase>Skirmish</phase>: Exert bearer or discard 2 cards from hand to make a minion skirmishing bearer strength -1.",
+  "flavor_text": "Fine blades forged by Elven smiths are centuries-old heirlooms."
+}

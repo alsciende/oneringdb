@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07250.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "250",
+  "name": "Snowmane",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Rohan",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\nAt the start of each skirmish involving bearer, each minion skirmishing bearer must exert.\n<phase>Regroup</phase>: If bearer is Théoden, exert him to liberate a site. Any Shadow player may remove <twilight>2</twilight> to prevent this."
+}

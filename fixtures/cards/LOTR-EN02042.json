@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02042.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "42",
+  "name": "Goblin Man",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "2",
+  "game_text": "Discard this minion if underground.\n<phase>Shadow</phase>: Exert this minion to look at the Free Peoples player's hand.",
+  "flavor_text": "“He looks more than half like a goblin.”"
+}

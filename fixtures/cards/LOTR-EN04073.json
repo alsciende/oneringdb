@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04073.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "73",
+  "name": "Legolas",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Dauntless Hunter",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Archer</keyword>.\nThe twilight cost of each Shadow event and Shadow condition is +1 for each unbound Hobbit you can spot.",
+  "flavor_text": "“‘They are far, far away.... I know in my heart that they have not rested this night.’”"
+}

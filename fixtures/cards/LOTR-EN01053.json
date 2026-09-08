@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN01053.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "53",
+  "name": "Lórien Elf",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "To play, spot an Elf.",
+  "flavor_text": "“‘...we dwell now in the heart of the forest, and do not willingly have dealings with any other folk.’”"
+}

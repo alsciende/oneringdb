@@ -1,9 +1,0 @@
-{
-    "id": "don-t-look-at-them",
-    "title": "Don’t Look at Them",
-    "subtitle": null,
-    "culture": "gollum",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Skirmish:<\/keyword> Spot Sméagol and discard 3 cards from hand to wound a minion Sméagol is skirmishing once (or twice if that minion is a <symbol>wraith<\/symbol> minion)."
-}

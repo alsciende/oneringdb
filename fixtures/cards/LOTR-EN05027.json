@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN05027.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "27",
+  "name": "Poor Wretch",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Plays on Sméagol.\n<phase>Skirmish</phase>: Discard this condition to make Sméagol <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘Throttle us in our sleep, that’s his plan.’”"
+}

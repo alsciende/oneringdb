@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01349.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "349",
+  "name": "The Bridge of Khazad-dûm",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "5",
+  "shadow_number": "6",
+  "game_text": "<keyword>Underground</keyword>. <phase>Shadow</phase>: Play The Balrog from your draw deck or hand; The Balrog's twilight cost is −6."
+}

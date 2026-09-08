@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN10120.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "120",
+  "name": "Watchers of Cirith Ungol",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "8",
+  "shadow_number": "8",
+  "game_text": "<phase>Skirmish</phase>: Spot your <culture>Wraith</culture> Orc and remove 2 threats to make that <culture>Wraith</culture> Orc strength +3."
+}

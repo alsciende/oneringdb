@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07317.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "317",
+  "name": "Frodo",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Hope of Free Peoples",
+  "twilight_cost": "0",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Ring-bearer</keyword> (resistance 10).\n<keyword>Ring-bound</keyword>.\nEach time the fellowship moves, you may add <twilight>3</twilight> to remove a threat.",
+  "flavor_text": "“‘Aiya Eärendil Elenion Ancalima!’”"
+}

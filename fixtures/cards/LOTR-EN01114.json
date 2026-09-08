@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01114.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "114",
+  "name": "The Saga of Elendil",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "vitality_modifier": "+1",
+  "game_text": "<keyword>Tale</keyword>. Bearer must be a <culture>Gondor</culture> companion.\n<phase>Skirmish</phase>: Discard this condition to make bearer strength +2.",
+  "flavor_text": "From out of the depths of the Sea, from the founded land of Númenor, came Elendil to Middle-earth to found the kingdoms of Arnor and Gondor."
+}

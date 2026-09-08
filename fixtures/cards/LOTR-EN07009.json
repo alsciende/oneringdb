@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07009.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "9",
+  "name": "Gimli's Battle Axe",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Dwarven",
+  "subtitle": "Trusted Weapon",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a Dwarf.\nWhile you can spot a threat, bearer is <keyword>damage +1</keyword>.\nWhile you can spot 2 threats, bearer is strength +1.\nWhile you can spot 3 threats, the fellowship archery total is +1."
+}

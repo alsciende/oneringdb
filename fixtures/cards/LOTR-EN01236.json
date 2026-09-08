@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01236.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "236",
+  "name": "Úlairë Toldëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Messenger of Morgul",
+  "twilight_cost": "6",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<keyword>Fierce</keyword>.\n<phase>Assignment</phase>: Spot 4 burdens to assign a companion (except the Ring-bearer) to skirmish Úlairë Toldëa.",
+  "flavor_text": "“‘Open, in the name of Mordor!’ said a voice thin and menacing.”"
+}

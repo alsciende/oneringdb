@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03050.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "50",
+  "name": "Can You Protect Me From Yourself?",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Spot an <culture>Isengard</culture> minion to exhaust Aragorn. The Free Peoples player may add 2 burdens to prevent this.",
+  "flavor_text": "“‘Where is the Ring?’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "morgul-lurker",
-    "title": "Morgul Lurker",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "While you have initiative, the minion archery total is +2."
-}

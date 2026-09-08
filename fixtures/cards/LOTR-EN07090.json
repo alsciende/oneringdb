@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07090.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "90",
+  "name": "Faramir",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Stout Captain",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Theoden",
+  "game_text": "<keyword>Ranger</keyword>. To play, spot a <culture>Gondor</culture> Man.\nEach time Faramir wins a skirmish involving a fierce minion, you may exert Faramir to discard that minion.",
+  "flavor_text": "“‘But if I should return, think better of me!’”"
+}

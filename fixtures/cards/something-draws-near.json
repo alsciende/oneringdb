@@ -1,9 +1,0 @@
-{
-    "id": "something-draws-near",
-    "title": "Something Draws Near",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Fellowship:<\/keyword> or <keyword>Maneuver:<\/keyword> Exert an Elf to discard an <symbol>isengard<\/symbol> possession or <symbol>isengard<\/symbol> artifact. "
-}

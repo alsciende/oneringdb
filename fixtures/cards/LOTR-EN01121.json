@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01121.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "121",
+  "name": "Bred for Battle",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Exert an Uruk-hai to make it strength +3.",
+  "flavor_text": "“‘You are the Uruk-hai of Isengard!... you do not know pain, you do not know fear.’”"
+}

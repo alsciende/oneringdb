@@ -1,9 +1,0 @@
-{
-    "id": "men-will-fall",
-    "title": "Men Will Fall",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Skirmish: <\/keyword>Spot Saruman or an <symbol>isengard<\/symbol> Man to make an unbound companion strength -2. "
-}

@@ -1,9 +1,0 @@
-{
-    "id": "weapons-of-isengard",
-    "title": "Weapons of Isengard",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "<keyword>Machine.<\/keyword>  <br><keyword>Shadow:<\/keyword> Play an <symbol>isengard<\/symbol> archer to place an <symbol>isengard<\/symbol> token on this card.  <br><keyword>Archery:<\/keyword> Remove 2 <symbol>isengard<\/symbol> tokens from this card to make the minion archery total +2. Discard this condition. "
-}

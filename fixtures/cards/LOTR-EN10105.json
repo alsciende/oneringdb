@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10105.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "105",
+  "name": "Brave and Loyal",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "If a Hobbit companion is not assigned to a skirmish, exert that Hobbit to have him or her replace a companion (except the Ring-bearer) in a skirmish.",
+  "flavor_text": "“‘Now come, you filth!’ he cried. ‘You’ve hurt my master, you brute, and you’ll pay for it.’”"
+}

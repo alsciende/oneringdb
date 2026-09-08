@@ -1,9 +1,0 @@
-{
-    "id": "boromir-s-cloak",
-    "title": "Boromir's Cloak",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "possession",
-    "text": "Bearer must be Boromir. <br><keyword>Maneuver:<\/keyword> Exert Boromir to discard a weather condition."
-}

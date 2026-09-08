@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04036.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "36",
+  "name": "War Club",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Dunland",
+  "twilight_cost": "0",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Dunland</culture> Man.\nEach time bearer wins a skirmish, you may discard 2 Free Peoples possessions.",
+  "flavor_text": "The wooden weapons of the wild men slew scores of unarmed villagers."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04240.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "240",
+  "name": "New Fear",
+  "unique": false,
+  "type": "Event",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "game_text": "<phase>Regroup</phase>: Exert a <culture>Raider</culture> Man to add a burden for each companion over 4. The Free Peoples player may discard 2 companions (except the Ring-bearer) to prevent this.",
+  "flavor_text": "“They heard singing and coarse shouting. At first it seemed a long way off, but it drew nearer....”"
+}

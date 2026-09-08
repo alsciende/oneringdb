@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07057.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "57",
+  "name": "Fat One Wants It",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "Each time Gollum or Sméagol is played, add a threat.\n<phase>Regroup</phase>: Discard this condition to return Gollum to his owner's hand."
+}

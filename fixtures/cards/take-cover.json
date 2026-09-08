@@ -1,9 +1,0 @@
-{
-    "id": "take-cover",
-    "title": "Take Cover",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Fellowship:<\/keyword> Exert a knight to play a <symbol>gondor<\/symbol> fortification from your discard pile."
-}

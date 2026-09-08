@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03070.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "70",
+  "name": "Servants to Saruman",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make an <culture>Isengard</culture> Orc strength +2 (or +3 if you have fewer than 3 cards in hand).",
+  "flavor_text": "“‘This is grievous news concerning Saruman... for we trusted him and he is deep in all our counsels.’”"
+}

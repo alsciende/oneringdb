@@ -1,9 +1,0 @@
-{
-    "id": "hobbit-appetite",
-    "title": "Hobbit Appetite",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Fellowship:<\/keyword> Add <symbol>twilightX<\/symbol> to heal a Hobbit companion X times."
-}

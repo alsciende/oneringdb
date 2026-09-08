@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05006.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "6",
+  "name": "Defending the Keep",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Spot a Dwarf to draw a card or play a <culture>Dwarven</culture> condition from your discard pile.",
+  "flavor_text": "“‘I have fought many wars, master Dwarf. I know how to defend my own Keep.’”"
+}

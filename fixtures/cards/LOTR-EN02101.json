@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02101.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "101",
+  "name": "Filibert Bolger",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Hobbit",
+  "home_site": "1",
+  "culture": "Shire",
+  "subtitle": "Wily Rascal",
+  "twilight_cost": "1",
+  "strength": "1",
+  "vitality": "2",
+  "game_text": "<phase>Skirmish</phase>: Exert a Hobbit companion twice to cancel a fierce skirmish involving that Hobbit.",
+  "flavor_text": "Filibert knows paths and tracks that few have trodden. He is not adventurous by nature, but his escapades often require rapid departures."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03084.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "84",
+  "name": "They Will Never Stop Hunting You",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "game_text": "<phase>Maneuver</phase>: Spot a Nazgûl to reveal a card at random from the Free Peoples player’s hand. Exert a companion bearing a ranged weapon X times, where X is the twilight cost of the card revealed.",
+  "flavor_text": "“‘They’re looking for Baggins, and if they mean well, then I’m a hobbit.’”"
+}

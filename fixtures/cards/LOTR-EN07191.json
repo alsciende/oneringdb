@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07191.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "191",
+  "name": "Morgul Detachment",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "7",
+  "strength": "15",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "While you can spot a Nazgûl, this minion is <keyword>fierce</keyword> and <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘His own folk quail at him, and they would slay themselves at his bidding.’”"
+}

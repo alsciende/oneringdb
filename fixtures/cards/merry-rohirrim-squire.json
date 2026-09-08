@@ -1,9 +1,0 @@
-{
-    "id": "merry-rohirrim-squire",
-    "title": "Merry",
-    "subtitle": "Rohirrim Squire",
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "companion",
-    "text": "<keyword>Skirmish:<\/keyword> If you cannot spot 3 threats, add a threat to make Merry strength +2."
-}

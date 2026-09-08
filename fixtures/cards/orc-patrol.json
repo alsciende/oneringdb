@@ -1,9 +1,0 @@
-{
-    "id": "orc-patrol",
-    "title": "Orc Patrol",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Tracker.<\/keyword><br>The site number of each <symbol>sauron<\/symbol> Orc is -3.<br><keyword>Maneuver:<\/keyword> Exert Orc Patrol twice and spot another <symbol>sauron<\/symbol> Orc to discard a condition."
-}

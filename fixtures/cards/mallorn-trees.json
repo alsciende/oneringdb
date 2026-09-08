@@ -1,9 +1,0 @@
-{
-    "id": "mallorn-trees",
-    "title": "Mallorn-trees",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<br><keyword>Fellowship:<\/keyword> Reveal an <symbol>elven<\/symbol> card from hand and place it beneath your draw deck."
-}

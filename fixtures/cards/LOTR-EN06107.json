@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN06107.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "107",
+  "name": "Troll's Chain",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Sauron</culture> Troll.\nWhen you play this possession, you may draw a card.",
+  "flavor_text": "“Trolls they were, but filled with the evil will of their master.”"
+}

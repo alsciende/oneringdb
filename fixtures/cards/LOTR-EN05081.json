@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN05081.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "81",
+  "name": "Ecglaf",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "4",
+  "culture": "Rohan",
+  "subtitle": "Courageous Farmer",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "<keyword>Villager</keyword>.\n<phase>Fellowship</phase>: Exert Ecglaf and spot 2 valiant Men to play a <culture>Rohan</culture> possession from your discard pile.",
+  "flavor_text": "Like many of the Rohirrim, Ecglaf no longer had a home awaiting his return."
+}

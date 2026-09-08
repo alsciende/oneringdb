@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02007.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "7",
+  "name": "Glóin",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Dwarf",
+  "culture": "Dwarven",
+  "subtitle": "Friend to Thorin",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "For each <culture>Dwarven</culture> tale you can spot, Glóin is strength +1 (limit +4).",
+  "flavor_text": "“‘But what then would happen, if the Ruling Ring were destroyed, as you counsel?’”"
+}

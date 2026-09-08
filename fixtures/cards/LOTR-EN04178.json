@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04178.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "178",
+  "name": "Unferth",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Isengard",
+  "subtitle": "Gríma's Bodyguard",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "Each time the Free Peoples player assigns a companion or ally to an <culture>Isengard</culture> Man, that companion or ally must exert.",
+  "flavor_text": "Gríma promised him riches when Rohan fell to Saruman."
+}

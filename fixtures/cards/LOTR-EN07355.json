@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07355.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "355",
+  "name": "Ruined Capitol",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "7",
+  "shadow_number": "6",
+  "game_text": "<keyword>River</keyword>. <phase>Shadow</phase>: Spot your minion and 6 companions to make the move limit for this turn -1."
+}

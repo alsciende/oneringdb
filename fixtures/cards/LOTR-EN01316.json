@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01316.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "316",
+  "name": "A Talent for Not Being Seen",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Stealth</keyword>. To play, exert a Hobbit. Plays to your support area.\nEach time the fellowship moves, spot 2 Hobbit companions to make the Shadow number −1 (or spot 4 to make it −2).",
+  "flavor_text": "With their small size, Hobbits use any hole to hide in, and their trail is difficult to detect."
+}

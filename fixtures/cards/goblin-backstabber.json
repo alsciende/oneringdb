@@ -1,9 +1,0 @@
-{
-    "id": "goblin-backstabber",
-    "title": "Goblin Backstabber",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 1,
-    "type": "minion",
-    "text": "This minion is <keyword>damage +2<\/keyword> while in the same skirmish as another <symbol>moria<\/symbol> Orc."
-}

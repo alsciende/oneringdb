@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04080.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "80",
+  "name": "Ordulus",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Young Warrior",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "2",
+  "game_text": "To play, spot an Elf.\nThe twilight cost of each ranged weapon played on Ordulus is −1.",
+  "flavor_text": "Ordulus always has an arrow nocked and a full quiver too."
+}

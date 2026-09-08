@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08107.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "107",
+  "name": "Their Marching Companies",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Engine</keyword>. To play, spot a <culture>Sauron</culture> minion.\n<phase>Regroup</phase>: Remove a threat to stack your <culture>Sauron</culture> minion on a site you control.\n<phase>Shadow</phase>: Remove a threat to play a <culture>Sauron</culture> minion stacked on a site you control.",
+  "flavor_text": "“…and soon yet more companies of the enemy were swiftly setting up….”"
+}

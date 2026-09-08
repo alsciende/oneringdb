@@ -1,9 +1,0 @@
-{
-    "id": "killing-field",
-    "title": "Killing Field",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "To play, spot 3 Elves.  <br>Each wounded minion is prevented from being <keyword>fierce.<\/keyword>  <br>Discard this condition during the regroup phase. "
-}

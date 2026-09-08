@@ -1,9 +1,0 @@
-{
-    "id": "lieutenant-of-orthanc",
-    "title": "Lieutenant of Orthanc",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 7,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword><br><keyword>Maneuver:<\/keyword> Exert Lieutenant of Orthanc to make another Uruk-hai <keyword>fierce<\/keyword> until the regroup phase. "
-}

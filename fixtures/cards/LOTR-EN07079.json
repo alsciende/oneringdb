@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07079.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "79",
+  "name": "Andúril",
+  "unique": true,
+  "type": "Artifact",
+  "culture": "Gondor",
+  "subtitle": "Flame of the West",
+  "subtype": "Hand Weapon",
+  "twilight_cost": "3",
+  "strength_modifier": "+2",
+  "vitality_modifier": "+1",
+  "game_text": "Bearer must be Aragorn. Discard other weapons he bears. He is <keyword>damage +1</keyword> and cannot bear other weapons.\n<phase>Fellowship</phase> or <phase>Regroup</phase>: If the fellowship is at any site 2 or any site 5, play the fellowship’s next site (replacing opponent’s site if necessary)."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01132.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "132",
+  "name": "Parry",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "<phase>Maneuver</phase>: Spot an Uruk-hai to cancel the strength bonus from a possession until the regroup phase.",
+  "flavor_text": "Even the sword of a powerful warrior can be parried by the strength of an Uruk-hai."
+}

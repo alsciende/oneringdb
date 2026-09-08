@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04128.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "128",
+  "name": "New Errand",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Spot a Ring-bound Man to make a minion’s site number +2. If that minion loses this skirmish, you may wound a minion.",
+  "flavor_text": "“‘...we come to ambush the Men of Harad.’”"
+}

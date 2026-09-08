@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01134.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "134",
+  "name": "Saruman’s Chill",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Spell</keyword>. <keyword>Weather</keyword>. To play, exert an <culture>Isengard</culture> minion. Plays on a site. Limit 1 per site.\nEach Hobbit who moves from this site must exert. Discard this condition at the end of the turn.",
+  "flavor_text": "Saruman’s hand can control the chill of winter."
+}

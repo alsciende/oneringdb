@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01122.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "122",
+  "name": "Breeding Pit",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<phase>Response</phase>: If you play an Uruk-hai, take all copies of that card in your discard pile and place them beneath your draw deck.",
+  "flavor_text": "“‘He is breeding an army in the Caverns of Isengard. An army that can move in sunlight and cover great distance at speed.’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "you-cannot-pass",
-    "title": "You Cannot Pass!",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword>  <br><keyword>Maneuver:<\/keyword> Spot Gandalf bearing a staff to prevent a minion from being <keyword>fierce<\/keyword> until the <keyword>regroup<\/keyword> phase. "
-}

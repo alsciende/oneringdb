@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07186.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "186",
+  "name": "Morgul Axe",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Wraith</culture> Orc.\nWhile you can spot 2 wounds on the Ring-bearer, bearer is <keyword>damage +1</keyword>.",
+  "flavor_text": "“...marching swiftly and silently, passing outwards in an endless stream.”"
+}

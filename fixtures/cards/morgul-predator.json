@@ -1,9 +1,0 @@
-{
-    "id": "morgul-predator",
-    "title": "Morgul Predator",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Skirmish:<\/keyword> Exert this minion to make a Nazgûl or <symbol>wraith<\/symbol> Orc strength +1."
-}

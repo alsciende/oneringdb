@@ -1,9 +1,0 @@
-{
-    "id": "mind-and-body",
-    "title": "Mind and Body",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "If a Nazgûl kills a character, wound each character bearing a <symbol>wraith<\/symbol> condition."
-}

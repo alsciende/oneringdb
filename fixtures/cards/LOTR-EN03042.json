@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03042.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "42",
+  "name": "Horn of Boromir",
+  "unique": true,
+  "type": "Possession",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "Bearer must be Boromir.\n<phase>Maneuver</phase>: Exert Boromir and spot an ally. Until the regroup phase, that ally is strength +3 and participates in archery fire and skirmishes.",
+  "flavor_text": "“On a baldric he wore a great horn tipped with silver....”"
+}

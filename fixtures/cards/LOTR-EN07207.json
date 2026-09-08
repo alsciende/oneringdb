@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07207.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "207",
+  "name": "Their Power Is in Terror",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Maneuver",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "game_text": "Exert a Nazgûl to wound each ally."
+}

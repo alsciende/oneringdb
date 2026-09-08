@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06043.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "43",
+  "name": "Not Listening",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gollum",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If Sméagol wins a skirmish, heal him and remove 2 burdens.",
+  "flavor_text": "“‘They’ll wake too quick and kill us... Not now. Not Yet.’”"
+}

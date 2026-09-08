@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01308.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "308",
+  "name": "Power According to His Stature",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Add a burden to wound each minion skirmishing the Ring-bearer.",
+  "flavor_text": "“‘The ring had given him power according to his stature.’”"
+}

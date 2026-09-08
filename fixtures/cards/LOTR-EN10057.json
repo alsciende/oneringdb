@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10057.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "57",
+  "name": "Cirith Ungol Watchman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "Each companion skirmishing this minion loses all <keyword>damage</keyword> and strength bonuses from possessions.",
+  "flavor_text": "“Sam looked up towards the orc-tower, and suddenly from its narrow windows lights stared out like small red eyes.”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02081.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "81",
+  "name": "They Will Find the Ring",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Exert 2 Nazgûl and spot X burdens to exert X companions.",
+  "flavor_text": "“...to the dismay of Frodo and his friends out from the trees and rocks away on the left four other Riders came flying.”"
+}

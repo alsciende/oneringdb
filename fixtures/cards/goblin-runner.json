@@ -1,9 +1,0 @@
-{
-    "id": "goblin-runner",
-    "title": "Goblin Runner",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 1,
-    "type": "minion",
-    "text": "When you play this minion, you may add <symbol>twilight2<\/symbol>."
-}

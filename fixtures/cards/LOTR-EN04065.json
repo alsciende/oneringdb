@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04065.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "65",
+  "name": "Erethón",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Naith Lieutenant",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "To play, spot an Elf.\nWhile Erethón bears a ranged weapon, he is strength +1 and <keyword>damage +1</keyword>, and he does not add to the fellowship archery total.",
+  "flavor_text": "At close range, Erethón’s accuracy is uncanny."
+}

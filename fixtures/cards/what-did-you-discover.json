@@ -1,9 +1,0 @@
-{
-    "id": "what-did-you-discover",
-    "title": "What Did You Discover?",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Search.<\/keyword>  <br>Each time the fellowship moves during the regroup phase, you may discard 2 cards from hand to take an <symbol>isengard<\/symbol> tracker from your discard pile into hand. "
-}

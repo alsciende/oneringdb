@@ -1,9 +1,0 @@
-{
-    "id": "strength-of-kings",
-    "title": "Strength of Kings",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Response:<\/keyword> If a <keyword>Skirmish:<\/keyword> event is played during a skirmish involving a <symbol>gondor<\/symbol> Man, cancel that event."
-}

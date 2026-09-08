@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04220.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "220",
+  "name": "Desert Soldier",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\nAt the start of each skirmish involving this minion, you may remove <twilight>3</twilight> to wound a companion or ally he is skirmishing.",
+  "flavor_text": "“‘Not nice; very cruel wicked Men they look.’”"
+}

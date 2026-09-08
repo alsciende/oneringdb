@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07242.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "242",
+  "name": "Merry's Sword",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Merry.\n<phase>Maneuver</phase>: Exert Merry twice to exert a minion once for each <culture>Rohan</culture> companion you spot.",
+  "flavor_text": "“Merry's sword had stabbed him from behind, shearing through the black mantle....”"
+}

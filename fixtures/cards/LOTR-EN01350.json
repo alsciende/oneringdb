@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01350.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "350",
+  "name": "Dimrill Dale",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "6",
+  "shadow_number": "3",
+  "game_text": "<keyword>Sanctuary</keyword>. The twilight cost of the first <culture>Moria</culture> Orc played each Shadow phase is −2."
+}

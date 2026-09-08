@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04002.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "2",
+  "name": "The One Ring",
+  "unique": true,
+  "type": "Ring",
+  "culture": null,
+  "subtitle": "The Ruling Ring",
+  "strength_modifier": "+1",
+  "game_text": "<phase>Response</phase>: If bearer is about to take a wound in a skirmish, he wears The One Ring until the regroup phase.\nWhile wearing The One Ring, each time the Ring-bearer is about to take a wound during a skirmish, add a burden instead.",
+  "flavor_text": "“One Ring to rule them all....”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02035.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "35",
+  "name": "Natural Cover",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a ranger. Plays to your support area.\nWhile the fellowship is at a forest, the minion archery total is -2.",
+  "flavor_text": "The tree, the bough, the leaf. To a ranger, these are all defenses against the enemy."
+}

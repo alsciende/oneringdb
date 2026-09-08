@@ -1,9 +1,0 @@
-{
-    "id": "into-dark-tunnels",
-    "title": "Into Dark Tunnels",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 3,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword> <br><keyword>Response:<\/keyword> If you play a <symbol>gandalf<\/symbol> event, exert Gandalf twice to place that event in your hand instead of your discard pile. "
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04155.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "155",
+  "name": "Haunting Her Steps",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If a special ability of an ally or unbound companion is used, exert Gríma to cancel that action.",
+  "flavor_text": "“‘What was the promised price? When all the men were dead, you were to pick your share of the treasure and take the woman you desire?’”"
+}

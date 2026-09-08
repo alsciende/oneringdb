@@ -1,9 +1,0 @@
-{
-    "id": "enheartened-foe",
-    "title": "Enheartened Foe",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Response:<\/keyword> If a <symbol>sauron<\/symbol> Orc wins a skirmish, make that Orc <keyword>fierce<\/keyword> until the regroup phase."
-}

@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN06022.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "22",
+  "name": "Naith Troop",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "3",
+  "game_text": "To play, spot 3 Elf companions.\n<phase>Skirmish</phase>: Exert Naith Troop to discard the top card of your draw deck. If it is an <culture>Elven</culture> card, make a minion skirmishing Naith Troop strength −2.",
+  "flavor_text": "Now only the bow and the sword can forestall the coming of the Shadow."
+}

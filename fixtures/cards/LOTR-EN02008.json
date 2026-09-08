@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02008.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "8",
+  "name": "Golden Light on the Land",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "To play, spot a Dwarf. Plays to your support area.\nAt a site which is not underground, each <culture>Moria</culture> Orc's twilight cost is +2. Discard this condition during the regroup phase.",
+  "flavor_text": "“‘The Orcs will not, maybe, come out till after dusk, but we must be far away before nightfall.’”"
+}

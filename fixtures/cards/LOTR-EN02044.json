@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02044.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "44",
+  "name": "No Business of Ours",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "To play, spot an <culture>Isengard</culture> minion. Plays to your support area.\nThe Free Peoples player may not look at or reveal cards in any Shadow player's hand.",
+  "flavor_text": "“‘Goblins? Cobblers! Far-off tales and children's stories, that's all that is!’”"
+}

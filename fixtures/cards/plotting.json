@@ -1,9 +1,0 @@
-{
-    "id": "plotting",
-    "title": "Plotting",
-    "subtitle": null,
-    "culture": "gollum",
-    "twilight_cost": 5,
-    "type": "condition",
-    "text": "To play, spot Gollum and add up to 9 threats. <br>Gollum is strength +2. <br>Discard this condition and remove 9 threats at the start of the regroup phase."
-}

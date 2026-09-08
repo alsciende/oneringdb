@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01340.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "340",
+  "name": "Rivendell Terrace",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "0",
+  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: Play a Man to draw a card."
+}

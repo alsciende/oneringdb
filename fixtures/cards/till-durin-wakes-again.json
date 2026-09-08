@@ -1,9 +1,0 @@
-{
-    "id": "till-durin-wakes-again",
-    "title": "Till Durin Wakes Again",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "<keyword>Tale.<\/keyword>  <br>Each time a Dwarf companion moves from an underground site, you may heal that Dwarf. "
-}

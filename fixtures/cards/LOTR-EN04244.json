@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04244.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "244",
+  "name": "Regiment of Haradrim",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "8",
+  "strength": "16",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. To play, spot a <culture>Raider</culture> Man.\n<phase>Regroup</phase>: Exert Regiment of Haradrim twice to take control of a site.",
+  "flavor_text": "“‘One of their regiments is due by our reckoning to pass by, some time ere noon....’”"
+}

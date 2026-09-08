@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02109.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "109",
+  "name": "Orc-bane",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Spot Sting or Glamdring and exert its bearer X times to wound X Orcs or X Uruk-hai.",
+  "flavor_text": "“Glamdring shone with a pale light, and Sting glinted at the edges.”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01296.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "296",
+  "name": "Hobbit Intuition",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Stealth</keyword>.\n<phase>Skirmish</phase>: At sites 1 to 4, cancel a skirmish involving a Hobbit. At any other site, make a Hobbit strength +3.",
+  "flavor_text": "“‘What? That were just a little detour, that's all... a shortcut.’”"
+}

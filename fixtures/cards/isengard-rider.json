@@ -1,9 +1,0 @@
-{
-    "id": "isengard-rider",
-    "title": "Isengard Rider",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Warg-rider.<\/keyword><br>While this minion is not exhausted, he is <keyword>fierce.<\/keyword>"
-}

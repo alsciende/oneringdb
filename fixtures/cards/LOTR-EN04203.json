@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04203.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "203",
+  "name": "Uruk-hai Horde",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "6",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nThe twilight cost of this minion is −1 for each site you control.",
+  "flavor_text": "“The rumour of war grew behind them.”"
+}

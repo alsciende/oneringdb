@@ -1,9 +1,0 @@
-{
-    "id": "saruman-servant-of-the-eye",
-    "title": "Saruman",
-    "subtitle": "Servant of the Eye",
-    "culture": "isengard",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "Saruman may not take wounds during the archery phase and may not be assigned to a skirmish. <br><keyword>Assignment:<\/keyword> Exert Saruman to assign an <symbol>isengard<\/symbol> minion to a companion (except the Ring-bearer). That companion may exert to prevent this. "
-}

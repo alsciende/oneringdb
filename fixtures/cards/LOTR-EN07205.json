@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07205.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "205",
+  "name": "Put Forth His Strength",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a Nazgûl.\n<phase>Shadow</phase>: If you have initiative and there are 3 characters in the dead pile, spot 3 burdens, 3 threats and a Nazgûl to corrupt the Ring-bearer.",
+  "flavor_text": "“...so their voices, which uttered only his will and malice, were filled with evil and horror.”"
+}

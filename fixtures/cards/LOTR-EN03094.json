@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03094.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "94",
+  "name": "Orc Butcher",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "For each <culture>Sauron</culture> condition you can spot, this minion is strength +1.",
+  "flavor_text": "“And yet we see that Sauron can torture and destroy the very hills.”"
+}

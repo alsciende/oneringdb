@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04012.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "12",
+  "name": "Dunlending Madman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "1",
+  "site_number": "3",
+  "game_text": "Each time this minion wins a skirmish, you may make him strength +2 and <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "“‘They hate us, and they are glad; for our doom seems certain to them.’”"
+}

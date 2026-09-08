@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06100.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "100",
+  "name": "Dead Ones",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Wraith",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "<keyword>Twilight</keyword>. <keyword>Damage +1</keyword>.\nTo play this minion, remove a burden or spot a twilight minion.",
+  "flavor_text": "“‘The Dead can’t really be there! Is it some devilry hatched in the Dark Land?’”"
+}

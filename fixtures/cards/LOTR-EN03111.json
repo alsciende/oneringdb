@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03111.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "111",
+  "name": "Old Noakes",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Hobbit",
+  "home_site": "1",
+  "culture": "Shire",
+  "subtitle": "Purveyor of Wisdoms",
+  "twilight_cost": "1",
+  "strength": "1",
+  "vitality": "2",
+  "game_text": "Each time a Shadow card makes you discard a card from hand, you may also discard a minion or Shadow condition.",
+  "flavor_text": "“There’s been some strange folk crossing the Shire — Dwarves and others of a less than savoury nature.”"
+}

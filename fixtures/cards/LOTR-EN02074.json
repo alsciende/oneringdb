@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN02074.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "74",
+  "name": "Whip of Many Thongs",
+  "unique": true,
+  "type": "Artifact",
+  "subtype": "Hand Weapon",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be The Balrog.\n<phase>Skirmish</phase>: Exert The Balrog to discard a helm, shield, or armor borne by a character The Balrog is skirmishing.",
+  "flavor_text": "“It raised the whip, and the thongs whined and cracked.”"
+}

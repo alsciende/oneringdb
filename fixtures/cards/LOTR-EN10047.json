@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10047.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "47",
+  "name": "Rallying Call",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "0",
+  "game_text": "To play, spot a <culture>Raider</culture> Man.\nThreats cannot be removed by Free Peoples cards.\n<phase>Shadow</phase>: Remove <twilight>1</twilight> and play a Southron to add a threat.",
+  "flavor_text": "“Horns were blown and trumpets were braying....”"
+}

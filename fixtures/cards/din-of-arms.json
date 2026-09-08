@@ -1,9 +1,0 @@
-{
-    "id": "din-of-arms",
-    "title": "Din of Arms",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "Choose an opponent to discard the top card of his or her draw deck. If the twilight cost of that card is less than the number of besiegers you spot, take control of a site and all besiegers are strength +3 until the regroup phase."
-}

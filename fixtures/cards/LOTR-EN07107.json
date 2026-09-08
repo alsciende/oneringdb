@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07107.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "107",
+  "name": "Iorlas",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<phase>Response</phase>: If a possession or engine is played by your opponent, remove a <culture>Gondor</culture> token from your condition to make that opponent remove <twilight>1</twilight>. If he or she cannot, discard that possession or engine."
+}

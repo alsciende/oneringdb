@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04167.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "167",
+  "name": "Pillage of Rohan",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "Plays on a site you control.\nWhile an Uruk-hai is stacked on this site, the Free Peoples player may not play skirmish events or use skirmish special abilities.",
+  "flavor_text": "Rumor of plunder swelled the ranks of the Isengarders."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04061.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "61",
+  "name": "Company of Archers",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Archery</phase>: Spot 2 Elf companions to discard a condition.",
+  "flavor_text": "The Naith Company, a veteran band from the South of Lórien, concentrated fire on the Uruk machines."
+}

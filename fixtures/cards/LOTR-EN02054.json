@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN02054.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "54",
+  "name": "Dark Fire",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "strength_modifier": "-2",
+  "game_text": "To play, spot The Balrog. Plays on Gandalf.\nEach time the fellowship moves, Gandalf must exert.",
+  "flavor_text": "“...he seemed small, and altogether alone: grey and bent, like a wizened tree before the onset of a storm.”"
+}

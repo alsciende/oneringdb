@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01112.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "112",
+  "name": "Ranger’s Sword",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Aragorn.\nHe is <keyword>damage +1</keyword>.",
+  "flavor_text": "Aragorn is a trustworthy companion and a deadly foe. His years roaming the wild have honed his swordfighting skills."
+}

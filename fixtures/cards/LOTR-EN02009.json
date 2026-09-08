@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02009.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "9",
+  "name": "Great Works Begun There",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\nEach time you play a Dwarf, you may discard the top 2 cards from your draw deck to take a <culture>Dwarven</culture> event into hand from your discard pile.",
+  "flavor_text": "“‘Moria! Moria!... Long have its vast mansions lain empty since the children of Durin fled.’”"
+}

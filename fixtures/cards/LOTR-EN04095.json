@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04095.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "95",
+  "name": "Into Dark Tunnels",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Response</phase>: If you play a <culture>Gandalf</culture> event, exert Gandalf twice to place that event in your hand instead of your discard pile.",
+  "flavor_text": "“‘Even Sauron knows them not. They are older than he. Now I have walked there, but I will bring no report to darken the light of day.’”"
+}

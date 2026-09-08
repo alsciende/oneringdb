@@ -1,9 +1,0 @@
-{
-    "id": "arwen-evenstar-of-her-people",
-    "title": "Arwen",
-    "subtitle": "Evenstar of Her People",
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Skirmish:<\/keyword> Exert an Elf to make a minion skirmishing Arwen strength –1."
-}

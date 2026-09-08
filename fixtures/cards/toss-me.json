@@ -1,9 +1,0 @@
-{
-    "id": "toss-me",
-    "title": "Toss Me",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "While this card is stacked on a <symbol>dwarven<\/symbol> condition, Gimli is strength +1. <keyword>Fellowship:<\/keyword> Place this card or another <symbol>dwarven<\/symbol> card from hand on top of or beneath your draw deck."
-}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08028.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "28",
+  "name": "Spider Poison",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Remove a threat or a burden to transfer this possession to a companion skirmishing Shelob.\nEach time bearer is assigned to a skirmish, bearer must exert.",
+  "flavor_text": "“He lay now pale, and heard no voice, and did not move.”"
+}

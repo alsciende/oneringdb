@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN06114.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "114",
+  "name": "Pippin",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Hastiest of All",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "<phase>Regroup</phase>: Discard Pippin to choose a Shadow player who must wound one of his or her minions.",
+  "flavor_text": "“‘By root and twig, but this is a strange business: up sprout a little folk that are not in the old lists….’”"
+}

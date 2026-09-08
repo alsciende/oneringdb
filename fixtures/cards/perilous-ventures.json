@@ -1,9 +1,0 @@
-{
-    "id": "perilous-ventures",
-    "title": "Perilous Ventures",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Regroup:<\/keyword> Exert 2 rangers to discard a minion (or 2 <symbol>wraith<\/symbol> minions)."
-}

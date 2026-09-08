@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03064.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "64",
+  "name": "Orc Commander",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "6",
+  "strength": "11",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "Each other <culture>Isengard</culture> Orc is strength +1.\n<phase>Regroup</phase>: Exert Orc Commander to make the Free Peoples player wound a companion.",
+  "flavor_text": "“‘It seems their delight to slash and beat down growing things that are not even in their way.’”"
+}

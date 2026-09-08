@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04281.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "281",
+  "name": "Hlafwine",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "4",
+  "culture": "Rohan",
+  "subtitle": "Village Farmhand",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "<keyword>Villager</keyword>.\nDiscard Hlafwine if an opponent controls his home site.\n<phase>Skirmish</phase>: Exert Hlafwine to make a <culture>Rohan</culture> Man strength +2.",
+  "flavor_text": "Too old to fight, Hlafwine prepared meals for the defenders."
+}

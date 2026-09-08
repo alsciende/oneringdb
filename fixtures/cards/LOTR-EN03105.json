@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03105.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "105",
+  "name": "Why Shouldn't I Keep It?",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Spot a <culture>Sauron</culture> minion to discard Bilbo. The Free Peoples player may discard 2 Free Peoples conditions to prevent this.",
+  "flavor_text": "“‘No, wait, it’s here in my pocket. Isn’t that... isn’t that odd now?’”"
+}

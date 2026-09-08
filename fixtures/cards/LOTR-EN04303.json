@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04303.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "303",
+  "name": "Frodo's Cloak",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Cloak",
+  "culture": "Shire",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be Frodo.\n<phase>Skirmish</phase>: At sites 1<block>Tower</block> to 4<block>Tower</block>, add a burden and discard this possession to cancel a skirmish involving Frodo. At any other site, discard this possession to remove a burden and heal Frodo.",
+  "flavor_text": "Neither weather nor searching eyes found Frodo."
+}

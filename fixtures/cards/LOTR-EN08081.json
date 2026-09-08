@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08081.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "81",
+  "name": "Úlairë Otsëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Thrall of The One",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<keyword>Enduring</keyword>. <keyword>Fierce</keyword>.\n<phase>Regroup</phase>: Discard Úlairë Otsëa to add <twilight>X</twilight>, where X is the current site number.",
+  "flavor_text": "“Another long screech rose and fell, and he threw himself back again from the wall, panting like a hunted animal.”"
+}

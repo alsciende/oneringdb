@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07082.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "82",
+  "name": "Cirion",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "While you have only 4 or 5 cards in hand, Cirion is strength +2.",
+  "flavor_text": "“So now at last the City was besieged….”"
+}

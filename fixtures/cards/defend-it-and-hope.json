@@ -1,9 +1,0 @@
-{
-    "id": "defend-it-and-hope",
-    "title": "Defend It and Hope",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Exert a <symbol>gondor<\/symbol> Man to wound a minion once (or twice if that minion is an Uruk-hai). "
-}

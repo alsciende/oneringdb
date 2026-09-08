@@ -1,9 +1,0 @@
-{
-    "id": "winged-and-ominous",
-    "title": "Winged and Ominous",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Regroup:<\/keyword> Exert a Nazgûl to place a <symbol>wraith<\/symbol> token on this card. <keyword>Shadow:<\/keyword> Remove 3 <symbol>wraith<\/symbol> tokens from here to add <symbol>twilight2<\/symbol>."
-}

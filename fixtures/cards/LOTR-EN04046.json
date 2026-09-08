@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN04046.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "46",
+  "name": "Ever My Heart Rises",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "3",
+  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\nWhen you play this condition, reveal the top 6 cards of your draw deck and stack them here.\n<phase>Fellowship</phase>: Spot a Dwarf and discard the top card of your draw deck to take a Free Peoples card stacked here into hand."
+}

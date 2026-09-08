@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04359.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "359",
+  "name": "Wizard's Vale",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "8",
+  "shadow_number": "6",
+  "game_text": "At the start of the first Shadow phase, if the twilight pool has fewer than 9 twilight tokens, add <twilight>4</twilight> (limit once per turn)."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07143.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "143",
+  "name": "Easterling Footman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>.\n<phase>Maneuver</phase>: If you cannot spot 2 burdens, spot another Easterling and discard a card from hand to add a burden.",
+  "flavor_text": "“‘...and so have many also in the East.’”"
+}

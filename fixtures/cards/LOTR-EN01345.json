@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01345.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "345",
+  "name": "Mithril Mine",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "4",
+  "shadow_number": "3",
+  "game_text": "<keyword>Underground</keyword>. <phase>Shadow</phase>: Remove <twilight>1</twilight> to play a Shadow weapon from your discard pile."
+}

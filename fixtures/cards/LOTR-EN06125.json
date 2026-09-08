@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06125.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "125",
+  "name": "Don’t Look at Them",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Spot Sméagol and discard 3 cards from hand to wound a minion Sméagol is skirmishing once (or twice if that minion is a <culture>Moria</culture> minion).",
+  "flavor_text": "“‘There was a faint hiss, a noisome smell went up, the lights flickered and danced and swirled.’”"
+}

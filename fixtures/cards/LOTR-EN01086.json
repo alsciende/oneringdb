@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01086.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "86",
+  "name": "Treachery Deeper Than You Know",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Fellowship</phase>: Spot Gandalf to reveal an opponent’s hand.",
+  "flavor_text": "“‘By foul craft, Saruman has crossed Orcs with Goblin Men — he is breeding an army in the Caverns of Isengard.’”"
+}

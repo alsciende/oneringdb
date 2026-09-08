@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04214.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "214",
+  "name": "Where Has Gríma Stowed It?",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "<phase>Maneuver</phase>: Spot Gríma to discard a possession borne by an ally or unbound companion.",
+  "flavor_text": "“‘Loth was he to render up the keys. Many other things are there which men have missed.’”"
+}

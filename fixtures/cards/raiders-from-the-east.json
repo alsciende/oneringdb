@@ -1,9 +1,0 @@
-{
-    "id": "raiders-from-the-east",
-    "title": "Raiders From the East",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "<br><keyword>Shadow:<\/keyword> Remove <symbol>twilight3<\/symbol> and exert a <symbol>raider<\/symbol> Man to place a <symbol>raider<\/symbol> token here.  <br><keyword>Maneuver:<\/keyword> Remove a <symbol>raider<\/symbol> token here to add <symbol>twilight1<\/symbol>. "
-}

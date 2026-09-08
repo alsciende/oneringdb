@@ -1,9 +1,0 @@
-{
-    "id": "ulaire-nertea-black-mantled-wraith",
-    "title": "Úlairë Nertëa",
-    "subtitle": "Black-Mantled Wraith",
-    "culture": "wraith",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Regroup:<\/keyword> If you have initiative, discard Úlairë Nertëa to add a burden."
-}

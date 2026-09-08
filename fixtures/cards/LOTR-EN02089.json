@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02089.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "89",
+  "name": "Orc Scout",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<keyword>Tracker</keyword>.\nThe roaming penalty for each <culture>Sauron</culture> minion you play is −1.\n<phase>Response</phase>: If an event is played that spots or exerts a ranger, exert or discard this minion to cancel that event.",
+  "flavor_text": "“Orc!... ‘Not very near, and yet too near, it seems.’”"
+}

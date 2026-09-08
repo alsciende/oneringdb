@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10122.png",
+  "set_number": "10",
+  "rarity": "P",
+  "card_number": "122",
+  "name": "Sam",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Great Elf Warrior",
+  "twilight_cost": "2",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Ring-bound</keyword>.\nSam is strength +1 for each <culture>Shire</culture> companion you can spot.\n<phase>Response</phase>: If Frodo dies, make Sam the <keyword>Ring-bearer (resistance 5)</keyword>.",
+  "flavor_text": "“‘...I’d say there’s a large warrior on the loose, Elf most likely, with an elf-sword anyway....’”"
+}

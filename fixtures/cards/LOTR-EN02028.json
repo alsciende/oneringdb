@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02028.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "28",
+  "name": "Wielder of the Flame",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Maneuver</phase>: Spot Gandalf to make a companion <keyword>defender +1</keyword> until the regroup phase. Any Shadow player may remove <twilight>3</twilight> to prevent this.",
+  "flavor_text": "“The Balrog made no answer. The fire in it seemed to die, but the darkness grew.”"
+}

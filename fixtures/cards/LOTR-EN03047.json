@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03047.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "47",
+  "name": "Voice of Rauros",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Exert Aragorn to make each companion with the Aragorn signet <keyword>damage +1</keyword> until the regroup phase.",
+  "flavor_text": "“As he ran the cries came louder, but fainter now and desperately the horn was blowing.”"
+}

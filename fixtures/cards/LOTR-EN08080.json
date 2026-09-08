@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08080.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "80",
+  "name": "Úlairë Nertëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Thrall of The One",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "<keyword>Enduring</keyword>. <keyword>Fierce</keyword>.\nThe site number of each <culture>Wraith</culture> minion is –1.",
+  "flavor_text": "“…into their minds a blackness came, and they thought no more of war, but only of hiding and of crawling, and of death.”"
+}

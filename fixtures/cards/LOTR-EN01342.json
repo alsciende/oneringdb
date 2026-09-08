@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01342.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "342",
+  "name": "Rivendell Waterfall",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "0",
+  "game_text": "<keyword>Forest</keyword>. <keyword>Sanctuary</keyword>. While you can spot a ranger at Rivendell Waterfall, the move limit is +1 for this turn."
+}

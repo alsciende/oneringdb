@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05102.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "102",
+  "name": "Morannon",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "Plays to your support area.\nThe twilight cost of the first <culture>Sauron</culture> Orc played at site 4<block>Tower</block> is −3.\n<phase>Shadow</phase>: Spot 2 <culture>Sauron</culture> Orcs and discard 4 cards from hand to draw 3 cards. Discard this condition.",
+  "flavor_text": "The black gate of Mordor were called the Morannon."
+}

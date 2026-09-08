@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04149.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "149",
+  "name": "Driven Back",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "game_text": "<phase>Archery</phase>: Spot 2 <culture>Isengard</culture> archers to make the minion archery total +1 for each card in the dead pile.",
+  "flavor_text": "With each fallen defender, the morale of the attacking army rose."
+}

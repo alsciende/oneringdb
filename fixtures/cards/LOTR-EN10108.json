@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10108.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "108",
+  "name": "A Light in his Mind",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "Each time you lose initiative, you may spot 2 <culture>Shire</culture> companions to remove a burden.",
+  "flavor_text": "“Far off, as in a little picture drawn by elven-fingers, he saw the Lady Galadriel standing on the grass in Lórien, and gifts were in her hands.”"
+}

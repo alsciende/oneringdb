@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN10060.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "60",
+  "name": "Gorbag's Sword",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Wraith</culture> Orc.\nWhen you play this possession, you may discard a possession. Its owner may place it on top of his or her draw deck instead.\nIf bearer is Gorbag, he is <keyword>fierce</keyword>.",
+  "flavor_text": "“‘You touch it and I’ll stick this blade in your gut.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01025.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "25",
+  "name": "Still Draws Breath",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If a Dwarf wins a skirmish, heal that Dwarf.",
+  "flavor_text": "“When thirteen had fallen the rest fled shrieking, leaving the defenders unharmed....”"
+}

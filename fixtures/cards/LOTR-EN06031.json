@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN06031.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "31",
+  "name": "Glamdring",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Gandalf",
+  "subtitle": "Lightning Brand",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Gandalf.\nHe is <keyword>damage +1</keyword>.\nEach time you play a spell during a skirmish, you may make Gandalf <keyword>damage +1</keyword> until the end of that skirmish.",
+  "flavor_text": "“‘Thunder they heard, and lightning… smote upon Celebdil, and leaped back broken into tongues of fire.’”"
+}

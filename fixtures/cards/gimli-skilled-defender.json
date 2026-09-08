@@ -1,9 +1,0 @@
-{
-    "id": "gimli-skilled-defender",
-    "title": "Gimli",
-    "subtitle": "Skilled Defender",
-    "culture": "dwarven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Damage +1.<\/keyword><br>Each time Gimli wins a skirmish, you may wound a minion assigned to skirmish an unbound companion."
-}

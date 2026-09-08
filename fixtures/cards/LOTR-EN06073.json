@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06073.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "73",
+  "name": "Scaffolding",
+  "unique": false,
+  "type": "Possession",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\nEach time a regroup action discards an <culture>Isengard</culture> Orc, you may stack that Orc on this card.\n<phase>Response</phase>: If an <culture>Isengard</culture> Orc is about to take a wound, discard 2 cards stacked here to prevent that wound.",
+  "flavor_text": "Towers marked the inner ring, implements of industry."
+}

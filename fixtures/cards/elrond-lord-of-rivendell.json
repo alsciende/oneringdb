@@ -1,9 +1,0 @@
-{
-    "id": "elrond-lord-of-rivendell",
-    "title": "Elrond",
-    "subtitle": "Lord of Rivendell",
-    "culture": "elven",
-    "twilight_cost": 4,
-    "type": "ally",
-    "text": "To play, spot Gandalf or an Elf. <br>At the start of each of your turns, heal every ally whose home is site 3. <br><keyword>Fellowship:<\/keyword> Exert Elrond to draw a card."
-}

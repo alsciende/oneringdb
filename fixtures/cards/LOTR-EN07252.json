@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07252.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "252",
+  "name": "Strong Arms",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a <culture>Rohan</culture> Man. Plays on a site.\nThis site is a <keyword>plains</keyword>.\nEach <culture>Rohan</culture> Man is strength +1 at this site.",
+  "flavor_text": "“‘But he knows that we are a people who fight rather upon horseback and in the open....’”"
+}

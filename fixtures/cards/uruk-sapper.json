@@ -1,9 +1,0 @@
-{
-    "id": "uruk-sapper",
-    "title": "Uruk Sapper",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword><br>When you play this minion, you may place an <symbol>isengard<\/symbol> token on a machine."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01139.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "139",
+  "name": "Savagery to Match Their Numbers",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make an Uruk-hai strength +2, or spot 5 companions to make an Uruk-hai strength +4 and <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "Uruk-hai match their enemies’ strength with their own feral rage."
+}

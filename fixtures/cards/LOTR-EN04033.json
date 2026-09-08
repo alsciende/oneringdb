@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04033.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "33",
+  "name": "Saruman",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Wizard",
+  "culture": "Dunland",
+  "subtitle": "Rabble-rouser",
+  "twilight_cost": "4",
+  "strength": "8",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "Saruman may not be assigned to a skirmish.\nEach time the fellowship moves, the Free Peoples player must exert a companion for each <culture>Dunland</culture> Man you can spot.\n<phase>Skirmish</phase>: Exert Saruman to make a <culture>Dunland</culture> Man strength +2."
+}

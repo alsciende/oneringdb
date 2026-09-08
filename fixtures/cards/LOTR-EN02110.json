@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02110.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "110",
+  "name": "Pippin",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Mr. Took",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "<phase>Fellowship</phase>: Play Gandalf or Aragorn; his twilight cost is −2.",
+  "flavor_text": "“Pippin was evidently much enjoying the attention he was getting, and had become quite forgetful of their danger.”"
+}

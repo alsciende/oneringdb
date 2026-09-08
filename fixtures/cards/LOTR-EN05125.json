@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN05125.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "125",
+  "name": "Foul Horde",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Warg-rider</keyword>.\nWhile Foul Horde is not exhausted, it is <keyword>fierce</keyword>.\nWhile Foul Horde has at least 3 vitality, it is <keyword>ambush</keyword> <twilight>0</twilight>.\nWhile Foul Horde has at least 4 vitality, it is <keyword>damage +1</keyword>."
+}

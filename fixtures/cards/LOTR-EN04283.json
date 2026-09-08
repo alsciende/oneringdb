@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04283.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "283",
+  "name": "Horse of Rohan",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Rohan",
+  "twilight_cost": "2",
+  "game_text": "To play, spot a <culture>Rohan</culture> Man. Bearer must be a Man, Elf, or Wizard.\nAt the start of each skirmish involving bearer, each minion skirmishing bearer must exert.",
+  "flavor_text": "“Very swift were the horses of Rohan.”"
+}

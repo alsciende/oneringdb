@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01313.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "313",
+  "name": "Sting",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Frodo.\n<phase>Fellowship</phase> or <phase>Regroup</phase>: Exert Frodo to reveal an opponent's hand. Remove <twilight>1</twilight> for each Orc revealed (limit <twilight>4</twilight>).",
+  "flavor_text": "“‘This is Sting.... Take it, if you like.’”"
+}

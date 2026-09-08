@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10093.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "93",
+  "name": "Mordor Wretch",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Shadow</phase>: Spot 4 Free Peoples cultures and exert another <culture>Sauron</culture> minion twice to add <twilight>3</twilight> and draw a card.",
+  "flavor_text": "“...a braying of horns... shook the very stones and stunned men’s ears.”"
+}

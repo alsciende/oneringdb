@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01096.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "96",
+  "name": "Boromir",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Lord of Gondor",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Ranger</keyword>.\nBoromir is not overwhelmed unless his strength is tripled.",
+  "flavor_text": "“‘...Boromir will also be in the Company. He is a valiant man.’”"
+}

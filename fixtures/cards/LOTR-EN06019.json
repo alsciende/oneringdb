@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06019.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "19",
+  "name": "Gift of Foresight",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Spot an Elf to reveal the top card of your draw deck. You may discard it, return it to the top of your draw deck, or take it into hand.",
+  "flavor_text": "“‘Here you will dwell, bound to your grief, under the fading trees.’”"
+}

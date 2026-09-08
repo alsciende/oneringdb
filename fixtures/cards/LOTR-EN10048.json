@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10048.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "48",
+  "name": "Seasoned Leader",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "vitality_modifier": "+1",
+  "game_text": "Bearer must be a Southron.\nBearer is <keyword>enduring</keyword>.\n<phase>Skirmish</phase>: Remove a threat to play a <culture>Raider</culture> condition from your discard pile.",
+  "flavor_text": "Only by many conquests and hardships does one rise to prominence in the army of the Haradrim."
+}

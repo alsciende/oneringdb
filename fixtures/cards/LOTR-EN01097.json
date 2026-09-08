@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01097.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "97",
+  "name": "Boromir",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Son of Denethor",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Frodo",
+  "game_text": "<phase>Skirmish</phase>: Exert Boromir to make a Hobbit strength +3.",
+  "flavor_text": "“‘Long has my father, the Steward of Gondor, held the forces of Mordor at bay — by the blood of our people are the lands of others kept safe.’”"
+}

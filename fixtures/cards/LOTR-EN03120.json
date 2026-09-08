@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03120.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "120",
+  "name": "Wastes of Emyn Muil",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "9",
+  "shadow_number": "9",
+  "game_text": "<phase>Maneuver</phase>: Spot 4 companions and exert your <culture>Isengard</culture> Orc to make the Free Peoples player wound a companion."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06082.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "82",
+  "name": "Trample",
+  "unique": false,
+  "type": "Event",
+  "culture": "Raider",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Spot a mounted <culture>Raider</culture> Man to discard a companion (except the Ring-bearer). The Free Peoples player may add <twilight>4</twilight> to prevent this.",
+  "flavor_text": "“‘...I stomp round and round, / Never lie on the ground, / Not even to die. / Oliphaunt am I....’”"
+}

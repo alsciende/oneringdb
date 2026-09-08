@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01071.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "71",
+  "name": "Durin's Secret",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "game_text": "<phase>Fellowship</phase>: Spot Gandalf, a Dwarf, and an Elf to make the move limit for this turn +1.",
+  "flavor_text": "“‘They are wrought of ithildin that mirrors only starlight and moonlight, and sleeps until it is touched by one who speaks words now long forgotten in Middle-earth.’”"
+}

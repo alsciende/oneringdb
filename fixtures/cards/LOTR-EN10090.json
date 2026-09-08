@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10090.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "90",
+  "name": "Mordor Brute",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "Each <culture>Sauron</culture> Orc bearing a possession cannot take wounds (except during skirmish phases).",
+  "flavor_text": "“There came a long rolling of great drums like thunder in the mountains....”"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07223.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "223",
+  "name": "Death They Cried",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Maneuver",
+  "culture": "Rohan",
+  "twilight_cost": "2",
+  "game_text": "Spot a mounted <culture>Rohan</culture> Man to exert a minion. That minion's owner may exert a companion and if he or she does so, you may exert a minion; repeat this until a player does not exert a character.",
+  "flavor_text": "“But the Rohirrim sang no more. Death they cried with one voice....”"
+}

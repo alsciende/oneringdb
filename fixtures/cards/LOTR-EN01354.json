@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01354.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "354",
+  "name": "Anduin Wilderland",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "7",
+  "shadow_number": "6",
+  "game_text": "<keyword>Forest</keyword>. <keyword>River</keyword>. While the fellowship is at Anduin Wilderland, skip the archery phase."
+}

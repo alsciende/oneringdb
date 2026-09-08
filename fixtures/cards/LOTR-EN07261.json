@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07261.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "261",
+  "name": "With Strength to Fight",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Rohan",
+  "twilight_cost": "0",
+  "game_text": "To play, spot a <culture>Rohan</culture> companion.\nEach time the fellowship moves, add a threat or discard this condition.\n<phase>Regroup</phase>: Discard this condition to heal up to 2 <culture>Rohan</culture> companions.",
+  "flavor_text": "“‘...it is a long road....’”"
+}

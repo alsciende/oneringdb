@@ -1,9 +1,0 @@
-{
-    "id": "fell-deeds-awake",
-    "title": "Fell Deeds Awake",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "To play, spot a <symbol>rohan<\/symbol> Man. <br>Each time you lose initiative, you may liberate a site. "
-}

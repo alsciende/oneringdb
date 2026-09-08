@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01241.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "241",
+  "name": "Curse from Mordor",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "<phase>Shadow</phase>: Spot a <culture>Sauron</culture> Orc to discard a <culture>Wraith</culture> condition.",
+  "flavor_text": "The Dark Lord harbors an ancient hatred for descendants of Gil-galad and those that marched with his gleaming host."
+}

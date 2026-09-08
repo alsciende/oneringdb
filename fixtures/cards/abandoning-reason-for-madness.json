@@ -1,9 +1,0 @@
-{
-    "id": "abandoning-reason-for-madness",
-    "title": "Abandoning Reason for Madness",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Shadow:<\/keyword> Spot an <symbol>isengard<\/symbol> minion to discard up to 3 cards from hand and draw an equal number of cards. "
-}

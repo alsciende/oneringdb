@@ -1,9 +1,0 @@
-{
-    "id": "shadow-s-reach",
-    "title": "Shadow's Reach",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Shadow:<\/keyword> Exert a <symbol>sauron<\/symbol> Orc to discard a Free Peoples condition."
-}

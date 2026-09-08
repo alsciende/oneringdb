@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08072.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "72",
+  "name": "Gothmog",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "subtitle": "Morgul Commander",
+  "twilight_cost": "7",
+  "strength": "13",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "While you have initiative, each <culture>Wraith</culture> minion is an <keyword>archer</keyword>.",
+  "flavor_text": "“‘The age of Men is over.’”"
+}

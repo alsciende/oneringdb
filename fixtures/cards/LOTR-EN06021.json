@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN06021.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "21",
+  "name": "Naith Longbow",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be an Elf companion.\n<phase>Archery</phase>: Exert bearer to discard the top card of your draw deck. If it is an <culture>Elven</culture> card, exert a minion.",
+  "flavor_text": "“‘Show them no mercy, for you shall receive none.’”"
+}

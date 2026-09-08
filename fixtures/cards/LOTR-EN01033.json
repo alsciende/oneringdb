@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01033.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "33",
+  "name": "Bow of the Galadhrim",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be Legolas.\nEach time Legolas wins a skirmish, you may wound a minion.",
+  "flavor_text": "“To Legolas she gave a bow such as the Galadhrim used, longer and stouter than the bows of Mirkwood, and strung with a string of elf-hair.”"
+}

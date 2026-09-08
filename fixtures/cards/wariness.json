@@ -1,9 +1,0 @@
-{
-    "id": "wariness",
-    "title": "Wariness",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Search.<\/keyword> <br><keyword>Response:<\/keyword> If a stealth event is played, exert or discard your Uruk-hai to cancel that event."
-}

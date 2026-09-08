@@ -1,9 +1,0 @@
-{
-    "id": "gimli-lockbearer",
-    "title": "Gimli",
-    "subtitle": "Lockbearer",
-    "culture": "dwarven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Damage +1.<\/keyword>  <br>Gimli is strength +1 for each unbound Hobbit companion you can spot. "
-}

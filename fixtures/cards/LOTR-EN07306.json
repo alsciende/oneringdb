@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07306.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "306",
+  "name": "Orc Seeker",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<keyword>Tracker</keyword>.\nThe site number of each <culture>Sauron</culture> Orc is −1.\nIf you have initiative when you play this minion, you may spot another <culture>Sauron</culture> Orc to draw 2 cards.",
+  "flavor_text": "“…even before they came to the gate Sauron sprang his trap.”"
+}

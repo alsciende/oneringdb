@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN08105.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "105",
+  "name": "Olog-hai of Mordor",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Troll",
+  "culture": "Sauron",
+  "twilight_cost": "10",
+  "strength": "18",
+  "vitality": "4",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>. <keyword>Fierce</keyword>.\nThe twilight cost of this minion is –2 for each <culture>Sauron</culture> minion stacked on a site.\nEach time this minion wins a skirmish, you may play a besieger stacked on a site you control. That besieger is <keyword>fierce</keyword> and <keyword>damage +1</keyword> until the regroup phase."
+}

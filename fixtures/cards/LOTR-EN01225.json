@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01225.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "225",
+  "name": "Sword of Minas Morgul",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Úlairë Lemenya.\nHe is <keyword>damage +1</keyword>.\n<phase>Skirmish</phase>: Exert Úlairë Lemenya to discard a possession borne by a character he is skirmishing.",
+  "flavor_text": "The Morgul hilt seared the flesh that would touch it, but the pierce was painless."
+}

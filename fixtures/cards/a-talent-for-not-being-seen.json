@@ -1,9 +1,0 @@
-{
-    "id": "a-talent-for-not-being-seen",
-    "title": "A Talent for Not Being Seen",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "<keyword>Stealth.<\/keyword>  To play, exert a Hobbit. <br>Each time the fellowship moves, spot 2 Hobbit companions to make the Shadow number -1 (or spot 4 to make it -2)."
-}

@@ -1,9 +1,0 @@
-{
-    "id": "men-of-numenor",
-    "title": "Men of Númenor",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Wound a minion bearing a <symbol>gondor<\/symbol> Fortification."
-}

@@ -1,9 +1,0 @@
-{
-    "id": "shelob-last-child-of-ungoliant",
-    "title": "Shelob",
-    "subtitle": "Last Child of Ungoliant",
-    "culture": "gollum",
-    "twilight_cost": 6,
-    "type": "minion",
-    "text": "<keyword>Enduring.<\/keyword> <keyword>Fierce.<\/keyword> <br>While in a fierce skirmish, Shelob is <keyword>damage +1<\/keyword>."
-}

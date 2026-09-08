@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04289.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "289",
+  "name": "Simbelmynë",
+  "unique": false,
+  "type": "Event",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Spot 2 <culture>Rohan</culture> Men (or 1 valiant <culture>Rohan</culture> Man) to play a <culture>Rohan</culture> character or possession from your draw deck.",
+  "flavor_text": "“‘How fair are the bright eyes in the grass! Evermind they are called... for they blossom in all seasons of the year, and grow where dead men rest.’”"
+}

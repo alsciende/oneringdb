@@ -1,9 +1,0 @@
-{
-    "id": "phial-of-galadriel-star-glass",
-    "title": "Phial of Galadriel",
-    "subtitle": "Star-glass",
-    "culture": "elven",
-    "twilight_cost": 0,
-    "type": "artifact",
-    "text": "Bearer must be a Hobbit. <br><keyword>Skirmish:<\/keyword>  Until the regroup phase, remove the game text (except card type and race) of a minion skirmishing bearer and make it unable to gain game text. Discard this artifiact. "
-}

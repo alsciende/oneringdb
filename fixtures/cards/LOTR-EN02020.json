@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02020.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "20",
+  "name": "Secret Sentinels",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "<phase>Maneuver</phase>: Exert an Elf ally to discard a condition (or 2 conditions if you spot an Orc).",
+  "flavor_text": "“‘Yet so little faith and trust do we find now in the world beyond Lothlórien... that we dare not by our own trust endanger our land.’”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01172.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "172",
+  "name": "Goblin Archer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "5",
+  "strength": "4",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Archer</keyword>.\nWhile you can spot another <culture>Moria</culture> Orc, the fellowship archery total is −6.",
+  "flavor_text": "“An arrow whistled over Frodo’s head.”"
+}

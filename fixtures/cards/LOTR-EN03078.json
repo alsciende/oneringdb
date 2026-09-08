@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03078.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "78",
+  "name": "Hide and Seek",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Search</keyword>.\n<phase>Skirmish</phase>: Spot 2 <culture>Shire</culture> companions to make a <culture>Moria</culture> minion <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘Which way shall we go?’”"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01208.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "208",
+  "name": "Black Steed",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a Nazgûl.\nWhile at a plains site, bearer is strength +2. Discard this possession when at an underground site.",
+  "flavor_text": "“...these horses are born and bred to the service of the Dark Lord in Mordor.”"
+}

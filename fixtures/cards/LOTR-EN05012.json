@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN05012.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "12",
+  "name": "Legolas' Sword",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be Legolas.\nEach time the fellowship moves, you may spot a wounded minion to heal Legolas.",
+  "flavor_text": "Legolas wielded a longsword to strike from horseback."
+}

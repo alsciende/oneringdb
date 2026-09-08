@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04040.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "40",
+  "name": "Wulf",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "subtitle": "Dunlending Chieftain",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "<keyword>Fierce</keyword>.\n<phase>Response</phase>: If another <culture>Dunland</culture> Man wins a skirmish, exert Wulf to take control of a site.",
+  "flavor_text": "“‘Do you not hear their voices?’”"
+}

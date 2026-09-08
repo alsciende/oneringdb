@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06093.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "93",
+  "name": "Ever the Hope of Men",
+  "unique": false,
+  "type": "Event",
+  "culture": "Rohan",
+  "twilight_cost": "0",
+  "game_text": "<phase>Regroup</phase>: Exert 2 mounted <culture>Rohan</culture> Men to discard up to 2 wounded minions.",
+  "flavor_text": "“‘Would that day was here and we might ride down upon them like a storm out of the mountains!’”"
+}

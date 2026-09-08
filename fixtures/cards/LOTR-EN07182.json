@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07182.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "182",
+  "name": "Loathsome",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Response",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "game_text": "If a skirmish that involved a Nazgûl is about to end, discard a possession borne by a companion in that skirmish.",
+  "flavor_text": "“Frodo felt his senses reeling and his mind darkening.”"
+}

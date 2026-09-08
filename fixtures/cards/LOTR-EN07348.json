@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07348.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "348",
+  "name": "Minas Tirith Fourth Circle",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "6",
+  "shadow_number": "3",
+  "game_text": "<keyword>Sanctuary</keyword>. If the fellowship moves from this site during the regroup phase, heal each <culture>Dwarven</culture> companion."
+}

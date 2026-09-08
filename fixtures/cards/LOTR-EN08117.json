@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08117.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "117",
+  "name": "The Dimholt",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "1",
+  "game_text": "<keyword>Underground</keyword>. <keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: Add 3 threats to play an enduring companion from your draw deck."
+}

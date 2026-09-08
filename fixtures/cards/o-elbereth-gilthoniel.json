@@ -1,9 +1,0 @@
-{
-    "id": "o-elbereth-gilthoniel",
-    "title": "O Elbereth! Gilthoniel!",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Tale.<\/keyword>  Bearer must be the Ring-bearer.  <br><keyword>Skirmish:<\/keyword> Discard this condition to take off The One Ring or to cancel a skirmish involving the Ring-bearer and a Nazgûl. "
-}

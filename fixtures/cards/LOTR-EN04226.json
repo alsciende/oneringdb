@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04226.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "226",
+  "name": "Easterling Guard",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>.\nEach time this minion is assigned to an unbound companion, you may exert him to add a burden.",
+  "flavor_text": "Armored Easterlings protect their commanders from enemy assaults."
+}

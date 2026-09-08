@@ -1,9 +1,0 @@
-{
-    "id": "no-refuge",
-    "title": "No Refuge",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "While a <symbol>dunland<\/symbol> Man is stacked on a site, the Shadow number of each site is +5. "
-}

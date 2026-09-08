@@ -1,9 +1,0 @@
-{
-    "id": "southron-savage",
-    "title": "Southron Savage",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword> <br>While the total number of other minions and twilight tokens is 3 or fewer, this minion is strength +3 and <keyword>fierce.<\/keyword> "
-}

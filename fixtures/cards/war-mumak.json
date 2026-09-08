@@ -1,9 +1,0 @@
-{
-    "id": "war-mumak",
-    "title": "War Mûmak",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 3,
-    "type": "possession",
-    "text": "Bearer must be a Southron.<br>Bearer is <keyword>fierce.<\/keyword><br>Each time bearer overwhelms a character, you may add <symbol>twilight5<\/symbol>."
-}

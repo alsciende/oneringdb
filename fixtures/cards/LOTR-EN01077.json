@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01077.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "77",
+  "name": "Let Folly Be Our Cloak",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Exert X companions to remove <twilight>X</twilight>.",
+  "flavor_text": "“‘Well, let folly be our cloak, a veil before the eyes of the Enemy!... Into his heart the thought will not enter that any will refuse it, that having the Ring we may seek to destroy it.’”"
+}

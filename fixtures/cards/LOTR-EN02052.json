@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02052.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "52",
+  "name": "The Balrog",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Balrog",
+  "culture": "Moria",
+  "subtitle": "Flame of Udûn",
+  "twilight_cost": "14",
+  "strength": "17",
+  "vitality": "5",
+  "site_number": "4",
+  "game_text": "<keyword>Damage +1</keyword>. <keyword>Fierce</keyword>. To play, spot a <culture>Moria</culture> Orc. Discard The Balrog if not underground.\n<phase>Shadow</phase>: Exert The Balrog and remove <twilight>2</twilight> to play a <culture>Moria</culture> Orc from your discard pile.",
+  "flavor_text": "“...suddenly it drew itself up to a great height, and its wings were spread from wall to wall....”"
+}

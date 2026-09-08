@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01348.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "348",
+  "name": "Pass of Caradhras",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "4",
+  "shadow_number": "2",
+  "game_text": "<keyword>Mountain</keyword>. <phase>Shadow</phase>: Spot an <culture>Isengard</culture> minion to play a weather card from your draw deck (limit 1 per turn)."
+}

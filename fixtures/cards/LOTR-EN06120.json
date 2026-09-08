@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06120.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "120",
+  "name": "Saruman’s Laboratory",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "9",
+  "shadow_number": "9",
+  "game_text": "<phase>Response</phase>: If your minion is about to take a wound, discard 2 cards from hand to prevent that wound."
+}

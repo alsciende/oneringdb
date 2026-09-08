@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04160.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "160",
+  "name": "Mauhúr",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "subtitle": "Patrol Leader",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Tracker</keyword>. <keyword>Fierce</keyword>.\n<phase>Skirmish</phase>: Remove <twilight>2</twilight> to prevent an <culture>Isengard</culture> tracker from taking wounds.",
+  "flavor_text": "“‘Mauhúr and his lads are in the forest, and they should turn up any time now.’”"
+}

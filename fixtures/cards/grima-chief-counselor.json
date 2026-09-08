@@ -1,9 +1,0 @@
-{
-    "id": "grima-chief-counselor",
-    "title": "Gríma",
-    "subtitle": "Chief Counselor",
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Maneuver:<\/keyword> Spot 4 Free Peoples cultures and exert Gríma to return an unbound companion, and all cards on him or her, to their owners’ hands."
-}

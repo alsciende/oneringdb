@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08098.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "98",
+  "name": "Gorgoroth Looter",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\nWhen you play this minion, you may remove a burden to play a besieger stacked on a site you control.",
+  "flavor_text": "“…the hosts of Mordor were enheartened, and filled with a new lust and fury they came yelling….”"
+}

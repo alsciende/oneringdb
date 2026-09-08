@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05003.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "3",
+  "name": "Leaping Blaze",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dunland",
+  "twilight_cost": "1",
+  "game_text": "<phase>Shadow</phase>: Spot 3 <culture>Dunland</culture> minions to shuffle your hand into your draw deck and draw 8 cards. The Free Peoples player may discard 3 cards from hand to prevent this.",
+  "flavor_text": "“...they saw torches, countless points of fiery light upon the black fields behind, scattered like red flowers, or winding up from the lowlands....”"
+}

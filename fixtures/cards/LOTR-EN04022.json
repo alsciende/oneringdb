@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04022.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "22",
+  "name": "Hillman Horde",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "6",
+  "strength": "14",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "While you control 2 sites, skip the archery phase.\nWhile you control 3 sites, each of your <culture>Dunland</culture> Men is <keyword>fierce</keyword>.\nWhile you control 4 sites, each of your <culture>Dunland</culture> Men is <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘They are fierce folk when roused.’”"
+}

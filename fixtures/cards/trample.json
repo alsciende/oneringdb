@@ -1,9 +1,0 @@
-{
-    "id": "trample",
-    "title": "Trample",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Spot a mounted <symbol>raider<\/symbol> Man to discard a companion (except the Ring-bearer). The Free Peoples player may add <symbol>twilight4<\/symbol> to prevent this."
-}

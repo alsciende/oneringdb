@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04318.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "318",
+  "name": "Seven We Had",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Add a burden to discard a condition borne by a Hobbit.",
+  "flavor_text": "“‘...one we lost at Moria, the others we left at Parth Galen above Rauros....’”"
+}

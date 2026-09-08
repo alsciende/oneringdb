@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01008.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "8",
+  "name": "Dwarven Armor",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Armor",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "Bearer must be a Dwarf.\nBearer may not be overwhelmed unless his or her strength is tripled.",
+  "flavor_text": "The strongest armour still being made in Middle-earth is forged by Dwarves. It is so heavy that only they can bear it."
+}

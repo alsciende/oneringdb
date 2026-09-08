@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01088.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "88",
+  "name": "An Able Guide",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Regroup</phase>: Spot a ranger to remove <twilight>4</twilight>.",
+  "flavor_text": "“‘...though I cannot disappear, I have hunted many wild and wary things and I can usually avoid being seen, if I wish.’”"
+}

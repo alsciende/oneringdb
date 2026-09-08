@@ -1,9 +1,0 @@
-{
-    "id": "valiant-man-of-the-west",
-    "title": "Valiant Man of the West",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Make Aragorn <keyword>defender +1<\/keyword> and he takes no more than 1 wound during each skirmish phase until the regroup phase."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07283.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "283",
+  "name": "Legions of Morgul",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "game_text": "To play, spot 2 <culture>Sauron</culture> Orcs and add up to 3 threats.\nEach time a companion is about to be killed, you may remove a threat to make all minions <keyword>fierce</keyword> until the regroup phase.\nDiscard this condition and remove 3 threats at the start of the regroup phase."
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10052.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "52",
+  "name": "Under Foot",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "<phase>Shadow</phase>: If you have initiative, spot a <culture>Raider</culture> Man and discard this condition to reconcile your hand.\n<phase>Skirmish</phase>: Discard this condition to make a <culture>Raider</culture> Man strength +2.",
+  "flavor_text": "“‘I make the earth shake, / As I tramp through the grass; / Trees crack as I pass.’”"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08021.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "21",
+  "name": "Shadowfax",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Gandalf",
+  "subtitle": "Greatheart",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be Gandalf.\nAt the start of each skirmish involving Gandalf, each minion skirmishing Gandalf must exert.\n<phase>Skirmish</phase>: Add a threat to make Gandalf strength +1."
+}

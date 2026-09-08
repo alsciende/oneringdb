@@ -1,9 +1,0 @@
-{
-    "id": "kept-safe",
-    "title": "Kept Safe",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "When you play this condition, place 2 <symbol>shire<\/symbol> tokens here. <keyword>Response:<\/keyword> If an unbound Hobbit is about to take a wound, discard this condition or remove a <symbol>shire<\/symbol> token from here to prevent that wound."
-}

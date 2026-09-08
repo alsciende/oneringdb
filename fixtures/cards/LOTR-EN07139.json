@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07139.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "139",
+  "name": "Easterling Aggressor",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>.\n<phase>Skirmish</phase>: If you have initiative or you spot 3 Easterlings, discard 2 cards from hand to heal another Easterling.",
+  "flavor_text": "“...others held westward to hold off the forces of Gondor….”"
+}

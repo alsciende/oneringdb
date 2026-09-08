@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01294.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "294",
+  "name": "Hobbit Appetite",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Add <twilight>X</twilight> to heal a Hobbit companion X times.",
+  "flavor_text": "“‘What about Elevenses, Luncheon, Afternoon Tea and Supper — he knows about them, doesn't he?’”"
+}

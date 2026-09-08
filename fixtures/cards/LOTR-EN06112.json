@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06112.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "112",
+  "name": "Long Slow Wrath",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Exert an unbound Hobbit to make him strength +1 and <keyword>damage +1</keyword> for each <culture>Shire</culture> companion you can spot.",
+  "flavor_text": "“‘The coming of the hobbits and the tidings that they brought have spilled it: it will soon be running like a flood….’”"
+}

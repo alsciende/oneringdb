@@ -1,9 +1,0 @@
-{
-    "id": "verily-i-come",
-    "title": "Verily I Come",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "To play, exert a <symbol>sauron<\/symbol> Orc.  Plays on the Ring-bearer. <br>Each time the Free Peoples player draws a card (or takes a card into hand) during the fellowship phase, add a burden. "
-}

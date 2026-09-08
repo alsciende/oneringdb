@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07264.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "264",
+  "name": "Army of Udûn",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "9",
+  "strength": "19",
+  "vitality": "5",
+  "site_number": "6",
+  "game_text": "<phase>Shadow</phase>: Discard a <culture>Sauron</culture> Orc to add a threat.\n<phase>Skirmish</phase>: Remove a threat to make Army of Udûn strength +1.\n<phase>Regroup</phase>: Discard Army of Udûn and X other <culture>Sauron</culture> Orcs to add X threats."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04072.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "72",
+  "name": "Killing Field",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 3 Elves. Plays to your support area.\nEach wounded minion is prevented from being <keyword>fierce</keyword>. Discard this condition during the regroup phase.",
+  "flavor_text": "The courage of the defenders blunted the Uruk assaults."
+}

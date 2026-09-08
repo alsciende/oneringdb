@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08088.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "88",
+  "name": "Éowyn's Shield",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Shield",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\nThe minion archery total is –1.\n<phase>Skirmish</phase>: If bearer is Éowyn, add a threat and discard Éowyn's Shield to discard a hand weapon borne by a minion she is skirmishing.",
+  "flavor_text": "“‘…spear shall be shaken, shield shall be splintered….’”"
+}

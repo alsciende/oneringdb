@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07270.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "270",
+  "name": "Gorgoroth Attacker",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\nWhen you play this minion from a site you control, add a burden for each site you control.",
+  "flavor_text": "“...the weakest point in all that high and impenetrable wall.”"
+}

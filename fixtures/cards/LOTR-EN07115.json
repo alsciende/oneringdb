@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07115.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "115",
+  "name": "Ranger of Minas Tirith",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "<keyword>Ranger</keyword>.\nWhile skirmishing a roaming minion, this companion is strength +2 and <keyword>damage +1</keyword>.",
+  "flavor_text": "“And upon its out-thrust knee was the Guarded City, with its seven walls of stone….”"
+}

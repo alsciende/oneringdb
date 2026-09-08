@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07056.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "56",
+  "name": "The Dead City",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gollum",
+  "twilight_cost": "3",
+  "game_text": "<keyword>Stealth</keyword>.\nBearer must be Sméagol.\nIf Sméagol is about to be killed in a skirmish, he is discarded instead.",
+  "flavor_text": "“‘Not that way!’”"
+}

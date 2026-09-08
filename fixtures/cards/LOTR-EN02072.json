@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02072.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "72",
+  "name": "Troubled Mountains",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "game_text": "<phase>Shadow</phase>: Exert a <culture>Moria</culture> minion and spot X burdens to add <twilight>X</twilight> (limit <twilight>5</twilight>).",
+  "flavor_text": "“‘The Dimrill Dale is full of vapour and clouds of smoke.... There are noises in the deeps of the earth.’”"
+}

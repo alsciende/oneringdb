@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02066.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "66",
+  "name": "Huge Tentacle",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Creature",
+  "culture": "Moria",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Tentacle</keyword>. <keyword>Damage +1</keyword>.\nWhen you play this minion, you may play Watcher in the Water from your draw deck.\nThis minion may not bear possessions and is discarded if not at a marsh.",
+  "flavor_text": "“Out from the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet.”"
+}

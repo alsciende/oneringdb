@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01251.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "251",
+  "name": "A Host Avails Little",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "game_text": "<keyword>Search</keyword>.\n<phase>Maneuver</phase>: Spot a <culture>Sauron</culture> Orc and 6 companions to wound a companion (except the Ring-bearer). Do this once for each companion over 5.",
+  "flavor_text": "“‘Had I a host of Elves in armour of the Elder Days, it would avail little....’”"
+}

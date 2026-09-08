@@ -1,9 +1,0 @@
-{
-    "id": "southron-archer-legion",
-    "title": "Southron Archer Legion",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 8,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword> <keyword>Archer.<\/keyword> <keyword>Archery:<\/keyword> Remove <symbol>twilight3<\/symbol> to add 1 to the minion archery total for each companion over 4 (limit +4)."
-}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10078.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "78",
+  "name": "Advance Scout",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<phase>Shadow</phase>: Exert or discard this minion to make each <culture>Sauron</culture> minion you spot roaming until the regroup phase.",
+  "flavor_text": "“The lines of fire became flowing torrents, file upon file of Orcs bearing flames....”"
+}

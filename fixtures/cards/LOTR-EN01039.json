@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01039.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "39",
+  "name": "Elf-song",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Spot an Elf to remove a burden.",
+  "flavor_text": "“...the beauty of the melodies and of the interwoven words in elven-tongues, even though he understood them little, held him in a spell, as soon as he began to attend to them.”"
+}

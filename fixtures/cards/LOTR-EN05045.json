@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05045.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "45",
+  "name": "Berserk Rager",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nBerserk Rager is strength +1 for each wound on a character in its skirmish.\n<phase>Skirmish</phase>: Remove 3 <culture>Isengard</culture> tokens from a machine and exert Berserk Rager twice to wound every ally twice.",
+  "flavor_text": "Their mission at Helm's Deep was to clear the walls."
+}

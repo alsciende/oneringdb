@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN01007.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "7",
+  "name": "Dwarf Guard",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Dwarf",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "To play, spot a Dwarf.",
+  "flavor_text": "Dwarves from Dáin’s people are stout companions, trustworthy and loyal."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03019.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "19",
+  "name": "Gift of the Evenstar",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "To play, spot Arwen. Bearer must be Aragorn.\n<phase>Skirmish</phase>: Exert Aragorn or discard 2 cards from hand to make a minion skirmishing Aragorn strength −1.",
+  "flavor_text": "“‘It is mine to give to whom I will… like my heart.’”"
+}

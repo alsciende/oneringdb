@@ -1,9 +1,0 @@
-{
-    "id": "southron-wanderer",
-    "title": "Southron Wanderer",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword> <keyword>Ambush<\/keyword> <symbol>twilight1<\/symbol>.<br><keyword>Assignment:<\/keyword> Exert this minion and spot 5 companions to assign this minion to the Ring-bearer.  <br>The Free Peoples player may add <symbol>twilight4<\/symbol> to prevent this. "
-}

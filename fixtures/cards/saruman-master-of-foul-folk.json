@@ -1,9 +1,0 @@
-{
-    "id": "saruman-master-of-foul-folk",
-    "title": "Saruman",
-    "subtitle": "Master of Foul Folk",
-    "culture": "isengard",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "Saruman may not take wounds during the archery phase and may not be assigned to a skirmish. <br>Each time the fellowship moves, you may heal each <symbol>isengard<\/symbol> Orc twice. <br><keyword>Shadow:<\/keyword> Exert Saruman to play an <symbol>isengard<\/symbol> possession from your discard pile."
-}

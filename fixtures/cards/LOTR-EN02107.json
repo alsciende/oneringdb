@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02107.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "107",
+  "name": "Not Feared in Sunlight",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 2 Hobbits. Plays to your support area.\nEach Nazgûl is strength −4. Discard this condition during the regroup phase.",
+  "flavor_text": "“‘...our shapes cast shadows in their minds, which only the noon sun destroys....’”"
+}

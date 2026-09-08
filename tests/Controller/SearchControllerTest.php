@@ -19,7 +19,7 @@ class SearchControllerTest extends WebTestCase
     public static function searchProvider(): array
     {
         return [
-            ['t:ring', 4],
+            ['t:ring', 6],
             ['Aragorn', 11],
             ['xxxx', 0],
         ];

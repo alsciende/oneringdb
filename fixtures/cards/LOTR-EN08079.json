@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08079.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "79",
+  "name": "Úlairë Attëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Thrall of The One",
+  "twilight_cost": "6",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<keyword>Enduring</keyword>.\n<phase>Regroup</phase>: Exert Úlairë Attëa and spot your <culture>Wraith</culture> minion to return that minion to your hand.",
+  "flavor_text": "“‘They are looking for something, surely?’”"
+}

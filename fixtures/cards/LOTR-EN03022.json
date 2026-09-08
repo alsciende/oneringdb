@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03022.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "22",
+  "name": "Master of Healing",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase> or <phase>Regroup</phase>: Spot Elrond (or 2 <culture>Elven</culture> allies) to heal a companion or ally.",
+  "flavor_text": "“‘Elrond has cured you: he has tended you for days, ever since you were brought in.’”"
+}

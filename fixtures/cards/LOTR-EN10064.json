@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10064.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "64",
+  "name": "Stooping to the Kill",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "While you have initiative, each of your <culture>Wraith</culture> minions is <keyword>damage +1</keyword>.\n<phase>Skirmish</phase>: Discard this condition to make a <culture>Wraith</culture> minion strength +2.",
+  "flavor_text": "“And with a piercing cry out of the dim sky fell the winged shadows....”"
+}

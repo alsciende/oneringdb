@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN04265.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "265",
+  "name": "Elite Rider",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "twilight_cost": "3",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "When this companion is in your starting fellowship, his twilight cost is −1.\nWhile skirmishing a wounded minion, this companion is strength +2.",
+  "flavor_text": "“After him they rode: a long line of mail-clad men, swift, shining, fell and fair to look upon.”"
+}

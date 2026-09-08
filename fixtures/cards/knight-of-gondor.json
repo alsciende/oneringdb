@@ -1,9 +1,0 @@
-{
-    "id": "knight-of-gondor",
-    "title": "Knight of Gondor",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Knight.<\/keyword><br><keyword>Fellowship:<\/keyword> Discard a <symbol>gondor<\/symbol> condition to heal this companion."
-}

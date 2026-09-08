@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05061.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "61",
+  "name": "Uruk Engineer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nWhen you play this minion, you may place an <culture>Isengard</culture> token on a machine.",
+  "flavor_text": "Trained Uruk-hai operated Saruman’s siege engines at Helm’s Deep."
+}

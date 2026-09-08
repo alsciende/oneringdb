@@ -1,9 +1,0 @@
-{
-    "id": "new-errand",
-    "title": "New Errand",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Spot a Ring-bound Man to make a minion’s site number +2. If that minion loses this skirmish, you may wound a minion. "
-}

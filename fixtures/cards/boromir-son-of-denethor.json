@@ -1,9 +1,0 @@
-{
-    "id": "boromir-son-of-denethor",
-    "title": "Boromir",
-    "subtitle": "Son of Denethor",
-    "culture": "gondor",
-    "twilight_cost": 3,
-    "type": "companion",
-    "text": "<keyword>Skirmish:<\/keyword> Exert Boromir to make a Hobbit strength +3."
-}

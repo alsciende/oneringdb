@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07305.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "305",
+  "name": "Orc Savage",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "While you can spot 6 companions and another <culture>Sauron</culture> Orc, this minion is strength +9 and <keyword>fierce</keyword>.",
+  "flavor_text": "“North amid the noisome pits lay the first of the great heaps and hills of slag….”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08059.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "59",
+  "name": "Corsair War Galley",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "When you play this possession, you may add a <culture>Raider</culture> token here.\nWhile you can spot 6 <culture>Raider</culture> tokens and a <culture>Raider</culture> Man, the Shadow has initiative, regardless of the Free Peoples player's hand.\n<phase>Regroup</phase>: Add <twilight>1</twilight> for each <culture>Raider</culture> token you can spot. Discard this possession."
+}

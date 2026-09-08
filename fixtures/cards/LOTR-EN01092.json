@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01092.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "92",
+  "name": "Armor",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Armor",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a Man.\nBearer takes no more than 1 wound during each skirmish phase.",
+  "flavor_text": "“Then Elendil the Tall and his mighty sons, Isildur and Anárion, became great lords; and the North-realm they made in Arnor, and the South-realm in Gondor....”"
+}

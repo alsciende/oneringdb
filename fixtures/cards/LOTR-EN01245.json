@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01245.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "245",
+  "name": "Desperate Measures",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "game_text": "<phase>Maneuver</phase>: Spot a <culture>Sauron</culture> Orc and remove a burden to make the Free Peoples player discard top 5 cards from his draw deck.",
+  "flavor_text": "“‘Go back, Sam. You can’t swim. I’m going to Mordor alone.’”"
+}

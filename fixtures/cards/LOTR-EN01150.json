@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01150.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "150",
+  "name": "Uruk Rager",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nEach time this minion wins a skirmish, the Free Peoples player must discard the top 2 cards of his or her draw deck.",
+  "flavor_text": "A bloodthirsty bellow from a huge Uruk can win a skirmish before it begins."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08099.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "99",
+  "name": "Gorgoroth Patrol",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Regroup</phase>: If this minion is stacked on a site you control, discard this minion to make the move limit for this turn –1.",
+  "flavor_text": "“…new strength came now streaming to the field out of Osgiliath.”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04251.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "251",
+  "name": "Southron Fighter",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Ambush</keyword> <twilight>1</twilight>.\n<phase>Maneuver</phase>: Exert this minion and spot 5 companions to make the Free Peoples player exert a companion.",
+  "flavor_text": "“‘...they have come out of the South beyond the Great River’s end....’”"
+}

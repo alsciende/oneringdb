@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07249.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "249",
+  "name": "Seeking New Foes",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Rohan",
+  "twilight_cost": "2",
+  "game_text": "Skirmishes are resolved in an order decided by the first Shadow player.\nEach time a <culture>Rohan</culture> Man wins a skirmish, place a <culture>Rohan</culture> token here. Each <culture>Rohan</culture> Man is strength +1 for each token here.\nDiscard this condition during the regroup phase."
+}

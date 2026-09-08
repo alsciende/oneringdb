@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04035.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "35",
+  "name": "Wake of Destruction",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dunland",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Spot 2 sites you control to make each of your <culture>Dunland</culture> Men <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "The anger of the wild men increased with every home they pillaged."
+}

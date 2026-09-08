@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04166.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "166",
+  "name": "The Palantír of Orthanc",
+  "unique": true,
+  "type": "Artifact",
+  "culture": "Isengard",
+  "subtitle": "Seventh Seeing-stone",
+  "twilight_cost": "0",
+  "game_text": "To play, spot an <culture>Isengard</culture> minion. Plays to your support area.\n<phase>Shadow</phase>: Spot an <culture>Isengard</culture> minion and remove <twilight>2</twilight> to reveal the top card of any draw deck. You may place that card beneath that draw deck.",
+  "flavor_text": "“‘The name meant that which looks far away.’”"
+}

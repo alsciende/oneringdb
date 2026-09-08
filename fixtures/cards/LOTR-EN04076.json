@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN04076.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "76",
+  "name": "Lórien Guardian",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "<phase>Regroup</phase>: Exert this companion to make a Shadow player wound a minion.",
+  "flavor_text": "Haldir’s Elven bowmen were experienced defenders of the borders of the Golden Wood."
+}

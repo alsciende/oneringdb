@@ -1,9 +1,0 @@
-{
-    "id": "corsair-brute",
-    "title": "Corsair Brute",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Corsair.<\/keyword> <br>At the start of each skirmish involving this minion, you may remove a <symbol>raider<\/symbol> token to wound a companion he is skirmishing. "
-}

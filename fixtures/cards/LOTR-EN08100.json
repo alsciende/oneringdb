@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08100.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "100",
+  "name": "Gorgoroth Servitor",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Archery</phase>: Return this minion to your hand to make the fellowship archery total –2 and prevent the Free Peoples player from using archery special abilities.",
+  "flavor_text": "“…hurrying orcs were digging… just out of bowshot from the walls….”"
+}

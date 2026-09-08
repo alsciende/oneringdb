@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01365.png",
+  "set_number": "1",
+  "rarity": "P",
+  "card_number": "365",
+  "name": "Aragorn",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "King in Exile",
+  "twilight_cost": "4",
+  "strength": "8",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Ranger</keyword>. At the start of each of your turns, you may heal another companion who has the Aragorn signet.",
+  "flavor_text": "“‘He turned from that path a long time ago. He has chosen exile....’”"
+}

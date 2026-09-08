@@ -1,9 +1,0 @@
-{
-    "id": "cruel-caradhras",
-    "title": "Cruel Caradhras",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword> <keyword>Weather.<\/keyword>  <br><keyword>Maneuver:<\/keyword> Exert a <symbol>isengard<\/symbol> minion to make the opponent choose to either exert the Ring-bearer or add a burden."
-}

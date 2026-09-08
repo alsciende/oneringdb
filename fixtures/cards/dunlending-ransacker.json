@@ -1,9 +1,0 @@
-{
-    "id": "dunlending-ransacker",
-    "title": "Dunlending Ransacker",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "Each time this minion wins a skirmish, you may spot another <symbol>dunland<\/symbol> Man to take control of a site. "
-}

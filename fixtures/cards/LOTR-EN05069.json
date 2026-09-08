@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05069.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "69",
+  "name": "Wolves of Isengard",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "Plays on a plains site you control.\n<phase>Regroup</phase>: Exert an <culture>Isengard</culture> Orc to make the Free Peoples player wound a companion.",
+  "flavor_text": "Saruman’s warg-riders traveled the plains faster than even the Riders of Rohan."
+}

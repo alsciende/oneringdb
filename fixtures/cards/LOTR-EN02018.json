@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02018.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "18",
+  "name": "Hosts of the Last Alliance",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\nWhile you can spot an Elf companion, the minion archery total is −1.\n<phase>Response</phase>: If an Elf is about to take a wound, discard this condition to prevent that wound.",
+  "flavor_text": "“‘...many great princes and captains were assembled.’”"
+}

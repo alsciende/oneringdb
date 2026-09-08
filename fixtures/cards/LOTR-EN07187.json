@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07187.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "187",
+  "name": "Morgul Brawler",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "While the Ring-bearer is exhausted, this minion is strength +3, <keyword>fierce</keyword> and <keyword>damage +1</keyword>."
+}

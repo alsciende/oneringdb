@@ -1,9 +1,0 @@
-{
-    "id": "curse-their-foul-feet",
-    "title": "Curse Their Foul Feet!",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Fellowship:<\/keyword> Exert an Elf to reveal an opponent’s hand. That player discards a card from hand for each Orc revealed."
-}

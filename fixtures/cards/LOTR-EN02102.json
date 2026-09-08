@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02102.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "102",
+  "name": "Frodo",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Reluctant Adventurer",
+  "twilight_cost": "0",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Ring-bearer</keyword> (resistance 10).\nThe cost of each artifact, possession, and <culture>Shire</culture> tale played on Frodo is −1.",
+  "flavor_text": "“‘I am not made for perilous quests. I wish I had never seen the Ring! Why did it come to me? Why was I chosen?’”"
+}

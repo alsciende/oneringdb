@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04004.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "4",
+  "name": "Band of Wild Men",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "Each time this minion wins a skirmish, you may make it <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "“The Wild Men of Dunland have no love for Théoden of Rohan since he took their land.”"
+}

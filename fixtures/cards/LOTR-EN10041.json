@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10041.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "41",
+  "name": "Easterling Pillager",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>. <keyword>Fierce</keyword>.\nWhen you play this minion, you may spot another Easterling to add a burden for each companion over 5.",
+  "flavor_text": "“...for the sack of the City and the rape of Gondor....”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04242.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "242",
+  "name": "Raiders From the East",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Raider",
+  "twilight_cost": "0",
+  "game_text": "Plays to your support area.\n<phase>Shadow</phase>: Remove <twilight>3</twilight> and exert a <culture>Raider</culture> Man to place a <culture>Raider</culture> token here.\n<phase>Maneuver</phase>: Remove a <culture>Raider</culture> token here to add <twilight>1</twilight>.",
+  "flavor_text": "The Easterlings raid their enemies to gather supplies and equipment."
+}

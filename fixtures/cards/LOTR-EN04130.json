@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN04130.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "130",
+  "name": "Ranger of Ithilien",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "twilight_cost": "3",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<keyword>Ring-bound</keyword>. <keyword>Ranger</keyword>.\nWhen this companion is in your starting fellowship, his twilight cost is -1.\nWhile skirmishing a roaming minion, this companion is strength +2.",
+  "flavor_text": "“...they were goodly men, pale-skinned, dark of hair, with grey eyes and faces sad and proud.”"
+}

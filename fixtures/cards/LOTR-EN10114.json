@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10114.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "114",
+  "name": "Shadowplay",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 2 <culture>Shire</culture> companions.\nEach time a minion is played, you may exert a Hobbit companion to exert that minion (limit once per turn).",
+  "flavor_text": "“...it saw a great silent shape, cloaked in a grey shadow, looming against the wavering light behind....”"
+}

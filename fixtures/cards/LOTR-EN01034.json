@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01034.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "34",
+  "name": "Celeborn",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Elf",
+  "home_site": "6",
+  "culture": "Elven",
+  "subtitle": "Lord of Lórien",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<phase>Fellowship</phase>: Exert Celeborn to heal an <culture>Elven</culture> ally.",
+  "flavor_text": "“They were clad wholly in white... and the hair of the Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless it were in the depths of their eyes; for these were as keen as lances in the starlight, and yet profound....”"
+}

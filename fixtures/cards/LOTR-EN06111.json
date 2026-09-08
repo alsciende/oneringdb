@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN06111.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "111",
+  "name": "Kept Safe",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Shire",
+  "twilight_cost": "2",
+  "game_text": "Plays to your support area. When you play this condition, place 2 <culture>Shire</culture> tokens here.\n<phase>Response</phase>: If an unbound Hobbit is about to take a wound, discard this condition or remove a <culture>Shire</culture> token from here to prevent that wound."
+}

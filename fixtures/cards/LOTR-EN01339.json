@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01339.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "339",
+  "name": "Frodo's Bedroom",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "0",
+  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: Play a Hobbit to draw a card."
+}

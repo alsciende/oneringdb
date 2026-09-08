@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07282.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "282",
+  "name": "Host of Udûn",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "10",
+  "strength": "21",
+  "vitality": "5",
+  "site_number": "6",
+  "game_text": "When you play Host of Udûn, you may remove X threats to make its twilight cost -X.",
+  "flavor_text": "“The great doors of the Black Gate swung back wide. Out of it streamed a great host as swiftly as swirling waters when a sluice is lifted.”"
+}

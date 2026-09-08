@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07124.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "124",
+  "name": "Targon",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<keyword>Ranger</keyword>.\n<phase>Skirmish</phase>: If you have initiative, discard 2 cards from hand to wound a Man Targon is skirmishing.",
+  "flavor_text": "“This is a fortress and a tower of guard and is now in posture of war.”"
+}

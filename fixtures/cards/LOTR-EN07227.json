@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07227.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "227",
+  "name": "Éomer",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Skilled Tactician",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Valiant</keyword>. While you can spot a <culture>Rohan</culture> Man, Éomer's twilight cost is –1.\n<phase>Fellowship</phase>: Play a <culture>Rohan</culture> companion to take a <culture>Rohan</culture> possession or <culture>Rohan</culture> skirmish event into hand from your discard pile.",
+  "flavor_text": "“‘...call the heralds, Éomer.... Let the Riders be marshalled!’”"
+}

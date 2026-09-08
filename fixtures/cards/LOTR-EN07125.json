@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07125.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "125",
+  "name": "Third Level",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "site_number_modifier": "+4",
+  "game_text": "<keyword>Fortification</keyword>.\n<phase>Skirmish</phase>: Exert a <culture>Gondor</culture> Man or spot 2 rangers to transfer this condition from your support area to a minion skirmishing a <culture>Gondor</culture> Man.",
+  "flavor_text": "“…and the third half north….”"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04074.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "74",
+  "name": "Legolas",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Elven Comrade",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Archer</keyword>.\n<phase>Skirmish</phase>: Exert Legolas to make a minion skirmishing an unbound companion strength –1 (or –2 if that companion is Gimli).",
+  "flavor_text": "“‘Come, you shall sit behind me, friend Gimli.’”"
+}

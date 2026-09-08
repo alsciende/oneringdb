@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07303.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "303",
+  "name": "Orc Pursuer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<keyword>Tracker</keyword>.\nThe site number of each <culture>Sauron</culture> Orc is −1.\nWhile you have initiative, this minion is strength +5.",
+  "flavor_text": "“…and they knew that they were watched.”"
+}

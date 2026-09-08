@@ -1,9 +1,0 @@
-{
-    "id": "we-are-the-fighting-uruk-hai",
-    "title": "We Are the Fighting Uruk-hai",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Make an Uruk-hai strength +2 (and <keyword>damage +1<\/keyword> if you control a site). "
-}

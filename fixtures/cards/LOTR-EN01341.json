@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01341.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "341",
+  "name": "Rivendell Valley",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "0",
+  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: Play an Elf to draw a card."
+}

@@ -1,9 +1,0 @@
-{
-    "id": "strong-arms",
-    "title": "Strong Arms",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "To play, spot a <symbol>rohan<\/symbol> Man. Plays on a site. <br>This site is a <keyword>Plains.<\/keyword> <br>Each <symbol>rohan<\/symbol> Man is strength +1 at this site."
-}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07152.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "152",
+  "name": "Mûmak Commander",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "8",
+  "strength": "16",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\nTo play, spot a <culture>Raider</culture> Man.\nWhile you can spot 6 threats, each time this minion wins a skirmish, the companion he was skirmishing is killed.",
+  "flavor_text": "“Great was the clash of their meeting.”"
+}

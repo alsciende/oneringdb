@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01300.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "300",
+  "name": "Longbottom Leaf",
+  "unique": false,
+  "type": "Possession",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Pipeweed</keyword>. Plays to your support area.\nWhen you play this possession, you may discard up to 2 cards from hand.",
+  "flavor_text": "Longbottom Leaf is the pipeweed enjoyed by most Hobbits throughout the Shire."
+}

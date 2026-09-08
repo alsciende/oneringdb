@@ -1,9 +1,0 @@
-{
-    "id": "gollum-nasty-treacherous-creature",
-    "title": "Gollum",
-    "subtitle": "Nasty Treacherous Creature",
-    "culture": "gollum",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Regroup:<\/keyword> Discard Gollum to exert a companion or ally."
-}

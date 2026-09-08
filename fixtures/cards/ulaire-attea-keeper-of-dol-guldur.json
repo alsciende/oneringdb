@@ -1,9 +1,0 @@
-{
-    "id": "ulaire-attea-keeper-of-dol-guldur",
-    "title": "Úlairë Attëa",
-    "subtitle": "Keeper of Dol Guldur",
-    "culture": "wraith",
-    "twilight_cost": 6,
-    "type": "minion",
-    "text": "<keyword>Fierce.<\/keyword> <br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight1<\/symbol> to make Úlairë Attëa strength +1 (limit +5)."
-}

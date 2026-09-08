@@ -1,9 +1,0 @@
-{
-    "id": "isengard-ruined",
-    "title": "Isengard Ruined",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 0,
-    "type": "site",
-    "text": "<keyword>Fellowship:<\/keyword> Spot Gandalf to add <symbol>twilight2<\/symbol>. Each player may draw a card."
-}

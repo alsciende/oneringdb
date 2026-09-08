@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07178.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "178",
+  "name": "Foul Clutches",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "Discard 3 cards from hand to make a Nazgûl strength +3.",
+  "flavor_text": "“‘Ah! there one of the foul things is stooping on him.’”"
+}

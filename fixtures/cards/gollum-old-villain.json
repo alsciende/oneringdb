@@ -1,9 +1,0 @@
-{
-    "id": "gollum-old-villain",
-    "title": "Gollum",
-    "subtitle": "Old Villain",
-    "culture": "gollum",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Skirmish:<\/keyword> Discard a card from hand to make Gollum strength +1 (or +2 if skirmishing a Ring-bound companion)."
-}

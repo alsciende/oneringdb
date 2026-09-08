@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07099.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "99",
+  "name": "Great Gate",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Make a <culture>Gondor</culture> companion strength +2 and, if you can spot 2 <culture>Gondor</culture> fortifications, exert a minion that companion is skirmishing.",
+  "flavor_text": "“…and its iron doors rolled back before them.”"
+}

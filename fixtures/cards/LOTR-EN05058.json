@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN05058.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "58",
+  "name": "Sharku",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "subtitle": "Warg-captain",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Warg-rider</keyword>.\nWhile Sharku is not exhausted, he is <keyword>fierce</keyword>.\nEach time you play an <culture>Isengard</culture> mount, you may make the Free Peoples player exert a companion (except a Hobbit).",
+  "flavor_text": "Only Sharku commanded enough respect to control Saruman’s warg-riders."
+}

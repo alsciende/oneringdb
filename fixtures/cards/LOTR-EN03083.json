@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03083.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "83",
+  "name": "The Ring Draws Them",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "game_text": "Plays to your support area.\nEach time the fellowship moves, add <twilight>1</twilight> for each burden you can spot.\nAt the end of each of your Shadow phases, exert a Nazgûl or discard this condition.",
+  "flavor_text": "“‘If I move I shall be seen and hunted!’”"
+}

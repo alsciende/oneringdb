@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01128.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "128",
+  "name": "Lurtz's Battle Cry",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make an Uruk-hai strength −1 and <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘Find the Halflings!’”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04254.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "254",
+  "name": "Southron Soldier",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "strength": "4",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Ambush</keyword> <twilight>2</twilight>.",
+  "flavor_text": "The kingdoms of Harad fight countless wars and train thousands of warriors."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06065.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "65",
+  "name": "Isengard Artisan",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "8",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<phase>Regroup</phase>: Discard an <culture>Isengard</culture> Orc to make the Free Peoples player wound a companion.",
+  "flavor_text": "Minions of Orthanc shared their master’s fascination with machines."
+}

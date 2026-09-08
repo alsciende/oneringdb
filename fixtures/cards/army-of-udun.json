@@ -1,9 +1,0 @@
-{
-    "id": "army-of-udun",
-    "title": "Army of Udûn",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 9,
-    "type": "minion",
-    "text": "<keyword>Shadow:<\/keyword> Discard a <symbol>sauron<\/symbol> Orc to add a threat. <br><keyword>Skirmish:<\/keyword> Remove a threat to make Army of Udûn strength +1. <br><keyword>Regroup:<\/keyword> Discard Army of Udûn and X other <symbol>sauron<\/symbol> Orcs to add X threats."
-}

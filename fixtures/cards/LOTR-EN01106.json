@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01106.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "106",
+  "name": "Gondor's Vengeance",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Regroup</phase>: Exert a ranger companion to discard a minion.",
+  "flavor_text": "A Ranger in the wild is a deadly foe for the forces of the Shadow."
+}

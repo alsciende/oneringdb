@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN04132.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "132",
+  "name": "Ranger's Sword",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Gondor",
+  "subtitle": "Blade of Aragorn",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Aragorn.\nWhile skirmishing an Uruk-hai, Aragorn is strength +2.",
+  "flavor_text": "“‘I am not weaponless.’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "baruk-khazad",
-    "title": "Baruk Khazâd",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Exert a Dwarf to wound a minion. You may take the next maneuver action."
-}

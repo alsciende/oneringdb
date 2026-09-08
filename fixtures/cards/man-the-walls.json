@@ -1,9 +1,0 @@
-{
-    "id": "man-the-walls",
-    "title": "Man the Walls",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "The site number of each minion skirmishing a <symbol>gondor<\/symbol> Man is +1."
-}

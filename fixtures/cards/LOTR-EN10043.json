@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN10043.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "43",
+  "name": "Field of the Fallen",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a <culture>Raider</culture> Man.\nWhile there is a character in the dead pile, each companion of the same culture as that character is strength −1.\n<phase>Skirmish</phase>: Exert your Southron to make him strength +1."
+}

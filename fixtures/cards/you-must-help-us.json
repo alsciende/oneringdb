@@ -1,9 +1,0 @@
-{
-    "id": "you-must-help-us",
-    "title": "You Must Help Us",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Fellowship:<\/keyword> Play Sméagol from your discard pile to heal each Ring-bound Hobbit twice."
-}

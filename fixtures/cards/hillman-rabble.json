@@ -1,9 +1,0 @@
-{
-    "id": "hillman-rabble",
-    "title": "Hillman Rabble",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "Each time this minion wins a skirmish, you may stack it on a site you control. <br><keyword>Shadow:<\/keyword> If stacked on a site you control, play this minion. Its twilight cost is -2. "
-}

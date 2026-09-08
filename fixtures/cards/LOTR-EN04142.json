@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04142.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "142",
+  "name": "Broad-bladed Sword",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be an Uruk-hai.\nBearer may not take wounds (except during skirmish phases).",
+  "flavor_text": "“They were armed with short broad-bladed swords, not with the curved scimitars usual with Orcs....”"
+}

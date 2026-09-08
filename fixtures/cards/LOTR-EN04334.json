@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04334.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "334",
+  "name": "Rohirrim Village",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "3",
+  "game_text": "Each <culture>Dunland</culture> Man may not take wounds during the archery phase."
+}

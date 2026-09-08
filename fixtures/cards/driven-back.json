@@ -1,9 +1,0 @@
-{
-    "id": "driven-back",
-    "title": "Driven Back",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 3,
-    "type": "event",
-    "text": "<keyword>Archery:<\/keyword> Spot 2 <symbol>isengard<\/symbol> archers to make the minion archery total +1 for each card in the dead pile. "
-}

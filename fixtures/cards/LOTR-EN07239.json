@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07239.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "239",
+  "name": "Léowyn",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "3",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "<keyword>Villager</keyword>.\n<phase>Fellowship</phase>: If you have initiative, discard 2 cards from hand to heal a <culture>Rohan</culture> Man.",
+  "flavor_text": "“...when they saw the king they cried with glad voices: ‘Théoden King! Théoden King!’”"
+}

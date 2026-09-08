@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02086.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "86",
+  "name": "Wraith-world",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Spot a twilight Nazgûl and the Ring-bearer wearing The One Ring to add 3 burdens.",
+  "flavor_text": "“‘He is passing into the shadow world, he will soon become a wraith like them.’”"
+}

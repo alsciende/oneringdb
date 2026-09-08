@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04187.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "187",
+  "name": "Uruk Foot Soldier",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "1",
+  "site_number": "5",
+  "game_text": "<keyword>Tracker</keyword>. <keyword>Fierce</keyword>.\nDuring a fierce skirmish involving this minion, it is strength +3 and <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘Evening's coming on, and we ought to get a move on.’”"
+}

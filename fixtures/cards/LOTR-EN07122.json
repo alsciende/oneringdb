@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07122.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "122",
+  "name": "Strong and Old",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 2 <culture>Gondor</culture> Men.\nThe twilight cost of each of your <culture>Gondor</culture> fortifications is −1.\n<phase>Response</phase>: If an opponent is about to control a site, discard 2 <culture>Gondor</culture> fortifications to prevent this."
+}

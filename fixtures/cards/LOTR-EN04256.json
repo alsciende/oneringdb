@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN04256.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "256",
+  "name": "Southron Troop",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "7",
+  "strength": "14",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Archer</keyword>. <keyword>Ambush</keyword> <twilight>1</twilight>. To play, spot a Southron.\n<phase>Assignment</phase>: Spot 7 companions to assign this minion to the Ring-bearer. The Free Peoples player may make you discard a companion (except the Ring-bearer) to prevent this."
+}

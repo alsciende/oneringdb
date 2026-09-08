@@ -1,9 +1,0 @@
-{
-    "id": "down-from-the-hills",
-    "title": "Down From the Hills",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 5,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword><br><keyword>Maneuver:<\/keyword> Exert Gandalf 3 times to make an unbound companion with the Gandalf signet strength +5, <keyword>defender +1,<\/keyword> <keyword>damage +2,<\/keyword> and unable to take wounds until the regroup phase."
-}

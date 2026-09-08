@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04190.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "190",
+  "name": "Uruk Pursuer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Tracker</keyword>. <keyword>Fierce</keyword>.\nUnbound Hobbits may not be discarded.\n<phase>Response</phase>: If an unbound Hobbit is killed, exert this minion to make the Free Peoples player wound an unbound companion.",
+  "flavor_text": "“‘None of that! Hold your tongues.’”"
+}

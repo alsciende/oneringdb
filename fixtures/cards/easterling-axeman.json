@@ -1,9 +1,0 @@
-{
-    "id": "easterling-axeman",
-    "title": "Easterling Axeman",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Easterling.<\/keyword><br>While you can spot 2 burdens, this minion is strength +3 and <keyword>fierce.<\/keyword>"
-}

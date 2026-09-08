@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03101.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "101",
+  "name": "Orc Warrior",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Maneuver</phase>: Exert this minion and discard your <culture>Sauron</culture> condition to make the Free Peoples player discard the top 2 cards from his or her draw deck.",
+  "flavor_text": "“Orcs were multiplying again in the mountains.”"
+}

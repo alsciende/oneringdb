@@ -1,9 +1,0 @@
-{
-    "id": "corsair-buccaneer",
-    "title": "Corsair Buccaneer",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Corsair.<\/keyword> <br>When you play this minion, you may remove a threat to add 2 <symbol>raider<\/symbol> tokens to a card that already has a <symbol>raider<\/symbol> token on it."
-}

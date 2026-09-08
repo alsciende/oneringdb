@@ -1,9 +1,0 @@
-{
-    "id": "goblin-spear",
-    "title": "Goblin Spear",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be a <symbol>moria<\/symbol> minion.  <br>If bearer kills a companion in a skirmish, add 1 burden (or 2 burdens if that companion was a Hobbit)."
-}

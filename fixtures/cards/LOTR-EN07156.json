@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07156.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "156",
+  "name": "Raider Halberd",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Raider",
+  "twilight_cost": "0",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Raider</culture> Man.\n<phase>Skirmish</phase>: Exert bearer to add <twilight>2</twilight>.",
+  "flavor_text": "“...the drawing of the scimitars of the Southrons was like a glitter of stars.”"
+}

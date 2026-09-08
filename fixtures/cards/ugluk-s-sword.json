@@ -1,9 +1,0 @@
-{
-    "id": "ugluk-s-sword",
-    "title": "Uglúk's Sword",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be an Uruk-hai.<br><keyword>Shadow:<\/keyword> If bearer is Uglúk, exert it and discard a minion from hand to play a minion. Its twilight cost is -3. "
-}

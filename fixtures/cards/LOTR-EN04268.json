@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04268.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "268",
+  "name": "Éomer's Spear",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\nIf bearer is Éomer and he is mounted, Éomer is <keyword>damage +2</keyword>.",
+  "flavor_text": "“He advanced until the point of his spear was within a foot of Aragorn's breast.”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "the-underdeeps-of-moria",
-    "title": "The Underdeeps of Moria",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "<br><keyword>Shadow:<\/keyword> Remove <symbol>twilight3<\/symbol> to reveal the bottom card of your draw deck. If it is a <symbol>moria<\/symbol> Orc, take it into hand.  Otherwise, discard it."
-}

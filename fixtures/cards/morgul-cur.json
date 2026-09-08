@@ -1,9 +1,0 @@
-{
-    "id": "morgul-cur",
-    "title": "Morgul Cur",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "While you can spot a Nazgûl, this minion is strength +2."
-}

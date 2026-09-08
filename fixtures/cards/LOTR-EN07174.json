@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07174.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "174",
+  "name": "Called",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<phase>Assignment</phase>: Remove 5 threats to assign a Nazgûl to a companion (except the Ring-bearer). The Free Peoples player may discard that companion.",
+  "flavor_text": "“...sensing some other power within his valley.”"
+}

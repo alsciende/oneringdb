@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02096.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "96",
+  "name": "Bilbo",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Hobbit",
+  "home_site": "1",
+  "culture": "Shire",
+  "subtitle": "Well-spoken Gentlehobbit",
+  "twilight_cost": "2",
+  "strength": "2",
+  "vitality": "3",
+  "game_text": "<phase>Fellowship</phase>: Exert Bilbo and discard a tale to discard a Shadow condition from an opponent’s support area.",
+  "flavor_text": "“...as Mr. Baggins was generous with his money, most people were willing to forgive him his oddities and his good fortune.”"
+}

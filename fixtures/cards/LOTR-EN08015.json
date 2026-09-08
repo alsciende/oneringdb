@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08015.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "15",
+  "name": "Gandalf",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Wizard",
+  "culture": "Gandalf",
+  "subtitle": "Leader of Men",
+  "twilight_cost": "4",
+  "strength": "7",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "When Gandalf is in your starting fellowship, his twilight cost is −2.",
+  "flavor_text": "“‘...the rule of no realm is mine, neither of Gondor nor any other, great or small.’”"
+}

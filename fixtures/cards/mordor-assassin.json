@@ -1,9 +1,0 @@
-{
-    "id": "mordor-assassin",
-    "title": "Mordor Assassin",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Response:<\/keyword> If a companion is overwhelmed during a skirmish involving a <symbol>sauron<\/symbol> Orc, and threat wounds are about to be placed, remove a threat to assign this minion to the Ring-bearer (even if the Ring-bearer is already assigned)."
-}

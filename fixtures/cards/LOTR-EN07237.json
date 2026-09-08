@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07237.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "237",
+  "name": "His Golden Shield",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Regroup",
+  "culture": "Rohan",
+  "twilight_cost": "0",
+  "game_text": "Spot 3 <culture>Rohan</culture> Men to make an opponent remove <twilight>1</twilight> or place a random card from hand beneath his or her draw deck. Do this once for each card in that player's hand when you play this event.",
+  "flavor_text": "“...even as Oromë the Great in the battle of the Valar when the world was young.”"
+}

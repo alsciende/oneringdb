@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04212.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "212",
+  "name": "Weary",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Search</keyword>. Plays on a companion or ally. Limit 1 per character.\nEach time the Free Peoples player assigns bearer to skirmish an <culture>Isengard</culture> tracker, bearer must exert.",
+  "flavor_text": "“‘We shall not turn back here.’”"
+}

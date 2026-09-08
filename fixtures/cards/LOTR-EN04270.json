@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04270.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "270",
+  "name": "Éowyn",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Lady of Rohan",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Valiant</keyword>.\n<phase>Response</phase>: If an unbound companion is about to take a wound, exert Éowyn and add <twilight>1</twilight> to prevent that wound.",
+  "flavor_text": "“Thus Aragorn... beheld Éowyn... and thought her fair, fair and cold, like a morning of pale spring that is not yet come to womanhood.”"
+}

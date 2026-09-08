@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03121.png",
+  "set_number": "3",
+  "rarity": "P",
+  "card_number": "121",
+  "name": "Legolas",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Son of Thranduil",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Archer</keyword>.\nWhile Legolas is at a river or forest, add 1 to the fellowship archery total.",
+  "flavor_text": "“Praised be the bow of Galadriel, and the hand and eye of Legolas!... That was a mighty shot in the dark, my friend!”"
+}

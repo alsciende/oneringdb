@@ -1,9 +1,0 @@
-{
-    "id": "dark-tidings",
-    "title": "Dark Tidings",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Regroup:<\/keyword> Spot 2 <symbol>raider<\/symbol> Men and remove <symbol>twilight3<\/symbol> to add a threat (limit 1)."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08118.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "118",
+  "name": "City of the Dead",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "4",
+  "shadow_number": "4",
+  "game_text": "<keyword>Underground</keyword>. <phase>Shadow</phase>: Remove 2 burdens to play an enduring minion from your draw deck or discard pile."
+}

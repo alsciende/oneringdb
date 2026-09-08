@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08022.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "22",
+  "name": "Hidden Even From Her",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "Gollum is <keyword>fierce</keyword>.\n<phase>Shadow</phase>: Spot 6 companions to play Gollum from your discard pile and exert a companion. Place this condition on top of your draw deck.",
+  "flavor_text": "“...even when he had come to her again and had bowed low....”"
+}

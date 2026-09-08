@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08054.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "54",
+  "name": "Corsair Freebooter",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Corsair</keyword>.\nWhen you play this minion, you may remove 2 culture tokens to add 2 <culture>Raider</culture> tokens to a card that already has a <culture>Raider</culture> token on it.",
+  "flavor_text": "“...the strength of the rebels in Umbar was a great peril to Gondor....”"
+}

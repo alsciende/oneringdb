@@ -1,9 +1,0 @@
-{
-    "id": "strength-born-of-fear",
-    "title": "Strength Born of Fear",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight3<\/symbol> to make a <symbol>sauron<\/symbol> Orc strength +1."
-}

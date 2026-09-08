@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN06055.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "55",
+  "name": "Ring of Barahir",
+  "unique": true,
+  "type": "Artifact",
+  "subtype": "Ring",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "Bearer must be Aragorn.\nAt the start of each of your turns, you may spot a culture token to heal a companion of that culture.",
+  "flavor_text": "“‘This is a thing of worth beyond your reckoning. For its ancientry alone. It has no power, save the esteem in which those hold it who love my house.’”"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08093.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "93",
+  "name": "Called Away",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "game_text": "<phase>Regroup</phase>: Discard a <culture>Sauron</culture> minion, spot a companion (except the Ring-bearer), and remove X burdens, where X is that companion’s vitality, to return that companion to its owner’s hand.",
+  "flavor_text": "“‘Thus the will of Sauron has entered into Minas Tirith; and thus I have been delayed here.’”"
+}

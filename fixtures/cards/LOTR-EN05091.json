@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN05091.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "91",
+  "name": "Rohirrim Shield",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Shield",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\nThe minion archery total is −1.\n<phase>Regroup</phase>: Discard this possession to heal bearer.",
+  "flavor_text": "The Rohirrim carried round wooden shields, usable on foot and on horseback."
+}

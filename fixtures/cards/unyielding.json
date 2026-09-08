@@ -1,9 +1,0 @@
-{
-    "id": "unyielding",
-    "title": "Unyielding",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "If your <symbol>rohan<\/symbol> Man wins a skirmish, discard a <symbol>rohan<\/symbol> possession to wound a minion or to liberate a site. "
-}

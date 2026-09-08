@@ -1,9 +1,0 @@
-{
-    "id": "fill-with-fear",
-    "title": "Fill With Fear",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": " <br>While you can spot The Balrog, skip the archery phase.  <br><keyword>Maneuver:<\/keyword> Exert The Balrog to discard a ranged weapon. "
-}

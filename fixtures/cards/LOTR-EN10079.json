@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10079.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "79",
+  "name": "Barren Land",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "game_text": "To play, spot a <culture>Sauron</culture> minion.\nEach time the fellowship moves to any site 8 or 9, exert each Ring-bound companion.\n<phase>Shadow</phase>: Discard this condition to play a <culture>Sauron</culture> minion. Its twilight cost is −2.",
+  "flavor_text": "“There the last living things gave up their struggle....”"
+}

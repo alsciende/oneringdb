@@ -1,9 +1,0 @@
-{
-    "id": "great-works-begun-there",
-    "title": "Great Works Begun There",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Tale.<\/keyword> Plays to your support area.<br>Each time you play a Dwarf, you may discard the top 2 cards from your draw deck to take a <symbol>dwarven<\/symbol> event into hand from your discard pile. "
-}

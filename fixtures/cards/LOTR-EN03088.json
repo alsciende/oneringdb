@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03088.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "88",
+  "name": "Get Off the Road!",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Search</keyword>.\n<phase>Shadow</phase>: Spot a <culture>Sauron</culture> minion and a Nazgûl to make the Free Peoples player discard a card from the top of his or her deck for each burden you can spot.",
+  "flavor_text": "“‘The Morgul-lord and his Black Riders have come forth. War is preparing!’”"
+}

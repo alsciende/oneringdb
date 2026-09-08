@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07016.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "16",
+  "name": "Arwen",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Fair Elf Maiden",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Gandalf",
+  "game_text": "While skirmishing a fierce minion, Arwen is strength +3.",
+  "flavor_text": "“‘But she also sends word to you... Fair well, Elfstone!’”"
+}

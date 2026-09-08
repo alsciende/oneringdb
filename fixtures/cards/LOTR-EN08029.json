@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08029.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "29",
+  "name": "Still Far Ahead",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Fellowship or Regroup",
+  "culture": "Gollum",
+  "twilight_cost": "0",
+  "game_text": "Spot Sméagol to play the fellowship’s next site (replacing opponent’s site if necessary). The Shadow number of the fellowship’s next site is −1 until the end of the turn.",
+  "flavor_text": "“...the very crown of this bitter road.”"
+}

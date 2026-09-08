@@ -1,9 +1,0 @@
-{
-    "id": "bred-for-battle",
-    "title": "Bred for Battle",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Exert an Uruk-hai to make it strength +3."
-}

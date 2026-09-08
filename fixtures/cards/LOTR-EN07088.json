@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07088.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "88",
+  "name": "Dervorin",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "At the start of the regroup phase, if you have only 4 cards in hand, you may spot another <culture>Gondor</culture> Man to discard a minion.",
+  "flavor_text": "“The men of Ringló Vale behind the son of their lord….”"
+}

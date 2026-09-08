@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04163.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "163",
+  "name": "No Dawn for Men",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "<phase>Maneuver</phase>: Exert an Uruk-hai to exert X unbound companions, where X is the number of sites you control.",
+  "flavor_text": "“‘This night, the land will be stained with the blood of Rohan….’”"
+}

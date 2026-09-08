@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03014.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "14",
+  "name": "Erestor",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Elf",
+  "home_site": "3",
+  "culture": "Elven",
+  "subtitle": "Chief Advisor to Elrond",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "2",
+  "game_text": "To play, spot an Elf.\n<phase>Response</phase>: If an Elf is about to take a wound from a <culture>Sauron</culture> minion or <culture>Sauron</culture> event, exert Erestor to prevent that wound.",
+  "flavor_text": "“‘Then there are but two courses… to hide the Ring for ever, or to unmake it.’”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04164.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "164",
+  "name": "Orthanc Champion",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "5",
+  "strength": "12",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Assignment</phase>: Exert Orthanc Champion to assign it to an unbound companion. That companion may exert to prevent this.",
+  "flavor_text": "A warrior trained in single combat, he tore a swath through the defenders."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04298.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "298",
+  "name": "Brace of Coneys",
+  "unique": false,
+  "type": "Possession",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a Ring-bound Hobbit.\n<phase>Fellowship</phase>: Discard this possession to remove a burden.",
+  "flavor_text": "“‘He let them stew for close on an hour, testing them now and again with his fork, and tasting the broth.’”"
+}

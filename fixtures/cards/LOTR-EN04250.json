@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04250.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "250",
+  "name": "Southron Explorer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\n<phase>Regroup</phase>: Exert this minion and remove <twilight>5</twilight> to take control of a site.",
+  "flavor_text": "Scouts find oases for Southron armies as they cross the deserts of Harad."
+}

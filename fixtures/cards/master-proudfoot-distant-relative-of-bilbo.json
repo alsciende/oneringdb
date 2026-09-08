@@ -1,9 +1,0 @@
-{
-    "id": "master-proudfoot-distant-relative-of-bilbo",
-    "title": "Master Proudfoot",
-    "subtitle": "Distant Relative of Bilbo",
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "ally",
-    "text": "<keyword>Fellowship:<\/keyword> If the twilight pool has fewer than 3 twilight tokens, add <symbol>twilight2<\/symbol> to reveal the top 3 cards of your draw deck.  Take all <symbol>shire<\/symbol> cards revealed into hand and discard the rest."
-}

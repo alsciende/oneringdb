@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01068.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "68",
+  "name": "The White Arrows of Lórien",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Tale</keyword>. Bearer must be an Elf companion.\n<phase>Archery</phase>: If bearer is an archer, exert bearer to make an opponent discard 2 cards at random from hand.",
+  "flavor_text": "Straight and true, the arrows of the Golden Wood are known to leave a deadly mark."
+}

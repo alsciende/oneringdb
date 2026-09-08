@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04275.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "275",
+  "name": "Forth Eorlingas!",
+  "unique": false,
+  "type": "Event",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Exert Théoden to make a companion who has the Théoden signet <keyword>defender +1</keyword> until the regroup phase.",
+  "flavor_text": "“Behind them from the Deep came the stern cries of men issuing from the caves, driving forth the enemy.”"
+}

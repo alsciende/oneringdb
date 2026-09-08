@@ -1,9 +1,0 @@
-{
-    "id": "uruk-hai-berserker",
-    "title": "Uruk-hai Berserker",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword><br>This minion is strength +1 for each wound on a character in its skirmish."
-}

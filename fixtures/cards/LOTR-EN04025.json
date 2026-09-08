@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04025.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "25",
+  "name": "Hillman Tribe",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "1",
+  "site_number": "3",
+  "game_text": "Each time this minion wins a skirmish, you may spot another <culture>Dunland</culture> minion to take control of a site.",
+  "flavor_text": "“They will not quail at the sun... the wild men of the hills.”"
+}

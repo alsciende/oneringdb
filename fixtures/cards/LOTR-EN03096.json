@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03096.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "96",
+  "name": "Orc Pillager",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "For each Free Peoples card borne by a character this minion is skirmishing, that character is strength –1.",
+  "flavor_text": "Weapons of the West are often powerless against the threat of Sauron."
+}

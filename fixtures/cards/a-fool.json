@@ -1,9 +1,0 @@
-{
-    "id": "a-fool",
-    "title": "A Fool",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 3,
-    "type": "event",
-    "text": "At sites 1<symbol>king<\/symbol> to 5<symbol>king<\/symbol>, heal Gandalf. At any other site, prevent a Hobbit from being overwhelmed unless his or her strength is tripled."
-}

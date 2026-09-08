@@ -1,9 +1,0 @@
-{
-    "id": "nobody-tosses-a-dwarf",
-    "title": "Nobody Tosses a Dwarf",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Response:<\/keyword> If a Dwarf wins a skirmish, make an opponent discard 3 cards from the top of his or her draw deck."
-}

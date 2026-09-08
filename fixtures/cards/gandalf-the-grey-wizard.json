@@ -1,9 +1,0 @@
-{
-    "id": "gandalf-the-grey-wizard",
-    "title": "Gandalf",
-    "subtitle": "The Grey Wizard",
-    "culture": "gandalf",
-    "twilight_cost": 4,
-    "type": "companion",
-    "text": "<keyword>Fellowship:<\/keyword> Exert Gandalf to play a companion who has the Gandalf signet. The twilight cost of that companion is -2."
-}

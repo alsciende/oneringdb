@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN04069.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "69",
+  "name": "Final Count",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\nEach time Legolas wins a skirmish, you may place an <culture>Elven</culture> token on this card.\nWhile you can spot X <culture>Elven</culture> tokens on this card and the same number of <culture>Dwarven</culture> tokens on My Axe Is Notched, Legolas is strength +X (limit +3)."
+}

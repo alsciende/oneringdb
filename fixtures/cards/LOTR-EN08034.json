@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08034.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "34",
+  "name": "Faramir",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Defender of Osgiliath",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Knight</keyword>.\nWhen you play Faramir (except in your starting fellowship), you may reveal the top 10 cards of your draw deck. You may play a knight revealed. Shuffle your draw deck.",
+  "flavor_text": "“‘...I will go and do what I can in his stead — if you command it.’”"
+}

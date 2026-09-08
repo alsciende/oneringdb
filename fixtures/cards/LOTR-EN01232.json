@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01232.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "232",
+  "name": "Úlairë Lemenya",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Lieutenant of Morgul",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "Each companion or ally who bears a <culture>Wraith</culture> condition is strength −2.",
+  "flavor_text": "“‘Do you wish them to find you? They are terrible!’”"
+}

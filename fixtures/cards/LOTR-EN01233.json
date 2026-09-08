@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01233.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "233",
+  "name": "Úlairë Nelya",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Lieutenant of Morgul",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "2",
+  "game_text": "<keyword>Fierce</keyword>.\n<phase>Shadow</phase>: Exert Úlairë Nelya and spot an opponent’s site to replace it with your site of the same number.",
+  "flavor_text": "Many of the Nine were princes of majesty and power."
+}

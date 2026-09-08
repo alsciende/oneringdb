@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06118.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "118",
+  "name": "Hornburg Hall",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "6",
+  "shadow_number": "3",
+  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: Spot 3 companions with the Théoden signet and discard your hand to draw 4 cards."
+}

@@ -1,9 +1,0 @@
-{
-    "id": "ecglaf-courageous-farmer",
-    "title": "Ecglaf",
-    "subtitle": "Courageous Farmer",
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "ally",
-    "text": "<keyword>Villager.<\/keyword><br><keyword>Fellowship:<\/keyword> Exert Ecglaf and spot 2 valiant Men to play a <symbol>rohan<\/symbol> possession from your discard pile."
-}

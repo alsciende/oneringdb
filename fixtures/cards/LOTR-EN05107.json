@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05107.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "107",
+  "name": "Orc Patrol",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<keyword>Tracker</keyword>.\nThe site number of each <culture>Sauron</culture> Orc is −3.\n<phase>Maneuver</phase>: Exert Orc Patrol twice and spot another <culture>Sauron</culture> Orc to discard a condition.",
+  "flavor_text": "Sauron’s Orcs ranged far and wide, searching for Baggins and the Ring."
+}

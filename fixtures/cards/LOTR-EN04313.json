@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04313.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "313",
+  "name": "Pippin",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Just a Nuisance",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Gandalf",
+  "game_text": "<phase>Skirmish</phase>: If Pippin is not assigned to a skirmish, discard him to remove an Uruk-hai from a skirmish involving an unbound companion.",
+  "flavor_text": "“‘What good have I been?... a passenger, a piece of luggage.’”"
+}

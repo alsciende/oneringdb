@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07235.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "235",
+  "name": "Guthláf",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Herald",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<phase>Skirmish</phase>: Discard a <culture>Rohan</culture> condition to make Guthláf strength +1.",
+  "flavor_text": "“And straightaway all the horns in the host were lifted up in music....”"
+}

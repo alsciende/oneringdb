@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN03002.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "2",
+  "name": "Gimli's Pipe",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Pipe",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be Gimli.\n<phase>Fellowship</phase>: Exert Gimli to add 1 to the number of pipes you can spot.",
+  "flavor_text": "“‘And certainly it was from Bree that the art of smoking the genuine weed spread in the recent centuries among Dwarves and such other folk....’”"
+}

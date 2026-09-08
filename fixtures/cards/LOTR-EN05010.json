@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05010.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "10",
+  "name": "Balglin",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Elven Warrior",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "To play, spot an Elf.\nWhile skirmishing a wounded minion, Balglin takes no more than 1 wound during each skirmish phase.",
+  "flavor_text": "He is a strong fighter. He asks for no quarter and gives none."
+}

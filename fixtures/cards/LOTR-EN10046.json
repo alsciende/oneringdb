@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10046.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "46",
+  "name": "Quelled",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Archery",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "Exert a <culture>Raider</culture> Man to discard a Free Peoples condition. If you spot a <culture>Rohan</culture> Man, discard an additional Free Peoples condition.",
+  "flavor_text": "Against the great mounts of the Southron army, Rohirrim steeds could not easily prevail."
+}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN03034.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "34",
+  "name": "Narya",
+  "unique": true,
+  "type": "Artifact",
+  "subtype": "Ring",
+  "culture": "Gandalf",
+  "twilight_cost": "0",
+  "vitality_modifier": "+1",
+  "game_text": "Bearer must be Gandalf.\nAt the start of each of your turns, you may add <twilight>3</twilight> to remove a burden.",
+  "flavor_text": "“For this is the Ring of Fire, and with it you may rekindle hearts in a world that grows chill.”"
+}

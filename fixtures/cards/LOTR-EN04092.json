@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04092.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "92",
+  "name": "Grown Suddenly Tall",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "5",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Fellowship</phase>: Spot Gandalf to discard all conditions.",
+  "flavor_text": "“His hood and grey rags were flung away. His white garments shone.”"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04041.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "41",
+  "name": "Axe of Erebor",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Dwarven",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Gimli.\nHe is <keyword>damage +1</keyword>.\n<phase>Skirmish</phase>: Discard a <culture>Dwarven</culture> condition or a card stacked on a <culture>Dwarven</culture> condition to make Gimli strength +1.",
+  "flavor_text": "“...wherever thou goest my thought goes with thee. But have a care to lay thine axe to the right tree!”"
+}

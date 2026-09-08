@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01259.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "259",
+  "name": "Morgul Warden",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "For each other <culture>Sauron</culture> Orc you can spot, Morgul Warden is strength +1.",
+  "flavor_text": "With blind devotion, the Orcs of Mordor follow orders issued from the Dark Tower."
+}

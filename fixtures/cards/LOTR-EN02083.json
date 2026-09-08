@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02083.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "83",
+  "name": "Úlairë Enquëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Ringwraith in Twilight",
+  "twilight_cost": "6",
+  "strength": "11",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "<keyword>Twilight</keyword>.\nEach time Úlairë Enquëa wins a skirmish, you may exert him to wound the Ring-bearer once (or twice if you can spot 5 burdens).",
+  "flavor_text": "“In their white faces burned keen and merciless eyes....”"
+}

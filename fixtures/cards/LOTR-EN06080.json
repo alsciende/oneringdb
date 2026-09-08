@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06080.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "80",
+  "name": "Southron Archer Legion",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "8",
+  "strength": "13",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Archer</keyword>.\n<phase>Archery</phase>: Remove <twilight>3</twilight> to add 1 to the minion archery total for each companion over 4 (limit +4).",
+  "flavor_text": "“‘But I’ve heard tales of the big folk down away in the Sunlands.’”"
+}

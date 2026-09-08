@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03009.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "9",
+  "name": "Beren and Lúthien",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\n<phase>Skirmish</phase>: Exert an <culture>Elven</culture> ally to discard the bottom card of your draw deck. If that card is an <culture>Elven</culture> card, make a minion skirmishing an Elf strength −1.",
+  "flavor_text": "“‘Tinúviel! Tinúviel! / He called her by her elvish name; / And there she halted listening.’”"
+}

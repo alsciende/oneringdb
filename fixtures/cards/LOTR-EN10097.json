@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10097.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "97",
+  "name": "The Ring is Mine!",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Response",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "If a burden is added, spot a <culture>Sauron</culture> minion to add an additional burden.",
+  "flavor_text": "“‘...I do not choose now to do what I came to do. I will not do this deed.’”"
+}

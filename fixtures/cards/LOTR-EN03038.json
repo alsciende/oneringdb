@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03038.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "38",
+  "name": "Aragorn",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Heir to the White City",
+  "twilight_cost": "4",
+  "strength": "8",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ranger</keyword>.\nEach time the fellowship moves during the fellowship phase, remove <twilight>2</twilight>.",
+  "flavor_text": "“...his hood was cast back, and his dark hair was blowing in the wind, a light was in his eyes: a king returning from exile in his own land.”"
+}

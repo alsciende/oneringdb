@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN02043.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "43",
+  "name": "Lurtz's Sword",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Lurtz.\nHe is <keyword>damage +1</keyword>.\nEach time Lurtz wins a skirmish, the Free Peoples player must discard the top 2 cards of his or her draw deck.",
+  "flavor_text": "The Uruk giant laid down his bow and drew a broad-bladed weapon."
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08115.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "115",
+  "name": "Unheeded",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Response",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "If a minion exerts, exert an unbound Hobbit to wound that minion.",
+  "flavor_text": "“…and passing up beneath the hauberk had pierced the sinew behind his mighty knee.”"
+}

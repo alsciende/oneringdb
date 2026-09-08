@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07263.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "263",
+  "name": "Anguish",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "Remove 3 threats to make a character skirmishing a <culture>Sauron</culture> Orc strength −3.",
+  "flavor_text": "“‘...the Rammas is breached far and wide….’”"
+}

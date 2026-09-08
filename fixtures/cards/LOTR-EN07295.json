@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07295.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "295",
+  "name": "Orc Assault Band",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Spot 6 companions and exert this minion to make another <culture>Sauron</culture> Orc strength +6.",
+  "flavor_text": "“The plain was dark with their marching companies….”"
+}

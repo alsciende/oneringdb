@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03085.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "85",
+  "name": "Too Great and Terrible",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Spot a Nazgûl to wound Gandalf twice. The Free Peoples player may discard 2 <culture>Gandalf</culture> cards from hand to prevent this.",
+  "flavor_text": "“His eyes flashed and his face was lit as by a fire within. ‘Do not tempt me! For I do not wish to become like the Dark Lord himself.’”"
+}

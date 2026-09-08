@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN06085.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "85",
+  "name": "Sword of Dol Guldur",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a Nazgûl.\nWhile bearer is Úlairë Toldëa, each time he wins a skirmish the Free Peoples player must discard a Free Peoples possession or a Free Peoples condition.",
+  "flavor_text": "The weapons of the Nine are wrought with sorcery."
+}

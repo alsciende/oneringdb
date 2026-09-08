@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07095.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "95",
+  "name": "Gondor Still Stands",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "3",
+  "game_text": "To play, spot 3 <culture>Gondor</culture> companions.\nWhile no opponent controls a site, wound a minion at the start of each regroup phase.\n<phase>Regroup</phase>: Discard this condition to place a <culture>Gondor</culture> fortification from your discard pile on top of your draw deck."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05024.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "24",
+  "name": "Gollum",
+  "unique": true,
+  "type": "Minion",
+  "culture": "Gollum",
+  "subtitle": "Nasty Treacherous Creature",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "<phase>Regroup</phase>: Discard Gollum to exert a companion or ally.",
+  "flavor_text": "“‘...we won’t let you go, either. You’re full of wickedness and mischief, Gollum.’”"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02082.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "82",
+  "name": "Úlairë Attëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "The Easterling",
+  "twilight_cost": "6",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<keyword>Twilight</keyword>.\nWhen you play Úlairë Attëa, you may wound an ally.",
+  "flavor_text": "“‘They had words with Harry at Westgate on Monday.... He was white and shaking when they left him.’”"
+}

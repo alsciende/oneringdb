@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10088.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "88",
+  "name": "Gothmog",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "subtitle": "Lieutenant of Morgul",
+  "twilight_cost": "6",
+  "strength": "13",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Besieger</keyword>.\nWhen you play Gothmog, the Free Peoples player must wound a companion for each site you control.\nWhile you control a site, Gothmog is <keyword>fierce</keyword>.",
+  "flavor_text": "“‘Move into the City. Kill all in your path.’”"
+}

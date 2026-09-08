@@ -1,9 +1,0 @@
-{
-    "id": "gorgoroth-engineer",
-    "title": "Gorgoroth Engineer",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Besieger.<\/keyword> <br>When you play this minion from a site you control, add 2 threats."
-}

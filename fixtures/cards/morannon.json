@@ -1,9 +1,0 @@
-{
-    "id": "morannon",
-    "title": "Morannon",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "Plays to your support area.<br>The twilight cost of the first <symbol>sauron<\/symbol> Orc played at site 4<symbol>tower<\/symbol> is -3. <br><keyword>Shadow:<\/keyword> Spot 2 <symbol>sauron<\/symbol> Orcs and discard 4 cards from hand to draw 3 cards. Discard this condition."
-}

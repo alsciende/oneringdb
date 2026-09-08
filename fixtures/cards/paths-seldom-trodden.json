@@ -1,9 +1,0 @@
-{
-    "id": "paths-seldom-trodden",
-    "title": "Paths Seldom Trodden",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Search.<\/keyword> To play, spot a Nazgûl.   <br><keyword>Shadow:<\/keyword> Remove <symbol>twilight3<\/symbol> to replace the fellowship’s site with your version of the same site."
-}

@@ -1,9 +1,0 @@
-{
-    "id": "vile-blade",
-    "title": "Vile Blade",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be a <symbol>sauron<\/symbol> Orc.  <br>Bearer is strength +2 while skirmishing a Man or Elf. "
-}

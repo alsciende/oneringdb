@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01181.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "181",
+  "name": "Goblin Sneak",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "When you play this minion, you may place a <culture>Moria</culture> Orc from your discard pile beneath your draw deck.",
+  "flavor_text": "Their limber forms allow the Goblins of Moria to slither past barred doors and collapsed passageways."
+}

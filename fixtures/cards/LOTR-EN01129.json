@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01129.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "129",
+  "name": "The Misadventure of Mr. Underhill",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "To play, exert an Uruk-hai. Plays to your support area.\nThe twilight cost of each companion played to a site which is not a sanctuary is +2.",
+  "flavor_text": "“‘You're drawing far too much attention to yourself... Mr. Underhill.’”"
+}

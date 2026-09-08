@@ -1,9 +1,0 @@
-{
-    "id": "sharku-vile-marauder",
-    "title": "Sharku",
-    "subtitle": "Vile Marauder",
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Warg-rider<\/keyword>. While Sharku is not exhausted, he is <keyword>fierce<\/keyword>. <keyword>Regroup:<\/keyword> Exert Sharku to add <symbol>twilight1<\/symbol>."
-}

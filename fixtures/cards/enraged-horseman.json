@@ -1,9 +1,0 @@
-{
-    "id": "enraged-horseman",
-    "title": "Enraged Horseman",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "While you can spot another <symbol>rohan<\/symbol> Man and this companion is skirmishing a wounded minion, this companion is strength +2 and <keyword>Damage +1.<\/keyword>"
-}

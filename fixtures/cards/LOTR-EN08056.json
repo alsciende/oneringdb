@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08056.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "56",
+  "name": "Corsair Lookout",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "<keyword>Corsair</keyword>.\nWhen you play this minion, if you have initiative, you may discard an ally to add 2 <culture>Raider</culture> tokens to a card that already has a <culture>Raider</culture> token on it.",
+  "flavor_text": "“...watchmen on the walls saw afar a new sight of fear, and their last hope left them.”"
+}

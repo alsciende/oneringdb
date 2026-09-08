@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10044.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "44",
+  "name": "High Vantage",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Shadow",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "Until the end of the assignment phase, each time a Southron is about to take a wound, prevent that.",
+  "flavor_text": "Southrons rain arrows down upon their enemies from their defended perch atop their great beasts of war."
+}

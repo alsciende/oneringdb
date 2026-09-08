@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07247.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "247",
+  "name": "Rohirrim Herdsman",
+  "unique": false,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "3",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "<keyword>Villager</keyword>. To play, spot 2 <culture>Rohan</culture> Men.\n<phase>Regroup</phase>: Discard 3 cards from hand to remove a threat.",
+  "flavor_text": "“...he found the remaining strength of his people already assembled....”"
+}

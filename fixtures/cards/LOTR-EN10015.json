@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10015.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "15",
+  "name": "Brooding on Tomorrow",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "Each time you lose initiative (except during the fellowship phase), you may spot a <culture>Gandalf</culture> companion to choose an opponent who must discard one of his or her conditions.",
+  "flavor_text": "“‘...tomorrow will be certain to bring worse than today, for many days to come.’”"
+}

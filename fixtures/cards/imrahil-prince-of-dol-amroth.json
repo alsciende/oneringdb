@@ -1,9 +1,0 @@
-{
-    "id": "imrahil-prince-of-dol-amroth",
-    "title": "Imrahil",
-    "subtitle": "Prince of Dol Amroth",
-    "culture": "gondor",
-    "twilight_cost": 3,
-    "type": "companion",
-    "text": "<keyword>Knight.<\/keyword> To play, spot a knight. <br>Each time Imrahil wins a skirmish, you may exert 2 minions."
-}

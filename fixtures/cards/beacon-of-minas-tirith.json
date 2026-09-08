@@ -1,9 +1,0 @@
-{
-    "id": "beacon-of-minas-tirith",
-    "title": "Beacon of Minas Tirith",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 0,
-    "type": "site",
-    "text": "<keyword>Sanctuary.<\/keyword> <keyword>Fellowship:<\/keyword> If you cannot spot 3 threats, add a threat to heal a companion."
-}

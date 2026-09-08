@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04146.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "146",
+  "name": "Come Down",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "Plays to your support area.\n<phase>Archery</phase>: Spot 2 <culture>Isengard</culture> archers to make allies take wounds from archery fire instead of companions.",
+  "flavor_text": "“‘We are the fighting Uruk-hai.... Bring out your skulking king!’”"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN03107.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "107",
+  "name": "Frodo's Pipe",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Pipe",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be Frodo.\n<phase>Fellowship</phase>: Discard a pipeweed possession and spot X pipes to heal a companion with the Frodo signet X times.",
+  "flavor_text": "“All the same, observations that I have made on my own many journeys south have convinced me that the weed itself is not native to our parts of the world.”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07194.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "194",
+  "name": "Morgul Mongrel",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "While you can spot 3 wounds on the Ring-bearer, this minion is <keyword>fierce</keyword> and <keyword>damage +1</keyword>.",
+  "flavor_text": "“The old wound throbbed with pain and a great chill spread towards Frodo’s heart.”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03049.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "49",
+  "name": "Abandoning Reason for Madness",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<phase>Shadow</phase>: Spot an <culture>Isengard</culture> minion to discard up to 3 cards from hand and draw an equal number of cards.",
+  "flavor_text": "“‘And why not, Gandalf?... Why not? The Ruling Ring? If we could command that, then the power would pass to us.’”"
+}

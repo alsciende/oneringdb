@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04097.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "97",
+  "name": "Long I Fell",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Skirmish</phase>: Spot Gandalf to prevent all wounds to him. Any Shadow player may make you wound a minion to prevent this.",
+  "flavor_text": "“‘His fire was about me. I was burned.’”"
+}

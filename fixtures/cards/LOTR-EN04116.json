@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04116.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "116",
+  "name": "Faramir",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Captain of Gondor",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Ring-bound</keyword>. <keyword>Ranger</keyword>.\nThe twilight cost of each other <culture>Gondor</culture> Man in your starting fellowship is -1.\nWhile skirmishing a roaming minion, Faramir is strength +2.",
+  "flavor_text": "“‘He leads us now in all perilous ventures.’”"
+}

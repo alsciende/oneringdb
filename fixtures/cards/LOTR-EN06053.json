@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06053.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "53",
+  "name": "Mortal Men",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Gondor</culture> Man strength +2 (and exert a minion if you spot a <culture>Rohan</culture> token).",
+  "flavor_text": "“‘I fear neither death nor pain.’”"
+}

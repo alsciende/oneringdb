@@ -1,9 +1,0 @@
-{
-    "id": "endurance-of-dwarves",
-    "title": "Endurance of Dwarves",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "Bearer must be a Dwarf.<br><keyword>Skirmish:<\/keyword> Discard this condition to make bearer strength +1. "
-}

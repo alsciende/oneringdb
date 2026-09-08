@@ -1,9 +1,0 @@
-{
-    "id": "mithrandir-mithrandir",
-    "title": "Mithrandir, Mithrandir!",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 3,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword><br><keyword>Maneuver:<\/keyword> Exert Gandalf to wound each minion who has strength of 6 or less. "
-}

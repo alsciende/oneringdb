@@ -1,9 +1,0 @@
-{
-    "id": "arrow-slits",
-    "title": "Arrow-slits",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Fortification.<\/keyword> <br><keyword>Maneuver:<\/keyword> Spot 2 <symbol>rohan<\/symbol> Men to discard a possession or a machine.<br>Discard this condition."
-}

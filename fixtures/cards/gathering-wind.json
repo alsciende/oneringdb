@@ -1,9 +1,0 @@
-{
-    "id": "gathering-wind",
-    "title": "Gathering Wind",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "Exert your Wizard and choose a number. Make each minion with that twilight cost strength –2 until the regroup phase. "
-}

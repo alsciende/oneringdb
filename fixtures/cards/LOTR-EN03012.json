@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03012.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "12",
+  "name": "Dínendal",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Elf",
+  "home_site": "6",
+  "culture": "Elven",
+  "subtitle": "Silent Scout",
+  "twilight_cost": "2",
+  "strength": "3",
+  "vitality": "3",
+  "game_text": "<keyword>Archer</keyword>.\n<phase>Regroup</phase>: Exert Dínendal to remove <twilight>2</twilight>.",
+  "flavor_text": "“He was almost certain that he could hear stealthy movements.... Not Elves; for the woodland folk were altogether noiseless in their movements.”"
+}

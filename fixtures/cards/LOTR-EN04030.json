@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04030.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "30",
+  "name": "No Retreat",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Dunland",
+  "twilight_cost": "0",
+  "game_text": "Plays on a site you control.\n<phase>Regroup</phase>: Spot 2 <culture>Dunland</culture> Men and discard this condition to make the Free Peoples player choose to move again this turn (if the move limit allows).",
+  "flavor_text": "Hordes from Dunland laid waste to villages as their numbers grew."
+}

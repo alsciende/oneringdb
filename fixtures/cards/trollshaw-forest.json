@@ -1,9 +1,0 @@
-{
-    "id": "trollshaw-forest",
-    "title": "Trollshaw Forest",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 1,
-    "type": "site",
-    "text": "<keyword>Forest.<\/keyword> Each time you play a possession or artifact on your companion, draw a card."
-}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN03055.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "55",
+  "name": "Isengard Axe",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be an <culture>Isengard</culture> Orc.\nWhen you play this weapon, add <twilight>1</twilight>.",
+  "flavor_text": "Axes eat into the forests of Isengard as well as the victims of Saruman’s Orcs."
+}

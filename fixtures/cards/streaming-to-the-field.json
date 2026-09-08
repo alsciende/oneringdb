@@ -1,9 +1,0 @@
-{
-    "id": "streaming-to-the-field",
-    "title": "Streaming to the Field",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 3,
-    "type": "condition",
-    "text": "For each <symbol>wraith<\/symbol> Orc you can spot, the Free Peoples player must have an additional card in hand to have initiative.<br><keyword>Skirmish:<\/keyword> Discard this condition to make a <symbol>wraith<\/symbol> Orc strength +2."
-}

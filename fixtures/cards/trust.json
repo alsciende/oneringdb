@@ -1,9 +1,0 @@
-{
-    "id": "trust",
-    "title": "Trust",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>gondor<\/symbol> Man strength +2 (and heal a companion if you spot an <symbol>elven<\/symbol> token)."
-}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03008.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "8",
+  "name": "Arwen",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Lady Undómiel",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Gandalf",
+  "game_text": "While you can spot 3 <culture>Gondor</culture> allies whose home is site 3, each minion skirmishing Arwen is strength −3.",
+  "flavor_text": "“Queenly she looked, and thought and knowledge were in her glance, as of one who has known many things that the years bring.”"
+}

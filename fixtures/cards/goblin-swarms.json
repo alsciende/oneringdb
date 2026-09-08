@@ -1,9 +1,0 @@
-{
-    "id": "goblin-swarms",
-    "title": "Goblin Swarms",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "Plays to your support area.<br><keyword>Response:<\/keyword> If your <symbol>moria<\/symbol> Orc wins a skirmish, discard cards and wounds on that Orc and stack that Orc on this condition.  <br><keyword>Shadow:<\/keyword> Play an Orc stacked here as if played from hand."
-}

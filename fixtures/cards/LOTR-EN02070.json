@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02070.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "70",
+  "name": "Power and Terror",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "game_text": "<phase>Shadow</phase>: Reveal any number of <culture>Moria</culture> Orcs from your hand to play The Balrog. Its twilight cost is −2 for each Orc revealed.",
+  "flavor_text": "“The ranks of the orcs had opened, and they crowded away, as if they themselves were afraid.”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07093.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "93",
+  "name": "Footman's Armor",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Armor",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a <culture>Gondor</culture> Man.\n<phase>Response</phase>: If bearer is about to be overwhelmed, discard a <culture>Gondor</culture> fortification or a card from hand to make bearer strength +2."
+}

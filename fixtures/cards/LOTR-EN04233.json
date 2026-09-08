@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04233.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "233",
+  "name": "Fearless",
+  "unique": false,
+  "type": "Event",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "game_text": "<phase>Skirmish</phase>: Make a Southron strength +1 for each burden you spot (limit +5), or make a <culture>Raider</culture> Man strength +2.",
+  "flavor_text": "Despite their foreign ways, the Men from the South and East were formidable fighters."
+}

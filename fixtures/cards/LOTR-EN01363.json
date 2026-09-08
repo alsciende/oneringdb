@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01363.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "363",
+  "name": "Tol Brandir",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "9",
+  "shadow_number": "9",
+  "game_text": "<keyword>River</keyword>. <phase>Shadow</phase>: Play up to 3 trackers from your discard pile; end your Shadow phase."
+}

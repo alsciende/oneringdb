@@ -1,9 +1,0 @@
-{
-    "id": "morgul-on-the-march",
-    "title": "Morgul on the March",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "To play, spot a Nazgûl. <br>Each time the Free Peoples player draws a card (except during the regroup phase), add a threat. <br><keyword>Regroup:<\/keyword> Discard a Nazgûl and this condition to add a threat."
-}

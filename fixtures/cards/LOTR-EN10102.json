@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN10102.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "102",
+  "name": "Uruk Axe",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be a <culture>Sauron</culture> minion.\nIf bearer is an Uruk-hai, it is strength +2.",
+  "flavor_text": "A sharp edge for the sharp-natured."
+}

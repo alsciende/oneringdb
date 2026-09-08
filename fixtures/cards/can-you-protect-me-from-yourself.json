@@ -1,9 +1,0 @@
-{
-    "id": "can-you-protect-me-from-yourself",
-    "title": "Can You Protect Me From Yourself?",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Spot an <symbol>isengard<\/symbol> minion to exhaust Aragorn.  The Free Peoples player may add 2 burdens to prevent this. "
-}

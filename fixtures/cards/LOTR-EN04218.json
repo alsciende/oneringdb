@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN04218.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "218",
+  "name": "Desert Legion",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "6",
+  "strength": "13",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Ambush</keyword> <twilight>1</twilight>.\nWhile you can spot 4 burdens, this minion is strength +5.\nWhile you can spot 5 burdens, this minion is <keyword>fierce</keyword>.\nWhile you can spot 6 burdens, this minion is <keyword>damage +1</keyword>."
+}

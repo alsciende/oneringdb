@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01005.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "5",
+  "name": "Cleaving Blow",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make a Dwarf strength +2 and <keyword>damage +1</keyword>.",
+  "flavor_text": "The shoddy workmanship of Orc-smiths cannot withstand the fury of Durin’s folk."
+}

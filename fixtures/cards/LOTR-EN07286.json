@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07286.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "286",
+  "name": "Mordor Fighter",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "While you can spot a threat and another <culture>Sauron</culture> Orc, the Shadow has initiative, regardless of the Free People player’s hand.",
+  "flavor_text": "“The men of the West were trapped....”"
+}

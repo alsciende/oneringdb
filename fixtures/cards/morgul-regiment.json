@@ -1,9 +1,0 @@
-{
-    "id": "morgul-regiment",
-    "title": "Morgul Regiment",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 7,
-    "type": "minion",
-    "text": "For each Nazgûl you can spot, the Free Peoples player must exert a companion to assign this minion to a skirmish. <br><keyword>Skirmish:<\/keyword> Exert this minion to make a Nazgûl or <symbol>wraith<\/symbol> Orc strength +1."
-}

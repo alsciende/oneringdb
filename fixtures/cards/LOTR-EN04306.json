@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04306.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "306",
+  "name": "Hobbit Sword",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a Hobbit.",
+  "flavor_text": "Although the Ranger had never before seen a Hobbit, he recognized the swords they carried."
+}

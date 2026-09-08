@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10004.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "4",
+  "name": "Aegnor",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Elven Escort",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<phase>Skirmish</phase>: Exert Aegnor to make a minion skirmishing an unbound <culture>Elven</culture> companion strength -1 for each archer you spot.",
+  "flavor_text": "Affectionately referred to as ‘Figwit’ by his contemporaries in Rivendell."
+}

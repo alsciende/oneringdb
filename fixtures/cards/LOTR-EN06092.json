@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN06092.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "92",
+  "name": "Éomer",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Rohirrim Captain",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Theoden",
+  "game_text": "<keyword>Valiant</keyword>. While you can spot a <culture>Rohan</culture> Man, Éomer’s twilight cost is −1.\n<phase>Skirmish</phase>: Discard 3 cards from hand to make a <culture>Rohan</culture> Man strength +2 for each wound on each minion in his or her skirmish.",
+  "flavor_text": "“‘Gúthwinë for the Mark!’”"
+}

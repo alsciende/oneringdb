@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05084.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "84",
+  "name": "I Am Here",
+  "unique": false,
+  "type": "Event",
+  "culture": "Rohan",
+  "twilight_cost": "3",
+  "game_text": "<phase>Fellowship</phase>: Exert Théoden twice to heal every other companion with the Théoden signet twice.",
+  "flavor_text": "“‘The last host of the Eorlingas has ridden forth. It will not return without battle.’”"
+}

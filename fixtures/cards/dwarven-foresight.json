@@ -1,9 +1,0 @@
-{
-    "id": "dwarven-foresight",
-    "title": "Dwarven Foresight",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Fellowship:<\/keyword> Spot a Dwarf to take a Free Peoples card stacked on a <symbol>dwarven<\/symbol> condition into hand. "
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04307.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "307",
+  "name": "Impatient and Angry",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Exert Sam to make him strength +3. If Sam wins this skirmish, you may remove a burden.",
+  "flavor_text": "“He planted himself... as if he was addressing a young hobbit who had offered him what he called ‘sauce’ when questioned about visits to the orchard.”"
+}

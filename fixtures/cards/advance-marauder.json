@@ -1,9 +1,0 @@
-{
-    "id": "advance-marauder",
-    "title": "Advance Marauder",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Skirmish:<\/keyword> exert this minion to make a roaming <symbol>sauron<\/symbol> minion strength +3."
-}

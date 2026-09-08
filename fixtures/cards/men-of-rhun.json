@@ -1,9 +1,0 @@
-{
-    "id": "men-of-rhun",
-    "title": "Men of Rhûn",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>raider<\/symbol> Man strength +3 (or +4 if you spot 4 burdens). "
-}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05062.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "62",
+  "name": "Uruk Sapper",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nWhen you play this minion, you may place an <culture>Isengard</culture> token on a machine.",
+  "flavor_text": "The destruction of the Hornburg fortifications was the task of Saruman’s engineer troops."
+}

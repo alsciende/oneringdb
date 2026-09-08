@@ -1,9 +1,0 @@
-{
-    "id": "leod-westfold-herdsman",
-    "title": "Léod",
-    "subtitle": "Westfold Herdsman",
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "ally",
-    "text": "<keyword>Villager.<\/keyword> <br>Discard Léod if an opponent controls his home site.  <br><keyword>Skirmish:<\/keyword> Exert Léod to make a mounted companion strength +2. "
-}

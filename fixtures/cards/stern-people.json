@@ -1,9 +1,0 @@
-{
-    "id": "stern-people",
-    "title": "Stern People",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 3,
-    "type": "condition",
-    "text": "To play, spot 2 <symbol>rohan<\/symbol> Men. <keyword>Regroup:<\/keyword> Discard cards from hand equal to the number of cards in an opponent’s hand to make the move limit +1 for this turn. Each Shadow player may take up to 4 cards into hand from his or her discard pile. Discard this condition."
-}

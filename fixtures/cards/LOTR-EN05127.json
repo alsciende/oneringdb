@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN05127.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "127",
+  "name": "Rohirrim Helm",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Helm",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\n<phase>Skirmish</phase>: Discard this possession to cancel a skirmish involving bearer.\nA minion in this skirmish may exert to prevent this.",
+  "flavor_text": "A helm split by an Uruk blade often still saves the rider who wears it."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03033.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "33",
+  "name": "His First Serious Check",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Spot Gandalf to reveal a card at random from an opponent’s hand. You may add <twilight>X</twilight> to discard that card, where X is the twilight cost of the card revealed.",
+  "flavor_text": "“...a false turn now might be disastrous.”"
+}

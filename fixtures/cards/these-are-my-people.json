@@ -1,9 +1,0 @@
-{
-    "id": "these-are-my-people",
-    "title": "These Are My People",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 3,
-    "type": "event",
-    "text": "<keyword>Fellowship:<\/keyword> Exert Aragorn twice to play any number of possessions from your discard pile onto companions with the Aragorn signet."
-}

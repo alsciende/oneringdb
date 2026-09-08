@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07325.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "325",
+  "name": "Pressing On",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "To play, spot 2 Hobbits.\nEach time the fellowship moves, add a threat or discard this condition.\n<phase>Regroup</phase>: Discard this condition and exert a Hobbit companion to play the fellowship’s next site (replacing opponent’s site if necessary)."
+}

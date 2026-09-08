@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04106.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "106",
+  "name": "Well Met Indeed",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "5",
+  "game_text": "<phase>Fellowship</phase>: Spot an Elf, a <culture>Gondor</culture> Man, and a Dwarf to play Gandalf from your dead pile.",
+  "flavor_text": "“‘And what may you be doing in these parts? An Elf, a Man, and a Dwarf, all clad in elvish fashion.’”"
+}

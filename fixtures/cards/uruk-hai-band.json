@@ -1,9 +1,0 @@
-{
-    "id": "uruk-hai-band",
-    "title": "Uruk-hai Band",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword>  <br>This minion is strength +2 for each site you control. "
-}

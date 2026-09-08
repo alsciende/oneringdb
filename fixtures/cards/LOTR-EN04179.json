@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN04179.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "179",
+  "name": "Uruk Assault Band",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "7",
+  "strength": "14",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>. To play, spot an Uruk-hai.\nWhile at a battleground, this minion is <keyword>fierce</keyword>.\nWhile you control a battleground, this minion is strength +6.\nWhile you control 2 battlegrounds, this minion may not take wounds."
+}

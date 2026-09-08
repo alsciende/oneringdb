@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07343.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "343",
+  "name": "Pelennor Plain",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "4",
+  "shadow_number": "4",
+  "game_text": "<keyword>Plains</keyword>. <phase>Archery</phase>: Spot your minion and remove 3 burdens to make the minion archery total +3."
+}

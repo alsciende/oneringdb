@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03118.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "118",
+  "name": "The Great River",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "7",
+  "shadow_number": "6",
+  "game_text": "<keyword>River</keyword>. While the fellowship is at The Great River, cards may not be played from draw decks or discard piles."
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN05007.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "7",
+  "name": "Gimli",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Dwarf",
+  "culture": null,
+  "subtitle": "Skilled Defender",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Theoden",
+  "game_text": "<keyword>Damage +1</keyword>.\nEach time Gimli wins a skirmish, you may wound a minion assigned to skirmish an unbound companion.",
+  "flavor_text": "Despite Théoden's preparations, Gimli found it necessary to warn him of the advancing Uruk army."
+}

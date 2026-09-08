@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07212.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "212",
+  "name": "Úlairë Enquëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Faster Than Winds",
+  "twilight_cost": "6",
+  "strength": "11",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "<keyword>Fierce</keyword>.\nWhile you can spot 6 companions, Úlairë Enquëa is <keyword>damage +1</keyword>.\nEach time a companion is killed, you may exert Úlairë Enquëa to exert the Ring-bearer."
+}

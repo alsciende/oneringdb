@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07096.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "96",
+  "name": "Gondorian Captain",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<keyword>Knight</keyword>.\n<phase>Fellowship</phase>: Discard a fortification to remove a threat.",
+  "flavor_text": "“‘The Captains of the Outlands are expected up the South Road ere sundown.’”"
+}

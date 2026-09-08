@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace App\Command;
 
 use App\Entity\PublishedSet;
-use App\Repository\PackCardRepository;
+use App\Repository\CardRepository;
 use App\Repository\PublishedSetRepository;
 use Symfony\Component\Console\Attribute\AsCommand;
 use Symfony\Component\Console\Command\Command;
@@ -27,7 +27,7 @@ class JsonExportCommand extends Command
         #[Autowire(param: 'kernel.project_dir')]
         private readonly string $projectDir,
         private readonly PublishedSetRepository $publishedSetRepository,
-        private readonly PackCardRepository $packCardRepository,
+        private readonly CardRepository $cardRepository,
     ) {
         parent::__construct();
     }
@@ -52,35 +52,17 @@ class JsonExportCommand extends Command
             throw new \RuntimeException('Cannot find set ' . $setId);
         }
 
-        $dir = $this->projectDir . '/fixtures/cards/';
-
-        $packCards = $this->packCardRepository->findBy([
-            'publishedSet' => $publishedSet,
-        ]);
+        $cards = $this->cardRepository->findByPublishedSet($publishedSet);
 
         $progress = $io->createProgressBar();
         $progress->start();
-        foreach ($packCards as $packCard) {
-            $card = $packCard->getCard();
+        foreach ($cards as $card) {
             $card->setId(strtolower($slugger->slug($card->getFullTitle())->toString()));
             $filename = sprintf('%s/fixtures/cards/%s.json', $this->projectDir, $card->getId());
             if (! $fs->exists($filename)) {
                 $fs->dumpFile(
                     $filename,
                     json_encode($card->toArray(), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_THROW_ON_ERROR)
-                );
-            }
-
-            $filename = sprintf(
-                '%s/fixtures/pack_cards/%s/%s.json',
-                $this->projectDir,
-                $packCard->getPublishedSet()->getId(),
-                $card->getId()
-            );
-            if (! $fs->exists($filename)) {
-                $fs->dumpFile(
-                    $filename,
-                    json_encode($packCard->toArray(), JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_THROW_ON_ERROR)
                 );
             }
 

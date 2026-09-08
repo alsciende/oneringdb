@@ -1,9 +1,0 @@
-{
-    "id": "morgul-squealer",
-    "title": "Morgul Squealer",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Shadow:<\/keyword> Discard this minion to play a <symbol>wraith<\/symbol> minion from your discard pile. <br><keyword>Shadow:<\/keyword> Spot 6 companions and discard this minion to play up to 2 <symbol>wraith<\/symbol> minions from your draw deck; their twilight costs are each –1."
-}

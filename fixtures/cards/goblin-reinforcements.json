@@ -1,9 +1,0 @@
-{
-    "id": "goblin-reinforcements",
-    "title": "Goblin Reinforcements",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "When you play this minion, you may heal a <symbol>moria<\/symbol> minion. "
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02036.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "36",
+  "name": "No Mere Ranger",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Exert Aragorn to make another companion strength +2 (or +3 if that companion has the Aragorn signet).",
+  "flavor_text": "“‘If by my life or death, I can protect you, I will....’”"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN03021.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "21",
+  "name": "Long-knives of Legolas",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be Legolas.\nEach Orc or Uruk-hai skirmishing Legolas is strength −2.",
+  "flavor_text": "Sharp, bone-handled knives defend the Elves of Mirkwood at close quarters."
+}

@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN04091.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "91",
+  "name": "Gandalf's Staff",
+  "unique": true,
+  "type": "Artifact",
+  "subtype": "Staff",
+  "culture": "Gandalf",
+  "subtitle": "Walking Stick",
+  "twilight_cost": "2",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be Gandalf.\nWhile you can spot 2 twilight tokens, Gandalf is <keyword>damage +2</keyword>.",
+  "flavor_text": "“‘The staff in the hand of a Wizard may be more than a prop for age....’”"
+}

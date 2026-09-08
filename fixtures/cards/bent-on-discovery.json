@@ -1,9 +1,0 @@
-{
-    "id": "bent-on-discovery",
-    "title": "Bent on Discovery",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Search.<\/keyword>  <br>At the beginning of each of your Shadow phases, draw 1 card.  <br>At the end of each of your Shadow phases, exert a Nazgûl or discard this condition."
-}

@@ -1,9 +1,0 @@
-{
-    "id": "steadfast-champion",
-    "title": "Steadfast Champion",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "Bearer must be Gandalf. <br>Each minion gains this ability: “<keyword>Assignment:<\/keyword> Assign this minion to Gandalf.” <keyword>Regroup:<\/keyword> Discard this condition to discard a minion and heal a companion 3 times."
-}

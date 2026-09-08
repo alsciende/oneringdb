@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10077.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "77",
+  "name": "Advance Regular",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "Each roaming <culture>Sauron</culture> minion is <keyword>fierce</keyword>.",
+  "flavor_text": "“In vain men shook their fists at the pitiless foes that swarmed before the Gate.”"
+}

@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN08113.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "113",
+  "name": "Sting",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Shire",
+  "subtitle": "Bane of the Eight Legs",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Frodo or Sam.\n<phase>Response</phase>: If a fierce skirmish involving bearer is about to end, add a threat to discard a minion involved in that skirmish.",
+  "flavor_text": "“No such anguish had Shelob ever known, or dreamed of knowing….”"
+}

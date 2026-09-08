@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN05051.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "51",
+  "name": "Gríma",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Isengard",
+  "subtitle": "Chief Counselor",
+  "twilight_cost": "2",
+  "strength": "4",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<phase>Maneuver</phase>: Spot 4 Free Peoples cultures and exert Gríma to return an unbound companion, and all cards on him or her, to their owners’ hands.",
+  "flavor_text": "“‘I care for you and yours as best I may…. Let others deal with these irksome guests.’”"
+}

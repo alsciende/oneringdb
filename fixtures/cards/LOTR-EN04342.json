@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04342.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "342",
+  "name": "Westemnet Plains",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "1",
+  "game_text": "<keyword>Plains</keyword>. <keyword>Sanctuary</keyword>. Each <culture>Dunland</culture> Man may not take wounds during the archery phase."
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10035.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "35",
+  "name": "Suffered Much Loss",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "Each site on the adventure path is a <keyword>battleground</keyword>.\nWhile you have initiative, each Uruk-hai is strength +1.",
+  "flavor_text": "“‘For we are already at war, as you may have seen....’”"
+}

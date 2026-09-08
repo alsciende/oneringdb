@@ -1,9 +1,0 @@
-{
-    "id": "every-little-is-a-gain",
-    "title": "Every Little is a Gain",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "Spot a <symbol>gondor<\/symbol> Man to discard a stacked Shadow card or to wound a minion bearing a Fortification."
-}

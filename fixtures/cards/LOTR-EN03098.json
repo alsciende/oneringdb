@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03098.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "98",
+  "name": "Orc Swordsman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "While this minion bears a weapon, he is strength +2.",
+  "flavor_text": "“Many evil things there are that your strong walls and bright swords do not stay.”"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01218.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "218",
+  "name": "Nazgûl Sword",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a Nazgûl.\nWhile you can spot 3 burdens, bearer is <keyword>damage +1</keyword>.",
+  "flavor_text": "The weapons of the Nine are wielded by unseen hands willed by Sauron’s hate."
+}

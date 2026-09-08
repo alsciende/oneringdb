@@ -1,9 +1,0 @@
-{
-    "id": "coming-for-the-ring",
-    "title": "Coming for the Ring",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "<keyword>Regroup:<\/keyword> Reveal a card at random from the Free Peoples player’s hand.  Heal X <symbol>isengard<\/symbol> minions, where X is the twilight cost of the card revealed. "
-}

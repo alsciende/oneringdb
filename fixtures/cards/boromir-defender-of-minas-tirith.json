@@ -1,9 +1,0 @@
-{
-    "id": "boromir-defender-of-minas-tirith",
-    "title": "Boromir",
-    "subtitle": "Defender of Minas Tirith",
-    "culture": "gondor",
-    "twilight_cost": 3,
-    "type": "companion",
-    "text": "<keyword>Ranger.<\/keyword>  <br><keyword>Fellowship:<\/keyword> Add <symbol>twilight2<\/symbol> to heal Boromir. "
-}

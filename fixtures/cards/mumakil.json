@@ -1,9 +1,0 @@
-{
-    "id": "mumakil",
-    "title": "Mûmakil",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 3,
-    "type": "possession",
-    "text": "Bearer must be a <keyword>Southron.<\/keyword> <br>Bearer is fierce. <br>While you have initiative or can spot 4 threats, bearer is <keyword>damage +1<\/keyword>."
-}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10071.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "71",
+  "name": "Úlairë Toldëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Thrall of The One",
+  "twilight_cost": "6",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<keyword>Enduring</keyword>.\nShadow cards cannot exert Úlairë Toldëa during a skirmish phase.\n<phase>Skirmish</phase>: Heal Úlairë Toldëa to make him <keyword>damage +1</keyword>.",
+  "flavor_text": "“...like shadows of untimely night, he saw in the middle airs below him five birdlike forms....”"
+}

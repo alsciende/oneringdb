@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03100.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "100",
+  "name": "Orc Veteran",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Discard your <culture>Sauron</culture> condition to make a character skirmishing this minion strength –1.",
+  "flavor_text": "“There was war, and the land was laid waste....”"
+}

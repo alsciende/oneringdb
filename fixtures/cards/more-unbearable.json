@@ -1,9 +1,0 @@
-{
-    "id": "more-unbearable",
-    "title": "More Unbearable",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "To play, spot a Nazgûl. <br><keyword>Regroup:<\/keyword> Discard a Nazgûl to place a <symbol>wraith<\/symbol> token on this card. While there are 3 <symbol>wraith<\/symbol> tokens on this card, the Shadow has initiative, regardless of the Free Peoples player’s hand."
-}

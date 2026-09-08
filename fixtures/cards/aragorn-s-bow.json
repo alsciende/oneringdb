@@ -1,9 +1,0 @@
-{
-    "id": "aragorn-s-bow",
-    "title": "Aragorn’s Bow",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be Aragorn. <br>He is an <keyword>archer.<\/keyword> <br><keyword>Archery:<\/keyword> Exert Aragorn to wound a minion; Aragorn does not add to the fellowship archery total."
-}

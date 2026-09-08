@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04021.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "21",
+  "name": "Hillman Band",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "1",
+  "site_number": "3",
+  "game_text": "Each time the fellowship moves, you may spot another <culture>Dunland</culture> Man to take control of a site.",
+  "flavor_text": "As in years past, the Dunlendings marched in force to the west."
+}

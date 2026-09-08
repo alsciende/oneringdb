@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01286.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "286",
+  "name": "Bounder",
+  "unique": false,
+  "type": "Ally",
+  "subtype": "Hobbit",
+  "home_site": "2",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "strength": "2",
+  "vitality": "2",
+  "game_text": "<phase>Skirmish</phase>: Exert this ally to prevent a Hobbit from being overwhelmed unless that Hobbit's strength is tripled.",
+  "flavor_text": "“‘Aye, reckon we're in for a quiet night... mind how you go.’”"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10006.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "6",
+  "name": "Arwen",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Queen of Elves and Men",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Frodo",
+  "game_text": "Each minion skirmishing Arwen is strength -2 for each wounded minion you can spot.",
+  "flavor_text": "“‘“Often is it seen,” said Aragorn, “that in dangerous days men hide their chief treasure.”’”"
+}

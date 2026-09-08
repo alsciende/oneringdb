@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN05017.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "17",
+  "name": "Forest Guardian",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Ent",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "strength": "8",
+  "vitality": "3",
+  "game_text": "<keyword>Unhasty</keyword>.\n<phase>Assignment</phase>: Exert an unbound Hobbit or discard 2 cards from hand to allow this companion to skirmish.",
+  "flavor_text": "“‘We keep off strangers and the foolhardy; and we train and we teach, we walk and we weed.’”"
+}

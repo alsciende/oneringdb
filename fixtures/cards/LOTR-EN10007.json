@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10007.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "7",
+  "name": "Celeborn",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Lord of the Galadhrim",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "At the start of each skirmish involving Celeborn, you may reveal the top card of your draw deck. If it is an <culture>Elven</culture> card, you may discard it to wound each minion in that skirmish.",
+  "flavor_text": "“...with him went the last living memory of the Elder Days in Middle-earth.”"
+}

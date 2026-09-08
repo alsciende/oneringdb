@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05094.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "94",
+  "name": "Thundering Host",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Discard this condition to make a mounted <culture>Rohan</culture> Man strength +3 (and heal that Man if at a plains).",
+  "flavor_text": "“...with a rush like the sudden onset of a great wind the last host of Rohan rode thundering into the West.”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10018.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "18",
+  "name": "Treebeard",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Ent",
+  "culture": "Gandalf",
+  "subtitle": "Keeper of the Watchwood",
+  "twilight_cost": "5",
+  "strength": "12",
+  "vitality": "4",
+  "game_text": "To play, spot 3 <culture>Gandalf</culture> companions.\n<phase>Regroup</phase>: Exert Treebeard twice to play a <culture>Gandalf</culture> condition from your discard pile and make an opponent discard one of his or her conditions.",
+  "flavor_text": "“‘Leave it to the Ents!... Trees are coming back to live here, old trees, wild trees.’”"
+}

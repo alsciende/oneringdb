@@ -1,9 +1,0 @@
-{
-    "id": "grimir-dwarven-elder",
-    "title": "Grimir",
-    "subtitle": "Dwarven Elder",
-    "culture": "dwarven",
-    "twilight_cost": 1,
-    "type": "ally",
-    "text": "<keyword>Fellowship:<\/keyword> Exert Grimir to shuffle a <symbol>dwarven<\/symbol> event from your discard pile into your draw deck."
-}

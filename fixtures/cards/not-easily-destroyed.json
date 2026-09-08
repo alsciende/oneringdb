@@ -1,9 +1,0 @@
-{
-    "id": "not-easily-destroyed",
-    "title": "Not Easily Destroyed",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<br><keyword>Maneuver<\/keyword> or <keyword>Skirmish:<\/keyword> Remove <symbol>twilight3<\/symbol> to heal a Nazgûl."
-}

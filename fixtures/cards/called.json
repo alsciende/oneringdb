@@ -1,9 +1,0 @@
-{
-    "id": "called",
-    "title": "Called",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Assignment:<\/keyword> Remove 5 threats to assign a Nazgûl to a companion (except the Ring-bearer). The Free Peoples player may discard that companion."
-}

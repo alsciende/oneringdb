@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03080.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "80",
+  "name": "Such a Little Thing",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Spot a <culture>Moria</culture> minion to wound Boromir 3 times. The Free Peoples player may discard 2 Free Peoples possessions to prevent this.",
+  "flavor_text": "“‘Boromir... give the Ring to Frodo.’”"
+}

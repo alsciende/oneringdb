@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01219.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "219",
+  "name": "The Nine Servants of Sauron",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Search</keyword>. Plays to your support area.\nEach time you play a Nazgûl, you may exert a Hobbit (except the Ring-bearer).",
+  "flavor_text": "“‘That Black Rider was looking for something… or someone – Frodo?’”"
+}

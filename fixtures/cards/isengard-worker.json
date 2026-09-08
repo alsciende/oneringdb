@@ -1,9 +1,0 @@
-{
-    "id": "isengard-worker",
-    "title": "Isengard Worker",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Regroup:<\/keyword> Exert this minion to make the Free Peoples player wound a companion. "
-}

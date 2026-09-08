@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01100.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "100",
+  "name": "The Choice of Lúthien",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\n<phase>Maneuver</phase>: Exert Aragorn to heal Arwen, or exert Arwen to heal Aragorn.",
+  "flavor_text": "“‘But she chose mortality, and to die from the world, so that she might follow him; and it is sung that they met again beyond the Sundering Seas....’”"
+}

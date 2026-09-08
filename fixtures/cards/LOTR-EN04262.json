@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04262.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "262",
+  "name": "Aldor",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "3, 6",
+  "culture": "Rohan",
+  "subtitle": "Soldier of Edoras",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "2",
+  "game_text": "<phase>Archery</phase>: Exert Aldor and spot a villager to make the fellowship archery total +1.",
+  "flavor_text": "Fighting to defend his people, Aldor found courage to replace his youth."
+}

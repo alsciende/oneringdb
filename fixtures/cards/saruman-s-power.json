@@ -1,9 +1,0 @@
-{
-    "id": "saruman-s-power",
-    "title": "Saruman's Power",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword>  <br><keyword>Shadow:<\/keyword> Exert a <symbol>isengard<\/symbol> minion to discard all conditions."
-}

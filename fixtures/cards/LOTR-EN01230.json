@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01230.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "230",
+  "name": "Úlairë Cantëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Lieutenant of Dol Guldur",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<keyword>Fierce</keyword>.\n<phase>Skirmish</phase>: Exert Úlairë Cantëa to discard a weapon borne by a character he is skirmishing.",
+  "flavor_text": "The Ringwraith has no semblance to the Man, its being passed into twilight, life spirit into void."
+}

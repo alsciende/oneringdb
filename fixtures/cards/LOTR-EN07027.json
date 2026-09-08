@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07027.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "27",
+  "name": "Mirkwood Bowman",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Archery",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "Exert 2 <culture>Elven</culture> companions to discard the top 3 cards of your draw deck. Make the fellowship archery total +1 for each <culture>Elven</culture> card discarded.",
+  "flavor_text": "“‘Thus we passed over Gilrain, driving the allies of Mordor in rout before us….’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06075.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "75",
+  "name": "Twisted Tales",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "Plays to your support area.\nEach time a companion or ally loses a skirmish involving an <culture>Isengard</culture> Man, you may spot a possession to stack that possession here.",
+  "flavor_text": "“‘Too long have you sat in the shadows....’”"
+}

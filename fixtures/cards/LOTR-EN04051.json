@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04051.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "51",
+  "name": "Khazâd Ai-mênu",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make a Dwarf strength +2 (or strength +3 and <keyword>damage +1</keyword> if you spot Legolas).",
+  "flavor_text": "“‘The Orcs are behind the wall. Ai-oi! Come, Legolas! There are enough for both of us.’”"
+}

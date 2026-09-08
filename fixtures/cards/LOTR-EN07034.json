@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07034.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "34",
+  "name": "Echoes of Valinor",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "Each time Gandalf wins a skirmish, you may exert him to draw 2 cards.",
+  "flavor_text": "“‘Here in the Court of the Kings, Isildur grew a white tree, from a seed brought over the waters....’”"
+}

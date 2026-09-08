@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05108.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "108",
+  "name": "Orc Pursuer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<keyword>Tracker</keyword>.\nThe site number of each <culture>Sauron</culture> Orc is −1.\nWhen you play this minion, you may exert him and remove <twilight>2</twilight> to draw a card.",
+  "flavor_text": "“...why not kill them now? They’re a cursed nuisance, and we’re in a hurry.”"
+}

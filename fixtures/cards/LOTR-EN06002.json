@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06002.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "2",
+  "name": "Dunlending Elder",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "1",
+  "site_number": "3",
+  "game_text": "While you control 2 sites, this minion is strength +5, <keyword>fierce</keyword> and <keyword>damage +1</keyword>.",
+  "flavor_text": "Hatred of the Rohirrim is passed from generation to generation."
+}

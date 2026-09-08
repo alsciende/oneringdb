@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04089.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "89",
+  "name": "Gandalf",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Wizard",
+  "culture": "Gandalf",
+  "subtitle": "Greyhame",
+  "twilight_cost": "4",
+  "strength": "7",
+  "vitality": "4",
+  "signet": "Gandalf",
+  "game_text": "<phase>Fellowship</phase>: If the twilight pool has fewer than 2 twilight tokens, add <twilight>2</twilight> to play a character from your discard pile.",
+  "flavor_text": "“‘Dangerous!... And so am I, very dangerous; more dangerous than anything you will ever meet....’”"
+}

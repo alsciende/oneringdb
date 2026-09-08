@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02078.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "78",
+  "name": "It Wants to be Found",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "game_text": "<phase>Maneuver</phase>: Spot a twilight Nazgûl to add a burden.",
+  "flavor_text": "“...perhaps it had tried to reveal itself in response to some wish or command that was felt in the room.”"
+}

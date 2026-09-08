@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07287.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "287",
+  "name": "Mordor Guard",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Exert 3 <culture>Sauron</culture> Orcs to add 3 threats.\nWhen this minion is discarded, remove 3 threats.",
+  "flavor_text": "“...from the host of Mordor there went up a jeering yell.”"
+}

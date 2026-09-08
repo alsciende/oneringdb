@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN05039.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "39",
+  "name": "Stone Tower",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "vitality_modifier": "-2",
+  "game_text": "<keyword>Fortification</keyword>. Plays to your support area.\n<phase>Skirmish</phase>: Exert 2 <culture>Gondor</culture> Men to transfer this condition from your support area to a minion skirmishing a <culture>Gondor</culture> Man.",
+  "flavor_text": "The battlements of Osgiliath provided some defense against Sauron's attackers."
+}

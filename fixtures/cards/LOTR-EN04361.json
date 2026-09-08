@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04361.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "361",
+  "name": "Orthanc Balcony",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "9",
+  "shadow_number": "8",
+  "game_text": "<keyword>Battleground</keyword>. <phase>Shadow</phase>: Play Saruman from your discard pile; his twilight cost is −2."
+}

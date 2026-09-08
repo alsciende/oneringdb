@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04365.png",
+  "set_number": "4",
+  "rarity": "P",
+  "card_number": "365",
+  "name": "Théoden",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Lord of the Mark",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "signet": "Theoden",
+  "game_text": "<phase>Fellowship</phase>: Play a <culture>Rohan</culture> possession on a <culture>Rohan</culture> companion to heal that companion (limit once per turn).",
+  "flavor_text": "“Every man and strong lad able to bear arms, all who have horses, let them be ready in the saddle at the gate ere the second hour from noon!”"
+}

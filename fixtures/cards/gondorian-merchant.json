@@ -1,9 +1,0 @@
-{
-    "id": "gondorian-merchant",
-    "title": "Gondorian Merchant",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "ally",
-    "text": "<keyword>Maneuver:<\/keyword> If you have initiative, discard 2 cards from hand to make the site number of a minion +2 until the regroup phase."
-}

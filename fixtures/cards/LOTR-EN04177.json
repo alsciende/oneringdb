@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04177.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "177",
+  "name": "Uglúk's Sword",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "strength_modifier": "+3",
+  "game_text": "Bearer must be an Uruk-hai.\n<phase>Shadow</phase>: If bearer is Uglúk, exert it and discard a minion from hand to play a minion. Its twilight cost is −3.",
+  "flavor_text": "“‘I am Uglúk. I command.’”"
+}

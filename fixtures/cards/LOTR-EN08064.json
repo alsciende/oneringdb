@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN08064.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "64",
+  "name": "Mûmakil",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "strength_modifier": "+3",
+  "game_text": "Bearer must be a Southron.\nBearer is <keyword>fierce</keyword>.\nWhile you have initiative or can spot 4 threats, bearer is <keyword>damage +1</keyword>.",
+  "flavor_text": "“But wherever the mûmakil came there the horses would not go, but blenched and swerved away....”"
+}

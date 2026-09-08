@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01277.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "277",
+  "name": "Shadow's Reach",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "<phase>Shadow</phase>: Exert a <culture>Sauron</culture> Orc to discard a Free Peoples condition.",
+  "flavor_text": "“‘Is it secret? Is it safe?’”"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01229.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "229",
+  "name": "Úlairë Attëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Keeper of Dol Guldur",
+  "twilight_cost": "6",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<keyword>Fierce</keyword>.\n<phase>Skirmish</phase>: Remove <twilight>1</twilight> to make Úlairë Attëa strength +1 (limit +5).",
+  "flavor_text": "Those that knew the most power as kings were placed in particular ways for the Will of Sauron."
+}

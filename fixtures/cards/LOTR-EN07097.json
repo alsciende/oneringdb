@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07097.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "97",
+  "name": "Gondorian Merchant",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "3",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "strength": "6",
+  "vitality": "1",
+  "game_text": "<phase>Maneuver</phase>: If you have initiative, discard 2 cards from hand to make the site number of a minion +2 until the regroup phase.",
+  "flavor_text": "“…they talked now of Gondor and its ways and customs….”"
+}

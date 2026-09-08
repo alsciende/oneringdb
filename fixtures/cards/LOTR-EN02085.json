@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02085.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "85",
+  "name": "The Witch-king",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Lord of the Nazgûl",
+  "twilight_cost": "8",
+  "strength": "14",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "<keyword>Twilight</keyword>.\nReturn to Its Master may not be played.\nEach time The Witch-king wins a skirmish, you may exert him to wound the Ring-bearer twice.",
+  "flavor_text": "“‘A great king and sorcerer was he of old, and now he wields a deadly fear.’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "orc-cutthroat",
-    "title": "Orc Cutthroat",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Tracker.<\/keyword><br>The site number of each <symbol>sauron<\/symbol> Orc is -3. <br><keyword>Skirmish:<\/keyword> Discard another <symbol>sauron<\/symbol> Orc and exert Orc Cutthroat to wound a companion he is skirmishing."
-}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07019.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "19",
+  "name": "Careful Study",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Regroup",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "Spot an Elf and discard 3 cards from hand to reconcile your hand.",
+  "flavor_text": "“‘If thou art in haste, remember the Paths of the Dead.’”"
+}

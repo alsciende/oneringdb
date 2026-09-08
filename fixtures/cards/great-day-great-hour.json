@@ -1,9 +1,0 @@
-{
-    "id": "great-day-great-hour",
-    "title": "Great Day, Great Hour",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 3,
-    "type": "event",
-    "text": "If an opponent plays a minion, exert a Dwarf who is damage +X to exert that minion X times"
-}

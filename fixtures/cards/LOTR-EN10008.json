@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10008.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "8",
+  "name": "Círdan",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "The Shipwright",
+  "twilight_cost": "4",
+  "strength": "7",
+  "vitality": "4",
+  "game_text": "To play, spot 2 Elves.\n<phase>Skirmish</phase>: Exert Círdan to make a minion he is skirmishing strength −1 for each <culture>Elven</culture> event in your discard pile.",
+  "flavor_text": "“...he was grey and old, save that his eyes were keen as stars....”"
+}

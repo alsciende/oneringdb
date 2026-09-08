@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04147.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "147",
+  "name": "Covering Fire",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "To play, spot 2 <culture>Isengard</culture> archers. Plays to your support area.\nThe Free Peoples player may not play archery events or use archery special abilities. Discard this condition during the regroup phase.",
+  "flavor_text": "Archers cowered on the walls, unable to reply."
+}

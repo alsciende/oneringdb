@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03031.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "31",
+  "name": "Depart Silently",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Stealth</keyword>.\n<phase>Maneuver</phase>: At sites 1 to 5, spot Gandalf to prevent Hobbits from being assigned to skirmishes until the regroup phase.\nAt any other site, spot Gandalf to make a Hobbit strength +3 until the regroup phase.",
+  "flavor_text": "“‘Be careful, both of you.’”"
+}

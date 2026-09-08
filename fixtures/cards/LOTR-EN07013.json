@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN07013.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "13",
+  "name": "Reckless Pride",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be a <culture>Dwarven</culture> companion.\nEach minion gains this ability:\n“<phase>Assignment</phase>: Assign this minion to bearer of Reckless Pride.”\n<phase>Regroup</phase>: Discard this condition to draw 4 cards."
+}

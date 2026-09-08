@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07043.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "43",
+  "name": "Light the Beacons",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Maneuver",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "Exert Gandalf three times (or twice if you have initiative) to make all unbound companions of one culture (except <culture>Dunland</culture>) strength +3 until the regroup phase.",
+  "flavor_text": "“‘Théoden will honour your old alliance and come with a mighty army.’”"
+}

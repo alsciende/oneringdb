@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN07077.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "77",
+  "name": "We Hates Them",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Gollum",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be Sméagol.\nEach minion gains this ability:\n“<phase>Assignment</phase>: Assign this minion to Sméagol.”\n<phase>Regroup</phase>: Discard this condition to discard a minion and play a companion from your discard pile."
+}

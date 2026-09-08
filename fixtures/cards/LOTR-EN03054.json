@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03054.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "54",
+  "name": "Hollowing of Isengard",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "game_text": "To play, spot an <culture>Isengard</culture> Orc. Plays to your support area.\n<phase>Shadow</phase>: Discard this condition to add <twilight>3</twilight>.",
+  "flavor_text": "“‘Rip them all down!’”"
+}

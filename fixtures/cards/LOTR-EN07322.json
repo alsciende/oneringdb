@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07322.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "322",
+  "name": "Noble Intentions",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "Exert a companion (except a Hobbit) to make a Hobbit strength +3."
+}

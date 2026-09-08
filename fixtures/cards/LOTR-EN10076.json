@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10076.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "76",
+  "name": "Advance Marauder",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Exert this minion to make a roaming <culture>Sauron</culture> minion strength +3.",
+  "flavor_text": "“The sun gleamed red....”"
+}

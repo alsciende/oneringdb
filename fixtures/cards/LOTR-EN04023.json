@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04023.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "23",
+  "name": "Hillman Mob",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "5",
+  "strength": "12",
+  "vitality": "1",
+  "site_number": "3",
+  "game_text": "Each time this minion wins a skirmish, you may play a <culture>Dunland</culture> Man from hand; his twilight cost is –2. That Man is <keyword>fierce</keyword> and <keyword>damage +1</keyword> until the regroup phase.",
+  "flavor_text": "“That old hatred Saruman has inflamed.”"
+}

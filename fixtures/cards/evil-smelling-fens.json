@@ -1,9 +1,0 @@
-{
-    "id": "evil-smelling-fens",
-    "title": "Evil-smelling Fens",
-    "subtitle": null,
-    "culture": "gollum",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "Plays to your support area.<br>Each site on the adventure path is a <keyword>marsh.<\/keyword><br><keyword>Shadow:<\/keyword> Exert Gollum twice and discard this condition to play a minion from your discard pile."
-}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07076.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "76",
+  "name": "Very Nice Friends",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Regroup",
+  "culture": "Gollum",
+  "twilight_cost": "0",
+  "game_text": "Play Sméagol from your discard pile to play the fellowship’s next site (replacing an opponent’s site if necessary). If you do not move again this turn, discard your hand.",
+  "flavor_text": "“‘He hurts us… hurts poor Sméagol!’”"
+}

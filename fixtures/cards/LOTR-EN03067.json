@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03067.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "67",
+  "name": "The Palantír of Orthanc",
+  "unique": true,
+  "type": "Artifact",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "To play, spot an <culture>Isengard</culture> minion. Plays to your support area.\n<phase>Shadow</phase>: Spot an <culture>Isengard</culture> minion and remove <twilight>1</twilight> to reveal a card at random from the Free Peoples player’s hand. Place that card on top of that player’s draw deck.",
+  "flavor_text": "“‘Seven stars and seven stones....’”"
+}

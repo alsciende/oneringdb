@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04339.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "339",
+  "name": "Stables",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "0",
+  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: Exert a <culture>Rohan</culture> Man to play a mount from your draw deck (limit once per turn)."
+}

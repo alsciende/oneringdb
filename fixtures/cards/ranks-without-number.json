@@ -1,9 +1,0 @@
-{
-    "id": "ranks-without-number",
-    "title": "Ranks Without Number",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "Plays to your support area.<br>Each time the Free Peoples player assigns an ally to a skirmish, you may play an <symbol>isengard<\/symbol> minion from your discard pile. That minion’s twilight cost is -2. "
-}

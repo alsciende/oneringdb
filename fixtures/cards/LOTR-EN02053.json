@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN02053.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "53",
+  "name": "Cave Troll's Chain",
+  "unique": true,
+  "type": "Possession",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Cave Troll of Moria.\nThe Free Peoples player may choose for the archery phase to be skipped.\nEach time Cave Troll of Moria takes a wound during the archery phase, you may wound an archer companion.",
+  "flavor_text": "“‘They have a Cave Troll!’”"
+}

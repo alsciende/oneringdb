@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05072.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "72",
+  "name": "Desert Stalker",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Ambush</keyword> <twilight>2</twilight>.\n<phase>Maneuver</phase>: Exert this minion and spot 4 Free Peoples cultures to exert every companion.",
+  "flavor_text": "They strike only when their prey is haggard and tired."
+}

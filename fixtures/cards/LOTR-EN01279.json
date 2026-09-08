@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01279.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "279",
+  "name": "Thin and Stretched",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "To play, exert a <culture>Sauron</culture> Orc. Plays on the Ring-bearer.\nAdd a burden at the end of each turn during which bearer was not assigned to a skirmish (and another companion was).",
+  "flavor_text": "“‘I am old, Gandalf. I don't look it....’”"
+}

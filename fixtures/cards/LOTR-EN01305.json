@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01305.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "305",
+  "name": "Old Toby",
+  "unique": false,
+  "type": "Possession",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Pipeweed</keyword>. Plays to your support area.\nWhen you play this possession, you may draw a card.",
+  "flavor_text": "Bilbo’s favorite pipeweed is Old Toby, the finest weed in the Southfarthing."
+}

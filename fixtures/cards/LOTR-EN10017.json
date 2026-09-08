@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10017.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "17",
+  "name": "Out of the High Airs",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Response",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "If the fellowship moves during the regroup phase, exert your Wizard to discard each minion.",
+  "flavor_text": "“...the Nazgûl turned and fled, and vanished into Mordor’s shadows....”"
+}

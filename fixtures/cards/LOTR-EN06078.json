@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN06078.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "78",
+  "name": "Easterling Army",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "6",
+  "strength": "13",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>. <keyword>Fierce</keyword>.\n<phase>Skirmish</phase>: Spot 2 burdens and exert this minion to make an Easterling strength +1.\n<phase>Skirmish</phase>: Spot 4 burdens and exert this minion to make an Easterling strength +2.\n<phase>Skirmish</phase>: Spot 6 burdens and exert this minion to make an Easterling strength +3."
+}

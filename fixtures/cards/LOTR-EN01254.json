@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01254.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "254",
+  "name": "Mordor Enraged",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "Plays on a <culture>Sauron</culture> minion.\n<phase>Shadow</phase>: Exert bearer to add <twilight>1</twilight> for each archer companion.",
+  "flavor_text": "The armies of Elendil and Gil-galad inflamed Sauron's anger and hatred."
+}

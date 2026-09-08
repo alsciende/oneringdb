@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03086.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "86",
+  "name": "Úlairë Otsëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Ringwraith in Twilight",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<keyword>Twilight</keyword>.\nEach time Úlairë Otsëa wins a skirmish, you may exert him to transfer Blade Tip from your support area to the Ring-bearer.",
+  "flavor_text": "“‘...at all times they smell the blood of living things, desiring and hating it.’”"
+}

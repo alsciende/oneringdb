@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02030.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "30",
+  "name": "You Cannot Pass!",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Maneuver</phase>: Spot Gandalf bearing a staff to prevent a minion from being <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "“The Balrog fell back and its sword flew up in molten fragments. The wizard swayed on the bridge, stepped back a pace, and then again stood still.”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07133.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "133",
+  "name": "Desert Runner",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Ambush</keyword> <twilight>1</twilight>.\nWhen the Free Peoples player assigns this minion to a character and you have initiative, you may wound that character.",
+  "flavor_text": "“New forces of the enemy were hastening up the road from the River….”"
+}

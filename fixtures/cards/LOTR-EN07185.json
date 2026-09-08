@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07185.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "185",
+  "name": "Morgul Answers",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a Nazgûl.\n<phase>Skirmish</phase>: Remove <twilight>3</twilight> and spot 3 Nazgûl to discard a possession or condition borne by a companion a Nazgûl is skirmishing.",
+  "flavor_text": "“There was a flare of livid lightnings….”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04248.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "248",
+  "name": "Southron Bowman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Archer</keyword>.\n<phase>Archery</phase>: Exert this minion to exert a companion (except the Ring-bearer); this minion does not add to the minion archery total.",
+  "flavor_text": "The Southron armies deploy archers to harass enemy troop formations."
+}

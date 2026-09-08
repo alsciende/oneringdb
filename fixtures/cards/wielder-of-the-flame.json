@@ -1,9 +1,0 @@
-{
-    "id": "wielder-of-the-flame",
-    "title": "Wielder of the Flame",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword> <br><keyword>Maneuver:<\/keyword> Spot Gandalf to make a companion <keyword>defender +1<\/keyword> until the <keyword>regroup<\/keyword> phase.  <br>Any Shadow player may remove <symbol>twilight3<\/symbol> to prevent this. "
-}

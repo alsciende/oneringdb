@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04185.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "185",
+  "name": "Uruk Fanatic",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nIf there are at least 3 cards in the dead pile, this minion is <keyword>fierce</keyword>.",
+  "flavor_text": "Despite intensive training, the smell of blood still enraged the Uruk warriors."
+}

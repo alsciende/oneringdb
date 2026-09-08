@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01018.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "18",
+  "name": "Halls of My Home",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Exert a Dwarf to reveal the top 3 cards of any draw deck. You may discard 1 Shadow card revealed. Return the rest in any order.",
+  "flavor_text": "“‘I will go and look on the halls of Durin, whatever may wait there....’”"
+}

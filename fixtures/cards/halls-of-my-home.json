@@ -1,9 +1,0 @@
-{
-    "id": "halls-of-my-home",
-    "title": "Halls of My Home",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Fellowship:<\/keyword> Exert a Dwarf to reveal the top 3 cards of any draw deck. You may discard 1 Shadow card revealed. <br>Return the rest in any order."
-}

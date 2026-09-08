@@ -1,9 +1,0 @@
-{
-    "id": "threw-down-my-enemy",
-    "title": "Threw Down My Enemy",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword> <keyword>Skirmish:<\/keyword> Make a minion skirmishing Gandalf strength –1 for each wound on each character in the skirmish."
-}

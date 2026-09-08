@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04295.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "295",
+  "name": "Weland",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "4",
+  "culture": "Rohan",
+  "subtitle": "Smith of the Riddermark",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "<keyword>Villager</keyword>.\nDiscard Weland if an opponent controls his home site.\n<phase>Fellowship</phase>: Exert Weland to heal a mounted companion.",
+  "flavor_text": "A tender of horses, Weland found much work at Helm’s Deep."
+}

@@ -1,9 +1,0 @@
-{
-    "id": "troll-of-udun",
-    "title": "Troll of Udûn",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 10,
-    "type": "minion",
-    "text": "<keyword>Fierce.<\/keyword> While you can spot a Troll, this minion’s twilight cost is –4. <keyword>Skirmish:<\/keyword> Discard a <symbol>sauron<\/symbol> card from hand to make this minion strength +1."
-}

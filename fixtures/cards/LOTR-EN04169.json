@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04169.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "169",
+  "name": "Ranged Commander",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Archer</keyword>.\nThe twilight cost of each <culture>Isengard</culture> archer is -1.\n<phase>Archery</phase>: Exert Ranged Commander to make the Free Peoples player wound an unbound companion; this minion does not add to the minion archery total.",
+  "flavor_text": "Hand-picked Uruks led Saruman’s crossbowmen."
+}

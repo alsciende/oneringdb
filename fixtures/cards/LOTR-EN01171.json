@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01171.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "171",
+  "name": "Frenzy",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "2",
+  "game_text": "<phase>Assignment</phase>: Assign an exhausted companion (except the Ring-bearer) to skirmish a <culture>Moria</culture> Orc.",
+  "flavor_text": "The Goblins of the Misty Mountains, like all of their race, use their teeming numbers to slaughter their foes."
+}

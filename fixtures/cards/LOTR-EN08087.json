@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08087.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "87",
+  "name": "Éomer",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Keeper of Oaths",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "3",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Valiant</keyword>.\nWhen you play Éomer (except in your starting fellowship), you may reveal the top 10 cards of your draw deck. You may play each <culture>Rohan</culture> possession revealed. Shuffle your draw deck.",
+  "flavor_text": "“‘Need brooks no delay, yet late is better than never….’”"
+}

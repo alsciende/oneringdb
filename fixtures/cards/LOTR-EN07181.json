@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07181.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "181",
+  "name": "Held Ground",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 2 Nazgûl and add up to 3 threats.\nEach time a companion is about to be killed, you may remove a threat to discard up to 2 possessions.\nDiscard this condition and remove 3 threats during the regroup phase."
+}

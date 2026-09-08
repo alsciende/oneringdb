@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01095.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "95",
+  "name": "Blade of Gondor",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Boromir.\nHe is <keyword>damage +1</keyword>.\n<phase>Skirmish</phase>: Exert Boromir to wound an Orc or Uruk-hai he is skirmishing.",
+  "flavor_text": "With the valour of Boromir’s mighty longsword, the Enemies of the West are kept at bay."
+}

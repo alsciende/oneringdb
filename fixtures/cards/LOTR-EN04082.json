@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04082.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "82",
+  "name": "Strength of Arms",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\nEach time an Elf wins a skirmish, you may place an <culture>Elven</culture> token on this card.\n<phase>Skirmish</phase>: Make a minion skirmishing an Elf strength −1 for each <culture>Elven</culture> token here (limit −3). Discard this condition.",
+  "flavor_text": "Elvish weapons were more than a match for the Uruks."
+}

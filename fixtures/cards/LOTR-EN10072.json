@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10072.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "72",
+  "name": "Éowyn",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Lady of Ithilien",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Gandalf",
+  "game_text": "<phase>Skirmish</phase>: Exert Éowyn to choose an opponent. That opponent must wound a minion for each wound on each minion skirmishing Éowyn.",
+  "flavor_text": "“Yet now that I have leave to depart, I would remain. For this House has become to me of all dwellings the most blessed.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04261.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "261",
+  "name": "Wrath of Harad",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\nWhile you can spot a <culture>Raider</culture> Man, each Free Peoples event that spots or exerts a ranger gains this cost: “wound a companion.”\n<phase>Skirmish</phase>: Discard this condition to make a <culture>Raider</culture> Man strength +2.",
+  "flavor_text": "Massed Southron troops prepared to attack Gondor."
+}

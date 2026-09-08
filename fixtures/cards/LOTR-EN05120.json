@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05120.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "120",
+  "name": "Caverns of Isengard",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "9",
+  "shadow_number": "9",
+  "game_text": "<keyword>Underground</keyword>. The Free Peoples player wins the game only if the Ring-bearer survives until Shadow players reconcile."
+}

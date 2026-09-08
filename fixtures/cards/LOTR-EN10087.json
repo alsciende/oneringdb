@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10087.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "87",
+  "name": "Gorgoroth Swarm",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "5",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\nWhen you play this minion, you may spot 6 companions and another besieger to play a besieger from your discard pile and control a site.",
+  "flavor_text": "“File after file passed....”"
+}

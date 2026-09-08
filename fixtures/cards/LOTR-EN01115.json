@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01115.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "115",
+  "name": "Strength of Kings",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If a skirmish event is played during a skirmish involving a <culture>Gondor</culture> Man, cancel that event.",
+  "flavor_text": "“‘Believe not that in the land of Gondor the blood of Númenor is spent, nor all its pride and dignity forgotten.’”"
+}

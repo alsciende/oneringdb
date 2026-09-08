@@ -1,9 +1,0 @@
-{
-    "id": "saruman-s-staff-wizard-s-device",
-    "title": "Saruman's Staff",
-    "subtitle": "Wizard's Device",
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "artifact",
-    "text": "Plays on Saruman. He is <keyword>fierce<\/keyword> and <keyword>damage +1.<\/keyword> <br><keyword>Maneuver:<\/keyword> Make the first sentence of Saruman’s game text not apply until the regroup phase. "
-}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07140.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "140",
+  "name": "Easterling Assailant",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>.\n<phase>Skirmish</phase>: Remove a burden and exert this minion to heal another Easterling (or 2 Easterlings if you have initiative).",
+  "flavor_text": "“‘The new host that we had tidings of has come first….’”"
+}

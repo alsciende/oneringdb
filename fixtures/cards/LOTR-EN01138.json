@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01138.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "138",
+  "name": "Saruman’s Snows",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "<keyword>Spell</keyword>. <keyword>Weather</keyword>. To play, exert an <culture>Isengard</culture> minion. Plays on a site.\nNo player may play skirmish events or use skirmish special abilities during skirmishes at this site. Discard this condition at the end of the turn.",
+  "flavor_text": "Saruman’s spells can hinder even the wary."
+}

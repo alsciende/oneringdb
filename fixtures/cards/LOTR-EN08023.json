@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08023.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "23",
+  "name": "Larder",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a <culture>Gollum</culture> minion.\n<phase>Regroup</phase>: Discard an Orc from hand to add a <culture>Gollum</culture> token here.\n<phase>Skirmish</phase>: Remove a <culture>Gollum</culture> token here to make Shelob strength +3 (limit +6).",
+  "flavor_text": "“‘When she binds with cords, she’s after meat.’”"
+}

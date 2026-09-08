@@ -1,9 +1,0 @@
-{
-    "id": "still-draws-breath",
-    "title": "Still Draws Breath",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Response:<\/keyword> If a Dwarf wins a skirmish, heal that Dwarf."
-}

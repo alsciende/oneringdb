@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04282.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "282",
+  "name": "An Honorable Charge",
+  "unique": false,
+  "type": "Event",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make an unbound companion strength +1 for each <culture>Rohan</culture> Man you spot (limit +3).",
+  "flavor_text": "“‘A time may come when there will be a need for valour without renown....’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06016.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "16",
+  "name": "Forearmed",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Reveal the top card of your draw deck to make a minion skirmishing an Elf strength -X, where X is the twilight cost of the revealed card.",
+  "flavor_text": "“‘Give them a volley.’”"
+}

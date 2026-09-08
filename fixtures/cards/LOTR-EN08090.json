@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08090.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "90",
+  "name": "No Living Man",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Rohan",
+  "twilight_cost": "2",
+  "game_text": "Exert Théoden to exert a minion for each Théoden signet you spot.",
+  "flavor_text": "“‘Begone, foul dwimmerlaik, lord of carrion!’”"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03110.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "110",
+  "name": "Melilot Brandybuck",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Hobbit",
+  "home_site": "1",
+  "culture": "Shire",
+  "subtitle": "Merry Dancer",
+  "twilight_cost": "1",
+  "strength": "2",
+  "vitality": "2",
+  "game_text": "<phase>Response</phase>: If a burden is about to be added by a Shadow card, exert Melilot Brandybuck to prevent that burden.",
+  "flavor_text": "“Master Everard Took and Miss Melilot Brandybuck got on a table and with bells in their hands began to dance the Springle-ring: a pretty dance, but rather vigorous.”"
+}

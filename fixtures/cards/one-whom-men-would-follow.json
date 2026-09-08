@@ -1,9 +1,0 @@
-{
-    "id": "one-whom-men-would-follow",
-    "title": "One Whom Men Would Follow",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Exert Aragorn to spot an ally. Until the regroup phase, that ally is strength +2 and participates in archery fire and skirmishes."
-}

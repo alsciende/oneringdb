@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01176.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "176",
+  "name": "Goblin Marksman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "<keyword>Archer</keyword>.",
+  "flavor_text": "“Arrows fell among them. One struck Frodo and sprang back. Another pierced Gandalf’s hat and stuck there like a black feather.”"
+}

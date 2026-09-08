@@ -1,9 +1,0 @@
-{
-    "id": "uruk-savage",
-    "title": "Uruk Savage",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Damage +1<\/keyword>.  (When this minion wins a skirmish, add 1 extra wound to the defender.)"
-}

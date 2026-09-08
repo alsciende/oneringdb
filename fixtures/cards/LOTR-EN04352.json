@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04352.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "352",
+  "name": "Caves of Aglarond",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "6",
+  "shadow_number": "3",
+  "game_text": "<keyword>Underground</keyword>. <keyword>Sanctuary</keyword>. <phase>Maneuver</phase>: Remove <twilight>2</twilight> and spot your Uruk-hai to make it fierce until the regroup phase."
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08122.png",
+  "set_number": "8",
+  "rarity": "P",
+  "card_number": "122",
+  "name": "Pippin",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Guard of Minas Tirith",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "To play, spot a <culture>Gondor</culture> Man.\n<phase>Skirmish</phase>: Discard 4 cards from hand to wound a minion Pippin is skirmishing twice if that minion bears a fortification.",
+  "flavor_text": "“‘You’re in the service of the Steward of Gondor now. You’ll do as you’re told.’”"
+}

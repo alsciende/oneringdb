@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07022.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "22",
+  "name": "Hope Comes",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "To play, spot 2 Elves.\n<phase>Response</phase>: If an <culture>Elven</culture> skirmish event is played, discard this condition to draw 3 cards.",
+  "flavor_text": "“‘Either our hope cometh, or all hopes end.’”"
+}

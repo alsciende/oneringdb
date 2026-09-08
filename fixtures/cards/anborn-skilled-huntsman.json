@@ -1,9 +1,0 @@
-{
-    "id": "anborn-skilled-huntsman",
-    "title": "Anborn",
-    "subtitle": "Skilled Huntsman",
-    "culture": "gondor",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Ring-bound.<\/keyword> <keyword>Ranger.<\/keyword> Each time Anborn wins a skirmish, you may make a minion’s site number +3 until the regroup phase."
-}

@@ -1,9 +1,0 @@
-{
-    "id": "forearmed",
-    "title": "Forearmed",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Reveal the top card of your draw deck to make a minion skirmishing an Elf strength –X, where X is the twilight cost of the revealed card."
-}

@@ -1,9 +1,0 @@
-{
-    "id": "troop-of-uruk-hai",
-    "title": "Troop of Uruk-hai",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Damage +1<\/keyword>.  <br>A character skirmishing this minion does not gain strength bonuses from weapons."
-}

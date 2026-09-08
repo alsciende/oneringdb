@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10042.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "42",
+  "name": "Far Harad Mercenaries",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\nAt the start of each skirmish involving this minion, you may spot 6 companions and another <culture>Raider</culture> Man to discard an unbound companion this minion is skirmishing.",
+  "flavor_text": "“...men like half-trolls, with white eyes and red tongues.”"
+}

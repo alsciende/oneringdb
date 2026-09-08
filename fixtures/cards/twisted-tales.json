@@ -1,9 +1,0 @@
-{
-    "id": "twisted-tales",
-    "title": "Twisted Tales",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "Each time a companion or ally loses a skirmish involving an <symbol>isengard<\/symbol> Man, you may spot a possession to stack that possession here."
-}

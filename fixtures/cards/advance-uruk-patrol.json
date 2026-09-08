@@ -1,9 +1,0 @@
-{
-    "id": "advance-uruk-patrol",
-    "title": "Advance Uruk Patrol",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword>  <br>While at a battleground, this minion is <keyword>fierce.<\/keyword>  <br>While you control a battleground, this minion is strength +4. "
-}

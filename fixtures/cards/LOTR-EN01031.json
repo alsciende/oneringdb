@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01031.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "31",
+  "name": "Asfaloth",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be an Elf. When played on Arwen, Asfaloth's twilight cost is −2.\nWhile at a plains site, bearer is strength +2. Discard Asfaloth when at an underground site.",
+  "flavor_text": "“‘Noro lim, Asfaloth, noro lim!’”"
+}

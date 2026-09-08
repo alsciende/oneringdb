@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN05059.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "59",
+  "name": "Sharku's Warg",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Isengard",
+  "twilight_cost": "5",
+  "strength_modifier": "+5",
+  "vitality_modifier": "+3",
+  "game_text": "Bearer must be a warg-rider.\nIf bearer is Sharku, he is <keyword>damage +1</keyword>.\n<phase>Response</phase>: If a skirmish special ability is used in a skirmish involving bearer, exert bearer to cancel that action.",
+  "flavor_text": "The warg-captain picked the fastest and strongest mount."
+}

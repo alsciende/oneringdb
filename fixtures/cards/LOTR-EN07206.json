@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07206.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "206",
+  "name": "Stronghold of Minas Morgul",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<phase>Response</phase>: If your <culture>Wraith</culture> minion wins a skirmish, place a <culture>Wraith</culture> token here (limit 1 per site).\n<phase>Regroup</phase>: Spot 3 <culture>Wraith</culture> tokens here to exhaust the Ring-bearer. Discard this condition."
+}

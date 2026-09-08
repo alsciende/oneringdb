@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01282.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "282",
+  "name": "The Weight of a Legacy",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "strength_modifier": "-1",
+  "game_text": "To play, exert a <culture>Sauron</culture> Orc. Plays on Aragorn.",
+  "flavor_text": "“‘It is because of Men, the Ring survives.... I was there the day the strength of Men failed.’”"
+}

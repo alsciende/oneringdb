@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04011.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "11",
+  "name": "Dunlending Looter",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "1",
+  "site_number": "3",
+  "game_text": "When this minion wins a skirmish, you may stack him on a site you control.\n<phase>Shadow</phase>: If stacked on a site you control, play this minion. His twilight cost is −2.",
+  "flavor_text": "“...the Dunlendings raided often over the Isen.”"
+}

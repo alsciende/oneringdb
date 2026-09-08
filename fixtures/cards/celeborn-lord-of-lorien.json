@@ -1,9 +1,0 @@
-{
-    "id": "celeborn-lord-of-lorien",
-    "title": "Celeborn",
-    "subtitle": "Lord of Lórien",
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "ally",
-    "text": "<keyword>Fellowship:<\/keyword> Exert Celeborn to heal an <symbol>elven<\/symbol> ally."
-}

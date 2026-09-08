@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10037.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "37",
+  "name": "Corsair Boatswain",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Corsair</keyword>. To play, spot a <culture>Raider</culture> Man.\n<phase>Shadow</phase>: Exert this minion to play a <culture>Raider</culture> support area possession from your draw deck.",
+  "flavor_text": "Promise of plunder and of the whip keep in line a lustful Corsair crew."
+}

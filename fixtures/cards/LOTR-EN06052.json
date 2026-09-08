@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06052.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "52",
+  "name": "Garrison of Osgiliath",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "game_text": "<keyword>Fortification</keyword>. Plays to your support area. When you play this condition, you may spot a <culture>Gondor</culture> Man to place 2 <culture>Gondor</culture> tokens here.\n<phase>Skirmish</phase>: Discard this condition or remove a <culture>Gondor</culture> token from here to make a <culture>Gondor</culture> Man strength +1.",
+  "flavor_text": "“‘So ever do we watch the shores nigh Osgiliath….’”"
+}

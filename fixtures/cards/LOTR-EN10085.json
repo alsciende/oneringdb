@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10085.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "85",
+  "name": "Flames Within",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "While you have initiative, each of your <culture>Sauron</culture> minions is strength +2.\n<phase>Skirmish</phase>: Discard this condition to make a <culture>Sauron</culture> minion strength +2 (or +4 if it is roaming).",
+  "flavor_text": "“Soon there was great peril of fire behind the wall....”"
+}

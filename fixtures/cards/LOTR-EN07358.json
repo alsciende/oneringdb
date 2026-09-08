@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07358.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "358",
+  "name": "Morgulduin",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "8",
+  "shadow_number": "8",
+  "game_text": "<phase>Shadow</phase>: Remove 2 threats to play a Nazgûl from your discard pile. His twilight cost is -2."
+}

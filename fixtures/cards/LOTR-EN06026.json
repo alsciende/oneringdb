@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN06026.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "26",
+  "name": "Enraged",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "strength_modifier": "+4",
+  "game_text": "Bearer must be an Ent. Limit 1 per bearer. Discard this condition at the end of the turn.",
+  "flavor_text": "“An angry Ent is terrifying.”"
+}

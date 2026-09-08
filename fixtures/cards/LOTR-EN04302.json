@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04302.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "302",
+  "name": "Frodo",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Tired Traveller",
+  "twilight_cost": "0",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Ring-bearer</keyword> (resistance 10). <keyword>Ring-bound</keyword>.\n<phase>Fellowship</phase>: Play a Ring-bound companion to remove a burden.",
+  "flavor_text": "“We have come by long ways — out of Rivendell, or Imladris as some call it.’”"
+}

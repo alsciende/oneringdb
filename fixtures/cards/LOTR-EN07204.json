@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07204.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "204",
+  "name": "Out of Sight and Shot",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a Nazgûl.\nEach time a companion is played, the Free Peoples player must exert a companion.\n<phase>Shadow</phase>: Spot a Nazgûl and discard this condition to play a Nazgûl from your discard pile."
+}

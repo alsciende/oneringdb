@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08066.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "66",
+  "name": "Wind That Sped Ships",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "Make a corsair strength +1 for each <culture>Raider</culture> token you spot (limit +6). If you have initiative, you may place this event on top of your draw deck.",
+  "flavor_text": "“...black against the glittering stream... a fleet borne up on the wind....”"
+}

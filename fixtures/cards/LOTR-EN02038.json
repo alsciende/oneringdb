@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN02038.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "38",
+  "name": "Shield of Boromir",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Shield",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a <culture>Gondor</culture> companion.\nThe minion archery total is -1.\nIf bearer is Boromir, each minion skirmishing him does not gain strength bonuses from weapons.",
+  "flavor_text": "Boromir bore the heirlooms of the Steward's house with pride."
+}

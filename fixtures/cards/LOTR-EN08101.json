@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08101.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "101",
+  "name": "Gorgoroth Stormer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Shadow</phase>: If you have initiative, exert this minion to add a burden and make the Free Peoples player draw a card.",
+  "flavor_text": "“‘…they found the enemy already on the out-wall, or assailing it….’”"
+}

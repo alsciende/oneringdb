@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07008.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "8",
+  "name": "Gimli's Armor",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Armor",
+  "culture": "Dwarven",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be Gimli.\n<phase>Response</phase>: If you have initiative and Gimli is about to take a wound, discard 2 cards from hand to prevent that wound.",
+  "flavor_text": "“‘I hope that the forgotten people will not have forgotten how to fight….’”"
+}

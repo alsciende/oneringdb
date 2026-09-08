@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08071.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "71",
+  "name": "Flung Into the Fray",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "When you play a minion stacked here, you may exert a companion.\n<phase>Regroup</phase>: If no minion is stacked here, spot your <culture>Wraith</culture> minion to stack it here.\n<phase>Shadow</phase>: Spot 2 <culture>Wraith</culture> minions to play a <culture>Wraith</culture> minion stacked here as if played from hand."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05104.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "104",
+  "name": "Orc Cutthroat",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<keyword>Tracker</keyword>. The site number of each <culture>Sauron</culture> Orc is −3.\n<phase>Skirmish</phase>: Discard another <culture>Sauron</culture> Orc and exert Orc Cutthroat to wound a companion he is skirmishing.",
+  "flavor_text": "A few Orc casualties were of no concern to him."
+}

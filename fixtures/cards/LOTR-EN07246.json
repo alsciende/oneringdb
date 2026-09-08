@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07246.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "246",
+  "name": "Rohirrim Guard",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<phase>Skirmish</phase>: Discard a card from hand to exert a minion skirmishing this companion.",
+  "flavor_text": "“...and strengthened his host by some three score of Riders that came late to the weapontake.”"
+}

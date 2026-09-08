@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02099.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "99",
+  "name": "Deft in Their Movements",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Stealth</keyword>.\n<phase>Regroup</phase>: Spot 2 Hobbits to make each site’s Shadow number −2 until the end of the turn.",
+  "flavor_text": "“They possessed from the first the art of disappearing swiftly and silently, when large folk who they do not wish to meet come blundering by.”"
+}

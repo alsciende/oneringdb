@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN03023.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "23",
+  "name": "Nenya",
+  "unique": true,
+  "type": "Artifact",
+  "subtype": "Ring",
+  "culture": "Elven",
+  "twilight_cost": "0",
+  "vitality_modifier": "+1",
+  "game_text": "Bearer must be Galadriel.\nAt the start of each regroup phase, you may discard up to 2 cards from hand to draw the same number of cards.",
+  "flavor_text": "“‘Verily it is in the land of Lórien upon the finger of Galadriel that one of the Three remains. This is Nenya, the Ring of Adamant, and I am its keeper.’”"
+}

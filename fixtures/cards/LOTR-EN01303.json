@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01303.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "303",
+  "name": "Merry",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "From O'er the Brandywine",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "While Merry bears a weapon, he is strength +2.",
+  "flavor_text": "“‘I don’t know why he’s so upset, it’s only a few carrots... my point is, he’s overreacting.’”"
+}

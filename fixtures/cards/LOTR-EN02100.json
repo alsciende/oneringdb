@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02100.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "100",
+  "name": "Fearing the Worst",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Stealth</keyword>. To play, exert 2 Hobbits. Plays to your support area.\nThe twilight cost of each search card and each tracker is +2.",
+  "flavor_text": "“‘Even if we are allowed to leave Bree unhindered, we can hardly hope now to leave it unnoticed.’”"
+}

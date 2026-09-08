@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04135.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "135",
+  "name": "War and Valor",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Gondor</culture> Man strength +2 (or +3 and <keyword>damage +1</keyword> if skirmishing a roaming minion).",
+  "flavor_text": "“So even was my brother, Boromir: a man of prowess, and for that he was accounted the best man in Gondor.”"
+}

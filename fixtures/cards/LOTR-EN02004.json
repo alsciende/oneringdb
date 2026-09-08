@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN02004.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "4",
+  "name": "Endurance of Dwarves",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "vitality_modifier": "+1",
+  "game_text": "Bearer must be a Dwarf.\n<phase>Skirmish</phase>: Discard this condition to make bearer strength +1.",
+  "flavor_text": "“‘Dwarves too can go swiftly, and they do not tire sooner than Orcs.’”"
+}

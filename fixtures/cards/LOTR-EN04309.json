@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04309.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "309",
+  "name": "Light Shining Faintly",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Add a burden to heal a Ring-bound companion twice.",
+  "flavor_text": "“‘He’s like that, and sometimes it shines through, somehow.’”"
+}

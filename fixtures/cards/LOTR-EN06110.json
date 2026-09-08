@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06110.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "110",
+  "name": "It Burns Us",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<phase>Regroup</phase>: Spot Sam and Sméagol (or Gollum) to choose an opponent who must reveal his or her hand. Wound a minion X times, where X is the number of different cultures revealed.",
+  "flavor_text": "“‘No more than you deserve.’”"
+}

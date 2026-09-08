@@ -1,9 +1,0 @@
-{
-    "id": "eomer-s-spear",
-    "title": "Éomer's Spear",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be a <symbol>rohan<\/symbol> Man.<br>If bearer is Éomer and he is mounted, Éomer is <keyword>damage +2.<\/keyword>"
-}

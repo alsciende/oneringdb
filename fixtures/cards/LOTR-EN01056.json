@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01056.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "56",
+  "name": "Orophin",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Elf",
+  "home_site": "6",
+  "culture": "Elven",
+  "subtitle": "Lórien Bowman",
+  "twilight_cost": "2",
+  "strength": "3",
+  "vitality": "3",
+  "game_text": "<keyword>Archer</keyword>.\n<phase>Archery</phase>: Exert Orophin to wound an Uruk-hai.",
+  "flavor_text": "The swift bow of Orophin, Haldir’s kinsman, has slain many Orcs."
+}

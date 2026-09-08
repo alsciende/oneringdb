@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04154.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "154",
+  "name": "Gríma",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Isengard",
+  "subtitle": "Wormtongue",
+  "twilight_cost": "2",
+  "strength": "4",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<phase>Maneuver</phase>: Exert Gríma and spot an unbound companion bearing 3 or more cards to return each Free Peoples card that companion bears to its owner’s hand.",
+  "flavor_text": "“‘I care for you and yours as best I may. But do not weary yourself, or tax too heavily your strength.’”"
+}

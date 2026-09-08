@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN08096.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "96",
+  "name": "Gorgoroth Berserker",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "5",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>. <keyword>Enduring</keyword>. To play, spot a <culture>Sauron</culture> Orc.\n<phase>Maneuver</phase>: If you have initiative, exert this minion twice to take control of a site.\n<phase>Maneuver</phase>: Remove a threat and exert this minion twice to take control of a site."
+}

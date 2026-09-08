@@ -1,9 +1,0 @@
-{
-    "id": "the-trees-are-strong",
-    "title": "The Trees Are Strong",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Regroup:<\/keyword> Discard X <symbol>isengard<\/symbol> Orcs to make the Free Peoples player wound X companions. "
-}

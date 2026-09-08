@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05014.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "14",
+  "name": "That Is No Orc Horn",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "<phase>Regroup</phase>: Spot 3 Elf companions to heal a companion and liberate a site.",
+  "flavor_text": "Anxious defenders cheered the welcome sound of Elvish trumpets."
+}

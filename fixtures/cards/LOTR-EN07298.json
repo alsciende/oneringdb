@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07298.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "298",
+  "name": "Orc Chaser",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<keyword>Tracker</keyword>.\nThe site number of each <culture>Sauron</culture> Orc is −1.\nWhile you have initiative, this minion is strength +6.",
+  "flavor_text": "“But still the Enemy made no sign.”"
+}

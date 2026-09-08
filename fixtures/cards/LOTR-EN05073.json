@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN05073.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "73",
+  "name": "Mûmak",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "strength_modifier": "+3",
+  "game_text": "Bearer must be a Southron.\nBearer is <keyword>fierce</keyword>.\nEach time bearer wins a skirmish, you may add <twilight>2</twilight>.",
+  "flavor_text": "“Sam saw a vast shape crash out of the trees and come careening down the slope.”"
+}

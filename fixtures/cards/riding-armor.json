@@ -1,9 +1,0 @@
-{
-    "id": "riding-armor",
-    "title": "Riding Armor",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be a <symbol>rohan<\/symbol> Man. <br><keyword>Response:<\/keyword> If you have initiative and bearer is about to take a wound in a skirmish, discard 3 cards from hand to prevent that wound."
-}

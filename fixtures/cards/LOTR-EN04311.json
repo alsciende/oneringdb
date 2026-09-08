@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04311.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "311",
+  "name": "Merry",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Unquenchable Hobbit",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Gandalf",
+  "game_text": "<phase>Skirmish</phase>: If Merry is not assigned to a skirmish, discard him to remove a <culture>Sauron</culture> Orc from a skirmish involving an unbound companion.",
+  "flavor_text": "“‘All Wizards should have a hobbit or two in their care — to teach them the meaning of the word, and to correct them.’”"
+}

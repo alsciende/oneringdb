@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07105.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "105",
+  "name": "I Will Go",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "3",
+  "game_text": "Bearer must be a <culture>Gondor</culture> Man.\nIf you have initiative, bearer is <keyword>defender +1</keyword>.",
+  "flavor_text": "“‘I do command it.’”"
+}

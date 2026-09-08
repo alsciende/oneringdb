@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04159.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "159",
+  "name": "Many Riddles",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "strength_modifier": "-1",
+  "game_text": "<keyword>Search</keyword>. To play, exert an <culture>Isengard</culture> tracker. Plays on a companion (except the Ring-bearer).\n<phase>Assignment</phase>: Exert an <culture>Isengard</culture> tracker and remove <twilight>2</twilight> to assign that tracker to bearer. Bearer may exert to prevent this.",
+  "flavor_text": "“‘It will be hard news for Frodo….’”"
+}

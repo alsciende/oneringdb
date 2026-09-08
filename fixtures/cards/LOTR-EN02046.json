@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02046.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "46",
+  "name": "Uruk Captain",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Shadow</phase>: Remove <twilight>1</twilight> and exert Uruk Captain to play an Uruk-hai from your discard pile.",
+  "flavor_text": "The captains marched the Uruk-hai to the great river without halting."
+}

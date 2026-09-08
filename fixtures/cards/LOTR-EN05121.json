@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN05121.png",
+  "set_number": "5",
+  "rarity": "P",
+  "card_number": "121",
+  "name": "Legolas",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Archer of Mirkwood",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Theoden",
+  "game_text": "<keyword>Archer</keyword>.\nEach time Legolas wins a skirmish, you may heal a Dwarf companion or another Elf companion.",
+  "flavor_text": "“‘…even more would I give for a hundred good archers of Mirkwood. We shall need them.’”"
+}

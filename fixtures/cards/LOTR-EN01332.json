@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01332.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "332",
+  "name": "Midgewater Marshes",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "1",
+  "game_text": "<keyword>Marsh</keyword>. Each time a Hobbit moves to Midgewater Marshes, that Hobbit must exert."
+}

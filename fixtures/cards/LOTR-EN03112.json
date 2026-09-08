@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03112.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "112",
+  "name": "Seek and Hide",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Stealth</keyword>.\n<phase>Skirmish</phase>: Spot 2 <culture>Shire</culture> companions to make a minion lose all <keyword>damage</keyword> bonuses.",
+  "flavor_text": "A Hobbit’s best friends in Moria are the very pillars that support its structure."
+}

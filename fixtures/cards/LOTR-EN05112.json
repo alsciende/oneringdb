@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05112.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "112",
+  "name": "No Help for It",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Regroup</phase>: Spot Sam and discard Sméagol or Gollum to remove 3 burdens.",
+  "flavor_text": "“‘...he’ll come back, you’ll see. The promise will hold yet a while. And he won’t leave his Precious, anyway.’”"
+}

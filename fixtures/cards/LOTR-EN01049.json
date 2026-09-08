@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01049.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "49",
+  "name": "The Last Alliance of Elves and Men",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Tale</keyword>. Bearer must be a <culture>Gondor</culture> Man. Limit 1 per bearer.\nBearer is strength +1 for each Elf you can spot (limit +3).",
+  "flavor_text": "“But Sauron of Mordor assailed them, and they made the Last Alliance of Elves and Men, and the hosts of Gil-galad and Elendil were mustered....”"
+}

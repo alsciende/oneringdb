@@ -1,9 +1,0 @@
-{
-    "id": "warmed-up-a-bit",
-    "title": "Warmed Up a Bit",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Stealth.<\/keyword>  <br><keyword>Skirmish:<\/keyword> Discard an unbound Hobbit. "
-}

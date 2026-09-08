@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN04171.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "171",
+  "name": "Rest While You Can",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Search</keyword>. To play, spot an <culture>Isengard</culture> tracker. Plays on a companion. Limit 1 per companion.\nIf bearer is killed, reveal the top 10 cards of opponent’s draw deck and discard 1 Shadow card and 1 Free Peoples card. Your opponent reshuffles that deck."
+}

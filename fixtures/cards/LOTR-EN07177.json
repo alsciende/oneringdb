@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07177.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "177",
+  "name": "Feel His Blade",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "game_text": "<phase>Skirmish</phase>: Transfer this condition from your support area to a character skirmishing a Nazgûl.\nDuring the turn this card is transferred, the Shadow has initiative, regardless of the Free Peoples player’s hand."
+}

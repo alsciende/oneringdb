@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN10092.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "92",
+  "name": "Mordor Pillager",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>. <keyword>Fierce</keyword>.\n<phase>Shadow</phase>: Exert this minion and spot another <culture>Sauron</culture> minion to control a site. If you cannot spot 3 Free Peoples cultures, the Free Peoples player may exert a companion to prevent this."
+}

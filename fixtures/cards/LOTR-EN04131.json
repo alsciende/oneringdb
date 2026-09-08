@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04131.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "131",
+  "name": "Ranger's Bow",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be Ring-bound Man.\n<phase>Skirmish</phase>: If bearer is skirmishing a Man or a roaming minion, exert bearer to wound that minion.",
+  "flavor_text": "“Two had great bows, almost of their own height, and great quivers of long green-feathered arrows.”"
+}

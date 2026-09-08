@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02017.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "17",
+  "name": "Dismay Our Enemies",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If an Elf archer wins a skirmish, make an opponent choose a minion to discard. That opponent may remove <twilight>3</twilight> to prevent this.",
+  "flavor_text": "Reeling from the bite of an arrow, the Cave Troll became enraged trying to strike the nimble Elf."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06037.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "37",
+  "name": "Treebeard",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Ent",
+  "culture": "Gandalf",
+  "subtitle": "Guardian of the Forest",
+  "twilight_cost": "5",
+  "strength": "12",
+  "vitality": "4",
+  "game_text": "<keyword>Unhasty</keyword>.\n<phase>Assignment</phase>: Exert an unbound Hobbit to allow Treebeard to skirmish.\n<phase>Skirmish</phase>: Exert Treebeard to make an Ent <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘The little that I know of his long slow story would make a tale for which we have no time now.’”"
+}

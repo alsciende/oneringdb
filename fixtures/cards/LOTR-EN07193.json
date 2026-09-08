@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07193.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "193",
+  "name": "Morgul Lackey",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<phase>Skirmish</phase>: Exert this minion to make a Nazgûl or <culture>Wraith</culture> Orc strength +1.",
+  "flavor_text": "“‘He uses others as his weapons.’”"
+}

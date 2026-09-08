@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01038.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "38",
+  "name": "Double Shot",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Archery</phase>: Spot an Elf archer companion to make the fellowship archery total +1.",
+  "flavor_text": "“The affray was sharp, but the orcs were dismayed by the fierceness of the defence. Legolas shot two through the throat.”"
+}

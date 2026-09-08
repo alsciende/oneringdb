@@ -1,9 +1,0 @@
-{
-    "id": "aragorn-heir-to-the-white-city",
-    "title": "Aragorn",
-    "subtitle": "Heir to the White City",
-    "culture": "gondor",
-    "twilight_cost": 4,
-    "type": "companion",
-    "text": "<keyword>Ranger.<\/keyword>  <br>Each time the fellowship moves during the fellowship phase, remove <symbol>twilight2<\/symbol>. "
-}

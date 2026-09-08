@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07280.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "280",
+  "name": "Great Peril of Fire",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a besieger or a site you control.\n<phase>Maneuver</phase>: Discard an engine to discard a condition from the Free Peoples support area.",
+  "flavor_text": "“...all who could be spared were busy quelling the flames that sprang up in many places.”"
+}

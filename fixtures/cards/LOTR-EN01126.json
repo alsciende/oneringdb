@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01126.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "126",
+  "name": "Hunt Them Down!",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "game_text": "<phase>Maneuver</phase>: Make an Uruk-hai <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "“‘Do not stop until they are found!’”"
+}

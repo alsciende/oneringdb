@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04133.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "133",
+  "name": "Ruins of Osgiliath",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "Plays to your support area.\nWhile the fellowship is at site 7<block>Tower</block>, each Ring-bound Man is <keyword>defender +1</keyword>.\n<phase>Skirmish</phase>: Spot a Ring-bound Man and discard this condition to wound an opponent’s Man.",
+  "flavor_text": "The Citadel of the Stars had fallen into ruin."
+}

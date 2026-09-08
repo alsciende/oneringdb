@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04138.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "138",
+  "name": "Band of Uruk Bowmen",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "5",
+  "strength": "7",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Archer</keyword>. <keyword>Damage +1</keyword>.\nWhile you control a site, the minion archery total is +1.",
+  "flavor_text": "Taking the high ground provides a better field of fire."
+}

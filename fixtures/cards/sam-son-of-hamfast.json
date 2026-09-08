@@ -1,9 +1,0 @@
-{
-    "id": "sam-son-of-hamfast",
-    "title": "Sam",
-    "subtitle": "Son of Hamfast",
-    "culture": "shire",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Fellowship:<\/keyword> Exert Sam to remove a burden.  <br><keyword>Response:<\/keyword> If Frodo dies, make Sam the <keyword>Ring-bearer (resistance 5).<\/keyword>"
-}

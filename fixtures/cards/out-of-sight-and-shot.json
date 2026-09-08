@@ -1,9 +1,0 @@
-{
-    "id": "out-of-sight-and-shot",
-    "title": "Out of Sight and Shot",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "To play, spot a Nazgûl. <br>Each time a companion is played, the Free Peoples player must exert a companion. <br><keyword>Shadow:<\/keyword> Spot a Nazgûl and discard this condition to play a Nazgûl from your discard pile."
-}

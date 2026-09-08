@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN10117.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "117",
+  "name": "Base of Mindolluin",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "0",
+  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: If you cannot spot 2 threats, add a threat to play a fortification from your draw deck."
+}

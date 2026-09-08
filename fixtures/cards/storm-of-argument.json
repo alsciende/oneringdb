@@ -1,9 +1,0 @@
-{
-    "id": "storm-of-argument",
-    "title": "Storm of Argument",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Fellowship:<\/keyword> Reveal a card at random from an opponent’s hand.  <br>Shuffle up to X <symbol>dwarven<\/symbol> cards from your discard pile into your draw deck, where X is the twilight cost of the card revealed. "
-}

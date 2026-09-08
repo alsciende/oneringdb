@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN01209.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "209",
+  "name": "Blade Tip",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "game_text": "Plays to your support area.\n<phase>Response</phase>: If your Nazgûl wins a skirmish, transfer this condition from your support area to the losing character. Limit 1 per character. Wound bearer at the start of each fellowship phase. (If bearer is the Ring-bearer, add a burden instead.)"
+}

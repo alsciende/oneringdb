@@ -1,9 +1,0 @@
-{
-    "id": "orc-archer-troop",
-    "title": "Orc Archer Troop",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 6,
-    "type": "minion",
-    "text": "<keyword>Archer.<\/keyword> <br>If you have initiative, the minion archery total is +1 and Orc Archer Troop is fierce."
-}

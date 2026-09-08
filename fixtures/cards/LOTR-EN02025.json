@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02025.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "25",
+  "name": "Járnsmid",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "3",
+  "culture": "Gandalf",
+  "subtitle": "Merchant from Dale",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "To play, spot Gandalf.\nEach time you play a shield, armor, helm, or hand weapon, its twilight cost is −1.",
+  "flavor_text": "The Men of Dale freely traded with the Dwarves of the Lonely Mountain for fine metalwork."
+}

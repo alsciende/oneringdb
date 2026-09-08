@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01147.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "147",
+  "name": "Uruk Guard",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Assignment</phase>: Exert this minion and spot a companion to prevent the opponent from assigning that companion to this minion.",
+  "flavor_text": "“‘Wolves and orcs were housed in Isengard, for Saruman was mustering a great force....’”"
+}

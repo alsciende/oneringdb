@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04217.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "217",
+  "name": "Desert Lancers",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. To play, spot a <culture>Raider</culture> Man.\n<phase>Regroup</phase>: Exert Desert Lancers twice to take control of a site.",
+  "flavor_text": "“‘Mordor has allied itself with... the cruel Haradrim....’”"
+}

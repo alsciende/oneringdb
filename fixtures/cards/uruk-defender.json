@@ -1,9 +1,0 @@
-{
-    "id": "uruk-defender",
-    "title": "Uruk Defender",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword><br><keyword>Skirmish:<\/keyword> Exert this minion at a battleground to make another Uruk-hai strength +2. "
-}

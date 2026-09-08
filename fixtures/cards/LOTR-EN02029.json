@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN02029.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "29",
+  "name": "Wizard Staff",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Staff",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be a Wizard.\n<phase>Skirmish</phase>: Exert bearer twice to make a minion strength -3.",
+  "flavor_text": "“We must have power — power to order things as we will for that Good which only the Wise can see.”"
+}

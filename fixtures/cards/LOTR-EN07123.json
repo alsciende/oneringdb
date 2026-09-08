@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07123.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "123",
+  "name": "Support of the City",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gondor",
+  "subtype": "Support Area",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Play a <culture>Gondor</culture> Man to place a <culture>Gondor</culture> token here.\n<phase>Fellowship</phase>: Play a <culture>Gondor</culture> companion. That companion’s twilight cost is −1 for each token here. Discard this condition.",
+  "flavor_text": "“...Gondor shall not perish yet.”"
+}

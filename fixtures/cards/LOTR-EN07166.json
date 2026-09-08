@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07166.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "166",
+  "name": "Southron Leader",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\n<phase>Archery</phase>: Spot 4 Free Peoples cultures and either exert this minion or remove a threat to wound a companion (except the Ring-bearer).",
+  "flavor_text": "“...Haradrim, cruel and tall.”"
+}

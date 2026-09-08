@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07232.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "232",
+  "name": "Firefoot",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Rohan",
+  "subtitle": "Éomer's Steed",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\nAt the start of each skirmish involving bearer, each minion skirmishing bearer must exert.\n<phase>Regroup</phase>: If bearer is Éomer, exert him to discard a condition. Any Shadow player may remove <twilight>1</twilight> to prevent this."
+}

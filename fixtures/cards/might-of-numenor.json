@@ -1,9 +1,0 @@
-{
-    "id": "might-of-numenor",
-    "title": "Might of Númenor",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Tale.<\/keyword>  <br><keyword>Maneuver:<\/keyword> Spot a <symbol>gondor<\/symbol> companion to reveal a card at random from an opponent’s hand. Heal X companions, where X is the twilight cost of the card revealed. "
-}

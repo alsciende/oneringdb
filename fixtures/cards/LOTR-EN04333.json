@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04333.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "333",
+  "name": "Plains of Rohan Camp",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "1",
+  "game_text": "<keyword>Plains</keyword>. At the start of each fellowship phase, heal up to 3 wounds from companions."
+}

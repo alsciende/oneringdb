@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10115.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "115",
+  "name": "Slunk Out of Sight",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Stealth</keyword>. If there are 6 or more <culture>Shire</culture> cards in your discard pile, cancel a skirmish involving your Hobbit and a minion who is not fierce. Each minion in that skirmish is <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "“...harsh and loud they heard orc-voices.”"
+}

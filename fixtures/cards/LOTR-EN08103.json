@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08103.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "103",
+  "name": "Grond",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "subtitle": "Hammer of the Underworld",
+  "twilight_cost": "3",
+  "game_text": "<keyword>Engine</keyword>.\n<phase>Shadow</phase>: Play a <culture>Sauron</culture> minion to add a <culture>Sauron</culture> token here.\n<phase>Regroup</phase>: Remove X <culture>Sauron</culture> tokens here to discard a Free Peoples card (except a companion) with a twilight cost of X. Discard a <culture>Sauron</culture> minion or this possession."
+}

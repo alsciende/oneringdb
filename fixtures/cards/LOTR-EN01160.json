@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01160.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "160",
+  "name": "Uruk-hai Sword",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be an Uruk-hai.\nEach time bearer wins a skirmish, the Free Peoples player must discard the top card of his or her draw deck.",
+  "flavor_text": "Their malevolent strength worsens the wounds from the gruesome weapons of the Uruks."
+}

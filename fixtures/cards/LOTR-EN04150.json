@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04150.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "150",
+  "name": "Elite Crossbowmen",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "7",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Archer</keyword>. <keyword>Damage +1</keyword>.\n<phase>Archery</phase>: Exert Elite Crossbowmen to make the Free Peoples player wound an unbound companion; this minion does not add to the minion archery total.",
+  "flavor_text": "The best archers were held in reserve, awaiting the final assault."
+}

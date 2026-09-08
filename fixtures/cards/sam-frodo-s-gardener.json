@@ -1,9 +1,0 @@
-{
-    "id": "sam-frodo-s-gardener",
-    "title": "Sam",
-    "subtitle": "Frodo's Gardener",
-    "culture": "shire",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Ring-bound.<\/keyword><br><keyword>Fellowship:<\/keyword> Play Sam’s Pack from your draw deck. <br><keyword>Response:<\/keyword> If Frodo is killed, make Sam the <keyword>Ring-bearer (resistance 5).<\/keyword>"
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01205.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "205",
+  "name": "Beauty Is Fading",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "5",
+  "game_text": "<phase>Maneuver</phase>: Exert a Nazgûl to discard a Free Peoples possession or Free Peoples condition. If you can spot no such card, discard an ally or companion (except the Ring-bearer) instead.",
+  "flavor_text": "“‘...the Three will fail, and many fair things will fade and be forgotten.’”"
+}

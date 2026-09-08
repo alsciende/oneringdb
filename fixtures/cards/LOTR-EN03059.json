@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03059.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "59",
+  "name": "Isengard Shaman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<phase>Response</phase>: If an <culture>Isengard</culture> Orc is about to take a wound, remove <twilight>2</twilight> to prevent that wound.",
+  "flavor_text": "“‘Over all his works a dark smoke hung and wrapped itself about the sides of Orthanc.’”"
+}

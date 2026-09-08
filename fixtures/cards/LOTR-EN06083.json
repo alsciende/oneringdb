@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN06083.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "83",
+  "name": "Fell Beast",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "strength_modifier": "+2",
+  "game_text": "To play, discard 2 cards from hand.\nBearer must be a Nazgûl.\nBearer is <keyword>fierce</keyword>.",
+  "flavor_text": "“‘And these winged creatures that they ride on now, they can probably see more than any other creature. They are like great carrion birds.’”"
+}

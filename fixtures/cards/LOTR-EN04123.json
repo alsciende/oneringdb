@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04123.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "123",
+  "name": "Hard Choice",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Spot Aragorn to heal a companion who has the Aragorn signet twice.",
+  "flavor_text": "“‘Shall we rest by night, or shall we go on while our will and strength hold?’”"
+}

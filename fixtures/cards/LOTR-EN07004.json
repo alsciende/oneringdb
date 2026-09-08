@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07004.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "4",
+  "name": "Calculated Risk",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Fellowship",
+  "culture": "Dwarven",
+  "twilight_cost": "2",
+  "game_text": "Spot a Dwarf and add a threat to draw 3 cards.",
+  "flavor_text": "“‘Beyond the eyes of Dwarves are such fortellings….’”"
+}

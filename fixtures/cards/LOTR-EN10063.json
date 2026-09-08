@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10063.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "63",
+  "name": "Morgul Vanguard",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "6",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<phase>Assignment</phase>: Assign this minion to an unbound companion bearing a hand weapon.",
+  "flavor_text": "“...soon the host of Morgul will enter in at many points.’”"
+}

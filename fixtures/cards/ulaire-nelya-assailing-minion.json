@@ -1,9 +1,0 @@
-{
-    "id": "ulaire-nelya-assailing-minion",
-    "title": "Úlairë Nelya",
-    "subtitle": "Assailing Minion",
-    "culture": "wraith",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Fierce.<\/keyword> <br><keyword>Skirmish:<\/keyword> Discard a <symbol>wraith<\/symbol> minion to make Úlairë Nelya strength +2."
-}

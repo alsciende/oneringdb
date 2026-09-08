@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08049.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "49",
+  "name": "Black Númenorean",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "6",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Corsair</keyword>. <keyword>Fierce</keyword>.\n<phase>Skirmish</phase>: If you have initiative, remove a <culture>Raider</culture> token to discard a possession borne by a character skirmishing this minion.",
+  "flavor_text": "“...corrupted by Sauron, and who hated above all the followers of Elendil.”"
+}

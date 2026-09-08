@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10116.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "116",
+  "name": "The Tale of the Great Ring",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Tale</keyword>.\n<phase>Skirmish</phase>: Prevent a Hobbit from being overwhelmed unless a Shadow event is (or was) played during this skirmish. Discard this condition.",
+  "flavor_text": "“‘I have quite finished, Sam,’ said Frodo. ‘The last pages are for you.’”"
+}

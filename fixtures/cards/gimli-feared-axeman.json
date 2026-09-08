@@ -1,9 +1,0 @@
-{
-    "id": "gimli-feared-axeman",
-    "title": "Gimli",
-    "subtitle": "Feared Axeman",
-    "culture": "dwarven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Damage +1.<\/keyword> <br><keyword>Response:<\/keyword> If a <symbol>dwarven<\/symbol> condition is about to be discarded by an opponent, exert a Dwarf or discard a <symbol>dwarven<\/symbol> card from hand to prevent that."
-}

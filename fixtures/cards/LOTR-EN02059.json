@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02059.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "59",
+  "name": "Foul Things",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "2",
+  "game_text": "<phase>Shadow</phase>: Play a <culture>Moria</culture> minion from your discard pile.",
+  "flavor_text": "“‘Something has crept, or has been driven out of dark waters under the mountains.’”"
+}

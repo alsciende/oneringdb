@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN08052.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "52",
+  "name": "Corsair Ballista",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Raider",
+  "twilight_cost": "0",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a corsair.\nWhile you have initiative, bearer is an <keyword>archer</keyword> and <keyword>fierce</keyword>.",
+  "flavor_text": "Ranged weapons bristled from the warships and aided the Corsairs’ plunder of coastal cities."
+}

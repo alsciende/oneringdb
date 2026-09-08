@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN01262.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "262",
+  "name": "Orc Assassin",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<keyword>Tracker</keyword>.\nThe roaming penalty for each <culture>Sauron</culture> minion you play is −1.\n<phase>Assignment</phase>: Spot 2 Hobbit companions to make the Free Peoples player assign a Hobbit to skirmish this minion."
+}

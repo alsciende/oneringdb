@@ -1,9 +1,0 @@
-{
-    "id": "hobbit-sword-play",
-    "title": "Hobbit Sword-play",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Exert a Hobbit bearing a weapon to wound a minion.  That minion’s owner may remove <symbol>twilight3<\/symbol> to prevent this. "
-}

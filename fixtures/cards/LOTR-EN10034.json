@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10034.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "34",
+  "name": "Last Throw",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Regroup",
+  "culture": "Gondor",
+  "twilight_cost": "5",
+  "game_text": "If no opponent controls a site, spot 2 <culture>Gondor</culture> Men to make the move limit +1 for this turn.",
+  "flavor_text": "“‘We must push Sauron... We must march out to meet him at once.’”"
+}

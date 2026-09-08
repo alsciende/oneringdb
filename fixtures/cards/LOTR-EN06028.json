@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN06028.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "28",
+  "name": "Ent Horde",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Ent",
+  "culture": "Gandalf",
+  "twilight_cost": "15",
+  "strength": "10",
+  "vitality": "5",
+  "game_text": "To play, spot 2 Ent companions.\nEnt Horde’s twilight cost is −2 for each Ent or unbound Hobbit you can spot.\nWhile you can spot more minions than companions, Ent Horde is <keyword>defender +1</keyword>.",
+  "flavor_text": "“‘With doom we come, with doom we come!’”"
+}

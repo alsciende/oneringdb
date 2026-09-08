@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07073.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "73",
+  "name": "Sneaking!",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Gollum",
+  "twilight_cost": "2",
+  "game_text": "<keyword>Stealth</keyword>.\nHeal Sméagol (or cancel Sméagol’s skirmish if he has more vitality than the minion or minions he is skirmishing).",
+  "flavor_text": "“‘What were you doing?’”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07147.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "147",
+  "name": "Easterling Veteran",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>.\n<phase>Skirmish</phase>: Remove 2 burdens to heal another Easterling.",
+  "flavor_text": "“...enclosed in a ring of foes.”"
+}

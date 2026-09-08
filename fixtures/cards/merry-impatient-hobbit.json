@@ -1,9 +1,0 @@
-{
-    "id": "merry-impatient-hobbit",
-    "title": "Merry",
-    "subtitle": "Impatient Hobbit",
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "companion",
-    "text": "<keyword>Regroup:<\/keyword> Discard Merry to heal a <symbol>gandalf<\/symbol> companion."
-}

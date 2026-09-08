@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08092.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "92",
+  "name": "Théoden",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Tall and Proud",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Valiant</keyword>.\nWhile you can spot a <culture>Rohan</culture> Man, Théoden’s twilight cost is –1.\nWhen Théoden is killed, you may play a <culture>Rohan</culture> companion from your discard pile or draw deck.",
+  "flavor_text": "“‘Up Eorlingas! Fear no darkness!’”"
+}

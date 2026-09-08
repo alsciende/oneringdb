@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04232.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "232",
+  "name": "Elite Archer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Archer</keyword>.\n<phase>Archery</phase>: Exert this minion to exert a companion (except the Ring-bearer); this minion does not add to the minion archery total.",
+  "flavor_text": "Veteran bowmen are highly valued in the kingdoms of the South."
+}

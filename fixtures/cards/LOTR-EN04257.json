@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04257.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "257",
+  "name": "Southron Veterans",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Ambush</keyword> <twilight>1</twilight>.\n<phase>Maneuver</phase>: Exert this minion and spot 6 companions to make the Free Peoples player exert 2 companions.",
+  "flavor_text": "“He caught a glimpse of swarthy men... running down the slope some way off....”"
+}

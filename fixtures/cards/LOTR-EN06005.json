@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06005.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "5",
+  "name": "Dunlending Reserve",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "1",
+  "site_number": "3",
+  "game_text": "The twilight cost of this minion during a skirmish phase is −2.",
+  "flavor_text": "The relentless campaign of the hillmen drove citizens of the Westfold to the shelter of their capital."
+}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04255.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "255",
+  "name": "Southron Spear",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a Southron.\n<phase>Skirmish</phase>: Remove <twilight>4</twilight> and exert bearer to wound a companion or ally bearer is skirmishing.",
+  "flavor_text": "Long pikes defend the Southrons against the armored knights of Gondor."
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01070.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "70",
+  "name": "Barliman Butterbur",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "1",
+  "culture": "Gandalf",
+  "subtitle": "Prancing Pony Proprietor",
+  "twilight_cost": "0",
+  "strength": "1",
+  "vitality": "2",
+  "game_text": "<phase>Fellowship</phase>: Exert Barliman Butterbur to take a <culture>Gandalf</culture> event into hand from your discard pile.",
+  "flavor_text": "“‘You don’t know much even about them, if you think old Barliman is stupid,’ said Gandalf. ‘He is wise enough on his own ground.’”"
+}

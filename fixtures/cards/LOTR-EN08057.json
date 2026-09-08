@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08057.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "57",
+  "name": "Corsair Marauder",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Corsair</keyword>.\nWhen you play this minion, if you can spot another corsair, you may discard a possession to add 2 <culture>Raider</culture> tokens to a card that already has a <culture>Raider</culture> token on it.",
+  "flavor_text": "“Umbar remained at war with Gondor for many lives of men....”"
+}

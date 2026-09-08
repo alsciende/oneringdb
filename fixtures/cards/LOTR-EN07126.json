@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN07126.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "126",
+  "name": "Unexpected Visitor",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be a <culture>Gondor</culture> companion.\nEach minion gains this ability:\n“<phase>Assignment</phase>: Assign this minion to bearer of Unexpected Visitor.”\n<phase>Regroup</phase>: Discard this condition to discard a minion and remove <twilight>4</twilight>."
+}

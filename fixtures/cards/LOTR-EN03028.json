@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03028.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "28",
+  "name": "Voice of Nimrodel",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "<keyword>Tale</keyword>.\n<phase>Skirmish</phase>: Exert an Elf at a river or forest to cancel a skirmish involving that Elf.",
+  "flavor_text": "“‘Beside the falls of Nimrodel, / By water clear and cool, / Her voice as falling silver fell / Into the shining pool.’”"
+}

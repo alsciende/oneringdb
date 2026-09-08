@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10110.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "110",
+  "name": "A Marvel",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "Exert a Hobbit to make another Hobbit strength +3.",
+  "flavor_text": "“Howling with pain and fear but desperate the orc charged head-down at him.”"
+}

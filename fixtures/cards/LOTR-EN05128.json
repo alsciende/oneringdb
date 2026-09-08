@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05128.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "128",
+  "name": "Thundering Host",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Discard this condition to make a mounted <culture>Rohan</culture> Man strength +3 (and heal that Man if at a plains).",
+  "flavor_text": "The roar of hooves was enough to rout the Uruk-hai without sword or spear."
+}

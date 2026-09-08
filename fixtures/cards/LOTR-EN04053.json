@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04053.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "53",
+  "name": "Quick As May Be",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Spot a Dwarf companion and an Elf companion to wound a minion.",
+  "flavor_text": "“‘I think, nonetheless, that we no longer need any trail to tell us which way to go.’”"
+}

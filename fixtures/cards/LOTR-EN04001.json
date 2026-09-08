@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04001.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "1",
+  "name": "The One Ring",
+  "unique": true,
+  "type": "Ring",
+  "culture": null,
+  "subtitle": "Answer To All Riddles",
+  "vitality_modifier": "+2",
+  "game_text": "While wearing The One Ring, the Ring-bearer is strength +2, and each time he is about to take a wound in a skirmish, add a burden instead.\n<phase>Skirmish</phase>: Add a burden to wear The One Ring until the regroup phase.",
+  "flavor_text": "“...thought to have perished from the world.”"
+}

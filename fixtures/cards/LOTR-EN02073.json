@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02073.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "73",
+  "name": "Watcher in the Water",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Creature",
+  "culture": "Moria",
+  "subtitle": "Keeper of Westgate",
+  "twilight_cost": "4",
+  "strength": "11",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "<keyword>Damage +1</keyword>.\nWhile you can spot Watcher in the Water, discard all other minions (except tentacles).\nEach tentacle is strength +2 and <keyword>damage +1</keyword>. This minion may not bear possessions and is discarded if not at a marsh.",
+  "flavor_text": "“The dark water boiled... there was a hideous stench.”"
+}

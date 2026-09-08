@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05118.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "118",
+  "name": "Hornburg Wall",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "7",
+  "shadow_number": "6",
+  "game_text": "<phase>Regroup</phase>: Spot your minion and remove <twilight>9</twilight> to make the fellowship move again this turn (if the move limit allows)."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07170.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "170",
+  "name": "Suzerain of Harad",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "6",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Archer</keyword>.\nWhile you have initiative, the Ring-bearer cannot take wounds during the archery phase and this minion is <keyword>ambush</keyword> <twilight>8</twilight>.",
+  "flavor_text": "“...there came flying a deadly dart….”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "pippin-guard-of-minas-tirith",
-    "title": "Pippin",
-    "subtitle": "Guard of Minas Tirith",
-    "culture": "shire",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "To play, spot a <symbol>gondor<\/symbol> Man. <br><keyword>Skirmish:<\/keyword> Discard 4 cards from hand to wound a minion Pippin is skirmishing twice if that minion bears a fortification."
-}

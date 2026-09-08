@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN06068.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "68",
+  "name": "Isengard Mechanics",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "6",
+  "strength": "11",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "<phase>Regroup</phase>: Discard an <culture>Isengard</culture> Orc to make the Free Peoples player wound a companion (or 2 companions if you spot 6 companions).\n<phase>Regroup</phase>: If this minion is stacked on an <culture>Isengard</culture> card, spot an <culture>Isengard</culture> Orc and discard this minion to add <twilight>3</twilight>."
+}

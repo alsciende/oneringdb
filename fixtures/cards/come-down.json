@@ -1,9 +1,0 @@
-{
-    "id": "come-down",
-    "title": "Come Down",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "<br><keyword>Archery:<\/keyword> Spot 2 <symbol>isengard<\/symbol> archers to make allies take wounds from archery fire instead of companions. "
-}

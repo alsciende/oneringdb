@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04118.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "118",
+  "name": "Faramir's Bow",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be Faramir.\nHe is an <keyword>archer</keyword>.\n<phase>Skirmish</phase>: If Faramir is skirmishing a Man or a roaming minion, exert Faramir to wound that minion.",
+  "flavor_text": "“Were I as hasty as you, I might have slain you long ago.”"
+}

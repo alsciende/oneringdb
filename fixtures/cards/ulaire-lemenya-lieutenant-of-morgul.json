@@ -1,9 +1,0 @@
-{
-    "id": "ulaire-lemenya-lieutenant-of-morgul",
-    "title": "Úlairë Lemenya",
-    "subtitle": "Lieutenant of Morgul",
-    "culture": "wraith",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "Each companion or ally who bears a <symbol>wraith<\/symbol> condition is strength -2."
-}

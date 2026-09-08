@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01047.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "47",
+  "name": "Gwemegil",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Arwen.\nShe is <keyword>damage +1</keyword>.\n<phase>Skirmish</phase>: Exert Arwen or discard 2 cards from hand to make her strength +1.",
+  "flavor_text": "Forged by the Elven-smiths of Rivendell, Arwen’s blade bears enchantments to ward off the forces of the Great Eye."
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08006.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "6",
+  "name": "Honed",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "Spot a Dwarf who is damage +X to make him strength +X.",
+  "flavor_text": "“‘What are we waiting for?’”"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01041.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "41",
+  "name": "Elven Bow",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be an Elf.\nBearer is an <keyword>archer</keyword>.",
+  "flavor_text": "“‘We live now upon an island amid many perils, and our hands are more often upon the bowstring than upon the harp.’”"
+}

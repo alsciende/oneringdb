@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01273.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "273",
+  "name": "The Ring's Oppression",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "game_text": "<phase>Response</phase>: If a <culture>Sauron</culture> Orc kills a companion, add 1 burden (or 3 if the Ring-bearer wears The One Ring).",
+  "flavor_text": "“The Ring that hung upon its chain about his neck grew heavy, heavier than a great stone, and his head was dragged downwards.”"
+}

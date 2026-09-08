@@ -1,9 +1,0 @@
-{
-    "id": "barren-land",
-    "title": "Barren Land",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "To play, spot a <symbol>sauron<\/symbol> minion. Each time the fellowship moves to any site 8 or 9, exert each Ring-bound companion. <br><keyword>Shadow:<\/keyword> Discard this condition to play a <symbol>sauron<\/symbol> minion. Its twilight cost is –2. "
-}

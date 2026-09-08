@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03082.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "82",
+  "name": "News of Mordor",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Spot an <culture>Isengard</culture> minion to make a Nazgûl <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘Build me an army worthy of Mordor.’”"
+}

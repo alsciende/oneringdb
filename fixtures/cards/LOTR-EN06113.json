@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN06113.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "113",
+  "name": "Merry",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Impatient Hobbit",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "<phase>Regroup</phase>: Discard Merry to heal a <culture>Shire</culture> companion.",
+  "flavor_text": "“‘Don’t talk to it Merry. Don’t encourage it.’”"
+}

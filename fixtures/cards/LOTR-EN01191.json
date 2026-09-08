@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01191.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "191",
+  "name": "Moria Scout",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "When you play this minion, spot an Elf to add <twilight>2</twilight>.",
+  "flavor_text": "Like their kindred in the North, the Orcs of Moria have keen noses, often following their prey by scent."
+}

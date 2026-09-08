@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03026.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "26",
+  "name": "Something Draws Near",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase> or <phase>Maneuver</phase>: Exert an Elf to discard an <culture>Isengard</culture> possession or <culture>Isengard</culture> artifact.",
+  "flavor_text": "“‘We have hunted and slain many Orcs in the woods....’”"
+}

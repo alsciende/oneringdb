@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07260.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "260",
+  "name": "Windfola",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Rohan",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\nAt the start of each skirmish involving bearer, each minion skirmishing bearer must exert.\n<phase>Skirmish</phase>: If bearer is Éowyn, exert her twice to wound a fierce minion she is skirmishing."
+}

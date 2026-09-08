@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07365.png",
+  "set_number": "7",
+  "rarity": "P",
+  "card_number": "365",
+  "name": "Éomer",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Valiant Warchief",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Theoden",
+  "game_text": "<keyword>Valiant</keyword>. While you can spot a <culture>Rohan</culture> Man, Éomer’s twilight cost is −1.\n<phase>Skirmish</phase>: If you have initiative, discard 3 cards from hand to make Éomer strength +1 for each valiant companion you spot."
+}

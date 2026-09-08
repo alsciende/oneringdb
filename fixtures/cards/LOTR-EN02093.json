@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02093.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "93",
+  "name": "Tower Assassin",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Maneuver</phase>: Exert Tower Assassin to wound an ally.",
+  "flavor_text": "A Ring of Power would not stop the blade of an assassin lying in wait."
+}

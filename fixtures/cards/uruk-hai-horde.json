@@ -1,9 +1,0 @@
-{
-    "id": "uruk-hai-horde",
-    "title": "Uruk-hai Horde",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 6,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword>  <br>The twilight cost of this minion is -1 for each site you control. "
-}

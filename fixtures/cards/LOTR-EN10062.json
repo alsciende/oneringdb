@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10062.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "62",
+  "name": "Morgul Banner-bearer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "While the total number of other minions and twilight tokens is 3 or fewer, this minion is strength +3 and an <keyword>archer</keyword>.",
+  "flavor_text": "“So great an army had never issued from that vale since the days of Isildur’s might....”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04194.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "194",
+  "name": "Uruk Searcher",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Tracker</keyword>. <keyword>Fierce</keyword>.\nWhile skirmishing a character bearing a search card, this minion is strength +2 and <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘Why don't we search them and find out?’”"
+}

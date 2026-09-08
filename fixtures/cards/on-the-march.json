@@ -1,9 +1,0 @@
-{
-    "id": "on-the-march",
-    "title": "On the March",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>raider<\/symbol> Man strength +3 (or +5 if you spot 6 companions). "
-}

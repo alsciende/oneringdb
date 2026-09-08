@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01167.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "167",
+  "name": "Denizens Enraged",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Moria</culture> Orc strength +1 for each other <culture>Moria</culture> Orc you spot (limit +4).",
+  "flavor_text": "“...there came a great noise: a rolling Boom that seemed to come from depths far below, and to tremble in the stone at their feet.”"
+}

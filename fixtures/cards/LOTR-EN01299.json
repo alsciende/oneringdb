@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01299.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "299",
+  "name": "Hobbit Sword",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a Hobbit.",
+  "flavor_text": "“‘Strap these on....’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "great-shield",
-    "title": "Great Shield",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be a Man. <br>The minion archery total is -1."
-}

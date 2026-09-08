@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01118.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "118",
+  "name": "Valiant Man of the West",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Make Aragorn <keyword>defender +1</keyword> and he takes no more than 1 wound during each skirmish phase until the regroup phase.",
+  "flavor_text": "“‘...I swore to protect you.’”"
+}

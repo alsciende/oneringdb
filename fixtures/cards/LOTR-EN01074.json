@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01074.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "74",
+  "name": "Gandalf's Pipe",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Pipe",
+  "culture": "Gandalf",
+  "twilight_cost": "0",
+  "game_text": "Bearer must be Gandalf.\n<phase>Fellowship</phase>: Discard a pipeweed possession and spot X pipes to remove X burdens.",
+  "flavor_text": "“‘I know what is the matter with me,’ he muttered, as he sat down by the door. ‘I need smoke!’”"
+}

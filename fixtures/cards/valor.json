@@ -1,9 +1,0 @@
-{
-    "id": "valor",
-    "title": "Valor",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Make an Elf strength +2 (or +3 if skirmishing a wounded minion). "
-}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04192.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "192",
+  "name": "Uruk Regular",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Shadow</phase>: Exert this minion to play an Uruk-hai; its twilight cost is −1 for each other Uruk-hai you can spot.",
+  "flavor_text": "“‘We are the Uruk-hai; we do not stop the fight for night or day, for fair weather or for storm.’”"
+}

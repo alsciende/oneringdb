@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01024.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "24",
+  "name": "Stairs of Khazad-dûm",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\nWhile a Dwarf skirmishes a <culture>Moria</culture> minion, that Dwarf is strength +1.",
+  "flavor_text": "“‘Moria – Khazad-dûm! Greatest of the dwarf-halls – What I would not give to look upon its treasures!’”"
+}

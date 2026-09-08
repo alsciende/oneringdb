@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07058.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "58",
+  "name": "Gollum",
+  "unique": true,
+  "type": "Minion",
+  "culture": "Gollum",
+  "subtitle": "Plotting Deceiver",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "If you have initiative during the Shadow phase, you may play this minion from your discard pile.",
+  "flavor_text": "“‘Let Her deal with them… she must eat. All She gets is filthy Orcses.’”"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN06014.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "14",
+  "name": "Banner of Elbereth",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be an Elf companion.\nEach time bearer wins a skirmish, you may draw a card.\n<phase>Response</phase>: If bearer wins a skirmish, discard this possession to liberate a site.",
+  "flavor_text": "“‘First name the four, the free peoples: / Eldest of all, the elf-children…’”"
+}

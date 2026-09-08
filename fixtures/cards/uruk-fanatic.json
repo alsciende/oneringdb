@@ -1,9 +1,0 @@
-{
-    "id": "uruk-fanatic",
-    "title": "Uruk Fanatic",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword><br>If there are at least 3 cards in the dead pile, this minion is <keyword>fierce.<\/keyword> "
-}

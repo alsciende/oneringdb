@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04308.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "308",
+  "name": "Knocked on the Head",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Regroup</phase>: Play an unbound Hobbit from your discard pile.",
+  "flavor_text": "“‘I wonder if poor Merry is much hurt.’”"
+}

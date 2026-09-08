@@ -1,9 +1,0 @@
-{
-    "id": "uruk-follower",
-    "title": "Uruk Follower",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Tracker.<\/keyword> <keyword>Fierce.<\/keyword><br>Unbound Hobbits may not be discarded. <br><keyword>Response:<\/keyword> If an unbound Hobbit is killed, exert this minion to add a burden. "
-}

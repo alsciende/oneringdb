@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10025.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "25",
+  "name": "Aragorn",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Elessar Telcontar",
+  "twilight_cost": "5",
+  "strength": "9",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "When you play Aragorn, you may heal another companion.\nAt the start of each fellowship phase, you may exert a companion of one culture to heal a companion of another culture.",
+  "flavor_text": "“‘Now come the days of the King, and may they be blessed while the thrones of the Valar endure!’”"
+}

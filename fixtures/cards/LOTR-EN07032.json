@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07032.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "32",
+  "name": "The Board Is Set",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Response",
+  "culture": "Gandalf",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Spell</keyword>.\nIf an event is played, exert Gandalf to make that opponent remove <twilight>2</twilight> or cancel that event.",
+  "flavor_text": "“We come to it at last... the greatest battle of our time.”"
+}

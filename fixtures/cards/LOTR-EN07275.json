@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07275.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "275",
+  "name": "Gorgoroth Pillager",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\nWhile this minion is stacked on a site you control, besiegers are <keyword>fierce</keyword>.",
+  "flavor_text": "“Great engines crawled across the field….”"
+}

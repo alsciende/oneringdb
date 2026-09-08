@@ -1,9 +1,0 @@
-{
-    "id": "long-spear",
-    "title": "Long Spear",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be a <symbol>rohan<\/symbol> Man. <br>You may add a threat to play this possession anytime you could play a skirmish event."
-}

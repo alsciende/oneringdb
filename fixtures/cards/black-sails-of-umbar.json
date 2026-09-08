@@ -1,9 +1,0 @@
-{
-    "id": "black-sails-of-umbar",
-    "title": "Black Sails of Umbar",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 2,
-    "type": "possession",
-    "text": "When you play this possession, you may add a <symbol>raider<\/symbol> token here. <br><keyword>Shadow:<\/keyword> Remove X <symbol>raider<\/symbol> tokens here to play a corsair from your discard pile; its twilight cost is –X. Discard this possession."
-}

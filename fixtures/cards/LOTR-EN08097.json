@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08097.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "97",
+  "name": "Gorgoroth Breaker",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Archery</phase>: Exert this minion or stack it on a site you control to make the fellowship archery total –2.",
+  "flavor_text": "“‘The City is all set about with flame, and the field is full of foes.’”"
+}

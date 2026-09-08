@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04321.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "321",
+  "name": "Swiftly and Softly",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Stealth</keyword>.\n<phase>Skirmish</phase>: At sites 1<block>Tower</block> to 5<block>Tower</block>, cancel a skirmish involving a Hobbit. At any other site, prevent a Hobbit from taking more than 1 wound.",
+  "flavor_text": "“In the deep of night under hard clear stars they set off.”"
+}

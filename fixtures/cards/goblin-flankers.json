@@ -1,9 +1,0 @@
-{
-    "id": "goblin-flankers",
-    "title": "Goblin Flankers",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "When you play this minion, you may add <symbol>twilight3<\/symbol> if the fellowship has moved more than once this turn. "
-}

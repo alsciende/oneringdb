@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04304.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "304",
+  "name": "Get On and Get Away",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Add 2 burdens to play the fellowship’s next 2 sites (replacing opponent’s sites if necessary).",
+  "flavor_text": "“‘The Dead can’t be really there! Is it some devilry hatched in the Dark Land?’”"
+}

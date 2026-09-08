@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01003.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "3",
+  "name": "Axe Strike",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a Dwarf strength +2 (or +3 if bearing a <culture>Dwarven</culture> hand weapon).",
+  "flavor_text": "Though Gimli’s words were praised by the Lady of Light, he proved his best skill was swinging his axe."
+}

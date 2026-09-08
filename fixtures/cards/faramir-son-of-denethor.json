@@ -1,9 +1,0 @@
-{
-    "id": "faramir-son-of-denethor",
-    "title": "Faramir",
-    "subtitle": "Son of Denethor",
-    "culture": "gondor",
-    "twilight_cost": 3,
-    "type": "companion",
-    "text": "<keyword>Ring-bound. Ranger.<\/keyword><br>An opponent may not play skirmish events or use skirmish special abilities during skirmishes involving Faramir. "
-}

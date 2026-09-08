@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03075.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "75",
+  "name": "Uruk Ravager",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nWhen you play this minion, you may spot Saruman to add <twilight>2</twilight>.",
+  "flavor_text": "“‘...a ruined and terrible form of life.’”"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN06098.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "98",
+  "name": "Banner of the Eye",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be a <culture>Sauron</culture> Orc.\nEach time bearer wins a skirmish, you may add <twilight>1</twilight> for each site you control.",
+  "flavor_text": "“Stony-faced they were, with dark window-holes staring north and east and west, and each window was full of sleepless eyes.”"
+}

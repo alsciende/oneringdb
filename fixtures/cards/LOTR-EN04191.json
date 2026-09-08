@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04191.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "191",
+  "name": "Uruk Rear Guard",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "6",
+  "strength": "12",
+  "vitality": "4",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Skirmish</phase>: Exert this minion at a battleground to make another Uruk-hai strength +1.",
+  "flavor_text": "Promised a fair share of plunder, they defended against possible reinforcements."
+}

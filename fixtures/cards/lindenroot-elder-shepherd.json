@@ -1,9 +1,0 @@
-{
-    "id": "lindenroot-elder-shepherd",
-    "title": "Lindenroot",
-    "subtitle": "Elder Shepherd",
-    "culture": "gandalf",
-    "twilight_cost": 4,
-    "type": "companion",
-    "text": "<keyword>Unhasty.<\/keyword><br><keyword>Assignment:<\/keyword> Exert an unbound Hobbit or discard 2 cards from hand to allow Lindenroot to skirmish. <br><keyword>Skirmish:<\/keyword> Exert Lindenroot to wound an <symbol>isengard<\/symbol> minion he is skirmishing."
-}

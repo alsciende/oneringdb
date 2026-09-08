@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04094.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "94",
+  "name": "Hearken to Me",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Gandalf",
+  "twilight_cost": "0",
+  "strength_modifier": "+2",
+  "vitality_modifier": "+1",
+  "game_text": "<keyword>Spell</keyword>. To play, spot Gandalf. Bearer must be Théoden.\nDiscard all Shadow conditions on Théoden. Shadow conditions may not be played on Théoden.",
+  "flavor_text": "“‘Not all is dark. Take courage, Lord of the Mark; for better help you will not find.’”"
+}

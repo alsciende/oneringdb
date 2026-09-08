@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN01326.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "326",
+  "name": "Westfarthing",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "1",
+  "game_text": "<phase>Fellowship</phase>: Exert a Hobbit to play a companion or ally; that character's twilight cost is −1."
+}

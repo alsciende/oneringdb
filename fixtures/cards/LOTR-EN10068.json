@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10068.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "68",
+  "name": "Úlairë Enquëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Thrall of The One",
+  "twilight_cost": "6",
+  "strength": "11",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "<keyword>Enduring</keyword>.\nShadow cards cannot exert Úlairë Enquëa during a skirmish phase.\n<phase>Skirmish</phase>: If Úlairë Enquëä is skirmishing, heal him to add a burden.",
+  "flavor_text": "“Ever they circled above the City, like vultures that expect their fill of doomed men’s flesh.”"
+}

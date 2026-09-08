@@ -1,9 +1,0 @@
-{
-    "id": "elrond-elven-lord",
-    "title": "Elrond",
-    "subtitle": "Elven Lord",
-    "culture": "elven",
-    "twilight_cost": 4,
-    "type": "companion",
-    "text": "To play, spot Aragorn or an Elf. <br>At the start of each turn, you may exert Elrond to heal a character bearing an artifact."
-}

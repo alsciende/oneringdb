@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04336.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "336",
+  "name": "Wold of Rohan",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "3",
+  "game_text": "<keyword>Plains</keyword>. Each time the Free Peoples player assigns a companion or ally to a skirmish, add <twilight>1</twilight>."
+}

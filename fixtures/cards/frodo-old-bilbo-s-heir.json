@@ -1,9 +1,0 @@
-{
-    "id": "frodo-old-bilbo-s-heir",
-    "title": "Frodo",
-    "subtitle": "Old Bilbo's Heir",
-    "culture": "shire",
-    "twilight_cost": 0,
-    "type": "companion",
-    "text": "<keyword>Ring-bearer (resistance 10).<\/keyword>  <br>At the start of each of your turns, you may heal a Hobbit ally."
-}

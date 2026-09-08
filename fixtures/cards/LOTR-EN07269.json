@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07269.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "269",
+  "name": "Fires Raged Unchecked",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "The site number of each <culture>Sauron</culture> Orc is −1 for each threat.\nWhile you can spot 3 threats, each <culture>Sauron</culture> Orc that is not roaming is strength +1.",
+  "flavor_text": "“And so slowly they passed out of a dim day of fears into the darkness of a desperate night.”"
+}

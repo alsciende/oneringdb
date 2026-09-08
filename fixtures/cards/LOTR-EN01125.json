@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01125.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "125",
+  "name": "Greed",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "To play, spot an Uruk-hai. Plays to your support area.\n<phase>Maneuver</phase>: Spot 6 companions and remove <twilight>2</twilight> to wound a companion (except the Ring-bearer).",
+  "flavor_text": "“‘It is a strange fate that we should suffer so much fear and doubt over so small a thing....’”"
+}

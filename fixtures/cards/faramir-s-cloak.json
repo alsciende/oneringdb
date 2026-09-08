@@ -1,9 +1,0 @@
-{
-    "id": "faramir-s-cloak",
-    "title": "Faramir's Cloak",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "possession",
-    "text": "Bearer must be Faramir.  <br>Each roaming minion skirmishing a Ring-bound Man is strength -1. "
-}

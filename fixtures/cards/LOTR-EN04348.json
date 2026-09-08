@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04348.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "348",
+  "name": "Deeping Wall",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "5",
+  "shadow_number": "7",
+  "game_text": "<keyword>Battleground</keyword>. <phase>Shadow</phase>: Play Saruman from your draw deck."
+}

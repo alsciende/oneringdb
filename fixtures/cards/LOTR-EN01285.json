@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01285.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "285",
+  "name": "Bilbo's Pipe",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Pipe",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a Hobbit.\n<phase>Fellowship</phase>: Discard a pipeweed possession and spot X pipes to shuffle X tales from your discard pile into your draw deck.",
+  "flavor_text": "Bilbo has a fine pipe, carved for him by his Dwarven friends."
+}

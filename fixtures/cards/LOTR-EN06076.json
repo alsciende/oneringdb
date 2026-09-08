@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN06076.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "76",
+  "name": "The Balrog",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Balrog",
+  "culture": "Moria",
+  "subtitle": "Terror of Flame and Shadow",
+  "twilight_cost": "14",
+  "strength": "17",
+  "vitality": "5",
+  "site_number": "4",
+  "game_text": "<keyword>Damage +2</keyword>.\nThe twilight cost of The Balrog is −3 if you can spot a <culture>Moria</culture> minion.\nThe Balrog cannot be assigned to skirmish companions or allies of strength less than 6.",
+  "flavor_text": "“‘...he burst into new flame.’”"
+}

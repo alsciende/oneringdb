@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04287.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "287",
+  "name": "Rider's Mount",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\nAt the start of each skirmish involving bearer, each minion skirmishing bearer must exert.",
+  "flavor_text": "“Their horses were of great stature, strong and clean-limbed; their grey coats glistened, their long tails flowed in the wind....”"
+}

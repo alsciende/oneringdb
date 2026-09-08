@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN10118.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "118",
+  "name": "Pelennor Prairie",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "4",
+  "shadow_number": "3",
+  "game_text": "<keyword>Plains</keyword>. <phase>Shadow</phase>: Exert a minion and remove a burden to make the Free Peoples player discard one of his or her conditions."
+}

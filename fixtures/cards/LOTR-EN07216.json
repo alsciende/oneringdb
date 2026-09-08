@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07216.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "216",
+  "name": "Úlairë Nelya",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Black-Mantled Wraith",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "2",
+  "game_text": "<keyword>Fierce</keyword>.\n<phase>Regroup</phase>: If you have initiative, discard Úlairë Nelya to exert each Ring-bound companion.",
+  "flavor_text": "“‘It is the sign of our fall, and the shadow of doom, a Fell Rider of the air.’”"
+}

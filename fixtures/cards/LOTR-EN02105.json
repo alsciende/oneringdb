@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN02105.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "105",
+  "name": "Mithril-coat",
+  "unique": true,
+  "type": "Artifact",
+  "subtype": "Armor",
+  "culture": "Shire",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be Frodo.\nThe minion archery total is −1.\nEach minion skirmishing Frodo does not gain strength bonuses from weapons and loses all <keyword>damage</keyword> bonuses.",
+  "flavor_text": "“...its worth was greater than the value of the whole Shire and everything in it.’”"
+}

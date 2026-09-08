@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04294.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "294",
+  "name": "Weapon Store",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Fellowship</phase>: Exert a <culture>Rohan</culture> Man to play a hand weapon from your discard pile.",
+  "flavor_text": "“‘And to you my other guests I will offer such things as may be found in my armoury.’”"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08024.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "24",
+  "name": "Promise Keeping",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "4",
+  "game_text": "Each time a companion takes a wound during a skirmish that involves a <culture>Gollum</culture> minion, exert a companion.",
+  "flavor_text": "“‘And we’ll save the Precious, as we promised.... Then we’ll pay everyone back!’”"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08121.png",
+  "set_number": "8",
+  "rarity": "P",
+  "card_number": "121",
+  "name": "Merry",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Noble Warrior",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "To play, spot a <culture>Shire</culture> companion.\n<phase>Skirmish</phase>: Discard 4 cards from hand to make Merry strength +2 for each <culture>Shire</culture> companion you spot.",
+  "flavor_text": "“‘King’s man! King’s man!’ his heart cried within him.”"
+}

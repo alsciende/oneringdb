@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05020.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "20",
+  "name": "Turn of the Tide",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Maneuver</phase>: Exert Gandalf to discard up to 2 Shadow possessions. Any Shadow player may discard a minion to prevent this.",
+  "flavor_text": "“‘Indeed my friends, none of you have any weapon that could hurt me.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05087.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "87",
+  "name": "Parapet",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Fortification</keyword>. Plays to your support area.\n<phase>Archery</phase>: Spot 2 <culture>Rohan</culture> Men to remove 2 tokens from a machine or to make the minion archery total −3. Discard this condition.",
+  "flavor_text": "Upon the spur of rock from the cliff stood high walls of ancient stone."
+}

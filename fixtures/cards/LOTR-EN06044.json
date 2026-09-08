@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06044.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "44",
+  "name": "Safe Paths",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gollum",
+  "twilight_cost": "5",
+  "game_text": "<phase>Regroup</phase>: Exert Sméagol 3 times and discard him to wound each minion. The move limit for this turn is +1. If the fellowship moves, each Shadow player may take up to 3 Shadow cards into hand from his or her discard pile.",
+  "flavor_text": "“‘Soft and quick as shadows we must be!’”"
+}

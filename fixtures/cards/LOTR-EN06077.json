@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06077.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "77",
+  "name": "Durin's Tower",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "game_text": "Plays to your support area. At sites 2<block>Tower</block> and 3<block>Tower</block>, The Balrog’s twilight cost is −3.\n<phase>Skirmish</phase>: Discard this condition to make a unique <culture>Moria</culture> minion strength +3.",
+  "flavor_text": "“‘...carved in the living rock of Zirakzigil, the pinnacle of the Silvertine.’”"
+}

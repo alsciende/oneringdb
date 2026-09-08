@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08012.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "12",
+  "name": "Reckless We Rode",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Archery",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "Exert an Elf companion and make the fellowship archery total -X (to a minimum of 0) to wound a minion X times. You cannot use archery special abilities.",
+  "flavor_text": "“‘...driving them like leaves....’”"
+}

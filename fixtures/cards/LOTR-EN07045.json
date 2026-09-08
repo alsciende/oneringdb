@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07045.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "45",
+  "name": "Númenor’s Pride",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "To play, spot Gandalf and add 3 threats.\nGandalf is <keyword>defender +1</keyword> and cannot take wounds.\nDiscard this condition at the start of the regroup phase."
+}

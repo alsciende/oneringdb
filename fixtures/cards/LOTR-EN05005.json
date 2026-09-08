@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05005.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "5",
+  "name": "Baruk Khazâd",
+  "unique": false,
+  "type": "Event",
+  "culture": null,
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Exert a Dwarf to wound a minion. You may take the next maneuver action.",
+  "flavor_text": "“...a small dark figure that none had observed sprang out of the shadows and gave a hoarse shout....”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "desert-scout",
-    "title": "Desert Scout",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword> <keyword>Ambush<\/keyword> <symbol>twilight1<\/symbol>. <br>When the Free Peoples player assigns this minion to a character and you have initiative, you may wound that character."
-}

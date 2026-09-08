@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02094.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "94",
+  "name": "Verily I Come",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "To play, exert a <culture>Sauron</culture> Orc. Plays on the Ring-bearer.\nEach time the Free Peoples player draws a card (or takes a card into hand) during the fellowship phase, add a burden.",
+  "flavor_text": "“There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze.”"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01180.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "180",
+  "name": "Goblin Scimitar",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Moria</culture> Orc.\nWhen you play this possession, you may draw a card.",
+  "flavor_text": "“Some of the swords were crooked: orc-scimitars with blackened blades.”"
+}

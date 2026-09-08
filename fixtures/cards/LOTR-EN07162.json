@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07162.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "162",
+  "name": "Southron Captain",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "6",
+  "strength": "13",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\nWhile you can spot 4 threats, this minion is <keyword>damage +2</keyword>.",
+  "flavor_text": "“...a mounted champion of Harad….”"
+}

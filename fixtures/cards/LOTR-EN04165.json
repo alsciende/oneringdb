@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04165.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "165",
+  "name": "Orthanc Warrior",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.",
+  "flavor_text": "The Uruk-hai bred by Saruman are stronger and more fell than Orcs of Mordor."
+}

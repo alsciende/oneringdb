@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07326.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "326",
+  "name": "Sam",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Needer of Vittles",
+  "twilight_cost": "2",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Ring-bound</keyword>.\n<phase>Fellowship</phase>: Play a Hobbit companion to remove a burden.\n<phase>Response</phase>: If Frodo is killed, make Sam the <keyword>Ring-bearer</keyword> (resistance 5).",
+  "flavor_text": "“...but where there’s life there’s hope, as my Gaffer used to say....’”"
+}

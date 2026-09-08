@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07210.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "210",
+  "name": "Úlairë Attëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Wraith on Wings",
+  "twilight_cost": "6",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<keyword>Fierce</keyword>.\n<phase>Shadow</phase>: If you have initiative, exert Úlairë Attëa and spot another <culture>Wraith</culture> minion to add a burden.",
+  "flavor_text": "“...faint, but heart-quelling, cruel and cold.”"
+}

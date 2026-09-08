@@ -1,9 +1,0 @@
-{
-    "id": "rohirrim-traitor",
-    "title": "Rohirrim Traitor",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "While you can spot a companion bearing an <symbol>isengard<\/symbol> condition, this minion is strength +2."
-}

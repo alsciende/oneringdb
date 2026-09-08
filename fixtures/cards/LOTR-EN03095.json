@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03095.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "95",
+  "name": "Orc Guard",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<phase>Maneuver</phase>: Exert this minion and discard your <culture>Sauron</culture> condition to discard a Free Peoples condition.",
+  "flavor_text": "The malice of the Dark Tower thins the hopes of Men."
+}

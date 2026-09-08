@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04291.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "291",
+  "name": "Sword of Rohan",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\nWhile bearer is skirmishing an Uruk-hai, bearer is <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘This is a good sword, Haleth, son of Háma... there is always hope.’”"
+}

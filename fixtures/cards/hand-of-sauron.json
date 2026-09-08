@@ -1,9 +1,0 @@
-{
-    "id": "hand-of-sauron",
-    "title": "Hand of Sauron",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Exert a <symbol>sauron<\/symbol> minion to make the Free Peoples player discard a card at random from his or her hand. "
-}

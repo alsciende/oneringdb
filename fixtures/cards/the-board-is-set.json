@@ -1,9 +1,0 @@
-{
-    "id": "the-board-is-set",
-    "title": "The Board Is Set",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword> <br>If an event is played, exert Gandalf to make that opponent remove <symbol>twilight2<\/symbol> or cancel that event."
-}

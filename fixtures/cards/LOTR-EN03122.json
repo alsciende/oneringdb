@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03122.png",
+  "set_number": "3",
+  "rarity": "P",
+  "card_number": "122",
+  "name": "Boromir",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Defender of Minas Tirith",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Ranger</keyword>.\n<phase>Fellowship</phase>: Add <twilight>2</twilight> to heal Boromir.",
+  "flavor_text": "“...seated a little apart was a tall man with a fair and noble face... proud and stern of glance.”"
+}

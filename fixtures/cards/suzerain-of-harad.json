@@ -1,9 +1,0 @@
-{
-    "id": "suzerain-of-harad",
-    "title": "Suzerain of Harad",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 6,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword> <keyword>Archer.<\/keyword> <br>While you have initiative, the Ring-bearer may not take wounds during the archery phase and this minion is ambush <symbol>twilight8<\/symbol>."
-}

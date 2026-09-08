@@ -1,9 +1,0 @@
-{
-    "id": "mordor-enraged",
-    "title": "Mordor Enraged",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "Plays on a <symbol>sauron<\/symbol> minion.  <br><keyword>Shadow:<\/keyword> Exert bearer to add <symbol>twilight1<\/symbol> for each archer companion."
-}

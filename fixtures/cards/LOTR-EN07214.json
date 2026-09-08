@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07214.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "214",
+  "name": "Úlairë Lemenya",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Wraith on Wings",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "<phase>Regroup</phase>: If you have initiative, discard Úlairë Lemenya to discard a possession.",
+  "flavor_text": "“And even at that moment the sun for a second faltered and was obscured, as though a dark wing had passed across it.”"
+}

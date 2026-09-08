@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04026.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "26",
+  "name": "Iron Axe",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Dunland",
+  "twilight_cost": "1",
+  "strength_modifier": "+3",
+  "game_text": "Bearer must be a <culture>Dunland</culture> Man.",
+  "flavor_text": "Saruman armed the Dunlendings with weapons forged by his Orcs in Isengard."
+}

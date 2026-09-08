@@ -1,9 +1,0 @@
-{
-    "id": "far-seeing-eyes",
-    "title": "Far-seeing Eyes",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "<br>Each time you play an Elf, choose an opponent to discard a card from hand."
-}

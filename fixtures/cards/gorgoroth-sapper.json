@@ -1,9 +1,0 @@
-{
-    "id": "gorgoroth-sapper",
-    "title": "Gorgoroth Sapper",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Besieger.<\/keyword> <br><keyword>Shadow:<\/keyword> Discard 2 cards from hand to play a <symbol>sauron<\/symbol> Orc stacked on a site you control (discard 1 card from hand instead if that Orc is a besieger)."
-}

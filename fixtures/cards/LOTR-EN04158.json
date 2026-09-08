@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04158.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "158",
+  "name": "Lieutenant of Orthanc",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "7",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Maneuver</phase>: Exert Lieutenant of Orthanc to make another Uruk-hai <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "“‘Do you wish to see the greatness of our army? We are the fighting Uruk-hai.’”"
+}

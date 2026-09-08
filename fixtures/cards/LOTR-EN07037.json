@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07037.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "37",
+  "name": "Gandalf",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Wizard",
+  "culture": "Gandalf",
+  "subtitle": "Manager of Wizards",
+  "twilight_cost": "4",
+  "strength": "7",
+  "vitality": "4",
+  "signet": "Theoden",
+  "game_text": "<phase>Skirmish</phase>: Place 3 cards from hand on top of your draw deck to make a minion skirmishing an unbound companion strength −3. Any Shadow player may place 3 cards from his or her hand on top of his or her draw deck to prevent this."
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07324.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "324",
+  "name": "Pippin",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Wearer of Black and Silver",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "<phase>Skirmish</phase>: If Pippin is not assigned to a skirmish, return him to your hand to wound a roaming minion twice.",
+  "flavor_text": "“‘And as for orders, I think you have a madman to deal with, not a lord.’”"
+}

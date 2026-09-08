@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04175.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "175",
+  "name": "Still They Came",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Exert an Uruk-hai who is not assigned to a skirmish to make another Uruk-hai strength +3.",
+  "flavor_text": "“Before the wall's foot the dead and broken were piled like shingle in a storm; ever higher rose the hideous mounds....”"
+}

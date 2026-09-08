@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07272.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "272",
+  "name": "Gorgoroth Engineer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\nWhen you play this minion from a site you control, add 2 threats.",
+  "flavor_text": "“From behind the battle the River had been swiftly bridged….”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "orc-veteran",
-    "title": "Orc Veteran",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Skirmish:<\/keyword> Discard your <symbol>sauron<\/symbol> condition to make a character skirmishing this minion strength -1. "
-}

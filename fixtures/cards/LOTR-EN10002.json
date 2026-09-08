@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10002.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "2",
+  "name": "Memories of Darkness",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a Dwarf.\nEach time you lose initiative (except during the fellowship phase), you may play a <culture>Dwarven</culture> condition from hand or from your discard pile.",
+  "flavor_text": "“‘Had I known what was before me, I think that not for any friendship would I have taken the Paths of the Dead.’”"
+}

@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN07329.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "329",
+  "name": "Dunharrow Plateau",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "1",
+  "game_text": "<phase>Fellowship</phase>: Spot a Dwarf to play a <culture>Dunland</culture> condition from your draw deck (limit once per turn)."
+}

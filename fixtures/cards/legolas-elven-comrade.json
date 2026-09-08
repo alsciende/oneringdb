@@ -1,9 +1,0 @@
-{
-    "id": "legolas-elven-comrade",
-    "title": "Legolas",
-    "subtitle": "Elven Comrade",
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Archer.<\/keyword>  <br><keyword>Skirmish:<\/keyword> Exert Legolas to make a minion skirmishing an unbound companion strength -1 (or -2 if that companion is Gimli). "
-}

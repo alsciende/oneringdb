@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10040.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "40",
+  "name": "Easterling Berserker",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "6",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>. To play, spot an Easterling.\nWhile this minion is unwounded, he is <keyword>damage +2</keyword>.\n<phase>Skirmish</phase>: Wound 2 other <culture>Raider</culture> Men to heal this minion.",
+  "flavor_text": "“...from nearby there marched up an army of Easterlings that had waited for the signal....”"
+}

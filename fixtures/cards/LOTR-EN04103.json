@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04103.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "103",
+  "name": "Treebeard",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Ent",
+  "home_site": "2, 8",
+  "culture": "Gandalf",
+  "subtitle": "Earthborn",
+  "twilight_cost": "4",
+  "strength": "12",
+  "vitality": "4",
+  "game_text": "<keyword>Unhasty</keyword>.\n<phase>Response</phase>: If an unbound Hobbit is about to be discarded, stack him here instead.\n<phase>Fellowship</phase>: Exert Treebeard and add <twilight>1</twilight> to play an unbound Hobbit stacked here.",
+  "flavor_text": "“‘Do not be hasty, that is my motto.’”"
+}

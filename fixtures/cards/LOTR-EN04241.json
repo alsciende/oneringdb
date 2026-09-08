@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04241.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "241",
+  "name": "On the March",
+  "unique": false,
+  "type": "Event",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Raider</culture> Man strength +3 (or +5 if you spot 6 companions).",
+  "flavor_text": "Easterlings traveled up the ancient roads of Gondor to swell the hosts of the Dark Tower."
+}

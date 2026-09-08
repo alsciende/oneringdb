@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01223.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "223",
+  "name": "Relentless Charge",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Exert a Nazgûl to wound every archer companion.",
+  "flavor_text": "Even the fastest arrows are of no avail against the Black Steeds of the Nine Riders."
+}

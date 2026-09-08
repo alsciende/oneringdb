@@ -1,9 +1,0 @@
-{
-    "id": "consorting-with-wizards",
-    "title": "Consorting With Wizards",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "<keyword>Tale.<\/keyword> Bearer must be Bilbo.  <br>Bilbo may not take wounds (except during the archery phase). <br><keyword>Fellowship<\/keyword> or <keyword>Regroup:<\/keyword> Exert Bilbo or discard this condition to remove <symbol>twilight1<\/symbol>. "
-}

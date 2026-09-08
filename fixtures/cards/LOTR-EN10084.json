@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10084.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "84",
+  "name": "Cirith Ungol Sentry",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<keyword>Damage +1</keyword>.",
+  "flavor_text": "“...treachery had yielded up the Tower to the Lord of the Ringwraiths, and now for long years it had been held by evil things.”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "rest-while-you-can",
-    "title": "Rest While You Can",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Search.<\/keyword> To play, spot an <symbol>isengard<\/symbol> tracker.<br>Plays on a companion. Limit 1 per companion.If bearer is killed, reveal the top 10 cards of opponent’s draw deck and discard 1 Shadow card and 1 Free Peoples card. Your opponent reshuffles that deck. "
-}

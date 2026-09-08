@@ -1,9 +1,0 @@
-{
-    "id": "morgul-soldier",
-    "title": "Morgul Soldier",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "Nazgûl are strength +1."
-}

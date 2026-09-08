@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01065.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "65",
+  "name": "Swan-ship of the Galadhrim",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Exert an Elf ally whose home is site 6. Until the regroup phase, that ally is strength +3 and participates in archery fire and skirmishes.",
+  "flavor_text": "“...and suddenly they perceived that it was a ship, wrought and carved with elven-skill in the likeness of a bird.”"
+}

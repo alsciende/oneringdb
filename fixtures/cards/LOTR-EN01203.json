@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01203.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "203",
+  "name": "All Blades Perish",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If a Nazgûl is about to take a wound, prevent that wound.",
+  "flavor_text": "“‘...all blades perish that pierce that dreadful King. More deadly to him was the name of Elbereth.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01062.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "62",
+  "name": "The Splendor of Their Banners",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Tale</keyword>. Bearer must be an Elf companion.\n<phase>Archery</phase>: If bearer is an archer, exert bearer to make the fellowship archery total +1.",
+  "flavor_text": "“‘It recalled to me the glory of the Elder Days and the hosts of Beleriand, so many great princes and captains were assembled.’”"
+}

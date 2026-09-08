@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02087.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "87",
+  "name": "The Eye of Sauron",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "<phase>Shadow</phase>: Exert a <culture>Sauron</culture> Orc and spot X burdens to draw X cards (limit 5).",
+  "flavor_text": "“‘...he has indeed arisen again and left his hold in Mirkwood and returned to his ancient fastness in the Dark Tower of Mordor.’”"
+}

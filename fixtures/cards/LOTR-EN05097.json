@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05097.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "97",
+  "name": "Gate Soldier",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "When you play a <culture>Sauron</culture> condition, you may exert this minion and remove <twilight>2</twilight> to draw a card.",
+  "flavor_text": "“…a host of orcs lurked, ready at a signal to issue forth like black ants going to war.”"
+}

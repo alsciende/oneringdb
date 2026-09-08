@@ -1,9 +1,0 @@
-{
-    "id": "ruins-of-osgiliath",
-    "title": "Ruins of Osgiliath",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "Plays to your support area.<br>While the fellowship is at site 7<symbol>tower<\/symbol>, each Ring-bound Man is <keyword>defender +1.<\/keyword><br><keyword>Skirmish:<\/keyword> Spot a Ring-bound Man and discard this condition to wound an opponent’s Man. "
-}

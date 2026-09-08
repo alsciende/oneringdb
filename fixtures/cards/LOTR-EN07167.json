@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07167.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "167",
+  "name": "Southron Marksmen",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Archer</keyword>. <keyword>Fierce</keyword>. To play, spot a <culture>Raider</culture> Man.\n<phase>Archery</phase>: Exert this minion and remove a threat to make the minion archery total +1.",
+  "flavor_text": "“Southward beyond the road lay the main force of the Haradrim….”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01204.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "204",
+  "name": "All Veils Removed",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make a Nazgûl strength +2 (or +5 if the Ring-bearer wears The One Ring).",
+  "flavor_text": "“‘Give up the Halfling...!’”"
+}

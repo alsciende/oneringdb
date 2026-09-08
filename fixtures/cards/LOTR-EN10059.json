@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10059.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "59",
+  "name": "Gorbag",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "subtitle": "Covetous Captain",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "For each wound on the Ring-bearer, each <culture>Wraith</culture> Orc is strength +1.",
+  "flavor_text": "“‘I tell you, it’s no game serving down in the city.’”"
+}

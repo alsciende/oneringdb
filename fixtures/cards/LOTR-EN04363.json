@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04363.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "363",
+  "name": "Palantír Chamber",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "9",
+  "shadow_number": "9",
+  "game_text": "<phase>Shadow</phase>: Remove 2 burdens to play a minion from your discard pile."
+}

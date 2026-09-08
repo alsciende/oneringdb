@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07047.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "47",
+  "name": "Sharpen Your Swords",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "Spot Gandalf to make a <culture>Gandalf</culture> companion strength +1 for each <culture>Gandalf</culture> companion you spot (limit +4).",
+  "flavor_text": "“‘Courage will now be your best defence against the storm that is at hand....’”"
+}

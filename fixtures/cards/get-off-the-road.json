@@ -1,9 +1,0 @@
-{
-    "id": "get-off-the-road",
-    "title": "Get Off the Road!",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Search.<\/keyword>  <br><keyword>Shadow:<\/keyword> Spot a <symbol>sauron<\/symbol> minion and a Nazgûl to make the Free Peoples player discard a card from the top of his or her deck for each burden you can spot. "
-}

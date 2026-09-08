@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06040.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "40",
+  "name": "Gollum",
+  "unique": true,
+  "type": "Minion",
+  "culture": "Gollum",
+  "subtitle": "Old Villain",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "<phase>Skirmish</phase>: Discard a card from hand to make Gollum strength +1 (or +2 if skirmishing a Ring-bound companion).",
+  "flavor_text": "“‘Must take it. The Wraiths are searching. Must take it.’”"
+}

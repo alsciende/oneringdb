@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05044.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "44",
+  "name": "Battering Ram",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Machine</keyword>. Plays to your support area.\n<phase>Shadow</phase>: Exert an Uruk-hai to place an <culture>Isengard</culture> token on this card.\n<phase>Skirmish</phase>: Spot 5 companions and an <culture>Isengard</culture> token here to make an Uruk-hai <keyword>damage +1</keyword>. Discard this condition.",
+  "flavor_text": "“The trees... smote the timbers with a rending boom.”"
+}

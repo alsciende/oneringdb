@@ -1,9 +1,0 @@
-{
-    "id": "merry-s-sword",
-    "title": "Merry's Sword",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be Merry. <br><keyword>Maneuver:<\/keyword> Exert Merry twice to exert a minion once for each <symbol>rohan<\/symbol> companion you spot."
-}

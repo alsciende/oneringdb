@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07168.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "168",
+  "name": "Southron Thief",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\n<phase>Archery</phase>: Spot another <culture>Raider</culture> Man, spot 6 companions, and remove a threat to exert a companion.",
+  "flavor_text": "“...the red southland swords that would have hewed him as he lay.”"
+}

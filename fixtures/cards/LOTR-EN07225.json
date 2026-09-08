@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07225.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "225",
+  "name": "Elite Rider",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "twilight_cost": "3",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "When this companion is in your starting fellowship, his twilight cost is –1.\nWhile skirmishing a wounded minion, this companion is strength +2."
+}

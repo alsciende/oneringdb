@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01212.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "212",
+  "name": "Fear",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Search</keyword>.\n<phase>Maneuver</phase>: Exert your Nazgûl to discard an ally.",
+  "flavor_text": "“‘Never has such a thing happened in my time!… Guests unable to sleep in their beds, and good bolsters ruined and all! What are we coming to?’”"
+}

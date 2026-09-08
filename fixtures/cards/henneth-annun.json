@@ -1,9 +1,0 @@
-{
-    "id": "henneth-annun",
-    "title": "Henneth Annûn",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "Plays to your support area.<br>While the fellowship is at site 6<symbol>tower<\/symbol>, each roaming minion skirmishing a Ring-bound companion is strength -2.<br><keyword>Skirmish:<\/keyword> Spot a <symbol>gondor<\/symbol> Man and discard this condition to wound a roaming minion. "
-}

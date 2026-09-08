@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08085.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "85",
+  "name": "Charged Headlong",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "If you have initiative, discard a <culture>Rohan</culture> possession to play a <culture>Rohan</culture> possession from your discard pile.",
+  "flavor_text": "“…and the black serpent foundered.”"
+}

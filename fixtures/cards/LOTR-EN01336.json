@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01336.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "336",
+  "name": "Weathertop",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "3",
+  "game_text": "Each Nazgûl at Weathertop is <keyword>fierce</keyword>."
+}

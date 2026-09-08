@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07274.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "274",
+  "name": "Gorgoroth Officer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "5",
+  "strength": "12",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Skirmish</phase>: Discard 2 cards from hand to play a <culture>Sauron</culture> Orc stacked on a site you control. That Orc is <keyword>fierce</keyword> and strength +6 until the regroup phase.",
+  "flavor_text": "“The drums rolled louder. Fires leaped up.”"
+}

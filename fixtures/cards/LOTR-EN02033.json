@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02033.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "33",
+  "name": "Flee in Terror",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If a <culture>Gondor</culture> companion wins a skirmish, discard an exhausted Orc. That minion's owner may remove <twilight>3</twilight> to prevent this.",
+  "flavor_text": "“Aragorn smote to the ground the captain that stood in his path, and the rest fled in terror of his wrath.”"
+}

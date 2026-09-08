@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN06030.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "30",
+  "name": "Gandalf",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Wizard",
+  "culture": "Gandalf",
+  "subtitle": "Mithrandir",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "4",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Damage +1</keyword>.\nEach time the fellowship moves, wound Gandalf.",
+  "flavor_text": "“‘The Dark Lord has Nine. But we have One, mightier than they: the White Rider. He has passed through the fire and the abyss, and they shall fear him.’”"
+}

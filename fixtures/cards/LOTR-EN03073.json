@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03073.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "73",
+  "name": "The Trees Are Strong",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<phase>Regroup</phase>: Discard X <culture>Isengard</culture> Orcs to make the Free Peoples player wound X companions.",
+  "flavor_text": "“‘Their roots go deep.’”"
+}

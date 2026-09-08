@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04102.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "102",
+  "name": "Task Was Not Done",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Regroup</phase>: Exert Gandalf to discard up to 2 wounded minions.",
+  "flavor_text": "“‘Naked I was sent back — for a brief time, until my task is done. And naked I lay upon the mountain-top.’”"
+}

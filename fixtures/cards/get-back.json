@@ -1,9 +1,0 @@
-{
-    "id": "get-back",
-    "title": "Get Back",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Assignment:<\/keyword> Prevent an <symbol>isengard<\/symbol> tracker from being assigned to a skirmish by any player. "
-}

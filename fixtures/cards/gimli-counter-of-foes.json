@@ -1,9 +1,0 @@
-{
-    "id": "gimli-counter-of-foes",
-    "title": "Gimli",
-    "subtitle": "Counter of Foes",
-    "culture": "dwarven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Damage +1<\/keyword>. <br>For each wound on Gimli, he is strength +1 and <keyword>damage +1<\/keyword>."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03045.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "45",
+  "name": "Some Who Resisted",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Tale</keyword>.\n<phase>Maneuver</phase>: Spot a <culture>Gondor</culture> companion to make the twilight cost of each maneuver event +2.",
+  "flavor_text": "“‘In the South the realm of Gondor long endured; and for a while its splendour grew....’”"
+}

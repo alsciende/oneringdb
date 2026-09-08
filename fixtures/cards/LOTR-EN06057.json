@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06057.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "57",
+  "name": "Agents of Orthanc",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Isengard",
+  "twilight_cost": "5",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "This minion is strength +2 and <keyword>damage +1</keyword> for each Free Peoples culture that you can spot over 2.",
+  "flavor_text": "“‘How long is it since Saruman bought you?’”"
+}

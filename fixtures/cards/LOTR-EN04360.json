@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04360.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "360",
+  "name": "Fortress of Orthanc",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "9",
+  "shadow_number": "9",
+  "game_text": "<keyword>Battleground</keyword>. The Shadow number of Fortress of Orthanc is +2 for each companion over 4."
+}

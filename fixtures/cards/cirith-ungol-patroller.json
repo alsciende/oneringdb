@@ -1,9 +1,0 @@
-{
-    "id": "cirith-ungol-patroller",
-    "title": "Cirith Ungol Patroller",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword> While you can spot 3 possessions, this minion is <keyword>fierce.<\/keyword>"
-}

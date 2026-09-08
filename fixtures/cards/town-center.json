@@ -1,9 +1,0 @@
-{
-    "id": "town-center",
-    "title": "Town Center",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 0,
-    "type": "site",
-    "text": "<keyword>Fellowship:<\/keyword> Play a <symbol>shire<\/symbol> ally to draw a card. "
-}

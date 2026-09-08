@@ -1,9 +1,0 @@
-{
-    "id": "lorien-swordsman",
-    "title": "Lórien Swordsman",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "Each minion skirmishing this companion is strength -2 for each wound on that minion. "
-}

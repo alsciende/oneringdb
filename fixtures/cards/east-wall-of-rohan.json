@@ -1,9 +1,0 @@
-{
-    "id": "east-wall-of-rohan",
-    "title": "East Wall of Rohan",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 0,
-    "type": "site",
-    "text": "When the fellowship moves from East Wall of Rohan, add <symbol>twilight2<\/symbol>. "
-}

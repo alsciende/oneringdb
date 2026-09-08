@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06066.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "66",
+  "name": "Isengard Builder",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<phase>Regroup</phase>: If stacked on an <culture>Isengard</culture> card, discard this card to add <twilight>2</twilight>.",
+  "flavor_text": "“‘They were all singing with harsh voices, and laughing, making a hideous din.’”"
+}

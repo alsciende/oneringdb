@@ -1,9 +1,0 @@
-{
-    "id": "fight-for-the-villagers",
-    "title": "Fight for the Villagers",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>rohan<\/symbol> Man strength +2 (or +3 if you spot a villager). "
-}

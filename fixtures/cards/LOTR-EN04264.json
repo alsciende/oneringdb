@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04264.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "264",
+  "name": "Ceorl",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Weary Horseman",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<phase>Response</phase>: If your opponent is about to take control of a site, exert Ceorl and a villager to prevent this.",
+  "flavor_text": "“‘We were driven back yesterday over the Isen with great loss; many perished at the crossing.’”"
+}

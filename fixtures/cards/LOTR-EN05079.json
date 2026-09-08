@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05079.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "79",
+  "name": "Armory",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Fortification</keyword>. Plays to your support area.\n<phase>Maneuver</phase>: Spot 2 <culture>Rohan</culture> Men to remove 2 tokens from a machine or to take a <culture>Rohan</culture> possession into hand from your discard pile. Discard this condition.",
+  "flavor_text": "“‘Choose from these ere we go, and may they serve you well!’”"
+}

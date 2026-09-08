@@ -1,9 +1,0 @@
-{
-    "id": "ancient-enmity",
-    "title": "Ancient Enmity",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Make an Elf strength +1. If a minion loses this skirmish to that Elf, that minion’s owner discards 2 cards at random from hand."
-}

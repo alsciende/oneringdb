@@ -1,9 +1,0 @@
-{
-    "id": "goblin-archer",
-    "title": "Goblin Archer",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Archer.<\/keyword> While you can spot another <symbol>moria<\/symbol> Orc, the fellowship archery total is -6."
-}

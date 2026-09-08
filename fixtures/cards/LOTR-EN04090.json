@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04090.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "90",
+  "name": "Gandalf",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Wizard",
+  "culture": "Gandalf",
+  "subtitle": "The White Wizard",
+  "twilight_cost": "4",
+  "strength": "7",
+  "vitality": "4",
+  "signet": "Gandalf",
+  "game_text": "While you can spot 3 twilight tokens, Gandalf is strength +3.",
+  "flavor_text": "“‘Behold, I am not Gandalf the Grey, whom you betrayed. I am Gandalf the White, who has returned from death.’”"
+}

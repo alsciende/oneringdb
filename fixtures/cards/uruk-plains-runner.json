@@ -1,9 +1,0 @@
-{
-    "id": "uruk-plains-runner",
-    "title": "Uruk Plains Runner",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Tracker.<\/keyword> <keyword>Fierce.<\/keyword><br>During a fierce skirmish involving this minion, it is strength +3 and <keyword>damage +1.<\/keyword>"
-}

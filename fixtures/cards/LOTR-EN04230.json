@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04230.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "230",
+  "name": "Easterling Trooper",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>.\nWhile you can spot 3 burdens, this minion is <keyword>fierce</keyword> and <keyword>damage +1</keyword>.",
+  "flavor_text": "Trained Easterling fighters formed ranks of axes and spears to charge the knights of Gondor."
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10014.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "14",
+  "name": "Borne Far Away",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Fellowship",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "Spot your Wizard to exchange a companion in hand with a companion in your dead pile or discard pile.",
+  "flavor_text": "“...the wanderers were lifted up and borne far away out of the darkness and the fire.”"
+}

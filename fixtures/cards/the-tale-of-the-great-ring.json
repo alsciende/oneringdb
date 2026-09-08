@@ -1,9 +1,0 @@
-{
-    "id": "the-tale-of-the-great-ring",
-    "title": "The Tale of the Great Ring",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "<keyword>Tale.<\/keyword> <br><keyword>Skirmish:<\/keyword> Prevent a Hobbit from being overwhelmed unless a Shadow event is (or was) played during this skirmish. Discard this condition. "
-}

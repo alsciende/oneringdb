@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01029.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "29",
+  "name": "Ancient Enmity",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make an Elf strength +1. If a minion loses this skirmish to that Elf, that minion's owner discards 2 cards at random from hand.",
+  "flavor_text": "Hard and bitter is the Elven hatred of Orcs, for they have lost many kinsmen to Orc savagery."
+}

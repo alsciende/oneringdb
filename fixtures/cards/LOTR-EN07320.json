@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07320.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "320",
+  "name": "Merry",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Rohirrim Squire",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Gandalf",
+  "game_text": "<phase>Skirmish</phase>: If you cannot spot 3 threats, add a threat to make Merry strength +2.",
+  "flavor_text": "“‘I will be ready... even if you bid me ride with you on the Paths of the Dead.’”"
+}

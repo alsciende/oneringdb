@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07044.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "44",
+  "name": "Moment of Respite",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "game_text": "At the start of your regroup phase, you may discard 2 cards from hand to heal Gandalf.",
+  "flavor_text": "“‘...Gandalf says you must go ere nightfall, and the Lord of the Mark is eager for his own house.’”"
+}

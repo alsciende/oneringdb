@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01238.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "238",
+  "name": "Wreathed in Shadow",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "game_text": "To play, spot a Nazgûl. Plays to your support area.\n<phase>Archery</phase>: Remove <twilight>1</twilight> to make the fellowship archery total −1.",
+  "flavor_text": "They are beings in twilight, without form to catch the points of weapons."
+}

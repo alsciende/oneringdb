@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02121.png",
+  "set_number": "2",
+  "rarity": "P",
+  "card_number": "121",
+  "name": "Gimli",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Dwarf",
+  "culture": "Dwarven",
+  "subtitle": "Dwarf of the Mountain-race",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Frodo",
+  "game_text": "<keyword>Damage +1</keyword>.\nEach underground site’s Shadow number is −2.",
+  "flavor_text": "“‘In the ruins of the Dwarves, a dwarf’s head will be less easy to bewilder than Elves or Men or Hobbits.’”"
+}

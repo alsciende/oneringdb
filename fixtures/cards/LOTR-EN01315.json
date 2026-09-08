@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01315.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "315",
+  "name": "Stout and Sturdy",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase> or <phase>Skirmish</phase>: Heal a Hobbit.",
+  "flavor_text": "“‘You have a stout heart, little hobbit, but your courage alone will not save you.’”"
+}

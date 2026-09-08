@@ -1,9 +1,0 @@
-{
-    "id": "the-dead-city",
-    "title": "The Dead City",
-    "subtitle": null,
-    "culture": "gollum",
-    "twilight_cost": 3,
-    "type": "condition",
-    "text": "<keyword>Stealth.<\/keyword> <br>Bearer must be Sméagol. <br>If Sméagol is about to be killed in a skirmish, he is discarded instead."
-}

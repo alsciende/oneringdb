@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07217.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "217",
+  "name": "Úlairë Nertëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Black-Mantled Wraith",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "<phase>Regroup</phase>: If you have initiative, discard Úlairë Nertëa to add a burden.",
+  "flavor_text": "“‘I fear that Minas Tirith shall fall. Night comes. The very warmth of my blood seems stolen away.’”"
+}

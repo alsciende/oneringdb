@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04141.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "141",
+  "name": "Beyond Dark Mountains",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If a companion or ally is killed, exert an <culture>Isengard</culture> minion to add a burden (or 2 burdens if Aragorn, Gandalf, or Théoden is killed).",
+  "flavor_text": "“Where now was the Ring-bearer? How thin indeed was the thread upon which doom still hung!”"
+}

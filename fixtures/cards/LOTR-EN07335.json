@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07335.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "335",
+  "name": "King's Tent",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "1",
+  "game_text": "<phase>Shadow</phase>: If the Shadow has initiative, spot your minion to make the move limit for this turn −1."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03001.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "1",
+  "name": "Book of Mazarbul",
+  "unique": true,
+  "type": "Possession",
+  "culture": "Dwarven",
+  "twilight_cost": "2",
+  "game_text": "<keyword>Tale</keyword>. Bearer must be a Dwarf.\nAt the start of each fellowship phase when the fellowship is at site 4 or higher, you may draw a card for each Dwarf companion.",
+  "flavor_text": "“‘It seems to be a record of the fortunes of Balin’s folk....’”"
+}

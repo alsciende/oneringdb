@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02034.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "34",
+  "name": "Gondor Will See It Done",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If a companion is about to take a wound, exert a <culture>Gondor</culture> companion to prevent that wound.",
+  "flavor_text": "“‘Boromir!... Go after those two young hobbits, and guard them at the least, even if you cannot find Frodo.’”"
+}

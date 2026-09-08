@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03103.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "103",
+  "name": "Terrible as the Dawn",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Spot a <culture>Sauron</culture> minion to wound Galadriel 3 times. The Free Peoples player may discard 2 Elves to prevent this.",
+  "flavor_text": "“In the place of the Dark Lord, you would have a Queen... All shall love me and despair!”"
+}

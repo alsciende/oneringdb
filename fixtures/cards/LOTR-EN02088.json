@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02088.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "88",
+  "name": "Memory of Many Things",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "game_text": "<phase>Maneuver</phase>: Exert a <culture>Sauron</culture> Orc to discard an ally (or 2 <culture>Dwarven</culture> allies).",
+  "flavor_text": "“‘But my memory reaches back even to the Elder Days.... I have seen three ages in the West of the world, and many defeats, and many fruitless victories.’”"
+}

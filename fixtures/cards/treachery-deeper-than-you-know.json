@@ -1,9 +1,0 @@
-{
-    "id": "treachery-deeper-than-you-know",
-    "title": "Treachery Deeper Than You Know",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword> <br><keyword>Fellowship:<\/keyword> Spot Gandalf to reveal an opponent’s hand."
-}

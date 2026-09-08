@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07197.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "197",
+  "name": "Morgul Regiment",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "7",
+  "strength": "15",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "For each Nazgûl you can spot, the Free Peoples player must exert a companion to assign this minion to a skirmish.\n<phase>Skirmish</phase>: Exert this minion to make a Nazgûl or <culture>Wraith</culture> Orc strength +1.",
+  "flavor_text": "“...a host had issued from Minas Morgul....”"
+}

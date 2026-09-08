@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01023.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "23",
+  "name": "Nobody Tosses a Dwarf",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If a Dwarf wins a skirmish, make an opponent discard 3 cards from the top of his or her draw deck.",
+  "flavor_text": "“‘My folk have never had dealings with any of the servants of the Enemy.’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "gimli-faithful-companion",
-    "title": "Gimli",
-    "subtitle": "Faithful Companion",
-    "culture": "dwarven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Damage +1.<\/keyword> <br>While you have initiative, Gimli is strength +2."
-}

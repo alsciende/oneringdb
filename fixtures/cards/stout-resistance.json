@@ -1,9 +1,0 @@
-{
-    "id": "stout-resistance",
-    "title": "Stout Resistance",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "Add a threat to make a <symbol>gondor<\/symbol> Man strength +3."
-}

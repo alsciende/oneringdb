@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03097.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "97",
+  "name": "Orc Slayer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<phase>Regroup</phase>: Exert this minion to wound a companion (except the Ring-bearer).",
+  "flavor_text": "“For it is a long tale, full of deeds great and terrible....”"
+}

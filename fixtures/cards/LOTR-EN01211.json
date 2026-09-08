@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01211.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "211",
+  "name": "Drawn to Its Power",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "game_text": "Plays to your support area.\nEach time a companion is killed in a skirmish involving a Nazgûl, add a burden.",
+  "flavor_text": "“And also the Ring drew them.”"
+}

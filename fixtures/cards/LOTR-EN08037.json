@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08037.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "37",
+  "name": "Imrahil",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Prince of Dol Amroth",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "game_text": "<keyword>Knight</keyword>. To play, spot a knight.\nEach time Imrahil wins a skirmish, you may exert 2 minions.",
+  "flavor_text": "“...he was of high blood, and his folk also, tall men and proud with sea-grey eyes.”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03063.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "63",
+  "name": "One of You Must Do This",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Exert an <culture>Isengard</culture> minion to make the Free Peoples player exert X companions, where X is the number of these races you can spot in the fellowship: Dwarf, Elf, Man, and Wizard.",
+  "flavor_text": "“‘And if we fail, what then? What happens when Sauron takes back what is his?’”"
+}

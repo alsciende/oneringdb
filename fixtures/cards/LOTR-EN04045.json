@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04045.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "45",
+  "name": "Dwarven Foresight",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Spot a Dwarf to take a Free Peoples card stacked on a <culture>Dwarven</culture> condition into hand.",
+  "flavor_text": "“‘I would guess that the burned bones of the hobbits are now mingled with the Orcs’.’”"
+}

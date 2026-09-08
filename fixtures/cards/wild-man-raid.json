@@ -1,9 +1,0 @@
-{
-    "id": "wild-man-raid",
-    "title": "Wild Man Raid",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Spot 3 <symbol>dunland<\/symbol> Men to discard a Free Peoples possession or condition. "
-}

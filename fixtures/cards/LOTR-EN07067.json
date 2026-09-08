@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07067.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "67",
+  "name": "Plotting",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "5",
+  "game_text": "To play, spot Gollum and add up to 9 threats.\nGollum is strength +2.\nDiscard this condition and remove 9 threats at the start of the regroup phase.",
+  "flavor_text": "“‘We shall see… Oh yes, we shall see!’”"
+}

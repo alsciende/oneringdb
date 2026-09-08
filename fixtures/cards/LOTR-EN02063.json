@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02063.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "63",
+  "name": "Goblin Reinforcements",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "When you play this minion, you may heal a <culture>Moria</culture> minion.",
+  "flavor_text": "“‘We don't have a moment! Come nightfall these hills will swarm with Orcs!’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "ranger-s-sword-blade-of-aragorn",
-    "title": "Ranger's Sword",
-    "subtitle": "Blade of Aragorn",
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be Aragorn.  <br>While skirmishing an Uruk-hai, Aragorn is strength +2. "
-}

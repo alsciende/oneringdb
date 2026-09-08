@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04079.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "79",
+  "name": "Night Without End",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Response</phase>: If an Elf wins a skirmish, exert that Elf to liberate a site or wound a minion.",
+  "flavor_text": "“‘Would that this night would end, and I could have better light for shooting.’”"
+}

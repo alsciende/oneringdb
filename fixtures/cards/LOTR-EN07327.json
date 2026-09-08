@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07327.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "327",
+  "name": "Sam",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Resolute Halfling",
+  "twilight_cost": "2",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ring-bound</keyword>.\n<phase>Fellowship</phase>: If you have initiative, discard a card from hand to heal Sam.\n<phase>Response</phase>: If Frodo is killed, make Sam the <keyword>Ring-bearer</keyword> (resistance 5).",
+  "flavor_text": "“The news that his master was still alive roused him....”"
+}

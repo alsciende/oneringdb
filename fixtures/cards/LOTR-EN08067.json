@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08067.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "67",
+  "name": "Between Nazgûl and Prey",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Assignment",
+  "culture": "Wraith",
+  "twilight_cost": "4",
+  "game_text": "Exert an enduring <culture>Wraith</culture> minion twice to assign that minion to an unbound companion.",
+  "flavor_text": "“...the Nazgûl Lord like a shadow of despair.”"
+}

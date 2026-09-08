@@ -1,0 +1,13 @@
+{
+    "file": "LOTR-EN01103.png",
+    "set_number": "1",
+    "rarity": "C",
+    "card_number": "103",
+    "name": "Elendil's Valor",
+    "unique": false,
+    "type": "Event",
+    "culture": "Gondor",
+    "twilight_cost": "0",
+    "game_text": "<phase>Maneuver</phase>: Make a <culture>Gondor</culture> companion <keyword>defender +1</keyword> until the regroup phase.",
+    "flavor_text": ""
+}

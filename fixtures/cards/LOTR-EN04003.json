@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04003.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "3",
+  "name": "Anger",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dunland",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Spot 3 <culture>Dunland</culture> minions or a site you control to make a <culture>Dunland</culture> Man <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "Rage filled the hearts of the Dunlending attackers."
+}

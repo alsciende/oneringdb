@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01184.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "184",
+  "name": "Goblin Wallcrawler",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "While at an underground site, this minion is strength +2.\nWhile you can spot another <culture>Moria</culture> Orc, the fellowship archery total is −1.",
+  "flavor_text": "Skittering along the walls of Moria, Goblins attack without warning."
+}

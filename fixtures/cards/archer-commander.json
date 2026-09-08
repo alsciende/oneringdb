@@ -1,9 +1,0 @@
-{
-    "id": "archer-commander",
-    "title": "Archer Commander",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Archer.<\/keyword> <br>Each other <symbol>moria<\/symbol> archer is strength +2. "
-}

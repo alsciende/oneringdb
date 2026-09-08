@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07102.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "102",
+  "name": "Hasty Repairs",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 3 <culture>Gondor</culture> Men.\n<phase>Regroup</phase>: While you have only 4 cards in hand, you may discard 2 cards from hand to play a <culture>Gondor</culture> fortification from your discard pile.",
+  "flavor_text": "“‘The work will be finished ere evening…’”"
+}

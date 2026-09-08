@@ -1,9 +1,0 @@
-{
-    "id": "uruk-hai-sword",
-    "title": "Uruk-hai Sword",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be an Uruk-hai. <br>Each time bearer wins a skirmish, the Free Peoples player must discard the top card of his or her draw deck."
-}

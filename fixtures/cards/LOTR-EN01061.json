@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01061.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "61",
+  "name": "Songs of the Blessed Realm",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\nEach time you play an <culture>Elven</culture> tale, you may remove a burden.",
+  "flavor_text": "Elves seem to like music and poetry and tales as much as Hobbits like food."
+}

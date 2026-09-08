@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN04174.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "174",
+  "name": "Saruman's Staff",
+  "unique": true,
+  "type": "Artifact",
+  "subtype": "Staff",
+  "culture": "Isengard",
+  "subtitle": "Wizard's Device",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Plays on Saruman.\nHe is <keyword>fierce</keyword> and <keyword>damage +1</keyword>.\n<phase>Maneuver</phase>: Make the first sentence of Saruman's game text not apply until the regroup phase.",
+  "flavor_text": "“His hand clutched his heavy black staff like a claw.”"
+}

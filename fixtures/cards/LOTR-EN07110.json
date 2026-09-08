@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07110.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "110",
+  "name": "Madril",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Faramir's Aide",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<keyword>Ranger</keyword>.\n<phase>Skirmish</phase>: If you have initiative, discard 2 cards from hand to wound a roaming minion Madril is skirmishing.",
+  "flavor_text": "“‘I have sent the company of Ithilien to strengthen it….’”"
+}

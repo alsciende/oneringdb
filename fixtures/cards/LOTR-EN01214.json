@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01214.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "214",
+  "name": "In the Ringwraith’s Wake",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If a Nazgûl wins a skirmish, the Free Peoples player chooses to either exert the Ring-bearer or add a burden.",
+  "flavor_text": "“‘He is fading…. We must get him to my father.’”"
+}

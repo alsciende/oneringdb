@@ -1,9 +1,0 @@
-{
-    "id": "army-of-haradrim",
-    "title": "Army of Haradrim",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 7,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword><br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight3<\/symbol> to play a <symbol>raider<\/symbol> mount from your discard pile."
-}

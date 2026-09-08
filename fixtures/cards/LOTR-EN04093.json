@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04093.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "93",
+  "name": "Have Patience",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "<phase>Fellowship</phase>: Spot Gandalf to heal an unbound companion twice.",
+  "flavor_text": "“‘Go where you must go, and hope!’”"
+}

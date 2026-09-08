@@ -1,9 +1,0 @@
-{
-    "id": "plundered-armories",
-    "title": "Plundered Armories",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "<br><keyword>Response:<\/keyword> If your <symbol>moria<\/symbol> weapon is discarded, play it from your discard pile (that weapon’s twilight cost is -1)."
-}

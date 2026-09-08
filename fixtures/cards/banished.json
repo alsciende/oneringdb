@@ -1,9 +1,0 @@
-{
-    "id": "banished",
-    "title": "Banished",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "To play, exert Saruman or an <symbol>isengard<\/symbol> Man.  <br>Plays on a Free Peoples Man.  <br>Each time another ally or companion loses a skirmish, bearer must exert. "
-}

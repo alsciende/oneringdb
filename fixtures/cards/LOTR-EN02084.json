@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02084.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "84",
+  "name": "Úlairë Nelya",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Ringwraith in Twilight",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "2",
+  "game_text": "<keyword>Twilight</keyword>.\nWhile you can spot 2 burdens or 2 wounds on the Ring-bearer, Úlairë Nelya is <keyword>fierce</keyword> and <keyword>damage +1</keyword>.",
+  "flavor_text": "“Over the lip of the little dell, on the side away from the hill, they felt, rather then saw, a shadow rise, one shadow or more than one.”"
+}

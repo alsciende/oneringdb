@@ -1,9 +1,0 @@
-{
-    "id": "hrethel-rider-of-rohan",
-    "title": "Hrethel",
-    "subtitle": "Rider of Rohan",
-    "culture": "rohan",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "To play, spot a <symbol>rohan<\/symbol> Man. <keyword>Skirmish:<\/keyword> Heal a minion skirmishing Hrethel to make Hrethel strength +3 (limit +3)."
-}

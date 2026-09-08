@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03114.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "114",
+  "name": "Three Monstrous Trolls",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\n<phase>Response</phase>: If a Shadow card is about to add any number of twilight tokens, exert a Hobbit ally to prevent this.",
+  "flavor_text": "“Great big nasty twenty foot high smelly things — and they’re arguing... arguing about how they were going to cook us!”"
+}

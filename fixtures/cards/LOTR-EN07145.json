@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07145.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "145",
+  "name": "Easterling Regiment",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>. <keyword>Fierce</keyword>.\nEach time Easterling Regiment wins a skirmish, you may add <twilight>1</twilight> for each burden.",
+  "flavor_text": "“...there marched up an army of Easterlings….”"
+}

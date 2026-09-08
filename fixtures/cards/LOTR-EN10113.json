@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10113.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "113",
+  "name": "Orc Armor",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Armor",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a Hobbit.\nEach Orc and each Uruk-hai skirmishing bearer is strength −1.",
+  "flavor_text": "“‘Well, there you are, Mr. Frodo. A perfect little orc, if I may make so bold....’”"
+}

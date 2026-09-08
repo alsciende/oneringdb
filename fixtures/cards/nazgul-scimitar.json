@@ -1,9 +1,0 @@
-{
-    "id": "nazgul-scimitar",
-    "title": "Nazgûl Scimitar",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "Bearer must be a <symbol>wraith<\/symbol> minion. <br>While you can spot 5 threats, bearer is <keyword>damage +1<\/keyword>."
-}

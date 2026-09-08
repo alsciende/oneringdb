@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01154.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "154",
+  "name": "Uruk Soldier",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "1",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nWhen you play this minion, you may make the Free Peoples player discard the top card of his draw deck.",
+  "flavor_text": "Saruman’s Uruk-hai band together as an extremely effective fighting unit."
+}

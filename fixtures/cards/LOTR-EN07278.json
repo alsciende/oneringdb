@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07278.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "278",
+  "name": "Gorgoroth Soldier",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Response</phase>: If a besieger is about to take a wound, discard 2 cards from hand to prevent it.",
+  "flavor_text": "“Ever since the middle night the great assault had gone on.”"
+}

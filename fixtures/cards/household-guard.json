@@ -1,9 +1,0 @@
-{
-    "id": "household-guard",
-    "title": "Household Guard",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Valiant.<\/keyword>"
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04337.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "337",
+  "name": "Barrows of Edoras",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "0",
+  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: Place your hand beneath your draw deck and draw 4 cards."
+}

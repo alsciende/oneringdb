@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04260.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "260",
+  "name": "Whirling Strike",
+  "unique": false,
+  "type": "Event",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "game_text": "<phase>Skirmish</phase>: Wound a companion or ally skirmishing a <culture>Raider</culture> Man.",
+  "flavor_text": "The Southrons fight with tactics the men of Gondor have never before seen."
+}

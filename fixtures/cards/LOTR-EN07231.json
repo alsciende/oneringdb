@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07231.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "231",
+  "name": "Fey He Seemed",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "Make a <culture>Rohan</culture> Man strength +2 (or +3 and <keyword>damage +1</keyword> if skirmishing a wounded minion).",
+  "flavor_text": "“...the battle-fury of his fathers ran like new fire in his veins....”"
+}

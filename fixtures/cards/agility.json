@@ -1,9 +1,0 @@
-{
-    "id": "agility",
-    "title": "Agility",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "When you play this condition, you may spot an Elf to place 2 <symbol>elven<\/symbol> tokens here. <keyword>Skirmish:<\/keyword> Discard this condition or remove an <symbol>elven<\/symbol> token from here to make a minion skirmishing an Elf strength –1."
-}

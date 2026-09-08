@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07149.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "149",
+  "name": "Great Beasts",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "0",
+  "game_text": "To play, spot a <culture>Raider</culture> Man.\n<phase>Regroup</phase>: Remove <twilight>9</twilight> and spot 3 <culture>Raider</culture> Men to make the move limit −1.",
+  "flavor_text": "“...like moving houses in the red and fitful light….”"
+}

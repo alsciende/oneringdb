@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01221.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "221",
+  "name": "The Pale Blade",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "strength_modifier": "+3",
+  "game_text": "Bearer must be The Witch-king.\nHe is <keyword>damage +1</keyword>.\n<phase>Response</phase>: If The Witch-king wins a skirmish, exert him to discard a Free Peoples condition.",
+  "flavor_text": "In his wretched grip, the Captain raised a Pale Sword."
+}

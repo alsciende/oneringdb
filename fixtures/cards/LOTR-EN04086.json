@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04086.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "86",
+  "name": "Thónnas",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Naith Captain",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "To play, spot an Elf.\nWhile Thónnas bears a ranged weapon, each minion skirmishing him is strength -2 and Thónnas does not add to the fellowship archery total.",
+  "flavor_text": "Elves of Lórien hone their knife-work fighting Goblin raiders."
+}

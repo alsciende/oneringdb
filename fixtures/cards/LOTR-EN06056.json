@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06056.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "56",
+  "name": "Trust",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Gondor</culture> Man strength +2 (and heal a companion if you spot an <culture>Elven</culture> token).",
+  "flavor_text": "“‘You cannot falter now.’”"
+}

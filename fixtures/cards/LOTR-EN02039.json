@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02039.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "39",
+  "name": "Beyond the Height of Men",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "<phase>Maneuver</phase>: Exert an Uruk-hai to discard an armor possession, helm possession, or shield possession (or all such Free Peoples possessions if you can spot 6 companions).",
+  "flavor_text": "“Whom do you serve?”"
+}

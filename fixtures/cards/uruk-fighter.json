@@ -1,9 +1,0 @@
-{
-    "id": "uruk-fighter",
-    "title": "Uruk Fighter",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Damage +1<\/keyword>.  <br><keyword>Maneuver:<\/keyword> Spot 5 companions to make this minion <keyword>fierce<\/keyword> until the regroup phase."
-}

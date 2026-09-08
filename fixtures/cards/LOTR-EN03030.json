@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03030.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "30",
+  "name": "Deep in Thought",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "4",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Maneuver</phase>: Spot Gandalf and 4 twilight tokens to discard all Shadow conditions.",
+  "flavor_text": "“He was... trying to recall every memory of his former journey in the Mines, and considering anxiously the next course that he should take....”"
+}

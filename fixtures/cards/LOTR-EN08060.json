@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08060.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "60",
+  "name": "Haradrim Marksman",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Archer</keyword>.\nWhile you can spot another <culture>Raider</culture> Man, Ring-bound companions cannot take archery wounds.",
+  "flavor_text": "Archers from Harad rode atop the great war-beasts on the Fields of Pelennor."
+}

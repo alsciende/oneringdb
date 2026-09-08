@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01288.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "288",
+  "name": "Farmer Maggot",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Hobbit",
+  "home_site": "1",
+  "culture": "Shire",
+  "subtitle": "Chaser of Rascals",
+  "twilight_cost": "1",
+  "strength": "2",
+  "vitality": "3",
+  "game_text": "<phase>Fellowship</phase>: Exert Farmer Maggot to heal Merry or Pippin.",
+  "flavor_text": "“‘Old Maggot is really a stout fellow — if you leave his mushrooms alone.’”"
+}

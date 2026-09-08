@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05101.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "101",
+  "name": "I'd Make You Squeak",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "To play, exert 2 <culture>Sauron</culture> Orcs. Plays to your support area.\nThe Shadow number of each site is +1 for each wound on a Hobbit (limit +3).",
+  "flavor_text": "“‘If I had my way, you'd wish you were dead now.’”"
+}

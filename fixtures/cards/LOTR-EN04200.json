@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04200.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "200",
+  "name": "Uruk Vanguard",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "10",
+  "strength": "17",
+  "vitality": "4",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>. To play, spot an Uruk-hai. While at a battleground, this minion is <keyword>fierce</keyword> and <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘These are Uruk-hai — their armour is thick, their shields broad.’”"
+}

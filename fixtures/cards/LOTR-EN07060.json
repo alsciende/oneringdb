@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07060.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "60",
+  "name": "Heavy Burden",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "<phase>Regroup</phase>: Discard Gollum and remove a threat to add a burden.",
+  "flavor_text": "“‘Sméagol knows… Sméagol carried burden many years.’”"
+}

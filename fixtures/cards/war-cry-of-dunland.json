@@ -1,9 +1,0 @@
-{
-    "id": "war-cry-of-dunland",
-    "title": "War Cry of Dunland",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Response:<\/keyword> If a <symbol>dunland<\/symbol> Man wins a skirmish, make him <keyword>fierce<\/keyword> and strength +4 until the regroup phase. "
-}

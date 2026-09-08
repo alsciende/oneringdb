@@ -1,9 +1,0 @@
-{
-    "id": "lightfootedness",
-    "title": "Lightfootedness",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Archery:<\/keyword> Spot an Elf companion to make the minion archery total -1."
-}

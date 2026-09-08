@@ -1,9 +1,0 @@
-{
-    "id": "dunlending-pillager",
-    "title": "Dunlending Pillager",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "Each time this minion wins a skirmish, you may discard a Free Peoples possession (or 2 possessions if you spot 6 companions). "
-}

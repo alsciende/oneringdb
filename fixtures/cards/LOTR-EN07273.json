@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07273.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "273",
+  "name": "Gorgoroth Garrison",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Regroup</phase>: Discard 2 cards from hand to stack a <culture>Sauron</culture> Orc on a site you control (or discard 1 card from hand if that Orc is a besieger).",
+  "flavor_text": "“...their purpose was only to test the strength of the defence….”"
+}

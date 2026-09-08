@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03089.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "89",
+  "name": "Gleaming in the Snow",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "<phase>Regroup</phase>: Exert a <culture>Sauron</culture> Orc and spot a <culture>Gondor</culture> companion to add a burden.",
+  "flavor_text": "“‘A Ring of Power looks after itself... It may slip off treacherously, but its keeper never abandons it.’”"
+}

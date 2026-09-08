@@ -1,9 +1,0 @@
-{
-    "id": "ingold",
-    "title": "Ingold",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Knight.<\/keyword> <br><keyword>Fellowship:<\/keyword> Discard a fortification to heal Ingold twice."
-}

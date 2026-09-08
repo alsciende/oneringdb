@@ -1,9 +1,0 @@
-{
-    "id": "grimbold-marshal-of-rohan",
-    "title": "Grimbold",
-    "subtitle": "Marshal of Rohan",
-    "culture": "rohan",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Valiant.<\/keyword> <br><keyword>Skirmish:<\/keyword> Replace the fellowship’s site with your plains site of the same number to discard a card from hand."
-}

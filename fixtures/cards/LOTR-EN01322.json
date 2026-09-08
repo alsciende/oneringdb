@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN01322.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "322",
+  "name": "Green Dragon Inn",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "1",
+  "game_text": "<phase>Fellowship</phase>: Exert a Hobbit to play Sam from your draw deck."
+}

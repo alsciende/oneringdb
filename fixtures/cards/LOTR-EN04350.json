@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04350.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "350",
+  "name": "Hornburg Courtyard",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "5",
+  "shadow_number": "8",
+  "game_text": "<keyword>Battleground</keyword>. While you can spot Aragorn, the Shadow number of Hornburg Courtyard is −2."
+}

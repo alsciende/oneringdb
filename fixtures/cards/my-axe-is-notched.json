@@ -1,9 +1,0 @@
-{
-    "id": "my-axe-is-notched",
-    "title": "My Axe Is Notched",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": " <br>Each time Gimli wins a skirmish, place a <symbol>dwarven<\/symbol> token on this card.  <br>While you can spot X <symbol>dwarven<\/symbol> tokens on this card and the same number of <symbol>elven<\/symbol> tokens on Final Count, Gimli is strength +X (limit +3). "
-}

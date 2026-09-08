@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04297.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "297",
+  "name": "Work for the Sword",
+  "unique": false,
+  "type": "Event",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Rohan</culture> Man strength +2 (and <keyword>damage +2</keyword> if mounted).",
+  "flavor_text": "“‘The Orcs are destroyed. We slaughtered them during the night.’”"
+}

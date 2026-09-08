@@ -1,9 +1,0 @@
-{
-    "id": "aegnor-elven-escort",
-    "title": "Aegnor",
-    "subtitle": "Elven Escort",
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Skirmish:<\/keyword>  Exert Aegnor to make a minion skirmishing an unbound <symbol>elven<\/symbol> companion strength –1 for each archer you spot. "
-}

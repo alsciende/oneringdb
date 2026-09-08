@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07150.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "150",
+  "name": "Harsh Tongues",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a <culture>Raider</culture> Man.\n<phase>Regroup</phase>: Remove <twilight>3</twilight> and spot a <culture>Raider</culture> Man to place a <culture>Raider</culture> token here.\nWhile there are 3 <culture>Raider</culture> tokens here, the Shadow has initiative regardless of the Free Peoples player’s hand."
+}

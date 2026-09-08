@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05028.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "28",
+  "name": "Sméagol",
+  "unique": true,
+  "type": "Companion",
+  "culture": "Gollum",
+  "subtitle": "Old Noser",
+  "twilight_cost": "0",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ring-bound</keyword>. To play, add a burden.\n<phase>Regroup</phase>: Exert Sméagol (or Gollum) twice to reveal the top 4 cards of your draw deck. Wound a minion for each Shadow card revealed. Place those 4 cards beneath your draw deck in any order.",
+  "flavor_text": "“‘Could you find anything fit for a hungry hobbit?’”"
+}

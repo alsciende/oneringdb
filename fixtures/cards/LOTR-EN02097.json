@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02097.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "97",
+  "name": "Consorting With Wizards",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Tale</keyword>. Bearer must be Bilbo.\nBilbo may not take wounds (except during the archery phase).\n<phase>Fellowship</phase> or <phase>Regroup</phase>: Exert Bilbo or discard this condition to remove <twilight>1</twilight>.",
+  "flavor_text": "“‘He wasn’t always this peculiar! When I were a lad, old Bilbo was a most respectable Hobbit.’”"
+}

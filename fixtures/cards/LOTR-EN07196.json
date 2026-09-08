@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07196.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "196",
+  "name": "Morgul Predator",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<phase>Skirmish</phase>: Exert this minion to make a Nazgûl or <culture>Wraith</culture> Orc strength +1.",
+  "flavor_text": "“‘...driving his slaves in madness on before.’”"
+}

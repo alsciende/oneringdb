@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01152.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "152",
+  "name": "Uruk Shaman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Maneuver</phase>: Remove <twilight>2</twilight> to heal an Uruk-hai.",
+  "flavor_text": "Uruk shamans know the arts of healing as well as those of battle."
+}

@@ -1,9 +1,0 @@
-{
-    "id": "legolas-prince-of-mirkwood",
-    "title": "Legolas",
-    "subtitle": "Prince of Mirkwood",
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Archer.<\/keyword> <br>While skirmishing a Nazgûl, Legolas is strength +3."
-}

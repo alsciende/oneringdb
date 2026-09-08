@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04101.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "101",
+  "name": "Stump and Bramble",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Spot an <culture>Isengard</culture> minion and an Ent ally. Until the regroup phase, that ally is <keyword>damage +2</keyword> and participates in archery fire and skirmishes.",
+  "flavor_text": "“‘Many of those trees were my friends... many had voices of their own that are lost for ever now.’”"
+}

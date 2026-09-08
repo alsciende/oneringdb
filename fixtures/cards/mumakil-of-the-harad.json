@@ -1,9 +1,0 @@
-{
-    "id": "mumakil-of-the-harad",
-    "title": "Mûmakil of the Harad",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "Spot a <symbol>raider<\/symbol> minion to add <symbol>twilight2<\/symbol> for each threat."
-}

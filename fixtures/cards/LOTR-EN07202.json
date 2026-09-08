@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07202.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "202",
+  "name": "Morgul Whelp",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "While you can spot a wound on the Ring-bearer, this minion is strength +6."
+}

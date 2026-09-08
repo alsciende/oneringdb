@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01169.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "169",
+  "name": "The End Comes",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "game_text": "<phase>Assignment</phase>: Spot 5 <culture>Moria</culture> minions to make the Free Peoples player assign the Ring-bearer to a skirmish.",
+  "flavor_text": "“‘They have taken the Bridge and the second hall; we have barred the gates — but cannot hold them for long....’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "sharku-s-warg",
-    "title": "Sharku's Warg",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 5,
-    "type": "possession",
-    "text": "Bearer must be a <keyword>warg-rider.<\/keyword><br>If bearer is Sharku, he is <keyword>damage +1.<\/keyword><br><keyword>Response:<\/keyword> If a skirmish special ability is used in a skirmish involving bearer, exert bearer to cancel that action."
-}

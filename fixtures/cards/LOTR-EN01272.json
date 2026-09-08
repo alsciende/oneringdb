@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01272.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "272",
+  "name": "Orc War Band",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Exert this minion to wound a character it is skirmishing.",
+  "flavor_text": "Sauron has countless armies of Orcs at his disposal."
+}

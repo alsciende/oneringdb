@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01035.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "35",
+  "name": "The Council of Elrond",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "<phase>Fellowship</phase>: Spot an Elf to play a tale from your draw deck.",
+  "flavor_text": "“‘You will hear today all that you need in order to understand the purposes of the Enemy.... What shall we do with the Ring, the least of rings, the trifle that Sauron fancies? That is the doom that we must deem.’”"
+}

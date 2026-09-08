@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN03027.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "27",
+  "name": "Vilya",
+  "unique": true,
+  "type": "Artifact",
+  "subtype": "Ring",
+  "culture": "Elven",
+  "twilight_cost": "0",
+  "vitality_modifier": "+1",
+  "game_text": "Bearer must be Elrond.\n<phase>Maneuver</phase>: Exert Elrond twice and spot a Shadow condition to return that condition to its owner’s hand.",
+  "flavor_text": "“Upon his finger was a ring of gold with a great blue stone, Vilya, mightiest of the Three.”"
+}

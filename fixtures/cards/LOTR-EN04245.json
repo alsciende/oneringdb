@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04245.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "245",
+  "name": "Southron Archer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Archer</keyword>.\nWhile you can spot another Southron, the minion archery total is +1 for each site you control.",
+  "flavor_text": "“‘They have passed on to the Black Gate; but more may follow.’”"
+}

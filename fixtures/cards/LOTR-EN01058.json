@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01058.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "58",
+  "name": "The Seen and the Unseen",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Exert 2 Elves to discard a condition.",
+  "flavor_text": "“‘You have entered the realm of the Lady of the Wood — you cannot go back.’”"
+}

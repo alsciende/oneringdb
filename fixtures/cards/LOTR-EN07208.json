@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07208.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "208",
+  "name": "There Came a Cry",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Shadow",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "Spot a Nazgûl to add a threat (or 3 threats if you have initiative).",
+  "flavor_text": "“Mingled with harsh high voices as of birds of prey....”"
+}

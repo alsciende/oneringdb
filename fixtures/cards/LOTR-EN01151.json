@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01151.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "151",
+  "name": "Uruk Savage",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.",
+  "flavor_text": "“‘The friendship of Saruman is not lightly thrown aside. One ill turn deserves another.... We have work to do.’”"
+}

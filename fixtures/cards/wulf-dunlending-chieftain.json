@@ -1,9 +1,0 @@
-{
-    "id": "wulf-dunlending-chieftain",
-    "title": "Wulf",
-    "subtitle": "Dunlending Chieftain",
-    "culture": "dunland",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Fierce.<\/keyword><br><keyword>Response:<\/keyword> If another <symbol>dunland<\/symbol> Man wins a skirmish, exert Wulf to take control of a site. "
-}

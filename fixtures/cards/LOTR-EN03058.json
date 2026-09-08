@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03058.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "58",
+  "name": "Isengard Servant",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<phase>Regroup</phase>: Exert this minion to make the Free Peoples player wound a companion.",
+  "flavor_text": "The servants of Isengard worked tirelessly to spread the influence of their master."
+}

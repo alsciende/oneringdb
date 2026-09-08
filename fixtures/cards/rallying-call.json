@@ -1,9 +1,0 @@
-{
-    "id": "rallying-call",
-    "title": "Rallying Call",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "To play, spot a <symbol>raider<\/symbol> Man. <br>Threats cannot be removed by Free Peoples cards. <br><keyword>Shadow:<\/keyword> Remove <symbol>twilight1<\/symbol> and play a Southron to add a threat."
-}

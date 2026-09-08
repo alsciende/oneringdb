@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07148.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "148",
+  "name": "Fierce in Despair",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Regroup",
+  "culture": "Raider",
+  "twilight_cost": "7",
+  "game_text": "Spot 2 <culture>Raider</culture> Men to discard a companion (except the Ring-bearer).",
+  "flavor_text": "“...displaying his standard, black serpent upon scarlet….”"
+}

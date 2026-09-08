@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04099.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "99",
+  "name": "Roll of Thunder",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "<phase>Fellowship</phase> or <phase>Maneuver</phase>: Spot Gandalf to discard a Shadow possession or Shadow artifact.",
+  "flavor_text": "“‘I have not passed through fire and death to bandy crooked words with a serving-man till the lightning falls.’”"
+}

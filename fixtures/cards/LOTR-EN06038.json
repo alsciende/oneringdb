@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06038.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "38",
+  "name": "Don't Follow the Lights",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gollum",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If Sméagol wins a skirmish, add a burden to discard a minion.",
+  "flavor_text": "“‘Careful, careful now or Hobbits go down to join the dead ones and light little candles.’”"
+}

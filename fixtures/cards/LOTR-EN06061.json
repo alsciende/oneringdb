@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN06061.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "61",
+  "name": "Desertion",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "strength_modifier": "-1",
+  "game_text": "To play, spot an <culture>Isengard</culture> Man. Plays on a companion (except the Ring-bearer).\n<phase>Assignment</phase>: Assign an <culture>Isengard</culture> minion with less strength than bearer to skirmish bearer. Discard this condition.",
+  "flavor_text": "“‘Who knows what you’ve spoken to the darkness in the bitter watches of the night?’”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01149.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "149",
+  "name": "Uruk Messenger",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "1",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nWhile you can spot a weather condition, this minion is strength +3.",
+  "flavor_text": "Saruman uses his Uruks abroad to gain information on the movements — and weaknesses — of his many enemies."
+}

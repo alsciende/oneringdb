@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07030.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "30",
+  "name": "Uncertain Paths",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "Make an Elf strength +2 and you may shuffle your draw deck.",
+  "flavor_text": "“‘But defenders and foes alike gave up the battle….’”"
+}

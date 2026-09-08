@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07213.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "213",
+  "name": "Úlairë Lemenya",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Assailing Minion",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "Ulairë Lemenya is strength +1 for each other <culture>Wraith</culture> minion you can spot.\nWhile you can spot 3 <culture>Wraith</culture> minions Úlairë Lemenya is <keyword>fierce</keyword>.\nWhile you can spot 4 <culture>Wraith</culture> minions Úlairë Lemenya is <keyword>damage +1</keyword>."
+}

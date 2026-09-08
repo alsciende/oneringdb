@@ -1,9 +1,0 @@
-{
-    "id": "naith-troop",
-    "title": "Naith Troop",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 3,
-    "type": "companion",
-    "text": "To play, spot 3 Elf companions. <keyword>Skirmish:<\/keyword> Exert Naith Troop to discard the top card of your draw deck. If it is an <symbol>elven<\/symbol> card, make a minion skirmishing Naith Troop strength –2."
-}

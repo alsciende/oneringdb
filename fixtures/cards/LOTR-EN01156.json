@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01156.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "156",
+  "name": "Uruk Warrior",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Maneuver</phase>: Spot 6 companions to make this minion <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "Powerful and fearless, Uruk-hai warriors are not intimidated by the weapons or numbers of their enemies."
+}

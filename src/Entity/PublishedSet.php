@@ -33,14 +33,14 @@ class PublishedSet implements \Stringable
     private ?\DateTime $release_date = null;
 
     /**
-     * @var Collection<int, PackCard>
+     * @var Collection<int, Card>
      */
-    #[ORM\OneToMany(targetEntity: PackCard::class, mappedBy: 'pack')]
-    private Collection $packCards;
+    #[ORM\OneToMany(targetEntity: Card::class, mappedBy: 'publishedSet')]
+    private Collection $cards;
 
     public function __construct()
     {
-        $this->packCards = new ArrayCollection();
+        $this->cards = new ArrayCollection();
     }
 
     public function getId(): string
@@ -103,45 +103,40 @@ class PublishedSet implements \Stringable
         return $this;
     }
 
-    public function getCardAt(int $i): ?PackCard
+    public function getCardAt(int $i): ?Card
     {
-        assert($i >= 0 && $i < $this->packCards->count(),
+        assert($i >= 0 && $i < $this->cards->count(),
             sprintf(
                 '%s: index out of range.  Highest index: %s',
                 $i,
-                $this->packCards->count() - 1
+                $this->cards->count() - 1
             ),
         );
 
-        return $this->packCards->get($i);
+        return $this->cards->get($i);
     }
 
     /**
-     * @return Collection<int, PackCard>
+     * @return Collection<int, Card>
      */
-    public function getPackCards(): Collection
+    public function getCards(): Collection
     {
-        return $this->packCards;
+        return $this->cards;
     }
 
-    public function addCard(PackCard $card): static
+    public function addCard(Card $card): static
     {
-        if (! $this->packCards->contains($card)) {
-            $this->packCards->add($card);
+        if (! $this->cards->contains($card)) {
+            $this->cards->add($card);
             $card->setPublishedSet($this);
         }
 
         return $this;
     }
 
-    public function removeCard(PackCard $card): static
+    public function removeCard(Card $card): static
     {
-        if ($this->packCards->removeElement($card)) {
-            // set the owning side to null (unless already changed)
-            if ($card->getPublishedSet() === $this) {
-                $card->setPublishedSet(null);
-            }
-        }
+        $this->cards->removeElement($card);
 
         return $this;
     }

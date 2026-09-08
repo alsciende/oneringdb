@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04096.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "96",
+  "name": "Keep Your Forked Tongue",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Spot Gandalf and 3 twilight tokens to prevent all wounds to a companion who has the Gandalf signet.",
+  "flavor_text": "“‘A witless worm you have become.’”"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10013.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "13",
+  "name": "Phial of Galadriel",
+  "unique": true,
+  "type": "Artifact",
+  "subtitle": "Star-glass",
+  "culture": "Elven",
+  "twilight_cost": "0",
+  "game_text": "Bearer must be a Hobbit.\n<phase>Skirmish</phase>: Until the regroup phase, remove the game text (except card type and race) from a minion skirmishing bearer and make it unable to gain game text. Discard this artifact.",
+  "flavor_text": "“...the hand that held it sparkled with white fire.”"
+}

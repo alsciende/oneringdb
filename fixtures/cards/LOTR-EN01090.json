@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01090.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "90",
+  "name": "Aragorn's Bow",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be Aragorn.\nHe is an <keyword>archer</keyword>.\n<phase>Archery</phase>: Exert Aragorn to wound a minion; Aragorn does not add to the fellowship archery total.",
+  "flavor_text": "Rangers learn the bow as well as the blade."
+}

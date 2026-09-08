@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07094.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "94",
+  "name": "Gondor Bow",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a <culture>Gondor</culture> Man.\nIf bearer is a knight, he or she is strength +1.\n<phase>Skirmish</phase>: Exert bearer to wound a minion he or she is skirmishing if that minion bears a fortification.",
+  "flavor_text": "“…tall Duinhir with his sons, Duilin and Derufin, and five hundred bowmen.”"
+}

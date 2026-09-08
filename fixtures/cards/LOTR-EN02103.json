@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02103.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "103",
+  "name": "Hobbit Sword-play",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Exert a Hobbit bearing a weapon to wound a minion. That minion’s owner may remove <twilight>3</twilight> to prevent this.",
+  "flavor_text": "Boromir sensed that a blade in a Halfling’s hand would surprise a larger foe."
+}

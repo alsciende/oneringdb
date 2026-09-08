@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN05088.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "88",
+  "name": "Rohirrim Bow",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\n<phase>Archery</phase>: Exert bearer and discard this possession to wound a minion.",
+  "flavor_text": "“‘The Rohirrim have good bowmen after their fashion, but there are too few here, too few.’”"
+}

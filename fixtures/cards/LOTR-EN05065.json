@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN05065.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "65",
+  "name": "Warg",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength_modifier": "+3",
+  "vitality_modifier": "+1",
+  "game_text": "Bearer must be a warg-rider.\n<phase>Response</phase>: If a skirmish special ability is used in a skirmish involving bearer, exert bearer to cancel that action.",
+  "flavor_text": "“‘Tell him there is no hope ahead. He should return to Edoras before the wolves of Isengard come there.’”"
+}

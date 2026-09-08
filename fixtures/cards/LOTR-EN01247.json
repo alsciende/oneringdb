@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01247.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "247",
+  "name": "Enheartened Foe",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If a <culture>Sauron</culture> Orc wins a skirmish, make that Orc <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "Orcs feed on their own success. The greater their exploits in battle, the greater their confidence grows."
+}

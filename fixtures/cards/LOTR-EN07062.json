@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07062.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "62",
+  "name": "It's Mine",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "<phase>Shadow</phase>: Remove <twilight>1</twilight> and exert Gollum to discard the top card of your draw deck. If that card is a <culture>Gollum</culture> or <culture>Wraith</culture> card, take it into hand.",
+  "flavor_text": "“‘See! See! He wants it for himself.’”"
+}

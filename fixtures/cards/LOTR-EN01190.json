@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01190.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "190",
+  "name": "Moria Axe",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Moria</culture> Orc.\nBearer is <keyword>damage +1</keyword>.\n<phase>Skirmish</phase>: Exert bearer to make him strength +2.",
+  "flavor_text": "Goblins without scimitars wrest axes from the remains of fallen Dwarves."
+}

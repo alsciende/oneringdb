@@ -1,9 +1,0 @@
-{
-    "id": "balglin-elven-warrior",
-    "title": "Balglin",
-    "subtitle": "Elven Warrior",
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "To play, spot an Elf.<br>While skirmishing a wounded minion, Balglin takes no more than 1 wound during each skirmish phase."
-}

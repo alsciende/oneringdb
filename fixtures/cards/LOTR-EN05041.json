@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05041.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "41",
+  "name": "These Are My People",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "3",
+  "game_text": "<phase>Fellowship</phase>: Exert Aragorn twice to play any number of possessions from your discard pile onto companions with the Aragorn signet.",
+  "flavor_text": "“‘...I will die as one of them.’”"
+}

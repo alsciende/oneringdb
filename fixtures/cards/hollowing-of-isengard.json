@@ -1,9 +1,0 @@
-{
-    "id": "hollowing-of-isengard",
-    "title": "Hollowing of Isengard",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 4,
-    "type": "condition",
-    "text": "To play, spot an <symbol>isengard<\/symbol> Orc.   <br><keyword>Shadow:<\/keyword> Discard this condition to add <symbol>twilight3<\/symbol>. "
-}

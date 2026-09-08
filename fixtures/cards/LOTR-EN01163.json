@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01163.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "163",
+  "name": "Ancient Chieftain",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "For each other <culture>Moria</culture> Orc you can spot, Ancient Chieftain is strength +1.",
+  "flavor_text": "“...a huge orc-chieftain, almost man-high, clad in black mail from head to foot, leaped into the chamber; behind him his followers clustered in the doorway.”"
+}

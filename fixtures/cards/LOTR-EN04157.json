@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04157.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "157",
+  "name": "Leechcraft",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "strength_modifier": "-1",
+  "game_text": "<keyword>Spell</keyword>. To play, exert Saruman or an <culture>Isengard</culture> Man. Plays on a Free Peoples Man.\nSpecial abilities in bearer’s game text may not be used.",
+  "flavor_text": "“‘Your leechcraft ere long would have had me walking on all fours like a beast.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04330.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "330",
+  "name": "Derndingle",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "2",
+  "game_text": "<keyword>Forest</keyword>. While you can spot an unbound Hobbit at Derndingle, the move limit is +1 for this turn."
+}

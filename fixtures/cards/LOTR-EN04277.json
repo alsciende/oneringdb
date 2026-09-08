@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04277.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "277",
+  "name": "Guma",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "4",
+  "culture": "Rohan",
+  "subtitle": "Plains Farmer",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "<keyword>Villager</keyword>.\nDiscard Guma if an opponent controls his home site.\n<phase>Fellowship</phase>: Exert Guma to heal a <culture>Rohan</culture> Man.",
+  "flavor_text": "Foodstores swelled as refugees like Guma brought provisions to the Hornburg."
+}

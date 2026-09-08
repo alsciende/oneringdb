@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01027.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "27",
+  "name": "Thrarin",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Dwarf",
+  "home_site": "3",
+  "culture": "Dwarven",
+  "subtitle": "Dwarven Smith",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "<phase>Maneuver</phase>: Exert Thrarin to allow him to participate in archery fire and skirmishes until the regroup phase.",
+  "flavor_text": "A blacksmith by trade, Thrarin puts down his hammer and takes up his axe to fight when the need arises."
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07308.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "308",
+  "name": "Rally the Host",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "To play, spot 2 <culture>Sauron</culture> Orcs.\n<phase>Regroup</phase>: Exert a <culture>Sauron</culture> Orc and remove a threat to shuffle a <culture>Sauron</culture> Orc from play into your draw deck.",
+  "flavor_text": "“And now the fighting waxed furious on the fields of the Pelennor....”"
+}

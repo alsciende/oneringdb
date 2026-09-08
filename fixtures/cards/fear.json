@@ -1,9 +1,0 @@
-{
-    "id": "fear",
-    "title": "Fear",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Search.<\/keyword>  <br><keyword>Maneuver:<\/keyword> Exert your Nazgûl to discard an ally."
-}

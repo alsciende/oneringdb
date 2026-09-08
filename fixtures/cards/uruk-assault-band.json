@@ -1,9 +1,0 @@
-{
-    "id": "uruk-assault-band",
-    "title": "Uruk Assault Band",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 7,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword> To play, spot an Uruk-hai. While at a battleground, this minion is <keyword>fierce.<\/keyword><br>While you control a battleground, this minion is strength +6.<br>While you control 2 battlegrounds, this minion may not take wounds. "
-}

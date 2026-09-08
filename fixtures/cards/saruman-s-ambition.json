@@ -1,9 +1,0 @@
-{
-    "id": "saruman-s-ambition",
-    "title": "Saruman's Ambition",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": " <br>The twilight cost of your <symbol>isengard<\/symbol> events is -1.  <br><keyword>Skirmish:<\/keyword> Discard this condition to make an Uruk-hai strength +2."
-}

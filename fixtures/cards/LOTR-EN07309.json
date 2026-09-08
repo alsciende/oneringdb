@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07309.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "309",
+  "name": "Rope and Winch",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 2 <culture>Sauron</culture> Orcs.\nDiscard any number of cards from hand. The Free Peoples player then discards any number of cards from hand. For each card you discarded more than the Free Peoples player, make a <culture>Sauron</culture> Orc strength +2."
+}

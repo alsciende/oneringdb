@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01250.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "250",
+  "name": "Hate",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Exert a <culture>Sauron</culture> Orc to wound a companion (except the Ring-bearer).",
+  "flavor_text": "Orcs are filled with hatred not only for their foes, but for all that lives."
+}

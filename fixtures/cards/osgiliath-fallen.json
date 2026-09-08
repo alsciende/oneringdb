@@ -1,9 +1,0 @@
-{
-    "id": "osgiliath-fallen",
-    "title": "Osgiliath Fallen",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 2,
-    "type": "site",
-    "text": "<keyword>Skirmish:<\/keyword> Spot your minion and remove 2 burdens to make that minion <keyword>damage +1<\/keyword>."
-}

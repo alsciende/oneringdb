@@ -1,9 +1,0 @@
-{
-    "id": "natural-cover",
-    "title": "Natural Cover",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "To play, spot a ranger.   <br>While the fellowship is at a forest, the minion archery total is -2. "
-}

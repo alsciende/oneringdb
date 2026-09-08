@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01256.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "256",
+  "name": "Morgul Hunter",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "5",
+  "strength": "9",
+  "vitality": "4",
+  "site_number": "6",
+  "game_text": "For each companion you can spot, this minion is strength +1.",
+  "flavor_text": "Sauron's hatred lives in the hearts of his minions."
+}

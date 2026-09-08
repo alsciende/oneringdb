@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07109.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "109",
+  "name": "Long Prepared",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "game_text": "To play, add 2 threats.\n<phase>Skirmish</phase>: Exert a <culture>Gondor</culture> Man to wound a roaming minion that Man is skirmishing. Discard this condition at the start of the regroup phase.",
+  "flavor_text": "“‘For myself, I have long known….’”"
+}

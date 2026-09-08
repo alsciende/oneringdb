@@ -1,9 +1,0 @@
-{
-    "id": "hasty-repairs",
-    "title": "Hasty Repairs",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "To play, spot 3 <symbol>gondor<\/symbol> Men. <br><keyword>Regroup:<\/keyword> While you have only 4 cards in hand, you may discard 2 cards from hand to play a <symbol>gondor<\/symbol> fortification from your discard pile."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04351.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "351",
+  "name": "Hornburg Parapet",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "5",
+  "shadow_number": "8",
+  "game_text": "<keyword>Battleground</keyword>. The fellowship archery total is +1. The minion archery total is −1."
+}

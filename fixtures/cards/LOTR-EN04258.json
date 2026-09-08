@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04258.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "258",
+  "name": "Southron Wanderer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Ambush</keyword> <twilight>1</twilight>.\n<phase>Assignment</phase>: Exert this minion and spot 5 companions to assign this minion to the Ring-bearer. The Free Peoples player may add <twilight>4</twilight> to prevent this.",
+  "flavor_text": "Some desert warriors have no allegiance and work for any faction that will pay them."
+}

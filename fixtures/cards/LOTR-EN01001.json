@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01001.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "1",
+  "name": "The One Ring",
+  "unique": true,
+  "type": "Ring",
+  "culture": null,
+  "subtitle": "Isildur's Bane",
+  "game_text": "<phase>Response</phase>: If bearer is about to take a wound, he wears The One Ring until the regroup phase.\nWhile wearing The One Ring, each time the Ring-bearer is about to take a wound, add 2 burdens instead.",
+  "flavor_text": "“‘...the Ring slipped from his finger as he swam....’”",
+  "strength_modifier": "+1",
+  "vitality_modifier": "+1"
+}

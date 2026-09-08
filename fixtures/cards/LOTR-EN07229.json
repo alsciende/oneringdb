@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07229.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "229",
+  "name": "Éowyn",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Restless Maiden",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<phase>Skirmish</phase>: Discard a possession borne by Éowyn to make her strength +2.",
+  "flavor_text": "“He turned and saw her as a glimmer... for she was clad in white; but her eyes were on fire.”"
+}

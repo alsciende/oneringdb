@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06033.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "33",
+  "name": "Quickbeam",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Ent",
+  "culture": "Gandalf",
+  "subtitle": "Bregalad",
+  "twilight_cost": "4",
+  "strength": "8",
+  "vitality": "3",
+  "game_text": "Quickbeam’s twilight cost is −1 for each Ent or unbound Hobbit you can spot.",
+  "flavor_text": "“‘But if we stayed home and did nothing, doom would find us anyway, sooner or later.’”"
+}

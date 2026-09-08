@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08106.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "106",
+  "name": "Siege Troop",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "8",
+  "strength": "20",
+  "vitality": "4",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Regroup</phase>: Exert this minion twice to take control of a site.",
+  "flavor_text": "“…yet still driven as if by a madness….”"
+}

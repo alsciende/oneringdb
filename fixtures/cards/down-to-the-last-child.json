@@ -1,9 +1,0 @@
-{
-    "id": "down-to-the-last-child",
-    "title": "Down to the Last Child",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": " <br>Each time a companion or ally loses a skirmish involving an Uruk-hai, place an <symbol>isengard<\/symbol> token on this card.  <br><keyword>Shadow:<\/keyword> Remove 2 <symbol>isengard<\/symbol> tokens from this card to take control of a site. "
-}

@@ -1,9 +1,0 @@
-{
-    "id": "southron-troop",
-    "title": "Southron Troop",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 7,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword> <keyword>Archer.<\/keyword> <keyword>Ambush<\/keyword> <symbol>twilight1<\/symbol><keyword>.<\/keyword> To play, spot a Southron.<br><keyword>Assignment:<\/keyword> Spot 7 companions to assign this minion to the Ring-bearer. The Free Peoples player may make you discard a companion (except the Ring-bearer) to prevent this."
-}

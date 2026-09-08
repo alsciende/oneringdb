@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04269.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "269",
+  "name": "Éothain",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Scout of the Mark",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "Each time the fellowship moves to a plains site, each minion must exert.",
+  "flavor_text": "“‘Time is pressing.... We must hasten south, lord.’”"
+}

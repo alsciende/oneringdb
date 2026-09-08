@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04176.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "176",
+  "name": "Uglúk",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "subtitle": "Servant of Saruman",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Tracker</keyword>. <keyword>Fierce</keyword>.\nThe roaming penalty for each <culture>Isengard</culture> tracker you play is −2.\nWhile you can spot 2 <culture>Isengard</culture> trackers, Uglúk is strength +3.\nWhile you can spot 3 <culture>Isengard</culture> trackers, Uglúk is <keyword>damage +1</keyword>."
+}

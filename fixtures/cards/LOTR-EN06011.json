@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06011.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "11",
+  "name": "Toss Me",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "While this card is stacked on a <culture>Dwarven</culture> condition, Gimli is strength +1.\n<phase>Fellowship</phase>: Place this card or another <culture>Dwarven</culture> card from hand on top of or beneath your draw deck.",
+  "flavor_text": "“‘Don’t tell the Elf.’”"
+}

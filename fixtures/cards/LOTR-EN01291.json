@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01291.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "291",
+  "name": "The Gaffer",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Hobbit",
+  "home_site": "1",
+  "culture": "Shire",
+  "subtitle": "Sam's Father",
+  "twilight_cost": "1",
+  "strength": "2",
+  "vitality": "2",
+  "game_text": "<phase>Fellowship</phase>: Exert The Gaffer to heal Frodo or Sam.",
+  "flavor_text": "“No one had a more attentive audience than old Ham Gamgee, commonly known as the Gaffer. He held forth at The Ivy Bush, a small inn on the Bywater road; and he spoke with some authority, for he had tended the garden at Bag End for forty years....”"
+}

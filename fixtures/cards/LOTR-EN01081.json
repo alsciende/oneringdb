@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01081.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "81",
+  "name": "Questions That Need Answering",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Fellowship</phase>: If the twilight pool has fewer than 3 twilight tokens, spot Gandalf to look at the top 4 cards of your draw deck. Take 2 of those cards into hand and discard the rest.",
+  "flavor_text": "“‘There are some things that I must see to....’”"
+}

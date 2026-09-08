@@ -1,9 +1,0 @@
-{
-    "id": "the-nine-servants-of-sauron",
-    "title": "The Nine Servants of Sauron",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Search.<\/keyword>   <br>Each time you play a Nazgûl, you may exert a Hobbit (except the Ring-bearer)."
-}

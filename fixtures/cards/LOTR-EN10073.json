@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10073.png",
+  "set_number": "10",
+  "rarity": "U",
+  "card_number": "73",
+  "name": "Fell Deeds Awake",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a <culture>Rohan</culture> Man.\nEach time you lose initiative, you may liberate a site.",
+  "flavor_text": "“...he seized a great horn from Guthláf his banner-bearer, and he blew such a blast upon it that it burst asunder.”"
+}

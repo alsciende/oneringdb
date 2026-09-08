@@ -1,9 +1,0 @@
-{
-    "id": "treebeard-guardian-of-the-forest",
-    "title": "Treebeard",
-    "subtitle": "Guardian of the Forest",
-    "culture": "gandalf",
-    "twilight_cost": 5,
-    "type": "companion",
-    "text": "<keyword>Unhasty.<\/keyword> <keyword>Assignment:<\/keyword> Exert an unbound Hobbit to allow Treebeard to skirmish. <keyword>Skirmish:<\/keyword> Exert Treebeard to make an Ent <keyword>damage +1<\/keyword>."
-}

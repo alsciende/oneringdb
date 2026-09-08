@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN02003.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "3",
+  "name": "Dwarven Bracers",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Bracers",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be a Dwarf.\n<phase>Response</phase>: If bearer is about to take a wound, discard this possession to prevent that wound.",
+  "flavor_text": "Dwarven-smiths forge bracers for fit and agility."
+}

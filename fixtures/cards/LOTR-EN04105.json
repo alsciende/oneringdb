@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04105.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "105",
+  "name": "Under the Living Earth",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make Gandalf strength +1 for each twilight token you spot (limit +5).",
+  "flavor_text": "“‘Thither I came at last, to the uttermost foundations of stone. He was with me still.’”"
+}

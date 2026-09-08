@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07296.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "296",
+  "name": "Orc Brood",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Discard 3 cards from hand to make this minion strength +3.",
+  "flavor_text": "“…the vomit of the maggot-folk of Mordor.”"
+}

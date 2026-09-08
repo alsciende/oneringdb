@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06045.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "45",
+  "name": "Sméagol",
+  "unique": true,
+  "type": "Companion",
+  "culture": "Gollum",
+  "subtitle": "Poor Creature",
+  "twilight_cost": "0",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ring-bound</keyword>. To play, add a burden.\n<phase>Skirmish</phase>: Discard a card from hand to make Sméagol strength +1.",
+  "flavor_text": "“‘And we’re so lonely... We’ll be nice to them, very nice, if they’ll be nice to us, won’t we, yes, yess.’”"
+}

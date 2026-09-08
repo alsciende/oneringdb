@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04140.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "140",
+  "name": "Beyond All Hope",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "5",
+  "game_text": "<phase>Maneuver</phase>: Exert 2 Uruk-hai to add a burden for each card in the dead pile.",
+  "flavor_text": "“‘How shall any tower withstand such numbers and such reckless hate?’”"
+}

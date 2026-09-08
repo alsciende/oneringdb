@@ -1,9 +1,0 @@
-{
-    "id": "morgul-detachment",
-    "title": "Morgul Detachment",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 7,
-    "type": "minion",
-    "text": "While you can spot a Nazgûl, this minion is fierce and <keyword>damage +1<\/keyword>."
-}

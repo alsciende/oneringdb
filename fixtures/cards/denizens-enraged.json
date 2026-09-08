@@ -1,9 +1,0 @@
-{
-    "id": "denizens-enraged",
-    "title": "Denizens Enraged",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>moria<\/symbol> Orc strength +1 for each other <symbol>moria<\/symbol> Orc you spot (limit +4)."
-}

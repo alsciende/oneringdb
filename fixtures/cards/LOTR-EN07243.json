@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07243.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "243",
+  "name": "Morning Came",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "Make a <culture>Rohan</culture> Man strength +4. Any Shadow player may place a random card from hand beneath his or her draw deck to make that Man strength +2 instead.",
+  "flavor_text": "“...morning and a wind from the sea; and darkness was removed, and the hosts of Mordor wailed....”"
+}

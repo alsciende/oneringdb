@@ -1,9 +1,0 @@
-{
-    "id": "mysterious-wizard",
-    "title": "Mysterious Wizard",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword> <br><keyword>Skirmish:<\/keyword> Make Gandalf strength +2 (or +4 if there are 4 or fewer burdens on the Ring-bearer)."
-}

@@ -1,9 +1,0 @@
-{
-    "id": "seek-and-hide",
-    "title": "Seek and Hide",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Stealth.<\/keyword>  <br><keyword>Skirmish:<\/keyword> Spot 2 <symbol>shire<\/symbol> companions to make a minion lose all <keyword>damage<\/keyword> bonuses. "
-}

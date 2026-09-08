@@ -1,9 +1,0 @@
-{
-    "id": "honed",
-    "title": "Honed",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "Make a Dwarf who is damage +X strength +X."
-}

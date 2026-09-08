@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04198.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "198",
+  "name": "Uruk Stormer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nEach time a companion or ally is killed during a skirmish involving an Uruk-hai, you may take control of a site.",
+  "flavor_text": "“They wavered, broke, and fled back; and then charged again, broke and charged again; and each time, like the incoming sea, they halted at a higher point.”"
+}

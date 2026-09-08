@@ -1,9 +1,0 @@
-{
-    "id": "worry",
-    "title": "Worry",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "To play, exert an Uruk-hai.   <br>Each time a companion or ally loses a skirmish involving an Uruk-hai, the opponent must choose to either exert the Ring-bearer or add a burden."
-}

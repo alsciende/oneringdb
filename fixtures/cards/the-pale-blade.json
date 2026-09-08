@@ -1,9 +1,0 @@
-{
-    "id": "the-pale-blade",
-    "title": "The Pale Blade",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 2,
-    "type": "possession",
-    "text": "Bearer must be The Witch-king.  <br>He is <keyword>damage +1.<\/keyword> <keyword>Response:<\/keyword> If The Witch-king wins a skirmish, exert him to discard a Free Peoples condition."
-}

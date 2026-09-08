@@ -1,9 +1,0 @@
-{
-    "id": "pippin-just-a-nuisance",
-    "title": "Pippin",
-    "subtitle": "Just a Nuisance",
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "companion",
-    "text": "<keyword>Skirmish:<\/keyword> If Pippin is not assigned to a skirmish, discard him to remove an Uruk-hai from a skirmish involving an unbound companion. "
-}

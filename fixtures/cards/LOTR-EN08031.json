@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08031.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "31",
+  "name": "At His Command",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Exert Aragorn to make an unbound companion with the Aragorn signet strength +1 for each threat you spot.",
+  "flavor_text": "“‘Even the shades of Men are obedient to his will....’”"
+}

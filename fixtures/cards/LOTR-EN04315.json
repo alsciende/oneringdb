@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04315.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "315",
+  "name": "Sam",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Frodo's Gardener",
+  "twilight_cost": "2",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ring-bound</keyword>.\n<phase>Fellowship</phase>: Play Sam’s Pack from your draw deck.\n<phase>Response</phase>: If Frodo is killed, make Sam the <keyword>Ring-bearer</keyword> (resistance 5).",
+  "flavor_text": "“‘I am only a hobbit, and gardening’s my job at home, sir, if you understand me....’”"
+}

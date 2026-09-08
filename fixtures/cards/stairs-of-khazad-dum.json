@@ -1,9 +1,0 @@
-{
-    "id": "stairs-of-khazad-dum",
-    "title": "Stairs of Khazad-dûm",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "<keyword>Tale.<\/keyword> <br>While a Dwarf skirmishes a <symbol>moria<\/symbol> minion, that Dwarf is strength +1."
-}

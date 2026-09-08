@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10103.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "103",
+  "name": "Window of the Eye",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a <culture>Sauron</culture> minion.\nEach time the fellowship moves during the regroup phase, you may remove a threat to wound an unbound companion.",
+  "flavor_text": "“...as from some great window immeasurably high there stabbed northward a flame of red, the flicker of a piercing Eye....”"
+}

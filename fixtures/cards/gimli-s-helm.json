@@ -1,9 +1,0 @@
-{
-    "id": "gimli-s-helm",
-    "title": "Gimli's Helm",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "possession",
-    "text": "Bearer must be Gimli. He takes no more than 1 wound during each skirmish phase. <br><keyword>Skirmish:<\/keyword> Discard Gimli’s Helm to prevent all wounds to him."
-}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04111.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "111",
+  "name": "Boromir, My Brother",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be Faramir.\n<phase>Skirmish</phase>: Discard a <culture>Gondor</culture> card from hand to make a Ring-bound Man strength +1.",
+  "flavor_text": "“‘Where is thy horn? Whither goest thou? O Boromir! But he was gone.’”"
+}

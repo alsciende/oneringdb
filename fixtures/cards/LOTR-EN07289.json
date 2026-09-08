@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07289.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "289",
+  "name": "Mordor Savage",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Exert this minion and spot another <culture>Sauron</culture> minion to add a threat.",
+  "flavor_text": "“...he watched the enemy come charging to the assault.”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "easterling-guard",
-    "title": "Easterling Guard",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Easterling.<\/keyword> Each time this minion is assigned to an unbound companion, you may exert him to add a burden. "
-}

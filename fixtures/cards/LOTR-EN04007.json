@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04007.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "7",
+  "name": "Dark Fury",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dunland",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Dunland</culture> Man strength +2 (or +4 if at a sanctuary).",
+  "flavor_text": "“Dunland and Dunlendings are the names that the Rohirrim gave to them, because they were swarthy and dark-haired....”"
+}

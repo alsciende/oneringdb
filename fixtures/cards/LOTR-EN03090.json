@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03090.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "90",
+  "name": "Hand of Sauron",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Exert a <culture>Sauron</culture> minion to make the Free Peoples player discard a card at random from his or her hand.",
+  "flavor_text": "“‘The power of the Ring could not be undone.’”"
+}

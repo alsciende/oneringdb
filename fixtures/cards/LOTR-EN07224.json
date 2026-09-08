@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07224.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "224",
+  "name": "Elfhelm",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Marshal of Rohan",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<keyword>Valiant</keyword>.\n<phase>Skirmish</phase>: Exert Elfhelm to make him strength +1 for each uncontrolled plains site you can spot.",
+  "flavor_text": "“‘There seemed to be some understanding between Dernhelm and Elfhelm, the Marshal who commanded the éored in which they were riding.’”"
+}

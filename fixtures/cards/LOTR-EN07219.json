@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07219.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "219",
+  "name": "Úlairë Toldëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Wraith on Wings",
+  "twilight_cost": "6",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<keyword>Fierce</keyword>.\nWhile you have initiative and can spot a Nazgûl, Úlairë Toldëa's twilight cost is –6.",
+  "flavor_text": "“Almost beyond hearing he thought he caught, high and far up in the heavens, a cry....”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "southron-captain",
-    "title": "Southron Captain",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 6,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword> <br>While you can spot 4 threats, this minion is damage +2."
-}

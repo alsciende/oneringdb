@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07080.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "80",
+  "name": "Andúril",
+  "unique": true,
+  "type": "Artifact",
+  "culture": "Gondor",
+  "subtitle": "King's Blade",
+  "subtype": "Hand Weapon",
+  "twilight_cost": "3",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Aragorn.\nIf you cannot spot a threat, Aragorn is <keyword>defender +1</keyword>.",
+  "flavor_text": "“The Sword of Elendil was forged anew by Elvish smiths… for Aragorn son of Arathorn was going to war upon the marches of Mordor.”"
+}

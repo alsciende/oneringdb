@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08086.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "86",
+  "name": "Doom Drove Them",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Exert a <culture>Rohan</culture> companion and either a <culture>Gondor</culture> Man or a <culture>Shire</culture> companion to add a <culture>Rohan</culture> token here.\n<phase>Skirmish</phase>: Remove a <culture>Rohan</culture> token here to exert a minion skirmishing a companion.",
+  "flavor_text": "“Sea-kings’ city in the South-kingdom / foe-beleaguered, fire-encircled.”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01338.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "338",
+  "name": "Ford of Bruinen",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "3",
+  "shadow_number": "0",
+  "game_text": "<keyword>River</keyword>. <keyword>Sanctuary</keyword>. The twilight cost of the first Nazgûl played to Ford of Bruinen each turn is −5."
+}

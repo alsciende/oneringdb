@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07065.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "65",
+  "name": "Never",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "0",
+  "game_text": "To play, spot Sméagol.\n<phase>Regroup</phase>: Discard Sméagol to remove 2 threats.",
+  "flavor_text": "“‘Sméagol wouldn’t hurt a fly!’”"
+}

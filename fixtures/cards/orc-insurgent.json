@@ -1,9 +1,0 @@
-{
-    "id": "orc-insurgent",
-    "title": "Orc Insurgent",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Shadow:<\/keyword> Exert this minion to draw X cards and add <symbol>twilightX<\/symbol>, where X is the number of Free Peoples cultures you spot over 2."
-}

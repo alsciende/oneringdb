@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01084.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "84",
+  "name": "Sleep, Caradhras",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Fellowship</phase>: Exert Gandalf to discard every condition.",
+  "flavor_text": "“‘Losto Caradhras, sedho, hodo, nuitho i ruith.’”"
+}

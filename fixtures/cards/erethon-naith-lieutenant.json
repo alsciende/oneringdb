@@ -1,9 +1,0 @@
-{
-    "id": "erethon-naith-lieutenant",
-    "title": "Erethón",
-    "subtitle": "Naith Lieutenant",
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "To play, spot an Elf. <br>While Erethón bears a ranged weapon, he is strength +1 and <keyword>damage +1,<\/keyword> and he does not add to the fellowship archery total. "
-}

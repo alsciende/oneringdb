@@ -1,9 +1,0 @@
-{
-    "id": "isengard-warrior",
-    "title": "Isengard Warrior",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "While you can spot another <symbol>isengard<\/symbol> Orc, no player may use archery special abilities. <br><keyword>Regroup:<\/keyword> Exert this minion and spot 3 wounds on the  Ring-bearer to exert every companion."
-}

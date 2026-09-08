@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN06079.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "79",
+  "name": "Easterling Polearm",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Raider",
+  "twilight_cost": "0",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be an Easterling.\nWhile you can spot 2 burdens, bearer cannot take wounds.\nWhile you can spot 5 burdens, bearer is <keyword>damage +1</keyword>.",
+  "flavor_text": "“‘...and the tips of their spears....’”"
+}

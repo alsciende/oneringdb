@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02091.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "91",
+  "name": "Southern Spies",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If the Ring-bearer puts on The One Ring, spot a <culture>Sauron</culture> minion to make the Free Peoples player discard his or her hand.",
+  "flavor_text": "“‘They will know all the news now, for they have visited Bill Ferny; and probably that Southerner was a spy as well.’”"
+}

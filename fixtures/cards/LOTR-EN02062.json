@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02062.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "62",
+  "name": "Goblin Pursuer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "If the fellowship has moved more than once this turn, this minion is strength +3.",
+  "flavor_text": "Had the fellowship remained in Dimrill Dale, pursuers from Moria would have overwhelmed them."
+}

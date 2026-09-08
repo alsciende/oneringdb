@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN08046.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "46",
+  "name": "Spectral Sword",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "strength_modifier": "+1",
+  "game_text": "Bearer must be a <culture>Gondor</culture> Wraith.\n<phase>Skirmish</phase>: Discard 3 cards from hand to heal bearer.",
+  "flavor_text": "“‘...pale banners like shreds of cloud, and spears like winter-thickets on a misty night.’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "what-are-we-waiting-for",
-    "title": "What Are We Waiting For?",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Fellowship:<\/keyword> Exert a Dwarf to make an opponent draw 2 cards.  That player then chooses to either discard 2 Shadow cards from hand or skip his or her next Shadow phase. "
-}

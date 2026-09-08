@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN07049.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "49",
+  "name": "Steadfast Champion",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be Gandalf.\nEach minion gains this ability:\n“<phase>Assignment</phase>: Assign this minion to Gandalf.”\n<phase>Regroup</phase>: Discard this condition to discard a minion and heal a companion 3 times."
+}

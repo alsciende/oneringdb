@@ -1,9 +1,0 @@
-{
-    "id": "west-road",
-    "title": "West Road",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 3,
-    "type": "site",
-    "text": "<keyword>Plains.<\/keyword> If the Shadow has initiative, the Shadow number of this site is +3."
-}

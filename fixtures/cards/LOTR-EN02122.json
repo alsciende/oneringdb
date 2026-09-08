@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02122.png",
+  "set_number": "2",
+  "rarity": "P",
+  "card_number": "122",
+  "name": "Gandalf",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Wizard",
+  "culture": "Gandalf",
+  "subtitle": "The Grey Pilgrim",
+  "twilight_cost": "4",
+  "strength": "7",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "At the start of each of your turns, you may draw a card.",
+  "flavor_text": "“‘When evening in the Shire was grey / his footsteps on the Hill were heard; / before the dawn he went away / on journey long without a word.’”"
+}

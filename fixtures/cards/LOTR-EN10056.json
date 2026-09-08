@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10056.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "56",
+  "name": "Cirith Ungol Warrior",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<phase>Shadow</phase>: Spot a possession to make this minion <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "“...deafening, roaring in his ears, the crash of the feet and the rending clamour of the Orcs before him.”"
+}

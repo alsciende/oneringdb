@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07144.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "144",
+  "name": "Easterling Ransacker",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>.\n<phase>Skirmish</phase>: Exert this minion to make him <keyword>damage +1</keyword>.",
+  "flavor_text": "“...forces ten times, and more than ten times….”"
+}

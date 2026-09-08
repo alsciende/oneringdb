@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03048.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "48",
+  "name": "We Must Go Warily",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If the fellowship moves in the regroup phase, exert a <culture>Gondor</culture> companion twice to make each minion’s twilight cost +1 until the next regroup phase.",
+  "flavor_text": "“‘This is the lawn of Parth Galen: a fair place in the summer days of old. Let us hope that no evil has yet come here.’”"
+}

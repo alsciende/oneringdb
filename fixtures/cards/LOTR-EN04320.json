@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04320.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "320",
+  "name": "Store-room",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<phase>Regroup</phase>: Heal an unbound Hobbit once (or twice if you spot Gandalf).",
+  "flavor_text": "“‘Saruman kept enough wisdom not to trust his Orcs. He had Men to guard his gates.... Anyway, they were favoured and got good provisions.’”"
+}

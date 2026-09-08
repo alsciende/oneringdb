@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05046.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "46",
+  "name": "Berserk Savage",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "6",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nBerserk Savage is strength +1 for each wound on a character in its skirmish.\n<phase>Skirmish</phase>: Remove 4 <culture>Isengard</culture> tokens from a machine and exert Berserk Savage twice to make it strength +8.",
+  "flavor_text": "Skull-like helmets are distinctive to the Berserkers."
+}

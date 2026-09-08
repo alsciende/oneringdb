@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01102.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "102",
+  "name": "Dagger Strike",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Gondor</culture> or <culture>Shire</culture> companion bearing a hand weapon strength +2 and <keyword>damage +1</keyword>.",
+  "flavor_text": "Every warrior needs a sword, bow, or axe — but sometimes, a dagger is enough."
+}

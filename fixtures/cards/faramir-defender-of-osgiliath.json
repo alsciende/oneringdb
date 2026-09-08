@@ -1,9 +1,0 @@
-{
-    "id": "faramir-defender-of-osgiliath",
-    "title": "Faramir",
-    "subtitle": "Defender of Osgiliath",
-    "culture": "gondor",
-    "twilight_cost": 3,
-    "type": "companion",
-    "text": "<keyword>Knight.<\/keyword> <br>When you play Faramir (except in your starting fellowship), you may reveal the top 10 cards of your draw deck. You may play a knight revealed. Shuffle your draw deck."
-}

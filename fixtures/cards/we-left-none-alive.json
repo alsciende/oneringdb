@@ -1,9 +1,0 @@
-{
-    "id": "we-left-none-alive",
-    "title": "We Left None Alive",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "When you play this condition, you may spot a <symbol>rohan<\/symbol> Man to place 2 <symbol>rohan<\/symbol> tokens here. <keyword>Skirmish:<\/keyword> Discard this condition or remove a <symbol>rohan<\/symbol> token from here to make a <symbol>rohan<\/symbol> Man skirmishing an exhausted minion strength +2."
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04235.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "235",
+  "name": "Gathering to the Summons",
+  "unique": false,
+  "type": "Event",
+  "culture": "Raider",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Spot a <culture>Raider</culture> Man skirmishing a Ring-bound companion to add a burden.",
+  "flavor_text": "“These were Men of other race, out of the wide Eastlands....”"
+}

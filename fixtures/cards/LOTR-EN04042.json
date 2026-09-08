@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04042.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "42",
+  "name": "Best Company",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a Dwarf strength +2 (or +4 if at a battleground).",
+  "flavor_text": "“An axe swung and swept back. Two Orcs fell headless. The rest fled.”"
+}

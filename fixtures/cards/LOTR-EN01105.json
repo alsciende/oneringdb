@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01105.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "105",
+  "name": "Foes of Mordor",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Maneuver</phase>: Exert a <culture>Gondor</culture> character to wound a <culture>Sauron</culture> minion.",
+  "flavor_text": "Through the long years, the Men of the Tower of Guard have shielded the West from the minions of the Eye."
+}

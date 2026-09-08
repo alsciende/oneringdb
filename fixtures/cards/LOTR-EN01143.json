@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01143.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "143",
+  "name": "Troop of Uruk-hai",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "5",
+  "strength": "9",
+  "vitality": "4",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nA character skirmishing this minion does not gain strength bonuses from weapons.",
+  "flavor_text": "Attacking in swarming hordes, the Uruk-hai close with the enemy rapidly to make weapons useless."
+}

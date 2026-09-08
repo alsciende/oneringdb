@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02002.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "2",
+  "name": "Disquiet of Our People",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Exert a Dwarf to make that Dwarf <keyword>defender +1</keyword> (or <keyword>defender +2</keyword> if you spot an Orc) until the regroup phase.",
+  "flavor_text": "“‘Ah, alas!... When will the day come of our revenge?’”"
+}

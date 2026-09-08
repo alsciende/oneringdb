@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01164.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "164",
+  "name": "Bitter Hatred",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "game_text": "<phase>Archery</phase>: Spot a <culture>Moria</culture> archer to wound an Elf.",
+  "flavor_text": "Bitter and long is the hatred of the Orcs for the Elves, and thus they prefer Elves as targets."
+}

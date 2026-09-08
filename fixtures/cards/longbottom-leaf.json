@@ -1,9 +1,0 @@
-{
-    "id": "longbottom-leaf",
-    "title": "Longbottom Leaf",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "<keyword>Pipeweed.<\/keyword>  <br>When you play this possession, you may discard up to 2 cards from hand."
-}

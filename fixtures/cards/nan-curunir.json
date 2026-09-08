@@ -1,9 +1,0 @@
-{
-    "id": "nan-curunir",
-    "title": "Nan Curunír",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 8,
-    "type": "site",
-    "text": "<keyword>Plains.<\/keyword> <keyword>Response:<\/keyword> If your mounted minion is about to take a wound, remove <symbol>twilight2<\/symbol> to prevent that wound."
-}

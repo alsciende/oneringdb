@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07253.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "253",
+  "name": "Swift Steed",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Rohan",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be a <culture>Rohan</culture> Man.\nWhile at a plains site, bearer takes no more than 1 wound during each skirmish.\nAt the start of each skirmish involving bearer, each minion skirmishing bearer must exert."
+}

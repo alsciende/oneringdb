@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01280.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "280",
+  "name": "Tower Lieutenant",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "Each time this minion wins a skirmish, the Free Peoples player discards 2 cards at random from hand.",
+  "flavor_text": "Sauron shows favour to those in his dungeons with the ambition to squeeze the information he needs from those caught spying out his borders."
+}

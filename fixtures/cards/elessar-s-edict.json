@@ -1,9 +1,0 @@
-{
-    "id": "elessar-s-edict",
-    "title": "Elessar's Edict",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "If a <symbol>gondor<\/symbol> Wraith is about to be killed, discard him and either exhaust another <symbol>gondor<\/symbol> Wraith or spot another exhausted <symbol>gondor<\/symbol> Wraith to prevent that."
-}

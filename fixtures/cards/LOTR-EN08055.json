@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08055.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "55",
+  "name": "Corsair Gunners",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Corsair</keyword>.\n<phase>Skirmish</phase>: If you have initiative, remove a <culture>Raider</culture> token to make a corsair <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "“‘The Corsairs are upon us!’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06034.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "34",
+  "name": "Roused",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Exert an Ent to make him strength +1 for each Ent you spot (limit +4).",
+  "flavor_text": "“‘To Isengard!’ the Ents cried in many voices.”"
+}

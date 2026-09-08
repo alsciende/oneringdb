@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07173.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "173",
+  "name": "War Towers",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Maneuver",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "Spot a <culture>Raider</culture> minion to add a threat. Add an additional threat for each companion over 4.",
+  "flavor_text": "“...behind them rose the huge backs of the mûmakil….”"
+}

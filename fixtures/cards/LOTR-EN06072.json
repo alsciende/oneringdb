@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06072.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "72",
+  "name": "Rohirrim Traitor",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "While you can spot a companion bearing an <culture>Isengard</culture> condition, this minion is strength +2.",
+  "flavor_text": "“‘Once it was a man, and did you service in its fashion.’”"
+}

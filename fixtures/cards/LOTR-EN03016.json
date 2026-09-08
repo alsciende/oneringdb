@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03016.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "16",
+  "name": "Friends of Old",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Reveal a card at random from an opponent’s hand. Heal X <culture>Elven</culture> allies, where X is the twilight cost of the card revealed.",
+  "flavor_text": "“‘You have been summoned here to answer the threat of Mordor.’”"
+}

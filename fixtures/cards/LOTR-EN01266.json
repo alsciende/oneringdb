@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01266.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "266",
+  "name": "Orc Chieftain",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "6",
+  "game_text": "When you play a weapon on this minion, add <twilight>2</twilight> (limit once per turn).",
+  "flavor_text": "Orc chieftains are the most cruel of a heartless race. Both strength and malice are needed to lead such followers."
+}

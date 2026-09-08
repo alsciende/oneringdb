@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07068.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "68",
+  "name": "Scouting",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "2",
+  "game_text": "To play, spot Sméagol.\nEach time the fellowship moves, add a threat or discard this condition.\n<phase>Maneuver</phase>: Discard Sméagol to discard a minion. An opponent may exert a minion twice to prevent this."
+}

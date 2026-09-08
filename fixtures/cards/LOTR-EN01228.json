@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01228.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "228",
+  "name": "The Twilight World",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If the Ring-bearer puts on The One Ring, exert a Nazgûl to add 2 burdens.",
+  "flavor_text": "“Immediately, though everything else remained as before, dim and dark, the shapes became terribly clear. He was able to see beneath their black wrappings.”"
+}

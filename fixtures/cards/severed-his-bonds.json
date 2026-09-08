@@ -1,9 +1,0 @@
-{
-    "id": "severed-his-bonds",
-    "title": "Severed His Bonds",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Stealth.<\/keyword> <br><keyword>Skirmish:<\/keyword> At sites 1<symbol>tower<\/symbol> to 4<symbol>tower<\/symbol>, cancel a skirmish involving a Hobbit.  At any other site, prevent a Hobbit from being overwhelmed unless his or her strength is tripled. "
-}

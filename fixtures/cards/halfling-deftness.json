@@ -1,9 +1,0 @@
-{
-    "id": "halfling-deftness",
-    "title": "Halfling Deftness",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Exert a Hobbit to make him strength +3."
-}

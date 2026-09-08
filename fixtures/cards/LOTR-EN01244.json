@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01244.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "244",
+  "name": "Desperate Defense of the Ring",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "To play, exert a <culture>Sauron</culture> Orc. Plays on a companion.\nEach time bearer is assigned to a skirmish, the Free Peoples player chooses to either discard 3 cards from hand or add a burden.",
+  "flavor_text": "The Company must defend the Ring at all costs."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03079.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "79",
+  "name": "Malice",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "game_text": "<phase>Archery</phase>: Spot a <culture>Moria</culture> Orc and a <culture>Sauron</culture> Orc to wound an archer.",
+  "flavor_text": "Fueled by Sauron’s hatred of living things, Orcs searched for the Ring of Power."
+}

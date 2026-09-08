@@ -1,9 +1,0 @@
-{
-    "id": "staff-asunder",
-    "title": "Staff Asunder",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword>  <br><keyword>Skirmish:<\/keyword> Discard a staff Gandalf is bearing and then exert him twice to discard a minion he is skirmishing. "
-}

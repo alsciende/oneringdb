@@ -1,9 +1,0 @@
-{
-    "id": "dark-whispers",
-    "title": "Dark Whispers",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Spot 3 burdens to make a Nazgûl strength +1 and <keyword>damage +1,<\/keyword> or spot 6 burdens to make a Nazgûl strength +3 and <keyword>damage +2.<\/keyword>"
-}

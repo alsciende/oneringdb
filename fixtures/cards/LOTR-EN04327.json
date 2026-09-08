@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN04327.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "327",
+  "name": "Plains of Rohan",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "1",
+  "game_text": "<keyword>Plains</keyword>. <phase>Fellowship</phase>: Exert 2 unbound companions to play Gimli from your draw deck."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10091.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "91",
+  "name": "Mordor Fiend",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Shadow</phase>: If you cannot spot another minion and there are 3 or fewer twilight tokens, add <twilight>3</twilight> (or <twilight>5</twilight> if this minion is roaming).",
+  "flavor_text": "“The onslaught of Mordor broke like a wave on the beleaguered hills....”"
+}

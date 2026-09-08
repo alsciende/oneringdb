@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07071.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "71",
+  "name": "Sméagol",
+  "unique": true,
+  "type": "Companion",
+  "culture": "Gollum",
+  "subtitle": "Always Helps",
+  "twilight_cost": "0",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ring-bound</keyword>. To play, add a burden.\n<phase>Assignment</phase>: Assign a minion to Sméagol and add 2 threats to exhaust that minion.",
+  "flavor_text": "“‘Yes, yes! Sméagol helps, always helps.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02013.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "13",
+  "name": "Tidings of Erebor",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Regroup</phase>: Spot a Dwarf to draw 3 cards. Any Shadow player may remove <twilight>3</twilight> to prevent this.",
+  "flavor_text": "“‘...we have so far been fortunate, though we do not escape the shadow of these times.’”"
+}

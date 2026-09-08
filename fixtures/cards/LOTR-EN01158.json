@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01158.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "158",
+  "name": "Uruk-hai Raiding Party",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.",
+  "flavor_text": "“‘Imagine, Gandalf, an army — born from the earth of Isengard.’”"
+}

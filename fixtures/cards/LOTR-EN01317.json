@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01317.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "317",
+  "name": "There and Back Again",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Tale</keyword>. Bearer must be a Hobbit companion.\n<phase>Maneuver</phase>: Discard this condition to make each Hobbit companion strength +2 until the regroup phase.",
+  "flavor_text": "“‘So there I was — at the mercy of three monstrous trolls....’”"
+}

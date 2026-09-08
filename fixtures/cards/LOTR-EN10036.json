@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10036.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "36",
+  "name": "Cast Unto the Winds",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "<phase>Regroup</phase>: Spot a Southron, remove a threat, and remove <twilight>3</twilight> to wound an unbound companion.",
+  "flavor_text": "“‘With horns in my mouth / I walk in the South....’”"
+}

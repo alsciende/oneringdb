@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01201.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "201",
+  "name": "Unfamiliar Territory",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Moria</culture> Orc strength +2 (or +4 if skirmishing an archer).",
+  "flavor_text": "Knowing the dark terrain of Moria gives Orcs a strategic advantage when attacking their foes."
+}

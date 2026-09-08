@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06096.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "96",
+  "name": "News From the Mark",
+  "unique": false,
+  "type": "Event",
+  "culture": "Rohan",
+  "twilight_cost": "2",
+  "game_text": "<phase>Fellowship</phase>: Spot 3 mounted <culture>Rohan</culture> Men to make the move limit for this turn +2. Each Shadow player may draw 6 cards.",
+  "flavor_text": "“‘We are friends of Rohan, and of Théoden, your king.’”"
+}

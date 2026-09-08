@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN02104.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "104",
+  "name": "Merry",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Horticulturalist",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Gandalf",
+  "game_text": "<phase>Fellowship</phase>: Exert Merry to play Farmer Maggot from your draw deck.",
+  "flavor_text": "“‘Ow... I think I’ve broken something.’”"
+}

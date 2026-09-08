@@ -1,9 +1,0 @@
-{
-    "id": "galdor-councilor-from-the-west",
-    "title": "Galdor",
-    "subtitle": "Councilor From the West",
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "ally",
-    "text": "To play, spot an Elf.  <br><keyword>Regroup:<\/keyword> Exert Galdor and spot a minion to return that minion to its owner’s hand. "
-}

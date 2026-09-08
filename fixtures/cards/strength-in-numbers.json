@@ -1,9 +1,0 @@
-{
-    "id": "strength-in-numbers",
-    "title": "Strength in Numbers",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "To play, spot a Southron. Plays to your support area.<br><keyword>Maneuver:<\/keyword> Discard this condition to add <symbol>twilight1<\/symbol> for each Man with ambush you spot."
-}

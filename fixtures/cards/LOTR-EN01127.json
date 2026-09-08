@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01127.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "127",
+  "name": "Lurtz",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "subtitle": "Servant of Isengard",
+  "twilight_cost": "7",
+  "strength": "13",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Archer</keyword>. <keyword>Damage +1</keyword>.\n<phase>Maneuver</phase>: Spot another Uruk-hai to make Lurtz <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "“‘And now... perfected. Grown beyond the height of Men — straight-limbed and strong, fearing nothing.’”"
+}

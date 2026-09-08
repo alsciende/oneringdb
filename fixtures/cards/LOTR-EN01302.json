@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01302.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "302",
+  "name": "Merry",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Friend to Sam",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<phase>Skirmish</phase>: If Merry is not assigned to a skirmish, exert him twice to add his strength to another companion.",
+  "flavor_text": "“‘We’re coming too! You’ll have to send us home tied up in a sack to stop us!’”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08102.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "102",
+  "name": "Great Hill Troll",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Troll",
+  "culture": "Sauron",
+  "twilight_cost": "9",
+  "strength": "16",
+  "vitality": "4",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>. <keyword>Fierce</keyword>.\nThe twilight cost of this minion is –1 for each <culture>Sauron</culture> engine you spot.\nWhen you play this minion at sites 5<block>King</block> to 9<block>King</block>, you may discard a Free Peoples condition.",
+  "flavor_text": "“…and wielded heavy hammers in their knotted hands.”"
+}

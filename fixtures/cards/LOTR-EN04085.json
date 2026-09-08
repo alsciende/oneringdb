@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04085.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "85",
+  "name": "Thandronen",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Veteran Protector",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "To play, spot an Elf.\n<phase>Regroup</phase>: Exert Thandronen to discard a minion stacked on a condition or stacked on a site.",
+  "flavor_text": "The twin sons of Thandronen marched with their father to defend Helm’s Deep."
+}

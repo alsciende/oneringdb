@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01364.png",
+  "set_number": "1",
+  "rarity": "P",
+  "card_number": "364",
+  "name": "Gandalf",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Wizard",
+  "culture": "Gandalf",
+  "subtitle": "The Grey Wizard",
+  "twilight_cost": "4",
+  "strength": "7",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "<phase>Fellowship</phase>: Exert Gandalf to play a companion who has the Gandalf signet. The twilight cost of that companion is −2.",
+  "flavor_text": "“...his long white hair, his sweeping silver beard, and his broad shoulders, made him look like some wise king of ancient legend.”"
+}

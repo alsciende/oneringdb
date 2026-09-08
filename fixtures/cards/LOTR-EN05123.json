@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05123.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "123",
+  "name": "Baruk Khazâd",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Exert a Dwarf to wound a minion. You may take the next maneuver action.",
+  "flavor_text": "“Axes of the Dwarves!” cried Gimli in the secret tongue of his kin."
+}

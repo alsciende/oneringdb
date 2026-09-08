@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07072.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "72",
+  "name": "Sméagol",
+  "unique": true,
+  "type": "Companion",
+  "culture": "Gollum",
+  "subtitle": "Hurried Guide",
+  "twilight_cost": "0",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ring-bound</keyword>. To play, add a burden.\n<phase>Skirmish</phase>: If you have initiative, discard 2 cards from your hand. Sméagol cannot be overwhelmed unless his strength is tripled.",
+  "flavor_text": "“‘Wake up! Wake up! Wake up, sleepies! We must go, yes, we must go at once!’”"
+}

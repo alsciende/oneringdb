@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01174.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "174",
+  "name": "Goblin Backstabber",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "strength": "5",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "This minion is <keyword>damage +2</keyword> while in the same skirmish as another <culture>Moria</culture> Orc.",
+  "flavor_text": "An attack from behind provides a cowardly Goblin with a boldness much like courage."
+}

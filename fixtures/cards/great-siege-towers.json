@@ -1,9 +1,0 @@
-{
-    "id": "great-siege-towers",
-    "title": "Great Siege-towers",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Engine.<\/keyword> <br><keyword>Shadow:<\/keyword> Play a besieger to place a <symbol>sauron<\/symbol> token here. <br><keyword>Skirmish:<\/keyword> Remove a <symbol>sauron<\/symbol> token from a condition to make a <symbol>sauron<\/symbol> Orc strength +1 (limit +2)."
-}

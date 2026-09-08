@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07069.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "69",
+  "name": "Secret Paths",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "2",
+  "game_text": "To play, spot Sméagol and add 2 threats.\nThe move limit for this turn is +1.\nDiscard this condition at the end of the turn.",
+  "flavor_text": "“‘Not that way! No, not that way!’”"
+}

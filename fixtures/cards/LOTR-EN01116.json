@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01116.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "116",
+  "name": "Swordarm of the White Tower",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Gondor</culture> companion strength +2 (or +4 if he or she is <keyword>defender +1</keyword>).",
+  "flavor_text": "“‘By our valour the wild folk of the East are still restrained, and the terror of Morgul kept at bay; and thus alone are peace and freedom maintained in the lands behind us, bulwark of the West.’”"
+}

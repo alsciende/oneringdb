@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07310.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "310",
+  "name": "Sauron's Hatred",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "0",
+  "game_text": "To play, spot a <culture>Sauron</culture> Orc.\n<phase>Shadow</phase>: Remove a threat to play a <culture>Sauron</culture> Orc without paying any roaming penalty.\n<phase>Regroup</phase>: Spot a <culture>Sauron</culture> Orc and remove <twilight>4</twilight> to add a threat."
+}

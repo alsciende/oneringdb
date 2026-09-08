@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07020.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "20",
+  "name": "Defiance",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "Make an Elf strength +2 (or +4 if skirmishing a Nazgûl)."
+}

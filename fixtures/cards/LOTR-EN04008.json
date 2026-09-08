@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04008.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "8",
+  "name": "Death to the Strawheads",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dunland",
+  "twilight_cost": "3",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Dunland</culture> Man strength +1 for each companion you spot.",
+  "flavor_text": "The dark Dunlendings called their fair-haired enemies from Rohan “Strawheads.”"
+}

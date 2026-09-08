@@ -1,9 +1,0 @@
-{
-    "id": "mauhur-patrol-leader",
-    "title": "Mauhúr",
-    "subtitle": "Patrol Leader",
-    "culture": "isengard",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Tracker.<\/keyword> <keyword>Fierce.<\/keyword><br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight2<\/symbol> to prevent an <symbol>isengard<\/symbol> tracker from taking wounds. "
-}

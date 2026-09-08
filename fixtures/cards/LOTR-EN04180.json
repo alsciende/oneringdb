@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04180.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "180",
+  "name": "Uruk Besieger",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Regroup</phase>: Stack this minion on a site you control.\n<phase>Shadow</phase>: If stacked on a site you control, play this minion. Its twilight cost is −1.",
+  "flavor_text": "Fresh troops awaited to attack any weakness."
+}

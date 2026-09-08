@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN06029.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "29",
+  "name": "Ent Moot",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "To play, exert an unbound Hobbit. Bearer must be an Ent. Limit 1 per bearer.",
+  "flavor_text": "“But when the Ents all gathered round Treebeard,… then the Hobbits saw that they were all of the same kindred, and all had the same eyes….”"
+}

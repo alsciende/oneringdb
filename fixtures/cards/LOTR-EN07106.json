@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07106.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "106",
+  "name": "Ingold",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<keyword>Knight</keyword>.\n<phase>Fellowship</phase>: Discard a fortification to heal Ingold twice.",
+  "flavor_text": "“‘Do you know aught of them? Will they answer the summons, think you?’”"
+}

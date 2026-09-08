@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02001.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "1",
+  "name": "Beneath the Mountains",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\n<phase>Fellowship</phase>: Discard the top 3 cards from your draw deck to play a <culture>Dwarven</culture> weapon from your discard pile.",
+  "flavor_text": "“‘There forged was blade, and bound was hilt; / The delver mined, the mason built.’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "poor-wretch",
-    "title": "Poor Wretch",
-    "subtitle": null,
-    "culture": "gollum",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "Plays on Sméagol. <br><keyword>Skirmish:<\/keyword> Discard this condition to make Sméagol <keyword>damage +1.<\/keyword><br>"
-}

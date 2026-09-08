@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01032.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "32",
+  "name": "Border Defenses",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make an Elf strength +2 (or +4 if skirmishing an archer).",
+  "flavor_text": "“‘None of the Orcs will ever return out of Lórien. And there will be many Elves hidden on the northern border before another night falls.’”"
+}

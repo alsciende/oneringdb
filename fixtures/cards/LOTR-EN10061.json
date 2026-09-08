@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10061.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "61",
+  "name": "Houses of Lamentation",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "Make a <culture>Wraith</culture> minion strength +2 (or +4 if skirmishing a companion of the same culture as a card in the dead pile).",
+  "flavor_text": "“‘...thy shrivelled mind be left naked to the Lidless Eye.’”"
+}

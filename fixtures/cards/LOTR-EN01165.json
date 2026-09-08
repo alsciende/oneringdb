@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01165.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "165",
+  "name": "Cave Troll of Moria",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Troll",
+  "culture": "Moria",
+  "subtitle": "Scourge of the Black Pit",
+  "twilight_cost": "10",
+  "strength": "15",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "<keyword>Damage +1</keyword>. <keyword>Fierce</keyword>. To play, spot a <culture>Moria</culture> Orc.\nAt an underground site, Cave Troll of Moria's twilight cost is −3.",
+  "flavor_text": "Frodo's quest nearly ended before his companions halted the Cave Troll's ferocious attack."
+}

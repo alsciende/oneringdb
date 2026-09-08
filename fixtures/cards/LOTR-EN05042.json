@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05042.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "42",
+  "name": "Turgon",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Man of Belfalas",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<keyword>Knight</keyword>. To play, spot a knight.\n<phase>Maneuver</phase>: Exert Turgon to wound a minion bearing a <culture>Gondor</culture> fortification.",
+  "flavor_text": "He hopes to someday become one of the knights of Dol Amroth."
+}

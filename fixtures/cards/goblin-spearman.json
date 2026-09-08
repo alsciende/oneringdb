@@ -1,9 +1,0 @@
-{
-    "id": "goblin-spearman",
-    "title": "Goblin Spearman",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "While bearing a Goblin Spear, this minion is <keyword>damage +2.<\/keyword> "
-}

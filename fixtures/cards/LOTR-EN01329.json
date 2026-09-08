@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01329.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "329",
+  "name": "Breeland Forest",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "1",
+  "game_text": "<keyword>Forest</keyword>. Stealth events may not be played."
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01091.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "91",
+  "name": "Aragorn's Pipe",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Pipe",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a <culture>Gondor</culture> companion.\n<phase>Fellowship</phase>: Discard a pipeweed possession and spot X pipes to heal X companions.",
+  "flavor_text": "“He had a tall tankard in front of him, and was smoking a long-stemmed pipe curiously carved.”"
+}

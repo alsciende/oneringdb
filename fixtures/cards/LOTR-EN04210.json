@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04210.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "210",
+  "name": "We Are the Fighting Uruk-hai",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make an Uruk-hai strength +2 (and <keyword>damage +1</keyword> if you control a site).",
+  "flavor_text": "“‘But for us you’d all have run away.’”"
+}

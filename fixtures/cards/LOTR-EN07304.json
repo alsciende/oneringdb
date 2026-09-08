@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07304.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "304",
+  "name": "Orc Rager",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Discard this minion to make another <culture>Sauron</culture> Orc strength +4.",
+  "flavor_text": "“The drums rolled and rattled.”"
+}

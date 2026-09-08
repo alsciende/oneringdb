@@ -1,9 +1,0 @@
-{
-    "id": "spectral-sword",
-    "title": "Spectral Sword",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "possession",
-    "text": "Bearer must be a <symbol>gondor<\/symbol> Wraith. <br><keyword>Skirmish:<\/keyword> Discard 3 cards from hand to heal bearer."
-}

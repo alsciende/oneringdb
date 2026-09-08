@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07035.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "35",
+  "name": "Fool’s Hope",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Fellowship",
+  "culture": "Gandalf",
+  "twilight_cost": "3",
+  "game_text": "Spot Gandalf and discard 2 cards from hand to make an opponent discard all but 2 Shadow conditions.",
+  "flavor_text": "“‘There never was much hope....’”"
+}

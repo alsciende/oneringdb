@@ -1,9 +1,0 @@
-{
-    "id": "ranger-of-minas-tirith",
-    "title": "Ranger of Minas Tirith",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Ranger.<\/keyword> <br>While skirmishing a roaming minion, this companion is strength +2 and <keyword>damage +1<\/keyword>."
-}

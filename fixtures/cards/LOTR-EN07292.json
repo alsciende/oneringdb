@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07292.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "292",
+  "name": "Mordor Veteran",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Skirmish</phase>: Remove 3 threats to make a <culture>Sauron</culture> minion strength +8.",
+  "flavor_text": "“...the first assault crashed into them.”"
+}

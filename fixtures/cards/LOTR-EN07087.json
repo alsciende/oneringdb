@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07087.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "87",
+  "name": "Derufin",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<phase>Regroup</phase>: While you have exactly 5 cards in hand, you may exert Derufin to discard an engine, machine, or possession.",
+  "flavor_text": "“From the uplands of Morthond….”"
+}

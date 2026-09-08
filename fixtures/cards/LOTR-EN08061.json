@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08061.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "61",
+  "name": "Haradwaith",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "While you can spot a <culture>Raider</culture> minion at site 4<block>King</block>, the Shadow has initiative, regardless of the Free Peoples player's hand.\n<phase>Response</phase>: If a companion is played, discard a <culture>Raider</culture> card from hand to add <twilight>5</twilight>. Discard this condition."
+}

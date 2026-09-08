@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04266.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "266",
+  "name": "Éomer",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Sister-son of Théoden",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "While you can spot a <culture>Rohan</culture> Man, Eomer’s twilight cost is −1.\nAt the start of each turn, you may heal a <culture>Rohan</culture> ally.",
+  "flavor_text": "“‘Now indeed there is hope of victory!’”"
+}

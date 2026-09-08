@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04037.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "37",
+  "name": "War Cry of Dunland",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dunland",
+  "twilight_cost": "1",
+  "game_text": "<phase>Response</phase>: If a <culture>Dunland</culture> Man wins a skirmish, make him <keyword>fierce</keyword> and strength +4 until the regroup phase.",
+  "flavor_text": "“‘Death to the Forgoil!’”"
+}

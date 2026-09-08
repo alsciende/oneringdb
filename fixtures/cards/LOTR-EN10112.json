@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10112.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "112",
+  "name": "Nine-fingered Frodo and the Ring of Doom",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Tale</keyword>. Exert a <culture>Shire</culture> character to remove a burden or 2 threats.",
+  "flavor_text": "“‘What a tale we have been in, Mr. Frodo, haven’t we?’”"
+}

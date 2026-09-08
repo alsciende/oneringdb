@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN01166.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "166",
+  "name": "Cave Troll’s Hammer",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Moria",
+  "twilight_cost": "1",
+  "strength_modifier": "+3",
+  "game_text": "Bearer must be Cave Troll of Moria.\nCave Troll of Moria is <keyword>damage +1</keyword>.",
+  "flavor_text": "Suddenly the door burst into fragments and the Cave Troll was among them, his huge hammer striking like thunder."
+}

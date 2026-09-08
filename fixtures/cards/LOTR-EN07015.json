@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN07015.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "15",
+  "name": "Ancient Blade",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be an <culture>Elven</culture> companion.\nEach minion gains this ability:\n“<phase>Assignment</phase>: Assign this minion to bearer of Ancient Blade.”\n<phase>Regroup</phase>: Discard this condition to discard a minion and reconcile your hand."
+}

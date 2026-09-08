@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06105.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "105",
+  "name": "Peril",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Regroup</phase>: Exert a <culture>Sauron</culture> Orc to play a Nazgûl or <culture>Sauron</culture> minion. Its twilight cost is −4 and it comes into play exhausted.",
+  "flavor_text": "“‘A winged Nazgûl awaits us northward on the east-bank.’”"
+}

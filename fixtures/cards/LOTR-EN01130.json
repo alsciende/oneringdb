@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01130.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "130",
+  "name": "No Ordinary Storm",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\nEach time you play a weather condition, exert a <culture>Gandalf</culture> companion or <culture>Gandalf</culture> ally.",
+  "flavor_text": "“‘So Gandalf... you try to lead them over Caradhras. And if that fails — where then will you go?’”"
+}

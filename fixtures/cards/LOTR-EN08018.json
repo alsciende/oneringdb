@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08018.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "18",
+  "name": "Not the First Halfling",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Exert Gandalf and either an <culture>Elven</culture> companion or a <culture>Shire</culture> companion to add a <culture>Gandalf</culture> token here.\n<phase>Skirmish</phase>: Remove a <culture>Gandalf</culture> token here to make a minion skirmishing an unbound companion strength -2."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02015.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "15",
+  "name": "What Are We Waiting For?",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Exert a Dwarf to make an opponent draw 2 cards. That player then chooses to either discard 2 Shadow cards from hand or skip his or her next Shadow phase.",
+  "flavor_text": "“‘It is not despair, for despair is only for those who see the end beyond all doubt.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05085.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "85",
+  "name": "Let Us Be Swift",
+  "unique": false,
+  "type": "Event",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "<phase>Regroup</phase>: Spot 3 valiant Men to discard up to 2 conditions and liberate a site.",
+  "flavor_text": "“‘Let us drive through such foes as are already between us and the fastness.’”"
+}

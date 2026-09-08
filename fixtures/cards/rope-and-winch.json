@@ -1,9 +1,0 @@
-{
-    "id": "rope-and-winch",
-    "title": "Rope and Winch",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "To play, spot 2 <symbol>sauron<\/symbol> Orcs. <br>Discard any number of cards from hand. The Free Peoples player then discards any number of cards from hand. For each card you discarded more than the Free Peoples player, make a <symbol>sauron<\/symbol> Orc strength +2."
-}

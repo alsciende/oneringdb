@@ -1,9 +1,0 @@
-{
-    "id": "herugrim-sword-of-the-mark",
-    "title": "Herugrim",
-    "subtitle": "Sword of the Mark",
-    "culture": "rohan",
-    "twilight_cost": 3,
-    "type": "possession",
-    "text": "Bearer must be Théoden. <br>He is <keyword>Damage +1.<\/keyword> <br><keyword>Response:<\/keyword> If Théoden is about to take a wound and you cannot spot 3 threats, add 2 threats to prevent that wound."
-}

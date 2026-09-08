@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04272.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "272",
+  "name": "Éowyn's Sword",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "strength_modifier": "+3",
+  "game_text": "Bearer must be Eowyn.\nWhile you can spot a villager, Éowyn is <keyword>damage +1</keyword>.",
+  "flavor_text": "“...the sword was set upright before her, and her hands were laid upon the hilt.”"
+}

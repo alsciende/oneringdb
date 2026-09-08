@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01012.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "12",
+  "name": "Gimli",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Dwarf",
+  "culture": "Dwarven",
+  "subtitle": "Dwarf of Erebor",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "Damage +1.\n<phase>Fellowship</phase>: If the twilight pool has fewer than 2 twilight tokens, add <twilight>2</twilight> to place a card from hand beneath your draw deck.",
+  "flavor_text": "“Gimli now walked ahead by the wizard’s side, so eager was he to come to Moria.”"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01101.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "101",
+  "name": "Coat of Mail",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Armor",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be a Man.\nBearer may not be overwhelmed unless his or her strength is tripled.",
+  "flavor_text": "Soldiers of the White Tower have long appreciated the craftsmanship of the Gondorian metalsmiths."
+}

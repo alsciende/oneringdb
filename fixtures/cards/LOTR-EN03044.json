@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03044.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "44",
+  "name": "The Shards of Narsil",
+  "unique": true,
+  "type": "Artifact",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Fellowship</phase>: Stack a <culture>Gondor</culture> card from hand here.\n<phase>Fellowship</phase>: Add <twilight>1</twilight> to take a card stacked here into hand.",
+  "flavor_text": "“...Narsil was broken and its light extinguished, and it had not yet been forged again.”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "night-without-end",
-    "title": "Night Without End",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Response:<\/keyword> If an Elf wins a skirmish, exert that Elf to liberate a site or wound a minion. "
-}

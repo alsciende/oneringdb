@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04213.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "213",
+  "name": "What Did You Discover?",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Search</keyword>. Plays to your support area.\nEach time the fellowship moves during the regroup phase, you may discard 2 cards from hand to take an <culture>Isengard</culture> tracker from your discard pile into hand.",
+  "flavor_text": "“‘The scouts have come back at last.’”"
+}

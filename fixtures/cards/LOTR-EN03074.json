@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03074.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "74",
+  "name": "Uruk Raider",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nWhile an ally is in the dead pile, this minion is strength +3 and <keyword>fierce</keyword>.",
+  "flavor_text": "There is no safety where Saruman’s emblem is shown."
+}

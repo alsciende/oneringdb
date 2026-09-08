@@ -1,9 +1,0 @@
-{
-    "id": "goblin-marksman",
-    "title": "Goblin Marksman",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Archer.<\/keyword>  (Add 1 to the minion archery total.)"
-}

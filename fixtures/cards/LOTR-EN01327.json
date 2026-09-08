@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01327.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "327",
+  "name": "Bree Gate",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "2",
+  "game_text": "While you can spot a ranger, the move limit is +1 for this turn."
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07142.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "142",
+  "name": "Easterling Blademaster",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>.\n<phase>Skirmish</phase>: Exert this minion to make him <keyword>damage +1</keyword>.",
+  "flavor_text": "“...great forces were flowing in from the East.”"
+}

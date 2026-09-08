@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01220.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "220",
+  "name": "Not Easily Destroyed",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Maneuver</phase> or <phase>Skirmish</phase>: Remove <twilight>3</twilight> to heal a Nazgûl.",
+  "flavor_text": "“‘They were Kings… great Kings of Men. Sauron gave to them Nine Rings of Power and with them the promise of eternal rule… unending life.’”"
+}

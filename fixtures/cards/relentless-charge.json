@@ -1,9 +1,0 @@
-{
-    "id": "relentless-charge",
-    "title": "Relentless Charge",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Exert a Nazgûl to wound every archer companion."
-}

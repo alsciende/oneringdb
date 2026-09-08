@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN07328.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "328",
+  "name": "Slow-kindled Courage",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Shire",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be Merry or Pippin.\nEach minion gains this ability:\n“<phase>Assignment</phase>: Assign this minion to bearer of Slow-kindled Courage.”\n<phase>Regroup</phase>: Discard this condition to discard a minion and remove 2 burdens."
+}

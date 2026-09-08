@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02006.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "6",
+  "name": "Frór",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Dwarf",
+  "culture": "Dwarven",
+  "subtitle": "Gimli's Kinsman",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "To play, spot a Dwarf.\nWhile skirmishing an Uruk-hai, Frór is strength +3.",
+  "flavor_text": "“It appeared that amid the splendour of their works of hand the hearts of the Dwarves of the Lonely Mountain were troubled.”"
+}

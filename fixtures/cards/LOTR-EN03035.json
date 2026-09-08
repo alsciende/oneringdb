@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03035.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "35",
+  "name": "Trust Me as You Once Did",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Exert Gandalf to make a companion strength +1 for each companion with the Gandalf signet you can spot (limit +3).",
+  "flavor_text": "“Do not take me for some conjurer of cheap tricks! I am not trying to rob you. I am trying to help you.”"
+}

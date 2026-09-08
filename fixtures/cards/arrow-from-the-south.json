@@ -1,9 +1,0 @@
-{
-    "id": "arrow-from-the-south",
-    "title": "Arrow From the South",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": " <br>Each time a companion or ally loses a skirmish involving a <symbol>raider<\/symbol> Man, you may place a <symbol>raider<\/symbol> token here. <br><keyword>Archery:<\/keyword> Heal a <symbol>raider<\/symbol> archer for each <symbol>raider<\/symbol> token here. Discard this condition. "
-}

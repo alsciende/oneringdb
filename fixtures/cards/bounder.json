@@ -1,9 +1,0 @@
-{
-    "id": "bounder",
-    "title": "Bounder",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "ally",
-    "text": "<keyword>Skirmish:<\/keyword> Exert this ally to prevent a Hobbit from being overwhelmed unless that Hobbit’s strength is tripled."
-}

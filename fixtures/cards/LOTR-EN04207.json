@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04207.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "207",
+  "name": "Uruk-hai Raiding Party",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.",
+  "flavor_text": "Bands of Uruks crossed the plains of Rohan."
+}

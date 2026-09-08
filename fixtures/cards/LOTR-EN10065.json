@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10065.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "65",
+  "name": "Swarming Like Beetles",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Spot a <culture>Wraith</culture> Orc and remove a threat to wound an unwounded companion.",
+  "flavor_text": "“...in secret they have long been building floats and barges in great number in East Osgiliath.’”"
+}

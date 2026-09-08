@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01210.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "210",
+  "name": "Dark Whispers",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Spot 3 burdens to make a Nazgûl strength +1 and <keyword>damage +1</keyword>, or spot 6 burdens to make a Nazgûl strength +3 and <keyword>damage +2</keyword>.",
+  "flavor_text": "“‘The Ring… The Ring… The Ring….’”"
+}

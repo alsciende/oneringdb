@@ -1,9 +1,0 @@
-{
-    "id": "corsair-war-galley",
-    "title": "Corsair War Galley",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "When you play this possession, you may add a <symbol>raider<\/symbol> token here. While you can spot 6 <symbol>raider<\/symbol> tokens and a <symbol>raider<\/symbol> Man, the Shadow has initiative, regardless of the Free Peoples player’s hand. <br><keyword>Regroup:<\/keyword> Add <symbol>twilight1<\/symbol> for each <symbol>raider<\/symbol> token you can spot. Discard this possession."
-}

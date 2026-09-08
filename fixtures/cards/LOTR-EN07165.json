@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07165.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "165",
+  "name": "Southron Intruder",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "6",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Archer</keyword>.\nWhile you can spot 3 twilight tokens, all <culture>Raider</culture> Men are strength +1.\nWhile you can spot 6 twilight tokens, all <culture>Raider</culture> Men are strength +1.\nWhile you can spot 9 twilight tokens, all <culture>Raider</culture> Men are strength +1."
+}

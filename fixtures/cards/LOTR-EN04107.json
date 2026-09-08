@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN04107.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "107",
+  "name": "Windows in a Stone Wall",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "To play, exert an Ent. Plays on that Ent.\n<phase>Response</phase>: If an <culture>Isengard</culture> minion is killed, discard this condition to reveal the top 10 cards of an opponent’s draw deck. Discard 1 Shadow card and 1 Free Peoples card revealed. Your opponent reshuffles that deck."
+}

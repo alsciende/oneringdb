@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05086.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "86",
+  "name": "No Rest for the Weary",
+  "unique": false,
+  "type": "Event",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Spot 3 valiant Men to make one of those Men <keyword>defender +1</keyword> until the regroup phase.",
+  "flavor_text": "“‘We must draw all our forces now behind the walls.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01136.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "136",
+  "name": "Saruman’s Power",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Shadow</phase>: Exert an <culture>Isengard</culture> minion to discard all conditions.",
+  "flavor_text": "The Uruks of Saruman are bred to be the instruments of his will, destroying his enemies with foul cruelty."
+}

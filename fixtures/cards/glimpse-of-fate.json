@@ -1,9 +1,0 @@
-{
-    "id": "glimpse-of-fate",
-    "title": "Glimpse of Fate",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "To play, spot 2 Elves. <br>Each time you lose initiative, make a minion strength –4 until the regroup phase. "
-}

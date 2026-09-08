@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN01297.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "297",
+  "name": "Hobbit Party Guest",
+  "unique": false,
+  "type": "Ally",
+  "subtype": "Hobbit",
+  "home_site": "1",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "strength": "2",
+  "vitality": "2",
+  "game_text": "At the start of each of your turns, heal this ally.\n<phase>Fellowship</phase>: Exert this ally to heal another Hobbit ally whose home is site 1.",
+  "flavor_text": "“‘More promising still (to the hobbits' mind): an enormous open-air kitchen was erected....’”"
+}

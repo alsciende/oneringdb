@@ -1,9 +1,0 @@
-{
-    "id": "anduin-banks",
-    "title": "Anduin Banks",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 6,
-    "type": "site",
-    "text": "<keyword>River.<\/keyword> For each companion in the fellowship over 4, add 2 to the minion archery total."
-}

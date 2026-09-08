@@ -1,9 +1,0 @@
-{
-    "id": "orc-guard",
-    "title": "Orc Guard",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 1,
-    "type": "minion",
-    "text": "<keyword>Maneuver:<\/keyword> Exert this minion and discard your <symbol>sauron<\/symbol> condition to discard a Free Peoples condition. "
-}

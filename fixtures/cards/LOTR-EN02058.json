@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02058.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "58",
+  "name": "Foul Tentacle",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Creature",
+  "culture": "Moria",
+  "twilight_cost": "2",
+  "strength": "4",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "<keyword>Tentacle</keyword>. When you play this minion, you may play a tentacle from your draw deck. This minion may not bear possessions and is discarded if not at a marsh.",
+  "flavor_text": "“Its fingered end had hold of Frodo's foot, and was dragging him into the water.”"
+}

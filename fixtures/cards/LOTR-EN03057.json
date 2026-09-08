@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03057.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "57",
+  "name": "Isengard Retainer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "4",
+  "strength": "8",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<phase>Regroup</phase>: Exert this minion to make the Free Peoples player wound a companion.",
+  "flavor_text": "“‘...the Eagles of the mountain went far and wide, and they saw many things: the gathering of wolves and the mustering of Orcs....’”"
+}

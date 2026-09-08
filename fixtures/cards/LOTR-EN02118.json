@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02118.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "118",
+  "name": "Great Chasm",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "4",
+  "shadow_number": "4",
+  "game_text": "<keyword>Underground</keyword>. The twilight cost of the first <culture>Moria</culture> archer played each Shadow phase is –2."
+}

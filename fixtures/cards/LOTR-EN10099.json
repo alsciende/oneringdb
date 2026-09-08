@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10099.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "99",
+  "name": "Shagrat",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Sauron",
+  "subtitle": "Captain of Cirith Ungol",
+  "twilight_cost": "5",
+  "strength": "13",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<keyword>Damage +1</keyword>.\nEach time Shagrat loses a skirmish, you may exert a character.",
+  "flavor_text": "“‘If you think I’m so damaged that it’s safe to flout me, you’re mistaken.’”"
+}

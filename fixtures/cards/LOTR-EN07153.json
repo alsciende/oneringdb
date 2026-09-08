@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07153.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "153",
+  "name": "Mûmakil of the Harad",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Maneuver",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "Spot a <culture>Raider</culture> minion to add <twilight>2</twilight> for each threat.",
+  "flavor_text": "“...dragging through the lanes amid the fires….”"
+}

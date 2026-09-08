@@ -1,9 +1,0 @@
-{
-    "id": "dinendal-silent-scout",
-    "title": "Dínendal",
-    "subtitle": "Silent Scout",
-    "culture": "elven",
-    "twilight_cost": 2,
-    "type": "ally",
-    "text": "<keyword>Archer.<\/keyword>  <br><keyword>Regroup:<\/keyword> Exert Dínendal to remove <symbol>twilight2<\/symbol>. "
-}

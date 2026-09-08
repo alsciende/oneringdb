@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08108.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "108",
+  "name": "Troll of Gorgoroth",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Troll",
+  "culture": "Sauron",
+  "subtitle": "Abomination of Sauron",
+  "twilight_cost": "10",
+  "strength": "14",
+  "vitality": "4",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>. <keyword>Fierce</keyword>. To play, spot a <culture>Sauron</culture> Orc.\nThe twilight cost of Troll of Gorgoroth is -2 for each <culture>Sauron</culture> engine you spot.\n<phase>Regroup</phase>: Exert Troll of Gorgoroth to stack your besieger on a site you control.",
+  "flavor_text": "“...they could endure the Sun, so long as the will of Sauron held sway over them.”"
+}

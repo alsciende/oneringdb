@@ -1,9 +1,0 @@
-{
-    "id": "the-white-arrows-of-lorien",
-    "title": "The White Arrows of Lórien",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Tale.<\/keyword> Bearer must be an Elf companion. <br><keyword>Archery:<\/keyword> If bearer is an archer, exert bearer to make an opponent discard 2 cards at random from hand."
-}

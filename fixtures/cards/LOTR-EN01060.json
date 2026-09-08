@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01060.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "60",
+  "name": "Silinde",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Elf",
+  "home_site": "3",
+  "culture": "Elven",
+  "subtitle": "Elf of Mirkwood",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "2",
+  "game_text": "While you can spot your site 3, Silinde has the game text of that site.",
+  "flavor_text": "Among the representatives of the Elves of Northern Mirkwood was Silinde, friend of the House of Thranduil."
+}

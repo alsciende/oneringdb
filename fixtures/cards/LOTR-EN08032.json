@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08032.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "32",
+  "name": "Catapult",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 2 <culture>Gondor</culture> knights.\n<phase>Maneuver</phase>: Discard 2 cards from hand to reveal the top card of an opponent’s draw deck. Choose an opponent who must discard a Shadow card that has a twilight cost that is the same as the twilight cost of the revealed card."
+}

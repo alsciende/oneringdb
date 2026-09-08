@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08084.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "84",
+  "name": "The Witch-king",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Black Captain",
+  "twilight_cost": "8",
+  "strength": "14",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "<keyword>Enduring</keyword>.\nEach Man skirmishing The Witch-king loses all strength bonuses from weapons.",
+  "flavor_text": "“‘Do not stop the attack until the City is taken.’”"
+}

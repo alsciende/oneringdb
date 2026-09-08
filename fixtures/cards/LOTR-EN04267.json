@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04267.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "267",
+  "name": "Éomer",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Third Marshal of Riddermark",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "While you can spot a <culture>Rohan</culture> Man, Eomer’s twilight cost is −1.\nÉomer is strength +2 for each wound on each minion he is skirmishing.",
+  "flavor_text": "“Then one rode forward, a tall man, taller than the rest; from his helm as a crest a white horsetail flowed.”"
+}

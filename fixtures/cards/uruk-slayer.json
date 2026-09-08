@@ -1,9 +1,0 @@
-{
-    "id": "uruk-slayer",
-    "title": "Uruk Slayer",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Damage +1<\/keyword>.  <br><keyword>Skirmish:<\/keyword> Remove <symbol>twilight1<\/symbol> to make this minion strength +1 (limit +3)."
-}

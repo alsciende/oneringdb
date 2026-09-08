@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07078.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "78",
+  "name": "Where Shall We Go",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Gollum",
+  "twilight_cost": "0",
+  "game_text": "If you have initiative, discard 2 cards from hand to wound a minion Sméagol is skirmishing twice.",
+  "flavor_text": "“‘If you scare him off, we are lost.’”"
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08030.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "30",
+  "name": "Web",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "<phase>Regroup</phase>: If there are fewer than 3 cards stacked here, spot your Orc or <culture>Gollum</culture> minion to stack that minion here.\n<phase>Shadow</phase>: Play a <culture>Gollum</culture> minion stacked here as if played from hand.",
+  "flavor_text": "“‘Caught in a web. Soon he’ll be eaten!’”"
+}

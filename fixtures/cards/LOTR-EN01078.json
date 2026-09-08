@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01078.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "78",
+  "name": "Mysterious Wizard",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Skirmish</phase>: Make Gandalf strength +2 (or +4 if there are 4 or fewer burdens on the Ring-bearer).",
+  "flavor_text": "“‘...there are older and fouler things than Orcs in the deep places of the world.’”"
+}

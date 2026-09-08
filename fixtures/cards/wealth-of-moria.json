@@ -1,9 +1,0 @@
-{
-    "id": "wealth-of-moria",
-    "title": "Wealth of Moria",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 2,
-    "type": "event",
-    "text": "<keyword>Fellowship:<\/keyword> Spot a Dwarf to reveal the top 3 cards of your draw deck. Take all Free Peoples cards revealed into hand and discard the rest."
-}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10055.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "55",
+  "name": "Cirith Ungol Soldier",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<phase>Shadow</phase>: Spot a possession to make this minion <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "“...not even the black shadows, lying deep where the red glow could not reach, would shield him long from the night-eyed orcs.”"
+}

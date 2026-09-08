@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01072.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "72",
+  "name": "Gandalf",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Wizard",
+  "culture": "Gandalf",
+  "subtitle": "Friend of the Shirefolk",
+  "twilight_cost": "4",
+  "strength": "6",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "Gandalf is strength +1 for each of these races you can spot in the fellowship: Hobbit, Dwarf, Elf, and Man.",
+  "flavor_text": "“‘Among the Wise I am the only one that goes in for hobbit-lore: an obscure branch of knowledge, but full of surprises.’”"
+}

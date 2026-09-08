@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07103.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "103",
+  "name": "Hearts Raised",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "game_text": "At the start of your regroup phase, you may spot a <culture>Gondor</culture> Man and discard a card from hand to remove a threat.",
+  "flavor_text": "“…lifted for a while by the return of Faramir….”"
+}

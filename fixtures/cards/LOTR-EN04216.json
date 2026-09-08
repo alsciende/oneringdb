@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04216.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "216",
+  "name": "Arrow From the South",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "game_text": "Plays to your support area.\nEach time a companion or ally loses a skirmish involving a <culture>Raider</culture> Man, you may place a <culture>Raider</culture> token here.\n<phase>Archery</phase>: Heal a <culture>Raider</culture> archer for each <culture>Raider</culture> token here. Discard this condition.",
+  "flavor_text": "Haradrim is the Gondorian name for Southrons."
+}

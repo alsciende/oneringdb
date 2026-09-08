@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01243.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "243",
+  "name": "Despair",
+  "unique": false,
+  "type": "Event",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "game_text": "<phase>Maneuver</phase>: If the total number of burdens and companions in the dead pile is at least 12, spot a <culture>Sauron</culture> Orc to corrupt the Ring-bearer.",
+  "flavor_text": "“The Nameless Enemy has arisen again. Smoke rises once more from Orodruin that we call Mount Doom.”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04162.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "162",
+  "name": "New Power Rising",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "<phase>Regroup</phase>: Spot Saruman or an <culture>Isengard</culture> Man, reveal your hand, and discard all Free Peoples cards revealed to take an <culture>Isengard</culture> card into hand from your discard pile.",
+  "flavor_text": "“‘For those who aid the Great Eye there will be rich reward.’”"
+}

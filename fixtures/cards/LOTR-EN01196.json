@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01196.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "196",
+  "name": "They Are Coming",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Moria",
+  "twilight_cost": "3",
+  "game_text": "Plays to your support area.\n<phase>Shadow</phase>: Discard 3 cards from hand to play a <culture>Moria</culture> Orc from your discard pile.",
+  "flavor_text": "“‘The last thing written is in a trailing scrawl of elf-letters: they are coming.’”"
+}

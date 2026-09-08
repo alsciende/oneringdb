@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08120.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "120",
+  "name": "Osgiliath Channel",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "7",
+  "shadow_number": "6",
+  "game_text": "<keyword>River</keyword>. <phase>Regroup</phase>: Spot your minion and 6 companions to make the Free Peoples player choose to move again this turn."
+}

@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN05036.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "36",
+  "name": "Knight of Gondor",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "<keyword>Knight</keyword>.\n<phase>Fellowship</phase>: Discard a <culture>Gondor</culture> condition to heal this companion.",
+  "flavor_text": "The brave men of Gondor's army were well-armed and armored."
+}

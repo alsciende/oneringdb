@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN06109.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "109",
+  "name": "Held",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "game_text": "Bearer must be Frodo.\nEach time Frodo is about to be killed by a wound, add a burden instead.\nWhen the fellowship moves to site 9, Frodo is corrupted.\n<phase>Regroup</phase>: If you can spot no minions, discard this condition."
+}

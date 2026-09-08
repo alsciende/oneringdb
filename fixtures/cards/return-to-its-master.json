@@ -1,9 +1,0 @@
-{
-    "id": "return-to-its-master",
-    "title": "Return to Its Master",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Response:<\/keyword> If the Ring-bearer wears The One Ring at the end of a skirmish phase, cancel all remaining assignments and assign a Nazgûl to skirmish the Ring-bearer; The One Ring’s game text does not apply during this skirmish."
-}

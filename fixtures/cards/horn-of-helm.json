@@ -1,9 +1,0 @@
-{
-    "id": "horn-of-helm",
-    "title": "Horn of Helm",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 2,
-    "type": "possession",
-    "text": "Plays to your support area.<br><keyword>Maneuver:<\/keyword> Exert a Dwarf companion to make each minion at a battleground lose all damage bonuses until the regroup phase."
-}

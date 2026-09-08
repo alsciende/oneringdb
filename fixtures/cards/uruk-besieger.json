@@ -1,9 +1,0 @@
-{
-    "id": "uruk-besieger",
-    "title": "Uruk Besieger",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Damage +1.<\/keyword><br><keyword>Regroup:<\/keyword> Stack this minion on a site you control.<br><keyword>Shadow:<\/keyword> If stacked on a site you control, play this minion. Its twilight cost is -1. "
-}

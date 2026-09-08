@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10121.png",
+  "set_number": "10",
+  "rarity": "P",
+  "card_number": "121",
+  "name": "Frodo",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Resolute Hobbit",
+  "twilight_cost": "0",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ring-bearer (resistance 12)</keyword>.",
+  "flavor_text": "“‘...if it’s the only way, we must take it.’”"
+}

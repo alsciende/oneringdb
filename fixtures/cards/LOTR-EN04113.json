@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04113.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "113",
+  "name": "Curse Them",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Exert a Ring-bound Man to cancel a skirmish involving a roaming minion.",
+  "flavor_text": "“‘It is close on ten leagues hence to the east-shore of Anduin... and we seldom come so far afield.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01333.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "333",
+  "name": "Midgewater Moors",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "1",
+  "game_text": "<keyword>Plains</keyword>. Each time a minion is played, the Free Peoples player discards a card from hand."
+}

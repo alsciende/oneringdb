@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02069.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "69",
+  "name": "Old Differences",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make an Elf or Dwarf skirmishing a <culture>Moria</culture> Orc strength −1 (or −3 if you spot an Elf and a Dwarf).",
+  "flavor_text": "“‘I’ll be dead before I see the Ring in the hands of an Elf!’”"
+}

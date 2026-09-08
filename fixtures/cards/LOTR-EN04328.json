@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN04328.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "328",
+  "name": "The Riddermark",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "1",
+  "game_text": "<keyword>Plains</keyword>. <phase>Fellowship</phase>: Exert 2 unbound companions to play Aragorn from your draw deck."
+}

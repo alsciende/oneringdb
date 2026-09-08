@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07119.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "119",
+  "name": "Seventh Level",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gondor",
+  "twilight_cost": "5",
+  "strength_modifier": "-2",
+  "vitality_modifier": "-2",
+  "game_text": "<keyword>Fortification</keyword>.\n<phase>Skirmish</phase>: Exert 3 <culture>Gondor</culture> Men to transfer this condition from your support area to a minion skirmishing a <culture>Gondor</culture> Man.",
+  "flavor_text": "“Up it rose, even to the level of the topmost circle, and there was crowned by a battlement….”"
+}

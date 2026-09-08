@@ -1,9 +1,0 @@
-{
-    "id": "thundering-host",
-    "title": "Thundering Host",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "Plays to your support area.<br><keyword>Skirmish:<\/keyword> Discard this condition to make a mounted <symbol>rohan<\/symbol> Man strength +3 (and heal that Man if at a plains)."
-}

@@ -1,9 +1,0 @@
-{
-    "id": "hobbit-stealth",
-    "title": "Hobbit Stealth",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Stealth.<\/keyword>  <br><keyword>Skirmish:<\/keyword> At sites 1 to 5, cancel a skirmish involving a Hobbit. At any other site, make a Hobbit strength +2."
-}

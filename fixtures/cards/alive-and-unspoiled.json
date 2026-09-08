@@ -1,9 +1,0 @@
-{
-    "id": "alive-and-unspoiled",
-    "title": "Alive and Unspoiled",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "condition",
-    "text": "To play, exert an Uruk-hai. <br><keyword>Shadow:<\/keyword> Remove <symbol>twilight3<\/symbol> and spot X burdens to make the Free Peoples player reveal X cards at random from hand. You may discard 1 revealed card."
-}

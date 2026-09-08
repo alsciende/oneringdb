@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07038.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "38",
+  "name": "Gandalf’s Staff",
+  "unique": true,
+  "type": "Artifact",
+  "subtype": "Staff",
+  "culture": "Gandalf",
+  "subtitle": "Focus of Power",
+  "twilight_cost": "2",
+  "vitality_modifier": "+1",
+  "game_text": "Bearer must be Gandalf.\nWhile you can spot 4 twilight tokens, Gandalf is strength +1.",
+  "flavor_text": "“‘But for Gandalf Stormcrow you would have seen a host of foes coming out of Anórien....’”"
+}

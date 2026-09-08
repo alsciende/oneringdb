@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01123.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "123",
+  "name": "Caradhras Has Not Forgiven Us",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "game_text": "<keyword>Spell</keyword>. <keyword>Weather</keyword>.\n<phase>Maneuver</phase>: Exert an <culture>Isengard</culture> minion and spot 5 companions to discard an exhausted companion (except the Ring-bearer).",
+  "flavor_text": "“‘It was no ordinary storm. It is the ill will of Caradhras.’”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06106.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "106",
+  "name": "Troll of Udûn",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Troll",
+  "culture": "Sauron",
+  "twilight_cost": "10",
+  "strength": "14",
+  "vitality": "5",
+  "site_number": "6",
+  "game_text": "<keyword>Fierce</keyword>.\nWhile you can spot a Troll, this minion’s twilight cost is −4.\n<phase>Skirmish</phase>: Discard a <culture>Sauron</culture> card from hand to make this minion strength +1.",
+  "flavor_text": "“…Trolls are only counterfeits, made by the Enemy in the Great Darkness, in mockery of Ents….”"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN05054.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "54",
+  "name": "Isengard Scimitar",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be an <culture>Isengard</culture> Orc.\nWhen you play this weapon, you may add <twilight>1</twilight> for each site you control.",
+  "flavor_text": "Orcs from Isengard favor a short, curved sword when mounted."
+}

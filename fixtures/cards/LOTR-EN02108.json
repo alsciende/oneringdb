@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN02108.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "108",
+  "name": "O Elbereth! Gilthoniel!",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Shire",
+  "twilight_cost": "1",
+  "strength_modifier": "+1",
+  "game_text": "<keyword>Tale</keyword>. Bearer must be the Ring-bearer.\n<phase>Skirmish</phase>: Discard this condition to take off The One Ring or to cancel a skirmish involving the Ring-bearer and a Nazgûl.",
+  "flavor_text": "“With a last effort Frodo... slipped the Ring from his finger and closed his right hand tight upon it.”"
+}

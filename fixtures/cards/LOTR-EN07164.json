@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07164.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "164",
+  "name": "Southron Conqueror",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Archer</keyword>.\nWhile you can spot 6 twilight tokens, other <culture>Raider</culture> Men are <keyword>damage +1</keyword>.\nWhile you can spot 9 twilight tokens, other <culture>Raider</culture> Men are <keyword>damage +1</keyword>.",
+  "flavor_text": "“...company upon company of the enemy pressed to the walls.”"
+}

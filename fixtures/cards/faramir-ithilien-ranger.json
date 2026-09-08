@@ -1,9 +1,0 @@
-{
-    "id": "faramir-ithilien-ranger",
-    "title": "Faramir",
-    "subtitle": "Ithilien Ranger",
-    "culture": "gondor",
-    "twilight_cost": 3,
-    "type": "companion",
-    "text": "<keyword>Ring-bound.<\/keyword> <keyword>Ranger.<\/keyword> If Faramir is in your starting fellowship, his twilight cost is –1. <keyword>Fellowship:<\/keyword> Play a ranger to heal a Ring-bound companion."
-}

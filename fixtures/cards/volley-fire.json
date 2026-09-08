@@ -1,9 +1,0 @@
-{
-    "id": "volley-fire",
-    "title": "Volley Fire",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 3,
-    "type": "event",
-    "text": "<keyword>Archery:<\/keyword> Discard 2 <symbol>isengard<\/symbol> archers to exhaust an unbound companion. "
-}

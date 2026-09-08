@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03007.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "7",
+  "name": "Arwen",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Elven Rider",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Frodo",
+  "game_text": "<keyword>Ranger</keyword>.\n<phase>Response</phase>: If the Ring-bearer is about to take a wound, discard 3 cards from hand to prevent that wound.",
+  "flavor_text": "“‘If I can cross the river, the power of my people will protect him.’”"
+}

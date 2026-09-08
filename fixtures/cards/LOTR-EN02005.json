@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02005.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "5",
+  "name": "Flurry of Blows",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make a Dwarf strength +2 (or +4 and <keyword>damage +1</keyword> if bearing 2 hand weapons).",
+  "flavor_text": "With a second axe, a warrior of Erebor can parry on either flank and counter quickly."
+}

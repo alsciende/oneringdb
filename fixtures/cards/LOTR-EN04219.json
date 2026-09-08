@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04219.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "219",
+  "name": "Desert Lord",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "6",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Archer</keyword>.\n<phase>Archery</phase>: Exert Desert Lord to exert a companion (except the Ring-bearer); Desert Lord does not add to the minion archery total.",
+  "flavor_text": "Southron legends tell of powerful warrior leaders and the kingdoms they have conquered."
+}

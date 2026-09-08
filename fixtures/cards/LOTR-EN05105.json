@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05105.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "105",
+  "name": "Orc Fighter",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Regroup</phase>: Spot a <culture>Sauron</culture> condition and exert this minion to take control of a site.",
+  "flavor_text": "The Orcs of Mordor extended the will of Sauron to control the weak Men of the East."
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01189.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "189",
+  "name": "Lost to the Goblins",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "game_text": "<phase>Response</phase>: If the Ring-bearer exerts or takes a wound, discard a card from the top of your draw deck for each <culture>Moria</culture> minion you spot. For each Shadow card discarded in this way, add a burden (limit 3 burdens).",
+  "flavor_text": "Dwarven graves stood open in plundered disarray."
+}

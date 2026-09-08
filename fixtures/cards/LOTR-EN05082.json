@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05082.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "82",
+  "name": "Gamling",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Warrior of Rohan",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<keyword>Valiant</keyword>. To play, spot a <culture>Rohan</culture> Man.\n<phase>Skirmish</phase>: Play a <culture>Rohan</culture> possession on Gamling to make him strength +2 and <keyword>damage +1</keyword>.",
+  "flavor_text": "He was one of Théoden’s most trusted lieutenants."
+}

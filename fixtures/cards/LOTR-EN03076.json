@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03076.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "76",
+  "name": "Dangerous Gamble",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "2",
+  "game_text": "<phase>Shadow</phase>: Spot a <culture>Moria</culture> minion to reveal a card at random from the Free Peoples player’s hand. Add <twilight>X</twilight>, where X is the twilight cost of the card revealed.",
+  "flavor_text": "“Almost they began to hope that they would escape.”"
+}

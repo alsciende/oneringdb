@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01042.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "42",
+  "name": "Elven Cloak",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Cloak",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "To play, spot an Elf. Bearer must be a companion.\nThe minion archery total is -1.",
+  "flavor_text": "“...never before have we clad strangers in the garb of our own people.’”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07255.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "255",
+  "name": "Théoden",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Rekindled King",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "signet": "Gandalf",
+  "game_text": "While you can spot a <culture>Rohan</culture> Man, Théoden's twilight cost is −1.\n<phase>Fellowship</phase>: If the twilight pool has fewer than 2 twilight tokens, play a <culture>Rohan</culture> possession on Théoden and add <twilight>2</twilight> to heal another <culture>Rohan</culture> companion."
+}

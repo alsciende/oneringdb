@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05113.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "113",
+  "name": "No Use That Way",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Add 3 burdens to wound a minion skirmishing a companion who has the Frodo signet twice.",
+  "flavor_text": "“‘Don’t take the Precious to Him!... Keep it, nice master, and be kind to Sméagol.’”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "spied-from-above",
-    "title": "Spied From Above",
-    "subtitle": null,
-    "culture": "wraith",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Regroup:<\/keyword> Exert a Nazgûl twice to play a <symbol>wraith<\/symbol> or <symbol>sauron<\/symbol> minion. That minion’s twilight cost is –8 and it comes into play exhausted."
-}

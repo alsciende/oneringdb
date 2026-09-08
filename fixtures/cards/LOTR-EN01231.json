@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01231.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "231",
+  "name": "Úlairë Enquëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Lieutenant of Morgul",
+  "twilight_cost": "6",
+  "strength": "11",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "<keyword>Fierce</keyword>.\n<phase>Maneuver</phase>: Spot 6 companions (or 5 burdens) and exert Úlairë Enquëa to wound a companion (except the Ring-bearer).",
+  "flavor_text": "The Nine Riders were embodiments of Sauron’s will, searching all of Middle-earth for his prize."
+}

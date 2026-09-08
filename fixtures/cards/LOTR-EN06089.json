@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06089.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "89",
+  "name": "Winged and Ominous",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\n<phase>Regroup</phase>: Exert a Nazgûl to place a <culture>Wraith</culture> token on this card.\n<phase>Shadow</phase>: Remove 3 <culture>Wraith</culture> tokens from here to add <twilight>2</twilight>.",
+  "flavor_text": "“It scudded across the moon... outrunning the wind in its fell speed.”"
+}

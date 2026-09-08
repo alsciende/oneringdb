@@ -1,9 +1,0 @@
-{
-    "id": "orc-bane",
-    "title": "Orc-bane",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Spot Sting or Glamdring and exert its bearer X times to wound X Orcs or X Uruk-hai. "
-}

@@ -1,9 +1,0 @@
-{
-    "id": "goblin-bowman",
-    "title": "Goblin Bowman",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Archer.<\/keyword> "
-}

@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN04078.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "78",
+  "name": "Lórien Swordsman",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "Each minion skirmishing this companion is strength –2 for each wound on that minion.",
+  "flavor_text": "Long, curved Elven steel cut down Uruks already weakened by Elven arrows."
+}

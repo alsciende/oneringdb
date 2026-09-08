@@ -1,9 +1,0 @@
-{
-    "id": "the-balrog-s-sword",
-    "title": "The Balrog's Sword",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 1,
-    "type": "artifact",
-    "text": "Bearer must be The Balrog. <br>It is <keyword>damage +1<\/keyword>  <br>This weapon may be borne in addition to 1 other hand weapon. "
-}

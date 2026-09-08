@@ -1,9 +1,0 @@
-{
-    "id": "mirkwood-bowman",
-    "title": "Mirkwood Bowman",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "Exert 2 <symbol>elven<\/symbol> companions to discard the top 3 cards of your draw deck. Make the fellowship archery total +1 for each <symbol>elven<\/symbol> card discarded."
-}

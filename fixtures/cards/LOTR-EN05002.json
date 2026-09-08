@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05002.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "2",
+  "name": "Dunlending Renegade",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "2",
+  "strength": "10",
+  "vitality": "1",
+  "site_number": "3",
+  "game_text": "When you play this minion, the Free Peoples player may discard 2 cards from hand to discard him.",
+  "flavor_text": "The strength of the hillmen was driven by passion and anger."
+}

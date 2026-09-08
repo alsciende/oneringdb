@@ -1,0 +1,12 @@
+{
+  "file": "LOTR-EN07063.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "63",
+  "name": "Let Her Deal With Them",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "To play, spot Gollum or Sméagol. Bearer must be a minion. Limit 1 per bearer.\nBearer is <keyword>damage +1</keyword>.\nIf you have initiative during the Shadow phase, you may play this condition from your discard pile."
+}

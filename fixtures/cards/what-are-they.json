@@ -1,9 +1,0 @@
-{
-    "id": "what-are-they",
-    "title": "What Are They?",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Spot a ranger to discard a roaming minion."
-}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07158.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "158",
+  "name": "Rout",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a <culture>Raider</culture> Man.\nEach time the fellowship moves, the Free Peoples player must exert 2 companions, if you have initiative.",
+  "flavor_text": "“Already men were breaking away, flying wild and witless here and there….”"
+}

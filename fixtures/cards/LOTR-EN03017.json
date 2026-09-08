@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03017.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "17",
+  "name": "Galadriel",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Elf",
+  "home_site": "6",
+  "culture": "Elven",
+  "subtitle": "Lady of the Golden Wood",
+  "twilight_cost": "3",
+  "strength": "3",
+  "vitality": "3",
+  "game_text": "At the start of each of your turns, you may heal an Elf.\n<phase>Fellowship</phase>: Exert Galadriel to play the fellowship’s next site if it is a forest (replacing opponent’s site if necessary).",
+  "flavor_text": "“‘There is in her and in this land no evil, unless a man bring it hither himself. Then let him beware!’”"
+}

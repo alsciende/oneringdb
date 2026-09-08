@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07155.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "155",
+  "name": "Raider Bow",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Ranged Weapon",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "game_text": "Bearer must be a <culture>Raider</culture> Man.\nBearer is an <keyword>archer</keyword> and <keyword>ambush 5</keyword>.",
+  "flavor_text": "“Neither Hirluin the fair would return to Pinnath Gelin, nor Grimbold to Grimslade….”"
+}

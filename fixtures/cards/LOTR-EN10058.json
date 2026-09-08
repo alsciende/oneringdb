@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10058.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "58",
+  "name": "Dark Swooping Shadows",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "Heal an enduring <culture>Wraith</culture> minion to add a burden or 2 threats.",
+  "flavor_text": "“‘...how can he win to the Gate, if these foul hell-hawks have other weapons than fear?’”"
+}

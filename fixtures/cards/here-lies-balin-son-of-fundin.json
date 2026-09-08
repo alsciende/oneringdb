@@ -1,9 +1,0 @@
-{
-    "id": "here-lies-balin-son-of-fundin",
-    "title": "Here Lies Balin, Son of Fundin",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Maneuver:<\/keyword> Exert a Dwarf to wound 2 Orcs or to wound 1 Orc twice."
-}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06006.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "6",
+  "name": "Hill Clan",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "8",
+  "strength": "17",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "Each time this minion wins a skirmish, you may play a <culture>Dunland</culture> Man from hand. That Man is <keyword>fierce</keyword> and <keyword>damage +2</keyword> until the regroup phase.",
+  "flavor_text": "“We will take their king.”"
+}

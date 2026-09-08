@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08041.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "41",
+  "name": "Oathbreaker",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Wraith",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Enduring</keyword>. To play, add a threat.\n<phase>Skirmish</phase>: Discard 3 cards from hand to discard a possession borne by a minion skirmishing this companion.",
+  "flavor_text": "“at the Stone of Erech they shall stand again / and hear there a horn in the hills ringing.”"
+}

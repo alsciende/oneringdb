@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04310.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "310",
+  "name": "Merry",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Learned Guide",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Frodo",
+  "game_text": "<phase>Skirmish</phase>: Exert the Ring-bearer to discard Merry. Any Shadow player may remove <twilight>2</twilight> to prevent this.",
+  "flavor_text": "“‘I don’t suppose you have much notion where we are; but I spent my time at Rivendell rather better.’”"
+}

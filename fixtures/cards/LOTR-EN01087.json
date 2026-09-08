@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01087.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "87",
+  "name": "A Wizard Is Never Late",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<phase>Fellowship</phase>: Play a <culture>Gandalf</culture> character from your draw deck.",
+  "flavor_text": "“‘A wizard is never late, Frodo Baggins, nor is he early. He arrives precisely when he means to.’”"
+}

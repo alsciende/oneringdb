@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05016.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "16",
+  "name": "Down From the Hills",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "5",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Maneuver</phase>: Exert Gandalf 3 times to make an unbound companion with the Gandalf signet strength +5, <keyword>defender +1</keyword>, and <keyword>damage +2</keyword>, and unable to take wounds until the regroup phase.",
+  "flavor_text": "“Down leaped Shadowfax, like a deer….”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "desert-lancers",
-    "title": "Desert Lancers",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword> To play, spot a <symbol>raider<\/symbol> Man. <br><keyword>Regroup:<\/keyword> Exert Desert Lancers twice to take control of a site. "
-}

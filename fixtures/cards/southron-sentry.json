@@ -1,9 +1,0 @@
-{
-    "id": "southron-sentry",
-    "title": "Southron Sentry",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword>  <br><keyword>Maneuver:<\/keyword> Exert this minion to add <symbol>twilight2<\/symbol> for each site you control. "
-}

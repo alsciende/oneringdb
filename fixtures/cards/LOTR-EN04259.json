@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04259.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "259",
+  "name": "Vision From Afar",
+  "unique": false,
+  "type": "Event",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "game_text": "<phase>Assignment</phase>: Assign an Easterling to the Ring-bearer. The Free Peoples player may add a burden to prevent this.",
+  "flavor_text": "“Then he knew that the hope that had for one wild moment stirred in his heart was vain.”"
+}

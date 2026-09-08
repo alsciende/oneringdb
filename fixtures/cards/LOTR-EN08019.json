@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN08019.png",
+  "set_number": "8",
+  "rarity": "U",
+  "card_number": "19",
+  "name": "On Your Doorstep",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Fellowship",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "Spot Gandalf and exert a companion to place a card of that companion’s culture from your discard pile on top of your draw deck.",
+  "flavor_text": "“‘Lord Denethor is a Steward only.’”"
+}

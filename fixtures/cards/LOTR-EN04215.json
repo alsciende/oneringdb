@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04215.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "215",
+  "name": "Wounded",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "To play, exert an <culture>Isengard</culture> Man. Plays on a Free Peoples Man. When you play this condition, exert bearer.\nWounds may not be removed from bearer.",
+  "flavor_text": "‘He’s alive!’"
+}

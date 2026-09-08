@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07215.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "215",
+  "name": "Úlairë Nelya",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Assailing Minion",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "2",
+  "game_text": "<keyword>Fierce</keyword>.\n<phase>Skirmish</phase>: Discard a <culture>Wraith</culture> minion to make Úlairë Nelya strength +2.",
+  "flavor_text": "“He shuddered, and hope seemed to wither.”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01293.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "293",
+  "name": "Halfling Deftness",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Exert a Hobbit to make him strength +3.",
+  "flavor_text": "“...though they are inclined to be fat and do not hurry unnecessarily, they are nonetheless nimble and deft in their movements.”"
+}

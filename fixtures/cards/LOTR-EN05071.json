@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05071.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "71",
+  "name": "Company of Haradrim",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "6",
+  "strength": "13",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\n<phase>Regroup</phase>: Remove <twilight>9</twilight> and spot another Southron to make the move limit −1 for this turn (to a minimum of 1).",
+  "flavor_text": "The quick movements of Southron soldiers cut off all paths of retreat."
+}

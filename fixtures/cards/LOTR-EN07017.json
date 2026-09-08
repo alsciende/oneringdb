@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07017.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "17",
+  "name": "Asfaloth",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Elven",
+  "subtitle": "Elven Steed",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be an Elf.\n<phase>Skirmish</phase>: If bearer is Arwen, exert her to make each minion skirmishing her strength −2."
+}

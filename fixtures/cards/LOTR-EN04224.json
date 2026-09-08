@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04224.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "224",
+  "name": "Easterling Axeman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>.\nWhile you can spot 2 burdens, this minion is strength +3 and <keyword>fierce</keyword>.",
+  "flavor_text": "Poleaxes wielded by tall Easterling warriors cut through armor and bone."
+}

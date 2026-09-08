@@ -1,9 +1,0 @@
-{
-    "id": "leowyn",
-    "title": "Léowyn",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "ally",
-    "text": "<keyword>Villager.<\/keyword> <br><keyword>Fellowship:<\/keyword> If you have initiative, discard 2 cards from hand to heal a <symbol>rohan<\/symbol> Man."
-}

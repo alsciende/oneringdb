@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10038.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "38",
+  "name": "Corsair Brute",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "<keyword>Corsair</keyword>.\nAt the start of each skirmish involving this minion, you may remove a <culture>Raider</culture> token to wound a companion he is skirmishing.",
+  "flavor_text": "“...the region of South Gondor became a debatable land between the Corsairs and the Kings.”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07301.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "301",
+  "name": "Orc Marauder",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "4",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "While you can spot 3 other <culture>Sauron</culture> Orcs, this minion is strength +5.",
+  "flavor_text": "“…their bodies were cast aside… and others took their place.”"
+}

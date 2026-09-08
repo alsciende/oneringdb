@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07200.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "200",
+  "name": "Morgul Spawn",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "While you can spot a Nazgûl, the Free Peoples player must exert a companion to assign this minion to a skirmish.",
+  "flavor_text": "“‘...the fear of him has passed before him over the River.’”"
+}

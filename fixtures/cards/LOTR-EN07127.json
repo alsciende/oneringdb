@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN07127.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "127",
+  "name": "Vorondil",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "While no opponent controls a site, Vorondil is strength +2.\n<phase>Regroup</phase>: Exert 3 <culture>Gondor</culture> Men or 2 knights to liberate a site.",
+  "flavor_text": "“…greater and stronger than Isengard, and far more beautiful.”"
+}

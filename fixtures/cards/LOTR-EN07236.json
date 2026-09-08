@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07236.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "236",
+  "name": "Herugrim",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Rohan",
+  "subtitle": "Sword of the Mark",
+  "twilight_cost": "3",
+  "strength_modifier": "+2",
+  "vitality_modifier": "+1",
+  "game_text": "Bearer must be Théoden.\nHe is <keyword>damage +1</keyword>.\n<phase>Response</phase>: If Théoden is about to take a wound and you cannot spot 3 threats, add 2 threats to prevent that wound.",
+  "flavor_text": "“Out swept his sword, and he spurred to the standard, hewed staff and bearer....”"
+}

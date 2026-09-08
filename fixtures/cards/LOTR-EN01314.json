@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01314.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "314",
+  "name": "Stone Trolls",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Shire",
+  "twilight_cost": "2",
+  "game_text": "<keyword>Tale</keyword>. To play, spot Bilbo. Plays on any character. Limit 1 per character.\nEach time bearer skirmishes a Troll or Uruk-hai, bearer is strength +3.",
+  "flavor_text": "“‘For a couple o'pins,’ says Troll, and grins, / ‘I'll eat thee too, and gnaw thy shins. / A bit o' fresh meat will go down sweet!’”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07284.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "284",
+  "name": "Mordor Assassin",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "<phase>Response</phase>: If a companion is overwhelmed during a skirmish involving a <culture>Sauron</culture> Orc and threat wounds are about to be placed, remove a threat to assign this minion to the Ring-bearer (even if the Ring-bearer is already assigned).",
+  "flavor_text": "“Drums rolled and fires leaped up.”"
+}

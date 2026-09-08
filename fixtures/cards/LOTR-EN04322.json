@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04322.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "322",
+  "name": "Warmed Up a Bit",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<keyword>Stealth</keyword>.\n<phase>Skirmish</phase>: Discard an unbound Hobbit.",
+  "flavor_text": "“‘...we shall be able to stand again, and walk.’”"
+}

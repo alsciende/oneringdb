@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04263.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "263",
+  "name": "Brego",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a <culture>Rohan</culture> Man. Bearer must be a Man, Elf, or Wizard. When you play Brego, you may heal bearer.\nAt the start of each skirmish involving bearer, each minion skirmishing bearer must exert.",
+  "flavor_text": "Brego was named for the second King of Rohan."
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN10067.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "67",
+  "name": "Úlairë Cantëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Thrall of The One",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<keyword>Enduring</keyword>. <keyword>Fierce</keyword>.\nShadow cards cannot exert Úlairë Cantëa during a skirmish phase.\n<phase>Skirmish</phase>: Heal Úlairë Cantëa to discard a possession borne by a character he is skirmishing.",
+  "flavor_text": "“...the shadows of death fell dark upon the earth.”"
+}

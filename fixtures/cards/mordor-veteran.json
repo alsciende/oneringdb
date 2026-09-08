@@ -1,9 +1,0 @@
-{
-    "id": "mordor-veteran",
-    "title": "Mordor Veteran",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "<keyword>Skirmish:<\/keyword> Remove 3 threats to make a <symbol>sauron<\/symbol>minion strength +8."
-}

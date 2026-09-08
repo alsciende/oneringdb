@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01022.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "22",
+  "name": "Mithril Shaft",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Maneuver</phase>: Exert a Dwarf to discard cards from the top of your draw deck until you choose to stop (limit 5). Add <twilight>1</twilight> for each card discarded in this way. Take the last card discarded into hand.",
+  "flavor_text": "“‘Mithril! All folk desired it.’”"
+}

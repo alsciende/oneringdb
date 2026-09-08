@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN10075.png",
+  "set_number": "10",
+  "rarity": "R",
+  "card_number": "75",
+  "name": "Advance Captain",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "Each roaming <culture>Sauron</culture> minion is <keyword>damage +1</keyword>.",
+  "flavor_text": "The foe who gave him his scar soon after gave him the adornment for his helm."
+}

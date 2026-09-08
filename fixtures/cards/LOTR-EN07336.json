@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07336.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "336",
+  "name": "Rohirrim Camp",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "2",
+  "shadow_number": "2",
+  "game_text": "<keyword>Plains</keyword>. If the Shadow has initiative, minions are not roaming."
+}

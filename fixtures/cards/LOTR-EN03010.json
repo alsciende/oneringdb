@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN03010.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "10",
+  "name": "Calaglin",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Elf",
+  "home_site": "6",
+  "culture": "Elven",
+  "subtitle": "Elf of Lórien",
+  "twilight_cost": "2",
+  "strength": "3",
+  "vitality": "3",
+  "game_text": "<keyword>Archer</keyword>.\n<phase>Regroup</phase>: Exert Calaglin to wound a minion.",
+  "flavor_text": "“‘We have been keeping watch on the rivers, ever since we saw a great troop of Orcs going north toward Moria....’”"
+}

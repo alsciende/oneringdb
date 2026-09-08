@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07025.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "25",
+  "name": "Legolas",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Fearless Marksman",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Archer</keyword>.\n<phase>Archery</phase>: If you have initiative, discard 4 cards from hand to wound a minion.",
+  "flavor_text": "“‘I also will come… for I do not fear the Dead.’”"
+}

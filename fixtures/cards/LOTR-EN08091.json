@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN08091.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "91",
+  "name": "Rohirrim Army",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "twilight_cost": "5",
+  "strength": "9",
+  "vitality": "3",
+  "game_text": "To play, spot 3 <culture>Rohan</culture> companions.\nYou may play Rohirrim Army any time you could play a regroup event.\nWhen you play Rohirrim Army, you may discard a minion.",
+  "flavor_text": "“…like a storm upon the plain and a thunder in the mountains.”"
+}

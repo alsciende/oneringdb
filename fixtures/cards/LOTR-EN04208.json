@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04208.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "208",
+  "name": "Vengeance",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make an <culture>Isengard</culture> tracker strength +2 for each card borne by the character it is skirmishing.",
+  "flavor_text": "Saruman instilled a spirit for revenge in his fighting brood."
+}

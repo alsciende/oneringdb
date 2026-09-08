@@ -1,9 +1,0 @@
-{
-    "id": "wizard-s-vale",
-    "title": "Wizard's Vale",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 6,
-    "type": "site",
-    "text": "At the start of the first Shadow phase, if the twilight pool has fewer than 9 twilight tokens, add <symbol>twilight4<\/symbol> (limit once per turn). "
-}

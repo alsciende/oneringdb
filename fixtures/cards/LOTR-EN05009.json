@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05009.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "9",
+  "name": "More to My Liking",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Dwarven",
+  "twilight_cost": "2",
+  "game_text": "Plays to your support area.\n<phase>Maneuver</phase>: Stack the top card from your draw deck here (limit once per phase).\n<phase>Maneuver</phase>: Spot a Dwarf and discard a card stacked on a <culture>Dwarven</culture> condition to take a Free Peoples card stacked here into hand.",
+  "flavor_text": "“‘This country has tough bones.’”"
+}

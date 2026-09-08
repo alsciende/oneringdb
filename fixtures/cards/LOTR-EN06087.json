@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN06087.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "87",
+  "name": "Úlairë Nertëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Winged Hunter",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "When you play Úlairë Nertëa, spot another Nazgûl to make the Free Peoples player exert a Ring-bound companion for each Free Peoples culture you can spot over 2.",
+  "flavor_text": "“A vast winged shape passed over the moon like a black cloud… The stars fainted before it….”"
+}

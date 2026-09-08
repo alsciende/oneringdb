@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04355.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "355",
+  "name": "Cavern Entrance",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "7",
+  "shadow_number": "7",
+  "game_text": "<keyword>Underground</keyword>. Skirmish events may not be played and skirmish special abilities may not be used."
+}

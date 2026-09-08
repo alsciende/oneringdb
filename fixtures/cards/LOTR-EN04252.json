@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04252.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "252",
+  "name": "Southron Scout",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Ambush</keyword> <twilight>2</twilight>.",
+  "flavor_text": "“‘They have black eyes, and long black hair, and gold rings in their ears....’”"
+}

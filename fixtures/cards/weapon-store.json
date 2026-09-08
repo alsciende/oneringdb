@@ -1,9 +1,0 @@
-{
-    "id": "weapon-store",
-    "title": "Weapon Store",
-    "subtitle": null,
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<br><keyword>Fellowship:<\/keyword> Exert a <symbol>rohan<\/symbol> Man to play a hand weapon from your discard pile. "
-}

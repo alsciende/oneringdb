@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07271.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "271",
+  "name": "Gorgoroth Axeman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Skirmish</phase>: Discard this minion to make a <culture>Sauron</culture> minion strength +1 for each site you control (or +2 if you have initiative).",
+  "flavor_text": "“Down from the hills… poured Orcs innumerable.”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02037.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "37",
+  "name": "Sentinels of Númenor",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Gondor</culture> companion strength +2 (or +4 if in a fierce skirmish).",
+  "flavor_text": "“...they still preserved through the suns and rains of forgotten years the mighty likenesses in which they had been hewn.”"
+}

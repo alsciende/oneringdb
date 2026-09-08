@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07279.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "279",
+  "name": "Gorgoroth Troop",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "6",
+  "strength": "14",
+  "vitality": "4",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Skirmish</phase>: Stack your besieger on a site you control to make Gorgoroth Troop strength +2.",
+  "flavor_text": "“‘They are strong: battalions of Orcs of the Eye….’”"
+}

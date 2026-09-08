@@ -1,9 +1,0 @@
-{
-    "id": "gondor-bowmen",
-    "title": "Gondor Bowmen",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 0,
-    "type": "condition",
-    "text": "<keyword>Tale.<\/keyword>   <br><keyword>Archery:<\/keyword> Exert a <symbol>gondor<\/symbol> companion and discard this condition to make the fellowship archery total +2. "
-}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04246.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "246",
+  "name": "Southron Assassin",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\nEach time a companion or ally loses a skirmish involving a Southron, you may remove <twilight>1</twilight> to make the Free Peoples player wound a Ring-bound companion.",
+  "flavor_text": "“‘Some of the Southrons have broken from the trap and are flying from the road.’”"
+}

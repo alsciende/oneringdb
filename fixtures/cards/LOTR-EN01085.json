@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01085.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "85",
+  "name": "Strength of Spirit",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Response</phase>: If a companion is about to exert, spot Gandalf to place no token for that exertion.",
+  "flavor_text": "“‘There are many powers in the world, for good or for evil. Some are greater than I am. Against some I have not yet been measured. But my time is coming.’”"
+}

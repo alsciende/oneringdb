@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04068.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "68",
+  "name": "Ferevellon",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Son of Thandronen",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "3",
+  "game_text": "To play, spot an Elf.\n<phase>Skirmish</phase>: Exert Ferevellon to make a minion skirmishing him strength –2.",
+  "flavor_text": "The Uruks at Helm’s Deep fell to his blade as easily as Goblins from the mountains."
+}

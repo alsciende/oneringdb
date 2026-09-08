@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07108.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "108",
+  "name": "Knight's Spear",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be a <culture>Gondor</culture> Man.\n<phase>Skirmish</phase>: If you cannot spot 2 threats, add a threat to make bearer strength +1."
+}

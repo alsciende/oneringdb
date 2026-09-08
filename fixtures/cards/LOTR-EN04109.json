@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04109.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "109",
+  "name": "Aragorn",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Gondor",
+  "subtitle": "Heir of Elendil",
+  "twilight_cost": "4",
+  "strength": "8",
+  "vitality": "4",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Defender +1</keyword>.",
+  "flavor_text": "“‘Sauron fears you, Aragorn, he fears what you may become.’”"
+}

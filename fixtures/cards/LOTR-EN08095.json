@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN08095.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "95",
+  "name": "Gorgoroth Assassin",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "2",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Assignment</phase>: Spot a <culture>Sauron</culture> engine or a site you control to assign this minion to an unbound companion.",
+  "flavor_text": "“…filled with malice, hating even their own kind….”"
+}

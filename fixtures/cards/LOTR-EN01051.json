@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01051.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "51",
+  "name": "Legolas",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Prince of Mirkwood",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Archer</keyword>.\nWhile skirmishing a Nazgûl, Legolas is strength +3.",
+  "flavor_text": "“There was also a strange Elf clad in green and brown, Legolas, a messenger from his father, Thranduil, the King of the Elves of Northern Mirkwood.”"
+}

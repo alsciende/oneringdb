@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04129.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "129",
+  "name": "Pathfinder",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase> or <phase>Regroup</phase>: Spot a ranger to play the fellowship’s next site (replacing opponent’s site if necessary).",
+  "flavor_text": "“‘If you take my counsel, you will not turn eastward yet. Go straight on, for thus you will have the cover of the woodland for many miles.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02098.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "98",
+  "name": "Dear Friends",
+  "unique": false,
+  "type": "Event",
+  "culture": "Shire",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Exert a companion to place a Free Peoples card from your discard pile beneath your draw deck (or 2 Free Peoples cards if that companion has the Frodo signet).",
+  "flavor_text": "“He pressed him for news of himself and of the wide world... and they stayed up far into the night.”"
+}

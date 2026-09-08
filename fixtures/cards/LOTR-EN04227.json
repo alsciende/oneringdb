@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04227.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "227",
+  "name": "Easterling Infantry",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "3",
+  "strength": "8",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Easterling</keyword>.\nWhile you can spot 3 burdens, this minion is <keyword>fierce</keyword> and <keyword>damage +1</keyword>.",
+  "flavor_text": "Sometimes called the Men of Rhûn, the Easterlings hated Gondor for her riches."
+}

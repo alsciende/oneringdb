@@ -1,9 +1,0 @@
-{
-    "id": "hlafwine-village-farmhand",
-    "title": "Hlafwine",
-    "subtitle": "Village Farmhand",
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "ally",
-    "text": "<keyword>Villager.<\/keyword> <br>Discard Hlafwine if an opponent controls his home site.  <br><keyword>Skirmish:<\/keyword> Exert Hlafwine to make a <symbol>rohan<\/symbol> Man strength +2."
-}

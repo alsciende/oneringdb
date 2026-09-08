@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04209.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "209",
+  "name": "Volley Fire",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "game_text": "<phase>Archery</phase>: Discard 2 <culture>Isengard</culture> archers to exhaust an unbound companion.",
+  "flavor_text": "Defenders on the walls made perfect targets for the Isengard crossbowmen."
+}

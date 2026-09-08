@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01028.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "28",
+  "name": "Wealth of Moria",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "2",
+  "game_text": "<phase>Fellowship</phase>: Spot a Dwarf to reveal the top 3 cards of your draw deck. Take all Free People cards revealed into hand and discard the rest.",
+  "flavor_text": "“‘For here alone in all the world was found Moria-silver, or true-silver as some have called it: mithril is the Elvish name.’”"
+}

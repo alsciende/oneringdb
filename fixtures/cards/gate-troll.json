@@ -1,9 +1,0 @@
-{
-    "id": "gate-troll",
-    "title": "Gate Troll",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 8,
-    "type": "minion",
-    "text": "<keyword>Fierce.<\/keyword> While you can spot a Troll, Gate Troll’s twilight cost is –4. For each other <symbol>sauron<\/symbol> minion you can spot, this minion is strength +1."
-}

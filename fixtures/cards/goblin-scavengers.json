@@ -1,9 +1,0 @@
-{
-    "id": "goblin-scavengers",
-    "title": "Goblin Scavengers",
-    "subtitle": null,
-    "culture": "moria",
-    "twilight_cost": 3,
-    "type": "minion",
-    "text": "When you play this minion, you may play a weapon from your discard pile on your <symbol>moria<\/symbol> Orc."
-}

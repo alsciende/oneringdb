@@ -1,9 +1,0 @@
-{
-    "id": "minas-tirith-seventh-circle",
-    "title": "Minas Tirith Seventh Circle",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 3,
-    "type": "site",
-    "text": "<keyword>Sanctuary.<\/keyword> If the fellowship moves from this site during the regroup phase, heal each <symbol>elven<\/symbol> companion."
-}

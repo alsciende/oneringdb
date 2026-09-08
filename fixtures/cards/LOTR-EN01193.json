@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01193.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "193",
+  "name": "Plundered Armories",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Moria",
+  "twilight_cost": "2",
+  "game_text": "Plays to your support area.\n<phase>Response</phase>: If your <culture>Moria</culture> weapon is discarded, play it from your discard pile (that weapon’s twilight cost is −1).",
+  "flavor_text": "The Goblins of Moria have oft plundered the deep armouries of Durin’s folk."
+}

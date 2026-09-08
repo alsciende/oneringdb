@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01168.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "168",
+  "name": "Drums in the Deep",
+  "unique": false,
+  "type": "Event",
+  "culture": "Moria",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Moria</culture> Orc strength +2 (or +4 if skirmishing a Dwarf).",
+  "flavor_text": "“The drum-beats broke out wildly: doom-boom, doom-boom, and then stopped... Doom, doom went the drum-beats again....”"
+}

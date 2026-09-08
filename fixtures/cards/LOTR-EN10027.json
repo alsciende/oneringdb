@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN10027.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "27",
+  "name": "Dead Man of Dunharrow",
+  "unique": false,
+  "type": "Companion",
+  "subtype": "Wraith",
+  "culture": "Gondor",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<keyword>Enduring</keyword>. To play, add a threat.\nWhen you play this companion, exert him twice.",
+  "flavor_text": "“...the Shadow Host pressed behind and fear went on before them....”"
+}

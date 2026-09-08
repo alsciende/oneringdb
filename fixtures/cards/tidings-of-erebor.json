@@ -1,9 +1,0 @@
-{
-    "id": "tidings-of-erebor",
-    "title": "Tidings of Erebor",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Regroup:<\/keyword> Spot a Dwarf to draw 3 cards. <br>Any Shadow player may remove <symbol>twilight3<\/symbol> to prevent this. "
-}

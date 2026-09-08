@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07228.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "228",
+  "name": "Éowyn",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Dernhelm",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Theoden",
+  "game_text": "<keyword>Valiant</keyword>.\nWhile skirmishing a mounted minion, Éowyn is strength +2.\nWhile skirmishing a fierce minion, Éowyn is strength +2.",
+  "flavor_text": "“‘Do you not? Then call me Dernhelm.’”"
+}

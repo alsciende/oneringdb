@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01356.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "356",
+  "name": "Anduin Banks",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "8",
+  "shadow_number": "6",
+  "game_text": "<keyword>River</keyword>. For each companion in the fellowship over 4, add 2 to the minion archery total."
+}

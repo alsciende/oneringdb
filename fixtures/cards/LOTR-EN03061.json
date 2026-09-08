@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03061.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "61",
+  "name": "Isengard Warrior",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "3",
+  "strength": "7",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "While you can spot another <culture>Isengard</culture> Orc, no player may use archery special abilities.\n<phase>Regroup</phase>: Exert this minion and spot 3 wounds on the Ring-bearer to exert every companion.",
+  "flavor_text": "“‘There is evil afoot in Isengard, and the West is no longer safe.’”"
+}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04170.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "170",
+  "name": "Ranks Without Number",
+  "unique": true,
+  "type": "Condition",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "game_text": "Plays to your support area.\nEach time the Free Peoples player assigns an ally to a skirmish, you may play an <culture>Isengard</culture> minion from your discard pile. That minion’s twilight cost is -2.",
+  "flavor_text": "“‘All Isengard must be emptied….’”"
+}

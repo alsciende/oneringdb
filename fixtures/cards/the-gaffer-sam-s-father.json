@@ -1,9 +1,0 @@
-{
-    "id": "the-gaffer-sam-s-father",
-    "title": "The Gaffer",
-    "subtitle": "Sam's Father",
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "ally",
-    "text": "<keyword>Fellowship:<\/keyword> Exert The Gaffer to heal Frodo or Sam."
-}

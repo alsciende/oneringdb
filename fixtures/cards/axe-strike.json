@@ -1,9 +1,0 @@
-{
-    "id": "axe-strike",
-    "title": "Axe Strike",
-    "subtitle": null,
-    "culture": "dwarven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Make a Dwarf strength +2 (or +3 if bearing a <symbol>dwarven<\/symbol> hand weapon)."
-}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN02061.png",
+  "set_number": "2",
+  "rarity": "C",
+  "card_number": "61",
+  "name": "Goblin Flankers",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Moria",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "4",
+  "game_text": "When you play this minion, you may add <twilight>3</twilight> if the fellowship has moved more than once this turn.",
+  "flavor_text": "“‘There are Orcs, very many of them.... And some are large and evil....’”"
+}

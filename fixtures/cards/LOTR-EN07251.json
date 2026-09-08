@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07251.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "251",
+  "name": "Stern People",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Rohan",
+  "twilight_cost": "3",
+  "game_text": "To play, spot 2 <culture>Rohan</culture> Men.\n<phase>Regroup</phase>: Discard cards from hand equal to the number of cards in an opponent's hand to make the move limit +1 for this turn. Each Shadow player may take up to 4 cards into hand from his or her discard pile. Discard this condition."
+}

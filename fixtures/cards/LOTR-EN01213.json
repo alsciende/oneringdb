@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01213.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "213",
+  "name": "Frozen by Fear",
+  "unique": false,
+  "type": "Event",
+  "culture": "Wraith",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make a Nazgûl strength +2 (or +3 if the Ring-bearer is assigned to a skirmish that has not resolved).",
+  "flavor_text": "“…he was quaking as if he was bitter cold, but his terror was swallowed up in a sudden temptation to put on the Ring.”"
+}

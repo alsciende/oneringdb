@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04151.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "151",
+  "name": "Ferocity",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make an Uruk-hai strength +2 (or +3 if at a battleground).",
+  "flavor_text": "Uruk savagery remained despite their battle training."
+}

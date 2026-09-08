@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01004.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "4",
+  "name": "Battle Fury",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Exert a Dwarf to make that Dwarf strength +3 and <keyword>damage +1</keyword>.",
+  "flavor_text": "The Dwarves quickly dispatch Orcs and Uruk-hai with their mighty battle axes."
+}

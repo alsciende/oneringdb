@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN07323.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "323",
+  "name": "Pippin",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Hobbit",
+  "culture": "Shire",
+  "subtitle": "Sworn to Service",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "4",
+  "signet": "Gandalf",
+  "game_text": "While you cannot spot 4 threats, Pippin is strength +1 for each threat you can spot.",
+  "flavor_text": "“‘I do not know what put it into your head, or your heart, to do that. But it was well done.’”"
+}

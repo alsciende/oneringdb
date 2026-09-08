@@ -1,9 +1,0 @@
-{
-    "id": "uruk-spy",
-    "title": "Uruk Spy",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Response:<\/keyword> If the Ring-bearer puts on The One Ring, exert this minion.  Discard a card from the top of your draw deck for each <symbol>isengard<\/symbol> minion you spot.  Add a burden for each Shadow card discarded in this way."
-}

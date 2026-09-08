@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07138.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "138",
+  "name": "Desert Villain",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "2",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>.\nAt the start of each skirmish involving this minion, you may remove <twilight>1</twilight> to add a threat.",
+  "flavor_text": "“...with red banners….”"
+}

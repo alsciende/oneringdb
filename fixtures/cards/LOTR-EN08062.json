@@ -1,0 +1,16 @@
+{
+  "file": "LOTR-EN08062.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "62",
+  "name": "Heavy Axeman",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "game_text": "<keyword>Easterling</keyword>.\nWhile you can spot 4 burdens, Heavy Axeman is strength +4 and <keyword>fierce</keyword>.",
+  "flavor_text": "“...the Easterlings were strong and war-hardened and asked for no quarter.”"
+}

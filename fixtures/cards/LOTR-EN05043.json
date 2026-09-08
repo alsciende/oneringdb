@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05043.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "43",
+  "name": "War Must Be",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Gondor</culture> Man strength +2 (or +4 if skirmishing a minion bearing a <culture>Gondor</culture> fortification).",
+  "flavor_text": "“‘...we defend ourselves against a destroyer who would devour all....’”"
+}

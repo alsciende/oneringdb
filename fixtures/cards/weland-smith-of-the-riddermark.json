@@ -1,9 +1,0 @@
-{
-    "id": "weland-smith-of-the-riddermark",
-    "title": "Weland",
-    "subtitle": "Smith of the Riddermark",
-    "culture": "rohan",
-    "twilight_cost": 1,
-    "type": "ally",
-    "text": "<keyword>Villager.<\/keyword>  <br>Discard Weland if an opponent controls his home site.  <br><keyword>Fellowship:<\/keyword> Exert Weland to heal a mounted companion. "
-}

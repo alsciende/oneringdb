@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01111.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "111",
+  "name": "Pursuit Just Behind",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "0",
+  "game_text": "<phase>Regroup</phase>: Exert a ranger companion to wound every minion.",
+  "flavor_text": "“‘We must do something to delay the enemy first. We will make them fear the Chamber of Mazarbul!’”"
+}

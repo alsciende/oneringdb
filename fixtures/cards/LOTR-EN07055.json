@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07055.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "55",
+  "name": "Days Growing Dark",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "2",
+  "game_text": "<phase>Fellowship</phase>: Discard 3 cards from hand to play Sméagol from your discard pile.",
+  "flavor_text": "“‘Come on, we must go, no time to lose!’”"
+}

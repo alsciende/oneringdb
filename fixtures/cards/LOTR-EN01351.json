@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01351.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "351",
+  "name": "Galadriel's Glade",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "6",
+  "shadow_number": "3",
+  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: Exert an Elf to look at an opponent's hand."
+}

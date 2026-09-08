@@ -1,9 +1,0 @@
-{
-    "id": "cavern-entrance",
-    "title": "Cavern Entrance",
-    "subtitle": null,
-    "culture": null,
-    "twilight_cost": 7,
-    "type": "site",
-    "text": "<keyword>Underground.<\/keyword> Skirmish events may not be played and skirmish special abilities may not be used. "
-}

@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04196.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "196",
+  "name": "Uruk Spear",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Isengard",
+  "twilight_cost": "1",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be an Uruk-hai.\n<phase>Maneuver</phase>: Exert bearer to discard a Free Peoples mount.",
+  "flavor_text": "The Uruk-hai braced their long pikes to challenge the oncoming Riders."
+}

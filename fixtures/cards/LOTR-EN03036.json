@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03036.png",
+  "set_number": "3",
+  "rarity": "C",
+  "card_number": "36",
+  "name": "Unknown Perils",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "game_text": "Plays to your support area.\n<phase>Response</phase>: If a companion is about to take a wound, spot 4 twilight tokens and exert Gandalf to prevent that wound.",
+  "flavor_text": "“Suddenly he stopped as if listening. Frodo became aware that all was very quiet, inside and outside.”"
+}

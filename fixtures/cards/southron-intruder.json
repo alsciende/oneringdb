@@ -1,9 +1,0 @@
-{
-    "id": "southron-intruder",
-    "title": "Southron Intruder",
-    "subtitle": null,
-    "culture": "raider",
-    "twilight_cost": 6,
-    "type": "minion",
-    "text": "<keyword>Southron.<\/keyword> <keyword>Archer.<\/keyword> <br>While you can spot 3 twilight tokens, all <symbol>raider<\/symbol> Men are strength +1. <br>While you can spot 6 twilight tokens, all <symbol>raider<\/symbol> Men are strength +1. <br>While you can spot 9 twilight tokens, all <symbol>raider<\/symbol> Men are strength +1."
-}

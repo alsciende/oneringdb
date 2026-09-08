@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN04100.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "100",
+  "name": "Shadowfax",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Mount",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Gandalf. Discard any hand weapon he bears. Gandalf may not bear a hand weapon.\nAt the start of each skirmish involving Gandalf, each minion skirmishing him must exert.",
+  "flavor_text": "“‘He is the chief of the Mearas, lords of horses....’”"
+}

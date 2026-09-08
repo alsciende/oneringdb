@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03065.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "65",
+  "name": "Orc Overseer",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Isengard",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "4",
+  "site_number": "4",
+  "game_text": "<phase>Regroup</phase>: Exert Orc Overseer twice to exhaust a companion (except the Ring-bearer).",
+  "flavor_text": "“‘What orders from Mordor, my Lord? What does the Eye command?’”"
+}

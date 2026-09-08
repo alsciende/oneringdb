@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07222.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "222",
+  "name": "Déor",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "3",
+  "culture": "Rohan",
+  "twilight_cost": "1",
+  "strength": "4",
+  "vitality": "2",
+  "game_text": "<keyword>Villager</keyword>.\n<phase>Skirmish</phase>: If you have initiative, discard a card from hand to make a <culture>Rohan</culture> Man strength +1.",
+  "flavor_text": "“As the king approached many men sprang up out of the rocks....”"
+}

@@ -1,9 +1,0 @@
-{
-    "id": "arrow-and-blade",
-    "title": "Arrow and Blade",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Exert X Elf companions to make a minion skirmishing an unbound companion strength -X. "
-}

@@ -1,9 +1,0 @@
-{
-    "id": "grown-suddenly-tall",
-    "title": "Grown Suddenly Tall",
-    "subtitle": null,
-    "culture": "gandalf",
-    "twilight_cost": 5,
-    "type": "event",
-    "text": "<keyword>Spell.<\/keyword>  <br><keyword>Fellowship:<\/keyword> Spot Gandalf to discard all conditions. "
-}

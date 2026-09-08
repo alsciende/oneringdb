@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01082.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "82",
+  "name": "Risk a Little Light",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gandalf",
+  "twilight_cost": "1",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Fellowship</phase>: If the twilight pool has fewer than 2 twilight tokens, spot Gandalf to look at the top 2 cards of your draw deck. Take one into hand and discard the other.",
+  "flavor_text": "“‘Let me risk a little more light.’”"
+}

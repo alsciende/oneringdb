@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN04136.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "136",
+  "name": "Advance Uruk Patrol",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "5",
+  "strength": "10",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nWhile at a battleground, this minion is <keyword>fierce</keyword>.\nWhile you control a battleground, this minion is strength +4.",
+  "flavor_text": "“This is no rabble of mindless Orcs.”"
+}

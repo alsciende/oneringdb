@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04087.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "87",
+  "name": "Valor",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Make an Elf strength +2 (or +3 if skirmishing a wounded minion).",
+  "flavor_text": "An Elf avoids taking up arms, but once committed to the fray, his will is resolute."
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN04049.png",
+  "set_number": "4",
+  "rarity": "C",
+  "card_number": "49",
+  "name": "Gimli",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Dwarf",
+  "culture": "Dwarven",
+  "subtitle": "Unbidden Guest",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Gandalf",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Skirmish</phase>: Exert Gimli to make an unbound companion strength +1 (or +2 if that companion is Legolas).",
+  "flavor_text": "“But a small dark figure that none had observed sprang out of the shadows and gave a hoarse shout: ‘Baruk Khazâd!’”"
+}

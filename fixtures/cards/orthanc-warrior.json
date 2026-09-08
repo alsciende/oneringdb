@@ -1,9 +1,0 @@
-{
-    "id": "orthanc-warrior",
-    "title": "Orthanc Warrior",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Damage +1. <\/keyword>"
-}

@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04060.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "60",
+  "name": "Blades Drawn",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "To play, spot 3 Elves. Plays to your support area.\nFor each wound on each minion, that minion is strength –2. Discard this condition during the regroup phase.",
+  "flavor_text": "The sword skills of the Elven archers were unexpected."
+}

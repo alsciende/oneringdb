@@ -1,9 +1,0 @@
-{
-    "id": "aragorn-king-in-exile",
-    "title": "Aragorn",
-    "subtitle": "King in Exile",
-    "culture": "gondor",
-    "twilight_cost": 4,
-    "type": "companion",
-    "text": "<keyword>Ranger.<\/keyword> At the start of each of your turns, you may heal another companion who has the Aragorn signet."
-}

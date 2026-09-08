@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN10024.png",
+  "set_number": "10",
+  "rarity": "C",
+  "card_number": "24",
+  "name": "Unabated in Malice",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "0",
+  "game_text": "While you have initiative, each <culture>Gollum</culture> minion is <keyword>damage +1</keyword>.\n<phase>Skirmish</phase>: Discard this condition to make a <culture>Gollum</culture> minion strength +1 for each culture you can spot.",
+  "flavor_text": "“...she lusted for sweeter meat. And Gollum had brought it to her.”"
+}

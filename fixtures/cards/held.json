@@ -1,9 +1,0 @@
-{
-    "id": "held",
-    "title": "Held",
-    "subtitle": null,
-    "culture": "shire",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "Bearer must be Frodo. Each time Frodo is about to be killed by a wound, add a burden instead. When the fellowship moves to site 9, Frodo is corrupted. <keyword>Regroup:<\/keyword> If you can spot no minions, discard this condition."
-}

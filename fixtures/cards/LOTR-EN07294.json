@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07294.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "294",
+  "name": "Orc Archer Troop",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "6",
+  "strength": "15",
+  "vitality": "4",
+  "site_number": "6",
+  "game_text": "<keyword>Archer</keyword>.\nIf you have initiative, the minion archery total is +1 and Orc Archer Troop is <keyword>fierce</keyword>.",
+  "flavor_text": "“The wind blew, and the trumpets sang, and arrows whined….”"
+}

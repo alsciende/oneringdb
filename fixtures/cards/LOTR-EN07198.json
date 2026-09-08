@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07198.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "198",
+  "name": "Morgul Ruffian",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Wraith",
+  "twilight_cost": "2",
+  "strength": "7",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "While you can spot a Nazgûl, this minion may only take wounds during skirmish phases.",
+  "flavor_text": "“...while the less stout-hearted quailed and wept.”"
+}

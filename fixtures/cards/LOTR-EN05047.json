@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05047.png",
+  "set_number": "5",
+  "rarity": "R",
+  "card_number": "47",
+  "name": "Berserk Slayer",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "7",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\nBerserk Slayer is strength +2 for each wound on a character in its skirmish.\n<phase>Skirmish</phase>: Remove 5 <culture>Isengard</culture> tokens from a machine and exert Berserk Slayer twice to wound every companion.",
+  "flavor_text": "Berserkers are the first wave of Uruks sent to battle."
+}

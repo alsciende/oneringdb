@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07233.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "233",
+  "name": "Grimbold",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Man",
+  "culture": "Rohan",
+  "subtitle": "Marshal of Rohan",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "game_text": "<keyword>Valiant</keyword>.\n<phase>Skirmish</phase>: Replace the fellowship's site with your plains site of the same number to discard a card from hand.",
+  "flavor_text": "“‘And Grimbold shall lead his towards the left.’”"
+}

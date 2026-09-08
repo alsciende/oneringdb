@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01283.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "283",
+  "name": "You Bring Great Evil",
+  "unique": false,
+  "type": "Condition",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "To play, spot a <culture>Sauron</culture> Orc. Plays on a companion (except an Elf).\nWhile at a sanctuary, bearer cannot heal.",
+  "flavor_text": "“‘And what is this? We have not had dealings with the Dwarves since the Dark Days.’”"
+}

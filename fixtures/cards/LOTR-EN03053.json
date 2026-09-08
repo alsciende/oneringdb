@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN03053.png",
+  "set_number": "3",
+  "rarity": "U",
+  "card_number": "53",
+  "name": "Hate and Anger",
+  "unique": false,
+  "type": "Event",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "<phase>Shadow</phase>: Spot an Uruk-hai and a <culture>Isengard</culture> minion to draw 3 cards.",
+  "flavor_text": "The frenzy of Uruks is born of the fear of the very Goblins that work the pits."
+}

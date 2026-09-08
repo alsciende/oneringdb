@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01030.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "30",
+  "name": "Arwen",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Daughter of Elrond",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Ranger</keyword>.\nWhile skirmishing a Nazgûl, Arwen is strength +3.",
+  "flavor_text": "“Long she had been in the land of her mother's kin, in Lórien beyond the mountains, and was but lately returned to Rivendell to her father's house.”"
+}

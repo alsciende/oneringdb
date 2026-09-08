@@ -1,9 +1,0 @@
-{
-    "id": "burn-every-village",
-    "title": "Burn Every Village",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 0,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Make a <symbol>dunland<\/symbol> Man strength +2 (or +4 if you control a site). "
-}

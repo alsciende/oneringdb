@@ -1,9 +1,0 @@
-{
-    "id": "uruk-messenger",
-    "title": "Uruk Messenger",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 2,
-    "type": "minion",
-    "text": "<keyword>Damage +1<\/keyword>.  <br>While you can spot a weather condition, this minion is strength +3."
-}

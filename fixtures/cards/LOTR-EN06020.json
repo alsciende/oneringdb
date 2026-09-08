@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN06020.png",
+  "set_number": "6",
+  "rarity": "U",
+  "card_number": "20",
+  "name": "Must Be a Dream",
+  "unique": false,
+  "type": "Event",
+  "culture": "Elven",
+  "twilight_cost": "0",
+  "game_text": "<phase>Fellowship</phase>: Spot an Elf to reveal the top card of your draw deck. Heal up to 2 companions whose culture matches the revealed card. You may discard the revealed card.",
+  "flavor_text": "“‘May the Grace of the Valar protect you.’”"
+}

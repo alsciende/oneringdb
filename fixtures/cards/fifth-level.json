@@ -1,9 +1,0 @@
-{
-    "id": "fifth-level",
-    "title": "Fifth Level",
-    "subtitle": null,
-    "culture": "gondor",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<keyword>Fortification.<\/keyword> <br>Bearer is strength –1 for each Fortification you can spot. <br><keyword>Maneuver:<\/keyword> Exert 2 <symbol>gondor<\/symbol> Men or spot 3 knights to transfer this condition to a minion. "
-}

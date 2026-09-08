@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01015.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "15",
+  "name": "Gimli's Helm",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Helm",
+  "culture": "Dwarven",
+  "twilight_cost": "0",
+  "game_text": "Bearer must be Gimli.\nHe takes no more than 1 wound during each skirmish phase.\n<phase>Skirmish</phase>: Discard Gimli's Helm to prevent all wounds to him.",
+  "flavor_text": "A helm fashioned under the Lonely Mountain protects the head of Gimli the Dwarf."
+}

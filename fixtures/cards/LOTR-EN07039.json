@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN07039.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "39",
+  "name": "Glamdring",
+  "unique": true,
+  "type": "Possession",
+  "subtype": "Hand Weapon",
+  "culture": "Gandalf",
+  "subtitle": "Elven Blade",
+  "twilight_cost": "2",
+  "strength_modifier": "+2",
+  "game_text": "Bearer must be Gandalf.\nHe is <keyword>damage +1</keyword>.\n<phase>Skirmish</phase>: If you have more cards in hand than each opponent, discard 2 cards from hand to make an opponent exert a minion."
+}

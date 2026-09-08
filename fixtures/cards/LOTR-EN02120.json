@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN02120.png",
+  "set_number": "2",
+  "rarity": "U",
+  "card_number": "120",
+  "name": "Valley of the Silverlode",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "6",
+  "shadow_number": "3",
+  "game_text": "<keyword>River</keyword>. <keyword>Sanctuary</keyword>. When the fellowship moves to Valley of the Silverlode, each Hobbit companion may heal."
+}

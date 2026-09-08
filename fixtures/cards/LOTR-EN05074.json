@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN05074.png",
+  "set_number": "5",
+  "rarity": "C",
+  "card_number": "74",
+  "name": "Southron Marcher",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Raider",
+  "twilight_cost": "4",
+  "strength": "6",
+  "vitality": "1",
+  "site_number": "4",
+  "game_text": "<keyword>Southron</keyword>. <keyword>Ambush</keyword> <twilight>2</twilight>.\nWhile you can spot a Southron, this minion’s twilight cost is −2.",
+  "flavor_text": "Hardy desert warriors needed little rest."
+}

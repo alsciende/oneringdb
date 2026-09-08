@@ -1,9 +1,0 @@
-{
-    "id": "band-of-wild-men",
-    "title": "Band of Wild Men",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 5,
-    "type": "minion",
-    "text": "Each time this minion wins a skirmish, you may make it <keyword>fierce<\/keyword> until the regroup phase. "
-}

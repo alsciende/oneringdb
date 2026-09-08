@@ -1,9 +1,0 @@
-{
-    "id": "band-of-the-eye",
-    "title": "Band of the Eye",
-    "subtitle": null,
-    "culture": "sauron",
-    "twilight_cost": 4,
-    "type": "minion",
-    "text": "<keyword>Response:<\/keyword> If this minion wins a skirmish, remove <symbol>twilight2<\/symbol> to make the Free Peoples player discard a card at random from hand."
-}

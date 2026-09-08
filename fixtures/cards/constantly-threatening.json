@@ -1,9 +1,0 @@
-{
-    "id": "constantly-threatening",
-    "title": "Constantly Threatening",
-    "subtitle": null,
-    "culture": "dunland",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "<br><keyword>Shadow:<\/keyword> If the fellowship has moved more than once this turn, remove <symbol>twilight2<\/symbol> to play a <symbol>dunland<\/symbol> Man from your discard pile. "
-}

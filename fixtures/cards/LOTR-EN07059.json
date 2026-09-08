@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07059.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "59",
+  "name": "Gollum",
+  "unique": true,
+  "type": "Minion",
+  "culture": "Gollum",
+  "subtitle": "Vile Creature",
+  "twilight_cost": "2",
+  "strength": "5",
+  "vitality": "4",
+  "site_number": "3",
+  "game_text": "<phase>Skirmish</phase>: Exert Gollum twice or remove a threat to make him strength +2.",
+  "flavor_text": "“When they come to the bridge they will see us. Come away! Climb, climb!”"
+}

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01284.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "284",
+  "name": "Bilbo",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Hobbit",
+  "home_site": "3",
+  "culture": "Shire",
+  "subtitle": "Retired Adventurer",
+  "twilight_cost": "2",
+  "strength": "2",
+  "vitality": "3",
+  "game_text": "<phase>Fellowship</phase>: Exert Bilbo to shuffle a <culture>Shire</culture> card from your discard pile into your draw deck.",
+  "flavor_text": "“‘...I don't suppose I have the strength or luck left to deal with the Ring. It has grown, and I have not.’”"
+}

@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07311.png",
+  "set_number": "7",
+  "rarity": "R",
+  "card_number": "311",
+  "name": "Siege Commander",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "5",
+  "strength": "12",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Besieger</keyword>.\n<phase>Skirmish</phase>: Discard 2 cards from hand to make a besieger <keyword>fierce</keyword> until the regroup phase.",
+  "flavor_text": "“‘They have taken the wall!’”"
+}

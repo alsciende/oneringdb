@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01080.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "80",
+  "name": "Ottar",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "3",
+  "culture": "Gandalf",
+  "subtitle": "Man of Laketown",
+  "twilight_cost": "1",
+  "strength": "2",
+  "vitality": "2",
+  "game_text": "To play, spot Gandalf.\n<phase>Fellowship</phase>: Exert Ottar to discard up to 3 cards from hand and draw an equal number of cards.",
+  "flavor_text": "The Men of Laketown come from the North, where they trade with the Dwarves of the Lonely Mountain."
+}

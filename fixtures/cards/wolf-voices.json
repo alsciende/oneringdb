@@ -1,9 +1,0 @@
-{
-    "id": "wolf-voices",
-    "title": "Wolf-voices",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 1,
-    "type": "event",
-    "text": "<keyword>Skirmish:<\/keyword> Make an <symbol>isengard<\/symbol> Orc strength +2 (and heal it if mounted)."
-}

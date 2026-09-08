@@ -1,9 +1,0 @@
-{
-    "id": "tower-of-orthanc",
-    "title": "Tower of Orthanc",
-    "subtitle": null,
-    "culture": "isengard",
-    "twilight_cost": 1,
-    "type": "condition",
-    "text": "To play, spot an <symbol>isengard<\/symbol> minion.  <br>Each time the fellowship moves, you may spot an exhausted companion to add <symbol>twilight3<\/symbol>. "
-}

@@ -1,9 +1,0 @@
-{
-    "id": "damrod-ranger-of-ithilien",
-    "title": "Damrod",
-    "subtitle": "Ranger of Ithilien",
-    "culture": "gondor",
-    "twilight_cost": 2,
-    "type": "companion",
-    "text": "<keyword>Ring-bound.<\/keyword> <keyword>Ranger.<\/keyword>  To play, spot a Ring-bound Man.  <br><keyword>Skirmish:<\/keyword> Exert Damrod to exhaust a Man he is skirmishing. "
-}

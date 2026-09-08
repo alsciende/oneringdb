@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN05008.png",
+  "set_number": "5",
+  "rarity": "U",
+  "card_number": "8",
+  "name": "Horn of Helm",
+  "unique": true,
+  "type": "Possession",
+  "culture": null,
+  "twilight_cost": "2",
+  "game_text": "Plays to your support area.\n<phase>Maneuver</phase>: Exert a Dwarf companion to make each minion at a battleground lose all <keyword>damage</keyword> bonuses until the regroup phase.",
+  "flavor_text": "“...sudden and terrible, from the tower above, the sound of the great horn of Helm rang out.”"
+}

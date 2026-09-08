@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06003.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "3",
+  "name": "Dunlending Footmen",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "2",
+  "site_number": "3",
+  "game_text": "The twilight cost of this minion during a skirmish phase is −2.",
+  "flavor_text": "Driven by Saruman’s ranting, waves of Dunlendings descended upon the holdings of Rohan."
+}

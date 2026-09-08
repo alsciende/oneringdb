@@ -1,9 +1,0 @@
-{
-    "id": "elven-brooch",
-    "title": "Elven Brooch",
-    "subtitle": null,
-    "culture": "elven",
-    "twilight_cost": 1,
-    "type": "possession",
-    "text": "To play, spot an Elf. Bearer must be a companion. <br><keyword>Response:<\/keyword> If another possession borne by bearer is about to be discarded by a Shadow card, discard this possession instead. "
-}

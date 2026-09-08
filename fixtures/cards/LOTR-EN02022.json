@@ -1,0 +1,15 @@
+{
+  "file": "LOTR-EN02022.png",
+  "set_number": "2",
+  "rarity": "R",
+  "card_number": "22",
+  "name": "Gandalf's Staff",
+  "unique": true,
+  "type": "Artifact",
+  "subtype": "Staff",
+  "culture": "Gandalf",
+  "twilight_cost": "2",
+  "vitality_modifier": "+1",
+  "game_text": "Bearer must be Gandalf.\nThe twilight cost of each <culture>Gandalf</culture> spell is −1.\n<phase>Skirmish</phase>: Exert Gandalf twice to cancel a skirmish involving him.",
+  "flavor_text": "“As the wizard passed on ahead up the great steps, he held his staff aloft, and from its tip there came a faint radiance.”"
+}

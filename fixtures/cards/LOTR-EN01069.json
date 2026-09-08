@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01069.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "69",
+  "name": "Albert Dreary",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Man",
+  "home_site": "1",
+  "culture": "Gandalf",
+  "subtitle": "Entertainer from Bree",
+  "twilight_cost": "1",
+  "strength": "3",
+  "vitality": "3",
+  "game_text": "To play, spot Gandalf.\n<phase>Maneuver</phase>: Exert Albert Dreary to discard an <culture>Isengard</culture> or <culture>Moria</culture> condition.",
+  "flavor_text": "Typical of Bree-folk, Albert is a plain but stout-hearted fellow. He does not seek trouble, but he is willing to protect his home."
+}

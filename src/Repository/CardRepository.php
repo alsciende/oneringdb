@@ -5,12 +5,10 @@ declare(strict_types=1);
 namespace App\Repository;
 
 use App\Entity\Card;
-use App\Entity\PackCard;
 use App\Entity\PublishedSet;
 use App\SearchQueryBuilder\SearchQueryBuilder;
 use App\Service\SyntaxDecoder;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
-use Doctrine\ORM\Query\Expr\Join;
 use Doctrine\ORM\QueryBuilder;
 use Doctrine\Persistence\ManagerRegistry;
 
@@ -43,7 +41,7 @@ class CardRepository extends ServiceEntityRepository
         $queryBuilder = $this->searchQueryBuilder->buildQuery($searchConditions);
 
         if ($sort === 'position') {
-            $queryBuilder->orderBy('p.id')->addOrderBy('pc.position');
+            $queryBuilder->orderBy('p.id')->addOrderBy('c.position');
         } else {
             $queryBuilder->orderBy("c.{$sort}");
         }
@@ -56,13 +54,9 @@ class CardRepository extends ServiceEntityRepository
      */
     public function findByPublishedSet(PublishedSet $publishedSet): array
     {
-        $qb = $this->getEntityManager()->createQueryBuilder();
-        $qb
-            ->select('c')->from(Card::class, 'c')
-            ->join(PackCard::class, 'pc', Join::WITH, 'pc.publishedSet = :publishedSet')
-            ->setParameter('publishedSet', $publishedSet);
-
-        return $qb->getQuery()->setCacheable(true)->getResult();
+        return $this->findBy([
+            'publishedSet' => $publishedSet,
+        ]);
     }
 
     /**
@@ -71,9 +65,7 @@ class CardRepository extends ServiceEntityRepository
     public function getCard(string $id): ?Card
     {
         return $this->createQueryBuilder('c')
-            ->leftJoin('c.packCards', 'pc')
-            ->addSelect('pc')
-            ->leftJoin('pc.publishedSet', 'p')
+            ->leftJoin('c.publishedSet', 'p')
             ->addSelect('p')
             ->where('c.id = :id')
             ->setParameter('id', $id)

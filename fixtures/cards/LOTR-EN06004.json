@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN06004.png",
+  "set_number": "6",
+  "rarity": "C",
+  "card_number": "4",
+  "name": "Dunlending Headman",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Man",
+  "culture": "Dunland",
+  "twilight_cost": "4",
+  "strength": "10",
+  "vitality": "1",
+  "site_number": "3",
+  "game_text": "When you play this minion, you may spot 2 other <culture>Dunland</culture> Men to take control of a site. The Free Peoples player may discard 2 cards from hand to prevent this.",
+  "flavor_text": "The diminished Rohirrin offered little resistance to the advancing Dunland horde."
+}

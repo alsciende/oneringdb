@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN07154.png",
+  "set_number": "7",
+  "rarity": "C",
+  "card_number": "154",
+  "name": "New Strength Came Now",
+  "unique": false,
+  "type": "Event",
+  "subtype": "Skirmish",
+  "culture": "Raider",
+  "twilight_cost": "2",
+  "game_text": "Make a <culture>Raider</culture> Man strength +3 (or +6 if you have initiative).",
+  "flavor_text": "“...Southrons in scarlet….”"
+}

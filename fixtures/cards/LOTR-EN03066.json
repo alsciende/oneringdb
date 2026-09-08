@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN03066.png",
+  "set_number": "3",
+  "rarity": "R",
+  "card_number": "66",
+  "name": "Orthanc Berserker",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Uruk-hai",
+  "culture": "Isengard",
+  "twilight_cost": "5",
+  "strength": "11",
+  "vitality": "3",
+  "site_number": "5",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Maneuver</phase>: Spot 5 burdens and exert Orthanc Berserker twice to exhaust a companion (except the Ring-bearer).",
+  "flavor_text": "The voice of Saruman compels his minions to stop at nothing to earn his favor."
+}

@@ -1,9 +1,0 @@
-{
-    "id": "barliman-butterbur-prancing-pony-proprietor",
-    "title": "Barliman Butterbur",
-    "subtitle": "Prancing Pony Proprietor",
-    "culture": "gandalf",
-    "twilight_cost": 0,
-    "type": "ally",
-    "text": "<keyword>Fellowship:<\/keyword> Exert Barliman Butterbur to take a <symbol>gandalf<\/symbol> event into hand from your discard pile."
-}

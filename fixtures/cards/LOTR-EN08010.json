@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN08010.png",
+  "set_number": "8",
+  "rarity": "C",
+  "card_number": "10",
+  "name": "Legolas",
+  "unique": true,
+  "type": "Companion",
+  "subtype": "Elf",
+  "culture": "Elven",
+  "subtitle": "Elven Stalwart",
+  "twilight_cost": "2",
+  "strength": "6",
+  "vitality": "3",
+  "signet": "Aragorn",
+  "game_text": "<keyword>Archer</keyword>. While you can spot 3 wounded minions, each minion skirmishing Legolas is strength −3.",
+  "flavor_text": "“...Legolas of the Elves, for whom the ghosts of Men have no terror.”"
+}
