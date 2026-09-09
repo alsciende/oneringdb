@@ -13,7 +13,7 @@ class CardTest extends TestCase
 {
     public function testFullTitleOfANonUniqueCardHasNoMarker(): void
     {
-        $card = (new Card())
+        $card = new Card()
             ->setTitle('Aragorn')
             ->setUnique(false);
 
@@ -22,7 +22,7 @@ class CardTest extends TestCase
 
     public function testFullTitleOfAUniqueCardIsPrefixedWithTheUniqueSymbol(): void
     {
-        $card = (new Card())
+        $card = new Card()
             ->setTitle('Aragorn')
             ->setUnique(true);
 
@@ -31,7 +31,7 @@ class CardTest extends TestCase
 
     public function testFullTitleOfAUniqueCardWithASubtitle(): void
     {
-        $card = (new Card())
+        $card = new Card()
             ->setTitle('Aragorn')
             ->setSubtitle('Dúnadan Ranger')
             ->setUnique(true);

@@ -13,26 +13,26 @@ class CardTextExtensionTest extends TestCase
 {
     public function testNullTextReturnsEmptyString(): void
     {
-        $this->assertSame('', (new CardTextExtension())->markup(null));
+        $this->assertSame('', new CardTextExtension()->markup(null));
     }
 
     public function testKeywordTagIsTransformedIntoASpan(): void
     {
-        $result = (new CardTextExtension())->markup('<keyword>Ranger</keyword> only.');
+        $result = new CardTextExtension()->markup('<keyword>Ranger</keyword> only.');
 
         $this->assertSame('<span class="keyword">Ranger</span> only.', $result);
     }
 
     public function testPhaseTagIsTransformedIntoASpan(): void
     {
-        $result = (new CardTextExtension())->markup('During the <phase>fellowship phase</phase>.');
+        $result = new CardTextExtension()->markup('During the <phase>fellowship phase</phase>.');
 
         $this->assertSame('During the <span class="phase">fellowship phase</span>.', $result);
     }
 
     public function testNewlinesAreConvertedToLineBreaks(): void
     {
-        $result = (new CardTextExtension())->markup("Line 1\nLine 2");
+        $result = new CardTextExtension()->markup("Line 1\nLine 2");
 
         $this->assertSame("Line 1<br />\nLine 2", $result);
     }
