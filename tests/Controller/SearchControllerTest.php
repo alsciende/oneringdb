@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Tests\Controller;
 
 use App\Controller\SearchController;
+use App\Tests\TranslationCollector;
 use PHPUnit\Framework\Attributes\CoversClass;
 use PHPUnit\Framework\Attributes\DataProvider;
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
@@ -13,6 +14,8 @@ use Symfony\Component\HttpFoundation\Request;
 #[CoversClass(SearchController::class)]
 class SearchControllerTest extends WebTestCase
 {
+    use TranslationCollector;
+
     /**
      * @return array<array{string, int}>
      */
@@ -37,5 +40,22 @@ class SearchControllerTest extends WebTestCase
 
         $this->assertResponseIsSuccessful();
         $this->assertEquals($expectedResults, $crawler->filter('table.card-list tbody tr')->count());
+    }
+
+    public function testNoMissingTranslationsOnSearchResultsPage(): void
+    {
+        $client = static::createClient();
+
+        $client->enableProfiler();
+        $client->request(Request::METHOD_GET, '/');
+        self::assertResponseIsSuccessful();
+
+        $client->enableProfiler();
+        $client->submitForm('Search', [
+            'q' => 't:ring',
+        ], 'GET');
+        self::assertResponseIsSuccessful();
+
+        self::assertNoMissingTranslations();
     }
 }

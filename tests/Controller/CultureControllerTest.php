@@ -7,6 +7,7 @@ namespace App\Tests\Controller;
 use App\Controller\CultureController;
 use App\Enum\Culture;
 use App\Tests\DoctrineCollector;
+use App\Tests\TranslationCollector;
 use PHPUnit\Framework\Attributes\CoversClass;
 use PHPUnit\Framework\Attributes\DataProvider;
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
@@ -15,6 +16,7 @@ use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 class CultureControllerTest extends WebTestCase
 {
     use DoctrineCollector;
+    use TranslationCollector;
 
     /**
      * @return array<array<string>>
@@ -45,5 +47,16 @@ class CultureControllerTest extends WebTestCase
 
         // Les résultats de recherche sont marqués non-cacheable : 1 COUNT + 1 SELECT à chaque appel.
         self::assertDoctrineQueryCount(2);
+    }
+
+    public function testNoMissingTranslationsOnCulturePage(): void
+    {
+        $client = static::createClient();
+
+        $client->enableProfiler();
+        $client->request(\Symfony\Component\HttpFoundation\Request::METHOD_GET, '/culture/shire');
+        $this->assertResponseIsSuccessful();
+
+        self::assertNoMissingTranslations();
     }
 }

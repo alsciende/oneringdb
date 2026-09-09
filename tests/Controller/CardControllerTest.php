@@ -6,6 +6,7 @@ namespace App\Tests\Controller;
 
 use App\Controller\CardController;
 use App\Tests\DoctrineCollector;
+use App\Tests\TranslationCollector;
 use PHPUnit\Framework\Attributes\CoversClass;
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 use Symfony\Component\HttpFoundation\Request;
@@ -14,6 +15,7 @@ use Symfony\Component\HttpFoundation\Request;
 class CardControllerTest extends WebTestCase
 {
     use DoctrineCollector;
+    use TranslationCollector;
 
     public function testSecondVisitIsServedFromTheDoctrineCache(): void
     {
@@ -60,5 +62,16 @@ class CardControllerTest extends WebTestCase
         self::assertResponseIsSuccessful();
         self::assertSame(1, $crawler->filter('a[href="/card/01364"]')->count());
         self::assertSame(0, $crawler->filter('a[href="/card/01366"]')->count());
+    }
+
+    public function testNoMissingTranslationsOnCardPage(): void
+    {
+        $client = static::createClient();
+
+        $client->enableProfiler();
+        $client->request(Request::METHOD_GET, '/card/01001');
+        self::assertResponseIsSuccessful();
+
+        self::assertNoMissingTranslations();
     }
 }
