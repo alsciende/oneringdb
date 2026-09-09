@@ -39,3 +39,7 @@ a.card-name:hover {
 .phase {
     font-weight: bold;
 }
+
+.culture {
+    font-style: italic;
+}

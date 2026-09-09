@@ -38,8 +38,8 @@ class CardTextExtension extends AbstractExtension
         }
 
         $text = str_replace(
-            ['<keyword>', '</keyword>', '<phase>', '</phase>'],
-            ['<span class="keyword">', '</span>', '<span class="phase">', '</span>'],
+            ['<keyword>', '</keyword>', '<phase>', '</phase>', '<culture>', '</culture>'],
+            ['<span class="keyword">', '</span>', '<span class="phase">', '</span>', '<span class="culture">', '</span>'],
             $text,
         );
 

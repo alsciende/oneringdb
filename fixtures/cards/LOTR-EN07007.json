@@ -12,6 +12,6 @@
   "twilight_cost": "2",
   "strength": "6",
   "vitality": "3",
-  "game_text": "Damage +1.\n<phase>Response</phase>: If a <culture>Dwarven</culture> condition is about to be discarded by an opponent, exert a Dwarf or discard a <culture>Dwarven</culture> card from hand to prevent that.",
+  "game_text": "<keyword>Damage +1</keyword>.\n<phase>Response</phase>: If a <culture>Dwarven</culture> condition is about to be discarded by an opponent, exert a Dwarf or discard a <culture>Dwarven</culture> card from hand to prevent that.",
   "flavor_text": "“‘There are countless things still to see in Middle-earth, and great works to do.’”"
 }
