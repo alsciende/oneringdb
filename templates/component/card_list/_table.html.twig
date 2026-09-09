@@ -10,7 +10,7 @@
     <tbody>
     {% for card in pagerfanta %}
         <tr>
-            <td><a href="{{ path('app_card', {id:card.id}) }}" class="card-title">{{ card.getFullTitle() }}</a></td>
+            <td><a href="{{ path('app_card', {id:card.id}) }}" class="card-title" data-controller="tooltip" data-bs-title="{{ card }}">{{ card.getFullTitle() }}</a></td>
             <td>{% include 'component/_culture_icon.html.twig' with {culture:card.culture} %} {% include 'component/_culture_label.html.twig' with {culture:card.culture} %}</td>
             <td>{{ card.getTwilightCost() }}</td>
             <td>{{ card.type.value | trans({}, 'types') }}</td>
