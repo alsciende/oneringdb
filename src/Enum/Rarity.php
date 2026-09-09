@@ -17,4 +17,9 @@ enum Rarity: string
         'R' => self::Rare,
         'P' => self::Promotional,
     ];
+
+    public function getCode(): string
+    {
+        return array_search($this, self::CODES, true);
+    }
 }

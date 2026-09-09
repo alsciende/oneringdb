@@ -5,6 +5,7 @@
         <th scope="col">Culture</th>
         <th scope="col">Cost</th>
         <th scope="col">Type</th>
+        <th scope="col">Coll.</th>
     </tr>
     </thead>
     <tbody>
@@ -14,6 +15,7 @@
             <td>{% include 'component/_culture_icon.html.twig' with {culture:card.culture} %} {% include 'component/_culture_label.html.twig' with {culture:card.culture} %}</td>
             <td>{{ card.getTwilightCost() }}</td>
             <td>{{ card.type.value | trans({}, 'types') }}</td>
+            <td>{{ card.getCollectorInfo() }}</td>
         </tr>
     {% endfor %}
     </tbody>

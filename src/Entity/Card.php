@@ -378,6 +378,11 @@ class Card implements \Stringable
         return $this;
     }
 
+    public function getCollectorInfo(): string
+    {
+        return sprintf('%s%s%s', $this->getPublishedSet()->getPosition(), $this->getRarity()->getCode(), $this->getPosition());
+    }
+
     /**
      * @return array<string, mixed>
      */

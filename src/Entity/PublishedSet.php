@@ -20,6 +20,9 @@ class PublishedSet implements \Stringable
     #[ORM\Column(type: Types::STRING, nullable: false)]
     private string $id;
 
+    #[ORM\Column(type: Types::INTEGER, nullable: false)]
+    private int $position;
+
     #[ORM\Column(type: Types::STRING, length: 5, nullable: true)]
     private ?string $shorthand = null;
 
@@ -75,6 +78,18 @@ class PublishedSet implements \Stringable
     public function setSize(int $size): static
     {
         $this->size = $size;
+
+        return $this;
+    }
+
+    public function getPosition(): int
+    {
+        return $this->position;
+    }
+
+    public function setPosition(int $position): static
+    {
+        $this->position = $position;
 
         return $this;
     }
@@ -148,6 +163,7 @@ class PublishedSet implements \Stringable
     {
         return [
             'id' => $this->getId(),
+            'position' => $this->getPosition(),
             'name' => $this->getName(),
             'size' => $this->getSize(),
             'releaseDate' => $this->getReleaseDate(),
