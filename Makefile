@@ -1,19 +1,23 @@
-php = docker-compose -f docker/dev/compose.yaml exec symfony
+COMPOSER := docker run --rm --interactive --tty --volume ${PWD}:/app --workdir /app composer
+DOCKER := DOCKER_CONFIG=/tmp/docker-empty-config docker
+COMPOSE := DOCKER_CONFIG=/tmp/docker-empty-config docker-compose
+EXEC := ${COMPOSE} exec --interactive
+PHP := ${EXEC} symfony
 
 all: public/assets/importmap.json
 
 public/assets/importmap.json: assets/* assets/controllers/*
 	rm -rf public/assets/*
-	$(php) php bin/console asset-map:compile
+	$(PHP) php bin/console asset-map:compile
 
 build:
-	docker-compose -f docker/dev/compose.yaml build
+	$(COMPOSE) build
 
 up:
-	docker-compose -f docker/dev/compose.yaml up -d
+	$(COMPOSE) up -d
 
 down:
-	docker-compose -f docker/dev/compose.yaml down
+	$(COMPOSE) down
 
 clean:
 	rm -rf docker/dev/postgres/data
@@ -21,26 +25,26 @@ clean:
 	rm -rf vendor
 
 install:
-	$(php) composer install
-	$(php) php bin/console importmap:install
+	$(PHP) composer install
+	$(PHP) php bin/console importmap:install
 
 shell:
-	$(php) bash
+	$(PHP) bash
 
 lint:
-	$(php) bin/console lint:container
-	$(php) php vendor/bin/ecs --fix
-	$(php) php vendor/bin/rector
-	$(php) php vendor/bin/phpstan -v --memory-limit=-1
+	$(PHP) bin/console lint:container
+	$(PHP) php vendor/bin/ecs --fix
+	$(PHP) php vendor/bin/rector
+	$(PHP) php vendor/bin/phpstan -v --memory-limit=-1
 
 test:
-	$(php) php bin/phpunit
+	$(PHP) php bin/phpunit
 
 ci: lint test
 
 db:
-#	$(php) php bin/console doctrine:database:drop --force
-#	$(php) php bin/console doctrine:database:create
-	$(php) php bin/console doctrine:schema:drop -f
-	$(php) php bin/console doctrine:schema:create
-	$(php) php bin/console doctrine:fixtures:load -n
+#	$(PHP) php bin/console doctrine:database:drop --force
+#	$(PHP) php bin/console doctrine:database:create
+	$(PHP) php bin/console doctrine:schema:drop -f
+	$(PHP) php bin/console doctrine:schema:create
+	$(PHP) php bin/console doctrine:fixtures:load -n

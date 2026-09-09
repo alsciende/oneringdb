@@ -29,7 +29,7 @@ services:
     symfony:
         build: ./symfony/
         volumes:
-            - ../../:/var/www/html
+            - .:/var/www/html
         ports:
             - 8080:8000
         environment:
