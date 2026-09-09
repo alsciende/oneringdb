@@ -10,13 +10,8 @@
             </p>
         {% endif %}
         <p>
-            Type: {% include 'component/_type_hyperlink.html.twig' %}
+            Type: {% include 'component/_type_hyperlink.html.twig' %}{% if card.subtype is not null %} &mdash; {{ card.subtype }}{% endif %}
         </p>
-        {% if card.subtype is not null %}
-            <p>
-                Subtype: {{ card.subtype }}
-            </p>
-        {% endif %}
         <hr>
         {% include 'component/_card_effect.html.twig' %}
     </div>
