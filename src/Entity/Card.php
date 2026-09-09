@@ -138,6 +138,11 @@ class Card implements \Stringable
         return sprintf('%s, %s', $title, $this->subtitle);
     }
 
+    public function hasCulture(): bool
+    {
+        return $this->culture instanceof Culture;
+    }
+
     public function getCulture(): ?Culture
     {
         return $this->culture;
@@ -148,6 +153,11 @@ class Card implements \Stringable
         $this->culture = $culture;
 
         return $this;
+    }
+
+    public function hasTwilightCost(): bool
+    {
+        return is_int($this->twilightCost);
     }
 
     public function getTwilightCost(): ?int
@@ -318,6 +328,11 @@ class Card implements \Stringable
         return $this;
     }
 
+    public function hasSiteNumber(): bool
+    {
+        return is_int($this->siteNumber);
+    }
+
     public function getSiteNumber(): ?int
     {
         return $this->siteNumber;
@@ -328,6 +343,11 @@ class Card implements \Stringable
         $this->siteNumber = $siteNumber;
 
         return $this;
+    }
+
+    public function hasShadowNumber(): bool
+    {
+        return is_int($this->shadowNumber);
     }
 
     public function getShadowNumber(): ?int

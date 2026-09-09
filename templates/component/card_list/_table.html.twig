@@ -12,8 +12,20 @@
     {% for card in pagerfanta %}
         <tr>
             <td><a href="{{ path('app_card', {id:card.id}) }}" class="card-title" data-controller="tooltip" data-bs-title="{{ card }}">{{ card.getFullTitle() }}</a></td>
-            <td>{% include 'component/_culture_icon.html.twig' with {culture:card.culture} %} {% include 'component/_culture_label.html.twig' with {culture:card.culture} %}</td>
-            <td>{{ card.getTwilightCost() }}</td>
+            <td>
+                {% if card.hasCulture() %}
+                   {% include 'component/_culture_icon.html.twig' with {culture:card.culture} %} {% include 'component/_culture_label.html.twig' with {culture:card.culture} %}
+                {% elseif card.hasSiteNumber() %}
+                    Site {{ card.getSiteNumber() }}
+                {% endif %}
+            </td>
+            <td>
+                {% if card.hasTwilightCost() %}
+                    {{ card.getTwilightCost() }}
+                {% elseif card.hasShadowNumber() %}
+                    {{ card.getShadowNumber() }}
+                {% endif %}
+            </td>
             <td>{{ card.type.value | trans({}, 'types') }}</td>
             <td>{{ card.getCollectorInfo() }}</td>
         </tr>
