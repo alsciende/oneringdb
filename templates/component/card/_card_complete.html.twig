@@ -16,7 +16,7 @@
         {% include 'component/_card_effect.html.twig' %}
     </div>
     <div class="col">
-        <p class="fw-bold">{{ card.publishedSet.name }}</p>
+        <p class="fw-bold">{{ card.publishedSet.name }} &mdash; {{ card.getCollectorInfo() }}</p>
         {% include 'component/_card_image.html.twig' %}
     </div>
 </div>

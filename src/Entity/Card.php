@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace App\Entity;
 
+use App\Entity\CardTypes\{AllyCard, ArtifactCard, CompanionCard, ConditionCard, EventCard, FollowerCard, MinionCard, PossessionCard, RingCard, SiteCard};
 use App\Enum\{Culture, Rarity, Type};
 use App\Repository\CardRepository;
 use Doctrine\DBAL\Types\Types;
@@ -11,13 +12,36 @@ use Doctrine\ORM\Mapping as ORM;
 use Doctrine\ORM\Mapping\Cache;
 
 #[ORM\Entity(repositoryClass: CardRepository::class)]
+#[ORM\InheritanceType('SINGLE_TABLE')]
+#[ORM\DiscriminatorColumn(name: 'type', type: 'string')]
+#[ORM\DiscriminatorMap(self::TYPE_ENTITY_CLASSES)]
 #[Cache(usage: 'READ_ONLY')]
 #[ORM\UniqueConstraint(
     name: 'uniq_published_set_position',
     columns: ['published_set_id', 'position'],
 )]
-class Card implements \Stringable
+abstract class Card implements \Stringable
 {
+    /**
+     * Single source of truth for the Type <-> concrete Card subclass mapping, reused by the
+     * discriminator map above and by any code that needs to go from a Type to its entity class
+     * (e.g. TypeSearchQueryBuilder, CardFixtures).
+     *
+     * @var array<string, class-string<Card>>
+     */
+    public const array TYPE_ENTITY_CLASSES = [
+        Type::Ally->value => AllyCard::class,
+        Type::Artifact->value => ArtifactCard::class,
+        Type::Companion->value => CompanionCard::class,
+        Type::Condition->value => ConditionCard::class,
+        Type::Event->value => EventCard::class,
+        Type::Minion->value => MinionCard::class,
+        Type::Possession->value => PossessionCard::class,
+        Type::Ring->value => RingCard::class,
+        Type::Site->value => SiteCard::class,
+        Type::Follower->value => FollowerCard::class,
+    ];
+
     private const string UNIQUE_SYMBOL = '•';
 
     #[ORM\Id]
@@ -35,9 +59,6 @@ class Card implements \Stringable
 
     #[ORM\Column(nullable: true)]
     private ?int $twilightCost = null;
-
-    #[ORM\Column(type: Types::STRING, enumType: Type::class, nullable: false)]
-    private Type $type;
 
     #[ORM\Column('text', length: 1024, nullable: true)]
     private ?string $text = null;
@@ -172,17 +193,7 @@ class Card implements \Stringable
         return $this;
     }
 
-    public function getType(): Type
-    {
-        return $this->type;
-    }
-
-    public function setType(Type $type): static
-    {
-        $this->type = $type;
-
-        return $this;
-    }
+    abstract public function getType(): Type;
 
     public function getText(): ?string
     {
@@ -400,7 +411,7 @@ class Card implements \Stringable
 
     public function getCollectorInfo(): string
     {
-        return sprintf('%s%s%s', $this->getPublishedSet()->getPosition(), $this->getRarity()->getCode(), $this->getPosition());
+        return sprintf("%s\u{202F}%s\u{202F}%s", $this->getPublishedSet()->getPosition(), $this->getRarity()->getCode(), $this->getPosition());
     }
 
     /**

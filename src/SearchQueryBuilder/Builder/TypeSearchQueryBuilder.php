@@ -4,7 +4,9 @@ declare(strict_types=1);
 
 namespace App\SearchQueryBuilder\Builder;
 
+use App\Entity\Card;
 use App\Enum\Type;
+use App\Exception\BadOperatorException;
 use App\Exception\BadValueException;
 use App\Search\Operand;
 use App\Search\Operator;
@@ -26,8 +28,12 @@ class TypeSearchQueryBuilder extends AbstractSearchQueryBuilder
             throw new BadValueException($value, $this->getName());
         }
 
-        $queryBuilder
-            ->andWhere("c.type {$this->getOperator($operator)} :{$identifier}")
-            ->setParameter($identifier, $type);
+        $not = match ($operator) {
+            Operator::EQ => '',
+            Operator::NE => 'NOT ',
+            default => throw new BadOperatorException($operator->value, $this->getName()),
+        };
+
+        $queryBuilder->andWhere("c {$not}INSTANCE OF " . Card::TYPE_ENTITY_CLASSES[$type->value]);
     }
 }

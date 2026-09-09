@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace App\Tests\Entity;
 
 use App\Entity\Card;
+use App\Entity\CardTypes\CompanionCard;
 use PHPUnit\Framework\Attributes\CoversClass;
 use PHPUnit\Framework\TestCase;
 
@@ -13,7 +14,7 @@ class CardTest extends TestCase
 {
     public function testFullTitleOfANonUniqueCardHasNoMarker(): void
     {
-        $card = new Card()
+        $card = new CompanionCard()
             ->setTitle('Aragorn')
             ->setUnique(false);
 
@@ -22,7 +23,7 @@ class CardTest extends TestCase
 
     public function testFullTitleOfAUniqueCardIsPrefixedWithTheUniqueSymbol(): void
     {
-        $card = new Card()
+        $card = new CompanionCard()
             ->setTitle('Aragorn')
             ->setUnique(true);
 
@@ -31,7 +32,7 @@ class CardTest extends TestCase
 
     public function testFullTitleOfAUniqueCardWithASubtitle(): void
     {
-        $card = new Card()
+        $card = new CompanionCard()
             ->setTitle('Aragorn')
             ->setSubtitle('Dúnadan Ranger')
             ->setUnique(true);

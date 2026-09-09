@@ -45,14 +45,15 @@ class CardFixtures extends Fixture implements DependentFixtureInterface
                 throw new \RuntimeException("Cannot find published set {$setId} for {$file}");
             }
 
-            $card = new Card();
+            $type = Type::from(strtolower($dto->type));
+            $entityClass = Card::TYPE_ENTITY_CLASSES[$type->value];
+            $card = new $entityClass();
             $card->setId(sprintf('%02d%03d', (int) $dto->setNumber, (int) $dto->cardNumber));
             $card->setPublishedSet($publishedSet);
             $card->setTitle($dto->name);
             $card->setSubtitle($dto->subtitle);
             $card->setCulture($dto->culture !== null ? Culture::from(strtolower($dto->culture)) : null);
             $card->setTwilightCost($dto->twilightCost !== null ? (int) $dto->twilightCost : null);
-            $card->setType(Type::from(strtolower($dto->type)));
             $card->setText($dto->gameText);
             $card->setLore($dto->flavorText);
             $card->setPosition((int) $dto->cardNumber);
