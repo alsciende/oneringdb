@@ -18,6 +18,8 @@ use Doctrine\ORM\Mapping\Cache;
 )]
 class Card implements \Stringable
 {
+    private const string UNIQUE_SYMBOL = '•';
+
     #[ORM\Id]
     #[ORM\Column(length: 50, nullable: false)]
     private string $id;
@@ -127,11 +129,13 @@ class Card implements \Stringable
 
     public function getFullTitle(): string
     {
+        $title = $this->unique ? sprintf('%s%s', self::UNIQUE_SYMBOL, $this->title) : $this->title;
+
         if (! is_string($this->subtitle)) {
-            return $this->title;
+            return $title;
         }
 
-        return sprintf('%s, %s', $this->title, $this->subtitle);
+        return sprintf('%s, %s', $title, $this->subtitle);
     }
 
     public function getCulture(): ?Culture
