@@ -73,4 +73,46 @@ class CardRepository extends ServiceEntityRepository
             ->setCacheable(true)
             ->getOneOrNullResult();
     }
+
+    /**
+     * Used by CardController to link to the previous card of the same published set.
+     */
+    public function findPreviousCard(Card $card): ?Card
+    {
+        if ($card->getPosition() === null) {
+            return null;
+        }
+
+        return $this->createQueryBuilder('c')
+            ->where('c.publishedSet = :publishedSet')
+            ->andWhere('c.position < :position')
+            ->setParameter('publishedSet', $card->getPublishedSet())
+            ->setParameter('position', $card->getPosition())
+            ->orderBy('c.position', 'DESC')
+            ->setMaxResults(1)
+            ->getQuery()
+            ->setCacheable(true)
+            ->getOneOrNullResult();
+    }
+
+    /**
+     * Used by CardController to link to the next card of the same published set.
+     */
+    public function findNextCard(Card $card): ?Card
+    {
+        if ($card->getPosition() === null) {
+            return null;
+        }
+
+        return $this->createQueryBuilder('c')
+            ->where('c.publishedSet = :publishedSet')
+            ->andWhere('c.position > :position')
+            ->setParameter('publishedSet', $card->getPublishedSet())
+            ->setParameter('position', $card->getPosition())
+            ->orderBy('c.position', 'ASC')
+            ->setMaxResults(1)
+            ->getQuery()
+            ->setCacheable(true)
+            ->getOneOrNullResult();
+    }
 }

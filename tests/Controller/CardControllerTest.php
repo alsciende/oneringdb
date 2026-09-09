@@ -31,4 +31,34 @@ class CardControllerTest extends WebTestCase
         // Card et PublishedSet sont en cache Doctrine (L2C, READ_ONLY) : le 2e appel ne doit exécuter aucune requête SQL.
         self::assertDoctrineQueryCount(0);
     }
+
+    public function testCardInTheMiddleOfASetLinksToPreviousAndNextCard(): void
+    {
+        $client = static::createClient();
+        $crawler = $client->request(Request::METHOD_GET, '/card/01004');
+
+        self::assertResponseIsSuccessful();
+        self::assertSame(1, $crawler->filter('a[href="/card/01003"]')->count());
+        self::assertSame(1, $crawler->filter('a[href="/card/01005"]')->count());
+    }
+
+    public function testFirstCardOfASetHasNoLinkToAPreviousCard(): void
+    {
+        $client = static::createClient();
+        $crawler = $client->request(Request::METHOD_GET, '/card/01001');
+
+        self::assertResponseIsSuccessful();
+        self::assertSame(0, $crawler->filter('a[href="/card/01000"]')->count());
+        self::assertSame(1, $crawler->filter('a[href="/card/01002"]')->count());
+    }
+
+    public function testLastCardOfASetHasNoLinkToANextCard(): void
+    {
+        $client = static::createClient();
+        $crawler = $client->request(Request::METHOD_GET, '/card/01365');
+
+        self::assertResponseIsSuccessful();
+        self::assertSame(1, $crawler->filter('a[href="/card/01364"]')->count());
+        self::assertSame(0, $crawler->filter('a[href="/card/01366"]')->count());
+    }
 }

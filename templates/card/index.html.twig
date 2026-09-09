@@ -5,5 +5,18 @@
 {% block body %}
     <div class="container">
         {% include 'component/card/_card_complete.html.twig' %}
+
+        <div class="d-flex justify-content-between mt-3">
+            <div>
+                {% if previousCard %}
+                    <a href="{{ path('app_card', {id: previousCard.id}) }}">&laquo; {{ previousCard.fullTitle }}</a>
+                {% endif %}
+            </div>
+            <div>
+                {% if nextCard %}
+                    <a href="{{ path('app_card', {id: nextCard.id}) }}">{{ nextCard.fullTitle }} &raquo;</a>
+                {% endif %}
+            </div>
+        </div>
     </div>
 {% endblock %}

@@ -38,4 +38,41 @@ class CardRepositoryTest extends KernelTestCase
 
         $this->assertCount($count, $repository->search($query)->getQuery()->getResult());
     }
+
+    public function testFindPreviousCardReturnsNullForTheFirstCardOfASet(): void
+    {
+        self::bootKernel();
+
+        /** @var CardRepository $repository */
+        $repository = static::getContainer()->get(CardRepository::class);
+        $card = $repository->getCard('01001');
+
+        $this->assertNotNull($card);
+        $this->assertNull($repository->findPreviousCard($card));
+    }
+
+    public function testFindNextCardReturnsNullForTheLastCardOfASet(): void
+    {
+        self::bootKernel();
+
+        /** @var CardRepository $repository */
+        $repository = static::getContainer()->get(CardRepository::class);
+        $card = $repository->getCard('01365');
+
+        $this->assertNotNull($card);
+        $this->assertNull($repository->findNextCard($card));
+    }
+
+    public function testFindPreviousAndNextCardForACardInTheMiddleOfASet(): void
+    {
+        self::bootKernel();
+
+        /** @var CardRepository $repository */
+        $repository = static::getContainer()->get(CardRepository::class);
+        $card = $repository->getCard('01004');
+
+        $this->assertNotNull($card);
+        $this->assertSame('01003', $repository->findPreviousCard($card)?->getId());
+        $this->assertSame('01005', $repository->findNextCard($card)?->getId());
+    }
 }
