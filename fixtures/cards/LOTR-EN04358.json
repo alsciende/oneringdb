@@ -1,0 +1,13 @@
+{
+    "file": "LOTR-EN04358.png",
+    "set_number": "4",
+    "rarity": "U",
+    "card_number": "358",
+    "name": "Ring of Isengard",
+    "unique": false,
+    "type": "Site",
+    "culture": null,
+    "site_number": "8",
+    "shadow_number": "7",
+    "game_text": "<phase>Shadow</phase>: Play a <culture>Dunland</culture> minion to draw a card."
+}

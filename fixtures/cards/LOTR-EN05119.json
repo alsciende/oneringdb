@@ -1,0 +1,13 @@
+{
+    "file": "LOTR-EN05119.png",
+    "set_number": "5",
+    "rarity": "U",
+    "card_number": "119",
+    "name": "Nan Curunír",
+    "unique": false,
+    "type": "Site",
+    "culture": null,
+    "site_number": "8",
+    "shadow_number": "8",
+    "game_text": "Plains. <phase>Response</phase>: If your mounted minion is about to take a wound, remove <twilight>2</twilight> to prevent that wound."
+}
