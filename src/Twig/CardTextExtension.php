@@ -9,6 +9,19 @@ use Twig\TwigFilter;
 
 class CardTextExtension extends AbstractExtension
 {
+    private const array TWILIGHT_SYMBOLS = [
+        '1' => '❶',
+        '2' => '❷',
+        '3' => '❸',
+        '4' => '❹',
+        '5' => '❺',
+        '6' => '❻',
+        '7' => '❼',
+        '8' => '❽',
+        '9' => '❾',
+        'X' => '🅧',
+    ];
+
     public function getFilters(): array
     {
         return [
@@ -29,6 +42,12 @@ class CardTextExtension extends AbstractExtension
             ['<span class="keyword">', '</span>', '<span class="phase">', '</span>'],
             $text,
         );
+
+        $text = preg_replace_callback(
+            '/<twilight>(.)<\/twilight>/',
+            static fn (array $matches): string => self::TWILIGHT_SYMBOLS[$matches[1]] ?? $matches[0],
+            $text,
+        ) ?? $text;
 
         return nl2br($text);
     }

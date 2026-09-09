@@ -36,4 +36,25 @@ class CardTextExtensionTest extends TestCase
 
         $this->assertSame("Line 1<br />\nLine 2", $result);
     }
+
+    public function testTwilightDigitTagIsTransformedIntoASymbol(): void
+    {
+        $result = new CardTextExtension()->markup('Twilight cost: <twilight>3</twilight>.');
+
+        $this->assertSame('Twilight cost: ❸.', $result);
+    }
+
+    public function testTwilightXTagIsTransformedIntoASymbol(): void
+    {
+        $result = new CardTextExtension()->markup('Twilight cost: <twilight>X</twilight>.');
+
+        $this->assertSame('Twilight cost: 🅧.', $result);
+    }
+
+    public function testUnknownTwilightValueIsLeftUnchanged(): void
+    {
+        $result = new CardTextExtension()->markup('<twilight>?</twilight>');
+
+        $this->assertSame('<twilight>?</twilight>', $result);
+    }
 }

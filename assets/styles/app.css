@@ -1,4 +1,5 @@
 body {
+    font-family: serif;
 }
 
 .bi {
@@ -20,10 +21,6 @@ body {
 abbr {
     text-decoration: underline;
     text-decoration-style: dotted;
-}
-
-span.token-T {
-    color: palegoldenrod;
 }
 
 .card-name-display {
