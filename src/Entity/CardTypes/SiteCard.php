@@ -32,12 +32,18 @@ class SiteCard extends Card
     #[\Override]
     public function getRowTemplate(): string
     {
-        return 'component/card_list/_row_site.html.twig';
+        return 'component/card_list/row/_site.html.twig';
     }
 
     #[\Override]
     public function getTextTemplate(): string
     {
-        return 'component/_card_text_site.html.twig';
+        return 'component/card_list/text/_site.html.twig';
+    }
+
+    #[\Override]
+    public function getDetailTemplate(): string
+    {
+        return 'component/card/complete/_site.html.twig';
     }
 }

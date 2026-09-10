@@ -32,12 +32,18 @@ class RingCard extends Card
     #[\Override]
     public function getRowTemplate(): string
     {
-        return 'component/card_list/_row_ring.html.twig';
+        return 'component/card_list/row/_ring.html.twig';
     }
 
     #[\Override]
     public function getTextTemplate(): string
     {
-        return 'component/_card_text_ring.html.twig';
+        return 'component/card_list/text/_ring.html.twig';
+    }
+
+    #[\Override]
+    public function getDetailTemplate(): string
+    {
+        return 'component/card/complete/_ring.html.twig';
     }
 }

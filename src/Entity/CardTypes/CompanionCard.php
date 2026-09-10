@@ -46,4 +46,10 @@ class CompanionCard extends Card
     {
         return $this->getSignet() !== null;
     }
+
+    #[\Override]
+    public function hasSubtype(): bool
+    {
+        return $this->getSubtype() !== null;
+    }
 }

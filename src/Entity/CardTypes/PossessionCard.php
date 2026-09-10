@@ -40,4 +40,10 @@ class PossessionCard extends Card
     {
         return $this->getVitalityModifier() !== null;
     }
+
+    #[\Override]
+    public function hasSubtype(): bool
+    {
+        return $this->getSubtype() !== null;
+    }
 }

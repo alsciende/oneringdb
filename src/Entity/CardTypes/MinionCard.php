@@ -46,4 +46,10 @@ class MinionCard extends Card
     {
         return is_int($this->getSiteNumber());
     }
+
+    #[\Override]
+    public function hasSubtype(): bool
+    {
+        return $this->getSubtype() !== null;
+    }
 }

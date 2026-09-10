@@ -46,4 +46,10 @@ class ConditionCard extends Card
     {
         return $this->getSiteNumberModifier() !== null;
     }
+
+    #[\Override]
+    public function hasSubtype(): bool
+    {
+        return $this->getSubtype() !== null;
+    }
 }

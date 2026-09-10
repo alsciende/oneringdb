@@ -285,6 +285,14 @@ abstract class Card implements \Stringable
         return $this;
     }
 
+    /**
+     * Overridden by the concrete Card subtypes that actually have a subtype.
+     */
+    public function hasSubtype(): bool
+    {
+        return false;
+    }
+
     public function getSubtype(): ?string
     {
         return $this->subtype;
@@ -483,7 +491,7 @@ abstract class Card implements \Stringable
      */
     public function getRowTemplate(): string
     {
-        return 'component/card_list/_row_default.html.twig';
+        return 'component/card_list/row/_default.html.twig';
     }
 
     /**
@@ -492,7 +500,16 @@ abstract class Card implements \Stringable
      */
     public function getTextTemplate(): string
     {
-        return 'component/_card_text.html.twig';
+        return 'component/card_list/text/_default.html.twig';
+    }
+
+    /**
+     * The template used to render this card's full detail page. Overridden by concrete Card
+     * subtypes that need a different layout.
+     */
+    public function getDetailTemplate(): string
+    {
+        return 'component/card/complete/_default.html.twig';
     }
 
     public function getCollectorInfo(): string

@@ -46,4 +46,10 @@ class AllyCard extends Card
     {
         return $this->getHomeSite() !== null;
     }
+
+    #[\Override]
+    public function hasSubtype(): bool
+    {
+        return $this->getSubtype() !== null;
+    }
 }

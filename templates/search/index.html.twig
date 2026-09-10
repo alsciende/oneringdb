@@ -31,7 +31,7 @@
         {{ form_end(form) }}
         {% if single_card %}
             {% for card in pagerfanta %}
-                {{ include('component/card/_card_complete.html.twig') }}
+                {{ include(card.detailTemplate) }}
             {% endfor %}
         {% else %}
             {{ include('component/card_list/_pagination.html.twig') }}

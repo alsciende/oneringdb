@@ -1,0 +1,20 @@
+<div class="row">
+    <div class="col">
+        <h1 class="card-name card-name-display">{{ card.fullTitle }}</h1>
+        <p>
+            Site {{ card.getSiteNumber() }}
+        </p>
+        <p>
+            Shadow: {{ card.getShadowNumber() }}
+        </p>
+        <p>
+            Type: {% include 'component/_type_hyperlink.html.twig' %}
+        </p>
+        <hr>
+        {% include 'component/_card_effect.html.twig' %}
+    </div>
+    <div class="col">
+        <p class="fw-bold">{{ card.publishedSet.name }} &mdash; {{ card.getCollectorInfo() }}</p>
+        {% include 'component/_card_image.html.twig' %}
+    </div>
+</div>

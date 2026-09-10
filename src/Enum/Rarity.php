@@ -6,6 +6,8 @@ namespace App\Enum;
 
 enum Rarity: string
 {
+    private const string UNKNOWN = '?';
+
     case Common = 'common';
     case Uncommon = 'uncommon';
     case Rare = 'rare';
@@ -20,6 +22,6 @@ enum Rarity: string
 
     public function getCode(): string
     {
-        return array_search($this, self::CODES, true);
+        return array_search($this, self::CODES, true) ?: self::UNKNOWN;
     }
 }

@@ -28,4 +28,10 @@ class EventCard extends Card
     {
         return is_int($this->getTwilightCost());
     }
+
+    #[\Override]
+    public function hasSubtype(): bool
+    {
+        return $this->getSubtype() !== null;
+    }
 }
