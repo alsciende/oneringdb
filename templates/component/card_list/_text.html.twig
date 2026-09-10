@@ -3,9 +3,7 @@
         <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-12">
             <div class="m-1 p-2 border rounded">
                 <p class="fs-4">
-                    <a href="{{ path('app_card', {id:card.id}) }}" class="card-name card-name-display">
-                        {{ card.fullTitle }}
-                    </a>
+                    {% include 'component/_card_name_link.html.twig' with {card: card, class: 'card-name card-name-display'} %}
                 </p>
                 {% include card.textTemplate %}
 

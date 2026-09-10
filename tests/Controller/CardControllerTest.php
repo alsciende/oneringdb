@@ -74,4 +74,14 @@ class CardControllerTest extends WebTestCase
 
         self::assertNoMissingTranslations();
     }
+
+    public function testModalRouteRendersCardDetailWithoutTheSurroundingLayout(): void
+    {
+        $client = static::createClient();
+        $crawler = $client->request(Request::METHOD_GET, '/card/01001/modal');
+
+        self::assertResponseIsSuccessful();
+        self::assertSame(0, $crawler->filter('nav.navbar')->count());
+        self::assertSame(1, $crawler->filter('.card-name-display')->count());
+    }
 }

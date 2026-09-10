@@ -8,9 +8,7 @@
         </div>
         <div class="col border">
             <h2 class="mt-2">
-                <a href="{{ path('app_card', {id:card.id}) }}" class="card-name card-name-display">
-                    {{ card.fullTitle }}
-                </a>
+                {% include 'component/_card_name_link.html.twig' with {card: card, class: 'card-name card-name-display'} %}
             </h2>
             <p>
                 Culture: {% include 'component/_culture_hyperlink.html.twig' with {culture:card.culture} %}

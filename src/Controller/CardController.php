@@ -24,4 +24,13 @@ class CardController extends AbstractController
             'nextCard' => $cardRepository->findNextCard($card),
         ]);
     }
+
+    #[Route('/card/{id}/modal', name: 'app_card_modal')]
+    public function modal(
+        #[MapEntity(expr: 'repository.getCard(id)')] Card $card,
+    ): Response {
+        return $this->render('card/_modal.html.twig', [
+            'card' => $card,
+        ]);
+    }
 }

@@ -1,0 +1,5 @@
+<a href="{{ path('app_card', {id: card.id}) }}"
+   class="{{ class|default('') }}"
+   {% if tooltip|default(false) %}data-controller="tooltip" data-bs-title="{{ card }}"{% endif %}
+   data-action="card-modal#open"
+   data-card-modal-modal-url-param="{{ path('app_card_modal', {id: card.id}) }}">{{ card.fullTitle }}</a>

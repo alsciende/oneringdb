@@ -1,5 +1,5 @@
 <tr>
-    <td><a href="{{ path('app_card', {id:card.id}) }}" class="card-title" data-controller="tooltip" data-bs-title="{{ card }}">{{ card.getFullTitle() }}</a></td>
+    <td>{% include 'component/_card_name_link.html.twig' with {card: card, class: 'card-title', tooltip: true} %}</td>
     <td>Site {{ card.getSiteNumber() }}</td>
     <td>{{ card.getShadowNumber() }}</td>
     <td>{{ card.type.value | trans({}, 'types') }}</td>

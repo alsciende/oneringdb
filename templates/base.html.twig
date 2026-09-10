@@ -16,10 +16,11 @@
         {% block importmap %}{{ importmap('app') }}{% endblock %}
     {% endblock %}
 </head>
-<body>
+<body data-controller="card-modal">
 {% include 'navbar.html.twig' %}
 {% include 'flash.html.twig' %}
 {% block body %}{% endblock %}
 {% include 'footer.html.twig' %}
+{% include 'modal.html.twig' %}
 </body>
 </html>
