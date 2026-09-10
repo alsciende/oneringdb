@@ -16,4 +16,28 @@ class RingCard extends Card
     {
         return Type::Ring;
     }
+
+    #[\Override]
+    public function hasStrengthModifier(): bool
+    {
+        return $this->getStrengthModifier() !== null;
+    }
+
+    #[\Override]
+    public function hasVitalityModifier(): bool
+    {
+        return $this->getVitalityModifier() !== null;
+    }
+
+    #[\Override]
+    public function getRowTemplate(): string
+    {
+        return 'component/card_list/_row_ring.html.twig';
+    }
+
+    #[\Override]
+    public function getTextTemplate(): string
+    {
+        return 'component/_card_text_ring.html.twig';
+    }
 }

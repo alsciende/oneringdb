@@ -159,9 +159,12 @@ abstract class Card implements \Stringable
         return sprintf('%s, %s', $title, $this->subtitle);
     }
 
+    /**
+     * Overridden by the concrete Card subtypes that actually have a culture.
+     */
     public function hasCulture(): bool
     {
-        return $this->culture instanceof Culture;
+        return false;
     }
 
     public function getCulture(): ?Culture
@@ -176,9 +179,12 @@ abstract class Card implements \Stringable
         return $this;
     }
 
+    /**
+     * Overridden by the concrete Card subtypes that actually have a twilight cost.
+     */
     public function hasTwilightCost(): bool
     {
-        return is_int($this->twilightCost);
+        return false;
     }
 
     public function getTwilightCost(): ?int
@@ -291,6 +297,14 @@ abstract class Card implements \Stringable
         return $this;
     }
 
+    /**
+     * Overridden by the concrete Card subtypes that actually have a strength.
+     */
+    public function hasStrength(): bool
+    {
+        return false;
+    }
+
     public function getStrength(): ?int
     {
         return $this->strength;
@@ -301,6 +315,14 @@ abstract class Card implements \Stringable
         $this->strength = $strength;
 
         return $this;
+    }
+
+    /**
+     * Overridden by the concrete Card subtypes that actually have a vitality.
+     */
+    public function hasVitality(): bool
+    {
+        return false;
     }
 
     public function getVitality(): ?int
@@ -315,6 +337,14 @@ abstract class Card implements \Stringable
         return $this;
     }
 
+    /**
+     * Overridden by the concrete Card subtypes that actually have a strength modifier.
+     */
+    public function hasStrengthModifier(): bool
+    {
+        return false;
+    }
+
     public function getStrengthModifier(): ?string
     {
         return $this->strengthModifier;
@@ -325,6 +355,14 @@ abstract class Card implements \Stringable
         $this->strengthModifier = $strengthModifier;
 
         return $this;
+    }
+
+    /**
+     * Overridden by the concrete Card subtypes that actually have a vitality modifier.
+     */
+    public function hasVitalityModifier(): bool
+    {
+        return false;
     }
 
     public function getVitalityModifier(): ?string
@@ -339,9 +377,12 @@ abstract class Card implements \Stringable
         return $this;
     }
 
+    /**
+     * Overridden by the concrete Card subtypes that actually have a site number.
+     */
     public function hasSiteNumber(): bool
     {
-        return is_int($this->siteNumber);
+        return false;
     }
 
     public function getSiteNumber(): ?int
@@ -356,9 +397,12 @@ abstract class Card implements \Stringable
         return $this;
     }
 
+    /**
+     * Overridden by the concrete Card subtypes that actually have a shadow number.
+     */
     public function hasShadowNumber(): bool
     {
-        return is_int($this->shadowNumber);
+        return false;
     }
 
     public function getShadowNumber(): ?int
@@ -373,6 +417,14 @@ abstract class Card implements \Stringable
         return $this;
     }
 
+    /**
+     * Overridden by the concrete Card subtypes that actually have a signet.
+     */
+    public function hasSignet(): bool
+    {
+        return false;
+    }
+
     public function getSignet(): ?string
     {
         return $this->signet;
@@ -383,6 +435,14 @@ abstract class Card implements \Stringable
         $this->signet = $signet;
 
         return $this;
+    }
+
+    /**
+     * Overridden by the concrete Card subtypes that actually have a home site.
+     */
+    public function hasHomeSite(): bool
+    {
+        return false;
     }
 
     public function getHomeSite(): ?string
@@ -397,6 +457,14 @@ abstract class Card implements \Stringable
         return $this;
     }
 
+    /**
+     * Overridden by the concrete Card subtypes that actually have a site number modifier.
+     */
+    public function hasSiteNumberModifier(): bool
+    {
+        return false;
+    }
+
     public function getSiteNumberModifier(): ?string
     {
         return $this->siteNumberModifier;
@@ -407,6 +475,24 @@ abstract class Card implements \Stringable
         $this->siteNumberModifier = $siteNumberModifier;
 
         return $this;
+    }
+
+    /**
+     * The template used to render this card as a row in a card list. Overridden by concrete
+     * Card subtypes that need a different layout.
+     */
+    public function getRowTemplate(): string
+    {
+        return 'component/card_list/_row_default.html.twig';
+    }
+
+    /**
+     * The template used to render this card's details in a text-mode card list. Overridden by
+     * concrete Card subtypes that need a different layout.
+     */
+    public function getTextTemplate(): string
+    {
+        return 'component/_card_text.html.twig';
     }
 
     public function getCollectorInfo(): string
