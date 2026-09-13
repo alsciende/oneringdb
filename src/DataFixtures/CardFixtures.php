@@ -9,6 +9,7 @@ use App\Entity\Card;
 use App\Entity\PublishedSet;
 use App\Enum\Culture;
 use App\Enum\Rarity;
+use App\Enum\Subtype;
 use App\Enum\Type;
 use Doctrine\Bundle\FixturesBundle\Fixture;
 use Doctrine\Common\DataFixtures\DependentFixtureInterface;
@@ -60,7 +61,7 @@ class CardFixtures extends Fixture implements DependentFixtureInterface
             $card->setImageUrl(sprintf('https://lotrtcgwiki.com/wiki/_media/cards:lotr%s.jpg', $card->getId()));
             $card->setRarity(Rarity::CODES[$dto->rarity] ?? throw new \RuntimeException("Unknown rarity code \"{$dto->rarity}\" in {$file}"));
             $card->setUnique($dto->unique);
-            $card->setSubtype($dto->subtype);
+            $card->setSubtype($dto->subtype !== null ? Subtype::from($dto->subtype) : null);
             $card->setStrength($dto->strength !== null ? (int) $dto->strength : null);
             $card->setVitality($dto->vitality !== null ? (int) $dto->vitality : null);
             $card->setStrengthModifier($dto->strengthModifier);

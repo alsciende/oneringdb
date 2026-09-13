@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace App\Entity;
 
 use App\Entity\CardTypes\{AllyCard, ArtifactCard, CompanionCard, ConditionCard, EventCard, FollowerCard, MinionCard, PossessionCard, RingCard, SiteCard};
-use App\Enum\{Culture, Rarity, Type};
+use App\Enum\{Culture, Rarity, Subtype, Type};
 use App\Repository\CardRepository;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
@@ -82,8 +82,8 @@ abstract class Card implements \Stringable
     #[ORM\Column(name: 'is_unique', type: Types::BOOLEAN, nullable: false)]
     private bool $unique;
 
-    #[ORM\Column(length: 100, nullable: true)]
-    private ?string $subtype = null;
+    #[ORM\Column(type: Types::STRING, length: 100, enumType: Subtype::class, nullable: true)]
+    private ?Subtype $subtype = null;
 
     #[ORM\Column(type: Types::INTEGER, nullable: true)]
     private ?int $strength = null;
@@ -303,12 +303,12 @@ abstract class Card implements \Stringable
         return false;
     }
 
-    public function getSubtype(): ?string
+    public function getSubtype(): ?Subtype
     {
         return $this->subtype;
     }
 
-    public function setSubtype(?string $subtype): static
+    public function setSubtype(?Subtype $subtype): static
     {
         $this->subtype = $subtype;
 

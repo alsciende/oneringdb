@@ -21,7 +21,7 @@
             <p>
                 Type: {% include 'component/_type_hyperlink.html.twig' %}
                 {% if card.hasSubtype %}
-                    &mdash; {{ card.subtype }}
+                    &mdash; {{ card.subtype.value }}
                 {% endif %}
             </p>
             <hr>
