@@ -11,8 +11,8 @@ card_search_health_input_placeholder: ""
 card_search_illustrator_input_label: Illustrator
 card_search_input_placeholder: Card Search
 card_search_title_input_label: Card Name
-card_search_pack_input_label: Card Set
-card_search_pack_input_placeholder: ""
+card_search_published_set_input_label: Card Set
+card_search_published_set_input_placeholder: ""
 card_search_submit_label: Search
 card_search_subtype_input_label: Subtype
 card_search_subtype_input_placeholder: ""
