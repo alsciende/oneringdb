@@ -12,6 +12,7 @@ enum Operand: string
     case Title = '_';
     case Culture = 'c';
     case Type = 't';
+    case Subtype = 's';
     case TwilightCost = 'o';
     case Text = 'x';
     case Pack = 'p';

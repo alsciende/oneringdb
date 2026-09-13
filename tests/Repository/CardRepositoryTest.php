@@ -22,6 +22,7 @@ class CardRepositoryTest extends KernelTestCase
             ['rosie c:shire', 1],
             ['rosie c:shire t:ally', 1],
             ['rosie c:gondor', 0],
+            ['s:elf', 55],
             ['x:pipeweed', 7],
             ['p:01', 365],
             ['p:01 _!rosie', 364],

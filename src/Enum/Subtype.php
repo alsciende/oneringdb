@@ -4,7 +4,10 @@ declare(strict_types=1);
 
 namespace App\Enum;
 
-enum Subtype: string
+use Symfony\Contracts\Translation\TranslatableInterface;
+use Symfony\Contracts\Translation\TranslatorInterface;
+
+enum Subtype: string implements TranslatableInterface
 {
     case Armor = 'Armor';
     case Balrog = 'Balrog';
@@ -34,4 +37,9 @@ enum Subtype: string
     case UrukHai = 'Uruk-hai';
     case Wizard = 'Wizard';
     case Wraith = 'Wraith';
+
+    public function trans(TranslatorInterface $translator, ?string $locale = null): string
+    {
+        return $translator->trans($this->value, domain: 'subtypes', locale: $locale);
+    }
 }

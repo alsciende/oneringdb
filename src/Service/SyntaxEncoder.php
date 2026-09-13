@@ -6,6 +6,7 @@ namespace App\Service;
 
 use App\Entity\PublishedSet;
 use App\Enum\Culture;
+use App\Enum\Subtype;
 use App\Enum\Type;
 use App\Search\AdvancedCardSearch;
 use App\Search\Operand;
@@ -45,6 +46,10 @@ class SyntaxEncoder
 
         if ($search->getType() instanceof Type) {
             $queryParts[] = sprintf('%s:%s', Operand::Type->value, $search->getType()->value);
+        }
+
+        if ($search->getSubtype() instanceof Subtype) {
+            $queryParts[] = sprintf('%s:%s', Operand::Subtype->value, $this->formatValue($search->getSubtype()->value));
         }
 
         if (is_string($search->getText())) {

@@ -15,6 +15,7 @@ card_search_pack_input_label: Card Set
 card_search_pack_input_placeholder: ""
 card_search_submit_label: Search
 card_search_subtype_input_label: Subtype
+card_search_subtype_input_placeholder: ""
 card_search_text_input_label: Card Text
 card_search_type_input_label: Type
 card_search_type_input_placeholder: ""

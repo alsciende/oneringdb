@@ -23,6 +23,7 @@ class SearchControllerTest extends WebTestCase
     {
         return [
             ['t:ring', 6],
+            ['s:elf', 55],
             ['Aragorn', 11],
             ['xxxx', 0],
         ];

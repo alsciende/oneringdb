@@ -6,6 +6,7 @@ namespace App\Form;
 
 use App\Entity\PublishedSet;
 use App\Enum\Culture;
+use App\Enum\Subtype;
 use App\Enum\Type;
 use App\Search\AdvancedCardSearch;
 use Doctrine\ORM\EntityRepository;
@@ -46,6 +47,12 @@ class AdvancedCardSearchType extends AbstractType
                 'placeholder' => 'card_search_type_input_placeholder',
                 'required' => false,
                 'label' => 'card_search_type_input_label',
+            ])
+            ->add('subtype', EnumType::class, [
+                'class' => Subtype::class,
+                'placeholder' => 'card_search_subtype_input_placeholder',
+                'required' => false,
+                'label' => 'card_search_subtype_input_label',
             ])
             ->add('text', TextType::class, [
                 'required' => false,

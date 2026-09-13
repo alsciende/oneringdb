@@ -6,6 +6,7 @@ namespace App\Search;
 
 use App\Entity\PublishedSet;
 use App\Enum\Culture;
+use App\Enum\Subtype;
 use App\Enum\Type;
 
 class AdvancedCardSearch
@@ -14,6 +15,7 @@ class AdvancedCardSearch
     private ?Culture $culture = null;
     private ?int $twilightCost = null;
     private ?Type $type = null;
+    private ?Subtype $subtype = null;
     private ?string $text = null;
     private ?PublishedSet $publishedSet = null;
 
@@ -61,6 +63,18 @@ class AdvancedCardSearch
     public function setType(Type $type): self
     {
         $this->type = $type;
+
+        return $this;
+    }
+
+    public function getSubtype(): ?Subtype
+    {
+        return $this->subtype;
+    }
+
+    public function setSubtype(Subtype $subtype): self
+    {
+        $this->subtype = $subtype;
 
         return $this;
     }
