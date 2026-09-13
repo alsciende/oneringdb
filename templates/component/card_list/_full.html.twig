@@ -20,6 +20,9 @@
             {% endif %}
             <p>
                 Type: {% include 'component/_type_hyperlink.html.twig' %}
+                {% if card.hasSubtype %}
+                    &mdash; {{ card.subtype }}
+                {% endif %}
             </p>
             <hr>
             {% include 'component/_card_effect.html.twig' %}
