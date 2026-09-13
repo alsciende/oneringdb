@@ -48,4 +48,34 @@ return [
         'version' => '5.3.8',
         'type' => 'css',
     ],
+    'three' => [
+        'version' => '0.186.0',
+    ],
+    'three/addons/postprocessing/EffectComposer.js' => [
+        'version' => '0.186.0',
+    ],
+    'three/addons/postprocessing/RenderPass.js' => [
+        'version' => '0.186.0',
+    ],
+    'three/addons/postprocessing/UnrealBloomPass.js' => [
+        'version' => '0.186.0',
+    ],
+    'three/addons/postprocessing/OutputPass.js' => [
+        'version' => '0.186.0',
+    ],
+    'three/addons/shaders/CopyShader.js' => [
+        'version' => '0.186.0',
+    ],
+    'three/addons/shaders/LuminosityHighPassShader.js' => [
+        'version' => '0.186.0',
+    ],
+    'three/addons/postprocessing/Pass.js' => [
+        'version' => '0.186.0',
+    ],
+    'three/addons/postprocessing/ShaderPass.js' => [
+        'version' => '0.186.0',
+    ],
+    'three/addons/postprocessing/MaskPass.js' => [
+        'version' => '0.186.0',
+    ],
 ];

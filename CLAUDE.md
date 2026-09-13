@@ -1,4 +1,4 @@
-# TwilightDB (lotrtcgdb)
+# OneRingDB (lotrtcgdb)
 
 Card database for the *Lord of the Rings* Trading Card Game (LOTR TCG). Symfony 8.1 app, PHP >=8.5, Doctrine ORM ^3.2 / DBAL ^4, PostgreSQL 16.
 

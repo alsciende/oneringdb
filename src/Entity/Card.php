@@ -136,6 +136,11 @@ abstract class Card implements \Stringable
         return $this;
     }
 
+    public function hasSubtitle(): bool
+    {
+        return is_string($this->subtitle);
+    }
+
     public function getSubtitle(): ?string
     {
         return $this->subtitle;
@@ -148,9 +153,14 @@ abstract class Card implements \Stringable
         return $this;
     }
 
+    public function getSemiTitle(): string
+    {
+        return $this->unique ? sprintf('%s%s', self::UNIQUE_SYMBOL, $this->title) : $this->title;
+    }
+
     public function getFullTitle(): string
     {
-        $title = $this->unique ? sprintf('%s%s', self::UNIQUE_SYMBOL, $this->title) : $this->title;
+        $title = $this->getSemiTitle();
 
         if (! is_string($this->subtitle)) {
             return $title;

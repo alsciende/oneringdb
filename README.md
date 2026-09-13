@@ -1,6 +1,6 @@
 ![develop status](https://github.com/alsciende/lotrtcgdb/actions/workflows/symfony.yml/badge.svg?branch=main)
 
-# TwilightDB
+# OneRingDB
 
 ## How to help
 
