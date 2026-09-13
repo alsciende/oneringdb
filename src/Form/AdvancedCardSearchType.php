@@ -60,7 +60,7 @@ class AdvancedCardSearchType extends AbstractType
             ])
             ->add('published_set', EntityType::class, [
                 'class' => PublishedSet::class,
-                'query_builder' => fn (EntityRepository $er): QueryBuilder => $er->createQueryBuilder('p')->setCacheable(true),
+                'query_builder' => fn (EntityRepository $er): QueryBuilder => $er->createQueryBuilder('p')->orderBy('p.position', 'ASC')->setCacheable(true),
                 'placeholder' => 'card_search_published_set_input_placeholder',
                 'required' => false,
                 'label' => 'card_search_published_set_input_label',
