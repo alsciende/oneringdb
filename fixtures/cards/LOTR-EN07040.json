@@ -6,8 +6,7 @@
   "name": "Have Patience",
   "unique": false,
   "type": "Event",
-  "subtype": "Fellowship",
   "culture": "Gandalf",
   "twilight_cost": "3",
-  "game_text": "Spot Gandalf to heal an unbound companion twice."
+  "game_text": "<phase>Fellowship</phase>: Spot Gandalf to heal an unbound companion twice."
 }

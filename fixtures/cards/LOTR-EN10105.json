@@ -6,9 +6,8 @@
   "name": "Brave and Loyal",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Shire",
   "twilight_cost": "0",
-  "game_text": "If a Hobbit companion is not assigned to a skirmish, exert that Hobbit to have him or her replace a companion (except the Ring-bearer) in a skirmish.",
+  "game_text": "<phase>Skirmish</phase>: If a Hobbit companion is not assigned to a skirmish, exert that Hobbit to have him or her replace a companion (except the Ring-bearer) in a skirmish.",
   "flavor_text": "“‘Now come, you filth!’ he cried. ‘You’ve hurt my master, you brute, and you’ll pay for it.’”"
 }

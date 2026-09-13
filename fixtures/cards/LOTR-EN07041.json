@@ -6,8 +6,7 @@
   "name": "Intimidate",
   "unique": false,
   "type": "Event",
-  "subtype": "Response",
   "culture": "Gandalf",
   "twilight_cost": "2",
-  "game_text": "<keyword>Spell</keyword>.\nIf a companion is about to take a wound, spot Gandalf to prevent that wound."
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Response</phase>: If a companion is about to take a wound, spot Gandalf to prevent that wound."
 }

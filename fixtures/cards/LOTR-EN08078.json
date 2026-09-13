@@ -9,6 +9,6 @@
   "subtype": "Support Area",
   "culture": "Wraith",
   "twilight_cost": "3",
-  "game_text": "For each <culture>Moria</culture> Orc you can spot, the Free Peoples player must have an additional card in hand to have initiative.\n<phase>Skirmish</phase>: Discard this condition to make a <culture>Moria</culture> Orc strength +2.",
+  "game_text": "For each <culture>Wraith</culture> Orc you can spot, the Free Peoples player must have an additional card in hand to have initiative.\n<phase>Skirmish</phase>: Discard this condition to make a <culture>Wraith</culture> Orc strength +2.",
   "flavor_text": "“They had been mustered….”"
 }

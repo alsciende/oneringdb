@@ -6,8 +6,7 @@
   "name": "Din of Arms",
   "unique": false,
   "type": "Event",
-  "subtype": "Maneuver",
   "culture": "Sauron",
   "twilight_cost": "2",
-  "game_text": "Choose an opponent to discard the top card of his or her draw deck. If the twilight cost of that card is less than the number of besiegers you spot, take control of a site and all besiegers are strength +3 until the regroup phase."
+  "game_text": "<phase>Maneuver</phase>: Choose an opponent to discard the top card of his or her draw deck. If the twilight cost of that card is less than the number of besiegers you spot, take control of a site and all besiegers are strength +3 until the regroup phase."
 }

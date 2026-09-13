@@ -6,9 +6,8 @@
   "name": "Slaked Thirsts",
   "unique": false,
   "type": "Event",
-  "subtype": "Maneuver",
   "culture": "Dwarven",
   "twilight_cost": "1",
-  "game_text": "Choose one: Spot a Dwarf to draw a card; or, if this card is stacked on a <culture>Dwarven</culture> condition, spot a Dwarf companion and discard this event to exert a minion twice.",
+  "game_text": "<phase>Maneuver</phase>: Choose one: Spot a Dwarf to draw a card; or, if this card is stacked on a <culture>Dwarven</culture> condition, spot a Dwarf companion and discard this event to exert a minion twice.",
   "flavor_text": "“‘Food and drink would pay off some of my score against you.’”"
 }

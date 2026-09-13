@@ -6,9 +6,8 @@
   "name": "Fool’s Hope",
   "unique": false,
   "type": "Event",
-  "subtype": "Fellowship",
   "culture": "Gandalf",
   "twilight_cost": "3",
-  "game_text": "Spot Gandalf and discard 2 cards from hand to make an opponent discard all but 2 Shadow conditions.",
+  "game_text": "<phase>Fellowship</phase>: Spot Gandalf and discard 2 cards from hand to make an opponent discard all but 2 Shadow conditions.",
   "flavor_text": "“‘There never was much hope....’”"
 }

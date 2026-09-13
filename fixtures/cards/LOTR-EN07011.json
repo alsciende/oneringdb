@@ -6,9 +6,8 @@
   "name": "Out of Darkness",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Dwarven",
   "twilight_cost": "1",
-  "game_text": "Make a Dwarf strength +2. You may also exert that Dwarf to draw 2 cards.",
+  "game_text": "<phase>Skirmish</phase>: Make a Dwarf strength +2. You may also exert that Dwarf to draw 2 cards.",
   "flavor_text": "“‘Had I known what was before me, I think that not for any friendship would I have taken the Paths of the Dead.’”"
 }

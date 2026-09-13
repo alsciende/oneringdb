@@ -6,9 +6,8 @@
   "name": "Stampeded",
   "unique": false,
   "type": "Event",
-  "subtype": "Response",
   "culture": "Raider",
   "twilight_cost": "0",
-  "game_text": "If a Free Peoples possession is played, spot a <culture>Raider</culture> card to discard that possession. If that possession was a <culture>Gondor</culture> or <culture>Rohan</culture> possession, wound an unbound Man.",
+  "game_text": "<phase>Response</phase>: If a Free Peoples possession is played, spot a <culture>Raider</culture> card to discard that possession. If that possession was a <culture>Gondor</culture> or <culture>Rohan</culture> possession, wound an unbound Man.",
   "flavor_text": "“...the Mûmak of Harad was indeed a beast of vast bulk, and the like of him does not walk now in Middle-earth....”"
 }

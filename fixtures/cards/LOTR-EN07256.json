@@ -6,9 +6,8 @@
   "name": "They Sang as They Slew",
   "unique": false,
   "type": "Event",
-  "subtype": "Regroup",
   "culture": "Rohan",
   "twilight_cost": "1",
-  "game_text": "Exert X mounted companions to wound X minions.",
+  "game_text": "<phase>Regroup</phase>: Exert X mounted companions to wound X minions.",
   "flavor_text": "“...for the joy of battle was on them, and the sound of their singing that was fair and terrible came even to the City.”"
 }

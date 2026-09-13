@@ -6,9 +6,8 @@
   "name": "Battle Tested",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Dwarven",
   "twilight_cost": "0",
-  "game_text": "Make a Dwarf strength +2 (+4 if you spot a card stacked on a <culture>Dwarven</culture> condition).",
+  "game_text": "<phase>Skirmish</phase>: Make a Dwarf strength +2 (+4 if you spot a card stacked on a <culture>Dwarven</culture> condition).",
   "flavor_text": "“‘We’re going to follow you, lad — even on the dark Road….’”"
 }

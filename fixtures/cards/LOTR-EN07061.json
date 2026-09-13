@@ -6,8 +6,7 @@
   "name": "Hobbitses Are Dead",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Gollum",
   "twilight_cost": "1",
-  "game_text": "Spot Gollum or Sméagol to make a Nazgûl, <culture>Sauron</culture> minion, or <culture>Gollum</culture> minion strength +2.\nIf you have initiative, you may play this event from your discard pile; place it under your draw deck instead of discarding it."
+  "game_text": "<phase>Skirmish</phase>: Spot Gollum or Sméagol to make a Nazgûl, <culture>Sauron</culture> minion, or <culture>Gollum</culture> minion strength +2.\nIf you have initiative, you may play this event from your discard pile; place it under your draw deck instead of discarding it."
 }

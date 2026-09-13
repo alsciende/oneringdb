@@ -6,9 +6,8 @@
   "name": "Greatest Stronghold",
   "unique": false,
   "type": "Event",
-  "subtype": "Archery",
   "culture": "Gondor",
   "twilight_cost": "2",
-  "game_text": "Exert a <culture>Gondor</culture> Man and spot 3 fortifications to make the fellowship archery total +2.",
+  "game_text": "<phase>Archery</phase>: Exert a <culture>Gondor</culture> Man and spot 3 fortifications to make the fellowship archery total +2.",
   "flavor_text": "“‘…City of Kings of yore.’”"
 }

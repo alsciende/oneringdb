@@ -6,9 +6,8 @@
   "name": "Where Shall We Go",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Gollum",
   "twilight_cost": "0",
-  "game_text": "If you have initiative, discard 2 cards from hand to wound a minion Sméagol is skirmishing twice.",
+  "game_text": "<phase>Skirmish</phase>: If you have initiative, discard 2 cards from hand to wound a minion Sméagol is skirmishing twice.",
   "flavor_text": "“‘If you scare him off, we are lost.’”"
 }

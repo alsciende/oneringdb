@@ -6,9 +6,8 @@
   "name": "Unheard Of",
   "unique": false,
   "type": "Event",
-  "subtype": "Response",
   "culture": "Dwarven",
   "twilight_cost": "1",
-  "game_text": "If a Dwarf who is damage +X wins a skirmish, wound a minion not assigned to a skirmish X times.",
+  "game_text": "<phase>Response</phase>: If a Dwarf who is damage +X wins a skirmish, wound a minion not assigned to a skirmish X times.",
   "flavor_text": "“‘...an Elf will go underground and a Dwarf dare not.’”"
 }

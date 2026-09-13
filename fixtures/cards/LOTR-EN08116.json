@@ -6,9 +6,8 @@
   "name": "We Shall Meet Again Soon",
   "unique": false,
   "type": "Event",
-  "subtype": "Response",
   "culture": "Shire",
   "twilight_cost": "0",
-  "game_text": "If the fellowship moves during the regroup phase, exert an unbound Hobbit to place a Shadow card from your discard pile on top of your draw deck.",
+  "game_text": "<phase>Response</phase>: If the fellowship moves during the regroup phase, exert an unbound Hobbit to place a Shadow card from your discard pile on top of your draw deck.",
   "flavor_text": "“‘He said: “Who are you?” I still did not answer, but it hurt me horribly; and he pressed me, so I said: “A hobbit.”’”"
 }

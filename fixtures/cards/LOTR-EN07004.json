@@ -6,9 +6,8 @@
   "name": "Calculated Risk",
   "unique": false,
   "type": "Event",
-  "subtype": "Fellowship",
   "culture": "Dwarven",
   "twilight_cost": "2",
-  "game_text": "Spot a Dwarf and add a threat to draw 3 cards.",
+  "game_text": "<phase>Fellowship</phase>: Spot a Dwarf and add a threat to draw 3 cards.",
   "flavor_text": "“‘Beyond the eyes of Dwarves are such fortellings….’”"
 }

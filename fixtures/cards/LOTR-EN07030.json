@@ -6,9 +6,8 @@
   "name": "Uncertain Paths",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Elven",
   "twilight_cost": "1",
-  "game_text": "Make an Elf strength +2 and you may shuffle your draw deck.",
+  "game_text": "<phase>Skirmish</phase>: Make an Elf strength +2 and you may shuffle your draw deck.",
   "flavor_text": "“‘But defenders and foes alike gave up the battle….’”"
 }

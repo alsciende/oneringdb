@@ -6,9 +6,8 @@
   "name": "Mind and Body",
   "unique": false,
   "type": "Event",
-  "subtype": "Response",
   "culture": "Wraith",
   "twilight_cost": "1",
-  "game_text": "If a Nazgûl kills a character, wound each character bearing a <culture>Wraith</culture> condition.",
+  "game_text": "<phase>Response</phase>: If a Nazgûl kills a character, wound each character bearing a <culture>Wraith</culture> condition.",
   "flavor_text": "“Weariness and more than weariness oppressed him….”"
 }

@@ -9,5 +9,5 @@
   "culture": null,
   "site_number": "3",
   "shadow_number": "0",
-  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: Exert a <culture>Rohan</culture> Man to play a mount from your draw deck (limit once per turn)."
+  "game_text": "<keyword>Sanctuary</keyword>. <phase>Fellowship</phase>: Exert a <culture>Rohan</culture> Man to play a <culture>Rohan</culture> mount from your draw deck (limit once per turn)."
 }

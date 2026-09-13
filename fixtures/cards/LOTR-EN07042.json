@@ -6,9 +6,8 @@
   "name": "King’s Advisor",
   "unique": false,
   "type": "Event",
-  "subtype": "Maneuver",
   "culture": "Gandalf",
   "twilight_cost": "2",
-  "game_text": "Exert Gandalf twice to make an opponent exert a minion for each <culture>Dunland</culture> companion you spot.",
+  "game_text": "<phase>Maneuver</phase>: Exert Gandalf twice to make an opponent exert a minion for each <culture>Rohan</culture> companion you spot.",
   "flavor_text": "“‘Will they answer the summons, think you?’”"
 }

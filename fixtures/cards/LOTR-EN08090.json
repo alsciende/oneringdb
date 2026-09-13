@@ -6,9 +6,8 @@
   "name": "No Living Man",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Rohan",
   "twilight_cost": "2",
-  "game_text": "Exert Théoden to exert a minion for each Théoden signet you spot.",
+  "game_text": "<phase>Skirmish</phase>: Exert Théoden to exert a minion for each Théoden signet you spot.",
   "flavor_text": "“‘Begone, foul dwimmerlaik, lord of carrion!’”"
 }

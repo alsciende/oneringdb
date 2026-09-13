@@ -6,9 +6,8 @@
   "name": "Fury of the Northmen",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Rohan",
   "twilight_cost": "2",
-  "game_text": "Exert a minion skirmishing a mounted <culture>Rohan</culture> Man.",
+  "game_text": "<phase>Skirmish</phase>: Exert a minion skirmishing a mounted <culture>Rohan</culture> Man.",
   "flavor_text": "“‘Death! Ride, ride to ruin and the world’s ending!’”"
 }

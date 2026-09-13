@@ -6,9 +6,8 @@
   "name": "War Towers",
   "unique": false,
   "type": "Event",
-  "subtype": "Maneuver",
   "culture": "Raider",
   "twilight_cost": "1",
-  "game_text": "Spot a <culture>Raider</culture> minion to add a threat. Add an additional threat for each companion over 4.",
+  "game_text": "<phase>Maneuver</phase>: Spot a <culture>Raider</culture> minion to add a threat. Add an additional threat for each companion over 4.",
   "flavor_text": "“...behind them rose the huge backs of the mûmakil….”"
 }

@@ -6,9 +6,8 @@
   "name": "Chance Observation",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Shire",
   "twilight_cost": "0",
-  "game_text": "If there are 4 or more <culture>Shire</culture> cards in your discard pile, make a Hobbit strength +1 for each Hobbit you can spot.",
+  "game_text": "<phase>Skirmish</phase>: If there are 4 or more <culture>Shire</culture> cards in your discard pile, make a Hobbit strength +1 for each Hobbit you can spot.",
   "flavor_text": "“‘...he thought he saw something shining in the river-bed; and holding his breath he grabbed at it.’”"
 }

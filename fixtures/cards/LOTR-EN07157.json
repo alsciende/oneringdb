@@ -6,9 +6,8 @@
   "name": "Red Wrath",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Raider",
   "twilight_cost": "5",
-  "game_text": "Exert a <culture>Raider</culture> Man to wound a companion he is skirmishing twice.",
+  "game_text": "<phase>Skirmish</phase>: Exert a <culture>Raider</culture> Man to wound a companion he is skirmishing twice.",
   "flavor_text": "“...he came against the white horse and the green with great press of men….”"
 }

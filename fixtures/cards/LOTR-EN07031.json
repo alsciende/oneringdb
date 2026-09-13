@@ -6,9 +6,8 @@
   "name": "All Save One",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Gandalf",
   "twilight_cost": "2",
-  "game_text": "Make Gandalf strength +2 (or +4 and <keyword>damage +1</keyword> if you have initiative).",
+  "game_text": "<phase>Skirmish</phase>: Make Gandalf strength +2 (or +4 and <keyword>damage +1</keyword> if you have initiative).",
   "flavor_text": "“‘You cannot enter here….’”"
 }

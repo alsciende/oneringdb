@@ -6,9 +6,8 @@
   "name": "Peace of Mind",
   "unique": false,
   "type": "Event",
-  "subtype": "Regroup",
   "culture": "Gandalf",
   "twilight_cost": "4",
-  "game_text": "Spot Gandalf to heal an unbound Hobbit 3 times.",
+  "game_text": "<phase>Regroup</phase>: Spot Gandalf to heal an unbound Hobbit 3 times.",
   "flavor_text": "“‘All Wizards should have a Hobbit or two in their care... to teach them the meaning of humility!’”"
 }

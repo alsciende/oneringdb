@@ -6,9 +6,8 @@
   "name": "Corrupt",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Wraith",
   "twilight_cost": "1",
-  "game_text": "Make a Nazgûl strength +1 for each Free Peoples culture you spot.",
+  "game_text": "<phase>Skirmish</phase>: Make a Nazgûl strength +1 for each Free Peoples culture you spot.",
   "flavor_text": "“Figures stood there at its head, carven with cunning in forms human and bestial, but all corrupt and loathsome.”"
 }

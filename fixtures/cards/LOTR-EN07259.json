@@ -6,9 +6,8 @@
   "name": "Wind in His Face",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Rohan",
   "twilight_cost": "1",
-  "game_text": "Make a <culture>Rohan</culture> Man strength +2. If that Man is mounted, choose an opponent who must place a random card from hand beneath his or her draw deck.",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Rohan</culture> Man strength +2. If that Man is mounted, choose an opponent who must place a random card from hand beneath his or her draw deck.",
   "flavor_text": "“Far, far away, in the South the clouds could be dimly seen as remote grey shapes, rolling up, drifting: morning lay beyond them.”"
 }

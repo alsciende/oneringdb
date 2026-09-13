@@ -6,9 +6,8 @@
   "name": "So Polite",
   "unique": false,
   "type": "Event",
-  "subtype": "Shadow",
   "culture": "Gollum",
   "twilight_cost": "0",
-  "game_text": "Play Gollum from your discard pile to add <twilight>1</twilight> for each threat you spot.",
+  "game_text": "<phase>Shadow</phase>: Play Gollum from your discard pile to add <twilight>1</twilight> for each threat you spot.",
   "flavor_text": "“‘Sméagol shows them secret ways that nobody else could find and they say, ‘Sneak!’’”"
 }

@@ -6,9 +6,8 @@
   "name": "End of the Game",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Gondor",
   "twilight_cost": "0",
-  "game_text": "Make an exhausted <culture>Gondor</culture> companion strength +2. If that companion wins this skirmish, heal that companion or make him or her <keyword>damage +1</keyword>.",
+  "game_text": "<phase>Skirmish</phase>: Make an exhausted <culture>Gondor</culture> companion strength +2. If that companion wins this skirmish, heal that companion or make him or her <keyword>damage +1</keyword>.",
   "flavor_text": "“...he drew Andúril and held it up glittering in the sun. ‘You shall not be sheathed again until the last battle is fought,’ he said.”"
 }

@@ -6,9 +6,8 @@
   "name": "Terrible and Evil",
   "unique": false,
   "type": "Event",
-  "subtype": "Maneuver",
   "culture": "Gandalf",
   "twilight_cost": "3",
-  "game_text": "<keyword>Spell</keyword>.\nExert Gandalf X times to wound a minion X times. If that minion is a Nazgûl, wound it again.",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Maneuver</phase>: Exert Gandalf X times to wound a minion X times. If that minion is a Nazgûl, wound it again.",
   "flavor_text": "“‘Minas Morgul is their lair.’”"
 }

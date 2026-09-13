@@ -6,9 +6,8 @@
   "name": "Nasty",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Gollum",
   "twilight_cost": "1",
-  "game_text": "Make Sméagol strength +1 for each <culture>Gollum</culture> card you spot.",
+  "game_text": "<phase>Skirmish</phase>: Make Sméagol strength +1 for each <culture>Gollum</culture> card you spot.",
   "flavor_text": "“‘He’s a fat, horrid Hobbit, who hates Sméagol, who makes up nasty lies.’”"
 }

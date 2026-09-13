@@ -6,9 +6,8 @@
   "name": "Life of the Eldar",
   "unique": false,
   "type": "Event",
-  "subtype": "Regroup",
   "culture": "Elven",
   "twilight_cost": "0",
-  "game_text": "To play, spot 2 Elves.\nDiscard an Elf to draw 3 cards.",
+  "game_text": "To play, spot 2 Elves.\n<phase>Regroup</phase>: Discard an Elf to draw 3 cards.",
   "flavor_text": "“‘Your hands are cold....’”"
 }

@@ -6,9 +6,8 @@
   "name": "Captured by the Ring",
   "unique": false,
   "type": "Event",
-  "subtype": "Shadow",
   "culture": "Gollum",
   "twilight_cost": "0",
-  "game_text": "Play Gollum from your draw deck or discard pile to add a threat.",
+  "game_text": "<phase>Shadow</phase>: Play Gollum from your draw deck or discard pile to add a threat.",
   "flavor_text": "“‘Give us that….’”"
 }

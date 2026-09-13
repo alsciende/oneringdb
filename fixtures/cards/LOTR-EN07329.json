@@ -8,5 +8,5 @@
   "type": "Site",
   "culture": null,
   "site_number": "1",
-  "game_text": "<phase>Fellowship</phase>: Spot a Dwarf to play a <culture>Dunland</culture> condition from your draw deck (limit once per turn)."
+  "game_text": "<phase>Fellowship</phase>: Spot a Dwarf to play a <culture>Dwarven</culture> condition from your draw deck (limit once per turn)."
 }

@@ -6,9 +6,8 @@
   "name": "A Grey Ship",
   "unique": false,
   "type": "Event",
-  "subtype": "Archery",
   "culture": "Elven",
   "twilight_cost": "2",
-  "game_text": "Spot an Elf companion and make the fellowship archery total -X (to a minimum of 0) to heal X unbound companions. You cannot use archery special abilities.",
+  "game_text": "<phase>Archery</phase>: Spot an Elf companion and make the fellowship archery total -X (to a minimum of 0) to heal X unbound companions. You cannot use archery special abilities.",
   "flavor_text": "“‘...full of ghosts.’”"
 }

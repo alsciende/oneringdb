@@ -6,8 +6,7 @@
   "name": "Hidden Knowledge",
   "unique": false,
   "type": "Event",
-  "subtype": "Fellowship",
   "culture": "Gondor",
   "twilight_cost": "1",
-  "game_text": "Spot a <culture>Gondor</culture> companion to reveal the top 5 cards of an opponent’s draw deck. For each Shadow card revealed, add a threat. For each Free Peoples card revealed, place a <culture>Gondor</culture> token on one of your conditions with a <culture>Gondor</culture> token on it. Shuffle that draw deck."
+  "game_text": "<phase>Fellowship</phase>: Spot a <culture>Gondor</culture> companion to reveal the top 5 cards of an opponent’s draw deck. For each Shadow card revealed, add a threat. For each Free Peoples card revealed, place a <culture>Gondor</culture> token on one of your conditions with a <culture>Gondor</culture> token on it. Shuffle that draw deck."
 }

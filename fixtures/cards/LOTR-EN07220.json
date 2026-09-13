@@ -6,9 +6,8 @@
   "name": "War Long Planned",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Wraith",
   "twilight_cost": "1",
-  "game_text": "Make a <culture>Wraith</culture> Orc strength +2 (or +4 if you spot 2 wounds on the Ring-bearer).",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Wraith</culture> Orc strength +2 (or +4 if you spot 2 wounds on the Ring-bearer).",
   "flavor_text": "“‘Through many ages Sauron has hated the West....’”"
 }

@@ -6,9 +6,8 @@
   "name": "Stout Resistance",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Gondor",
   "twilight_cost": "0",
-  "game_text": "Add a threat to make a <culture>Gondor</culture> Man strength +3.",
+  "game_text": "<phase>Skirmish</phase>: Add a threat to make a <culture>Gondor</culture> Man strength +3.",
   "flavor_text": "“…the hardiest of the garrison stood at bay.”"
 }

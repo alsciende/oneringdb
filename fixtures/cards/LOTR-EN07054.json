@@ -6,9 +6,8 @@
   "name": "Clever Hobbits",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Gollum",
   "twilight_cost": "2",
-  "game_text": "Discard any number of <culture>Gollum</culture> conditions. For each condition discarded, make Sméagol strength +3 and <keyword>damage +1</keyword>.",
+  "game_text": "<phase>Skirmish</phase>: Discard any number of <culture>Gollum</culture> conditions. For each condition discarded, make Sméagol strength +3 and <keyword>damage +1</keyword>.",
   "flavor_text": "“‘Clever hobbits to climb so high, very clever hobbits!’”"
 }

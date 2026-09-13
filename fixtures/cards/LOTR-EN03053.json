@@ -8,6 +8,6 @@
   "type": "Event",
   "culture": "Isengard",
   "twilight_cost": "2",
-  "game_text": "<phase>Shadow</phase>: Spot an Uruk-hai and a <culture>Isengard</culture> minion to draw 3 cards.",
+  "game_text": "<phase>Shadow</phase>: Spot an Uruk-hai and a <culture>Moria</culture> minion to draw 3 cards.",
   "flavor_text": "The frenzy of Uruks is born of the fear of the very Goblins that work the pits."
 }

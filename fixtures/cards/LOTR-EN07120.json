@@ -6,9 +6,8 @@
   "name": "Stand to Arms",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Gondor",
   "twilight_cost": "0",
-  "game_text": "If you have initiative, discard 2 cards from hand to wound a roaming minion skirmishing a <culture>Gondor</culture> Man twice.",
+  "game_text": "<phase>Skirmish</phase>: If you have initiative, discard 2 cards from hand to wound a roaming minion skirmishing a <culture>Gondor</culture> Man twice.",
   "flavor_text": "“‘Return to the outer walls!’”"
 }

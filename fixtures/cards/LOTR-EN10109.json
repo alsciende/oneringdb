@@ -6,9 +6,8 @@
   "name": "Make Haste",
   "unique": false,
   "type": "Event",
-  "subtype": "Maneuver",
   "culture": "Shire",
   "twilight_cost": "0",
-  "game_text": "<keyword>Stealth</keyword>. Spot a <culture>Shire</culture> companion and return him or her to your hand to make a Shadow player choose to remove <twilight>2</twilight> or discard a minion.",
+  "game_text": "<keyword>Stealth</keyword>.\n<phase>Maneuver</phase>: Spot a <culture>Shire</culture> companion and return him or her to your hand to make a Shadow player choose to remove <twilight>2</twilight> or discard a minion.",
   "flavor_text": "“‘There’s something still alive in that place, something with eyes, or a seeing mind, if you take me; and the longer we stay in one spot, the sooner it will get on to us.’”"
 }

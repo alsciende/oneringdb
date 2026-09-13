@@ -6,9 +6,8 @@
   "name": "White Hot Fury",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Rohan",
   "twilight_cost": "2",
-  "game_text": "Make a mounted <culture>Rohan</culture> Man strength +1 for each mounted companion. If that Man is skirmishing a <culture>Raider</culture> minion, also make him or her strength +2 and <keyword>damage +2</keyword>.",
+  "game_text": "<phase>Skirmish</phase>: Make a mounted <culture>Rohan</culture> Man strength +1 for each mounted companion. If that Man is skirmishing a <culture>Raider</culture> minion, also make him or her strength +2 and <keyword>damage +2</keyword>.",
   "flavor_text": "“Fewer were they but they clove through the Southrons like a fire-bolt in a forest.”"
 }

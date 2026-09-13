@@ -8,6 +8,6 @@
   "type": "Condition",
   "culture": "Gollum",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Spot Sméagol and discard 3 cards from hand to wound a minion Sméagol is skirmishing once (or twice if that minion is a <culture>Moria</culture> minion).",
+  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Spot Sméagol and discard 3 cards from hand to wound a minion Sméagol is skirmishing once (or twice if that minion is a <culture>Wraith</culture> minion).",
   "flavor_text": "“‘There was a faint hiss, a noisome smell went up, the lights flickered and danced and swirled.’”"
 }

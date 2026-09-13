@@ -6,9 +6,8 @@
   "name": "Ruinous Hail",
   "unique": false,
   "type": "Event",
-  "subtype": "Response",
   "culture": "Sauron",
   "twilight_cost": "0",
-  "game_text": "If the Free Peoples player plays a possession, discard a <culture>Sauron</culture> minion from hand to prevent him or her from playing any more cards until the end of this phase.",
+  "game_text": "<phase>Response</phase>: If the Free Peoples player plays a possession, discard a <culture>Sauron</culture> minion from hand to prevent him or her from playing any more cards until the end of this phase.",
   "flavor_text": "“...they began to throw missiles marvelously high, so that they passed right above the battlement and fell thudding within the first circle of the City....”"
 }

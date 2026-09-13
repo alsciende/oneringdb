@@ -6,8 +6,7 @@
   "name": "Their Power Is in Terror",
   "unique": false,
   "type": "Event",
-  "subtype": "Maneuver",
   "culture": "Wraith",
   "twilight_cost": "0",
-  "game_text": "Exert a Nazgûl to wound each ally."
+  "game_text": "<phase>Maneuver</phase>: Exert a Nazgûl to wound each ally."
 }

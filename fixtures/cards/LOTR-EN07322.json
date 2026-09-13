@@ -6,8 +6,7 @@
   "name": "Noble Intentions",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Shire",
   "twilight_cost": "0",
-  "game_text": "Exert a companion (except a Hobbit) to make a Hobbit strength +3."
+  "game_text": "<phase>Skirmish</phase>: Exert a companion (except a Hobbit) to make a Hobbit strength +3."
 }

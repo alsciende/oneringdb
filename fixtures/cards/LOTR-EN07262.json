@@ -6,9 +6,8 @@
   "name": "Above the Battlement",
   "unique": false,
   "type": "Event",
-  "subtype": "Shadow",
   "culture": "Sauron",
   "twilight_cost": "0",
-  "game_text": "Play a besieger stacked on a site you control or remove a burden to play a <culture>Sauron</culture> Orc from your discard pile.",
+  "game_text": "<phase>Shadow</phase>: Play a besieger stacked on a site you control or remove a burden to play a <culture>Sauron</culture> Orc from your discard pile.",
   "flavor_text": "“...they began to throw missiles marvellously high….”"
 }

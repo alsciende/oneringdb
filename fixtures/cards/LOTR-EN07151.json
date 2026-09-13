@@ -6,8 +6,7 @@
   "name": "Hosts Still Unfought",
   "unique": false,
   "type": "Event",
-  "subtype": "Maneuver",
   "culture": "Raider",
   "twilight_cost": "0",
-  "game_text": "To play, spot 2 <culture>Raider</culture> Men.\nDiscard any number of cards from hand. The Free Peoples player then discards any number of cards from hand. For each card you discarded more than the Free Peoples player, add <twilight>1</twilight>."
+  "game_text": "To play, spot 2 <culture>Raider</culture> Men.\n<phase>Maneuver</phase>: Discard any number of cards from hand. The Free Peoples player then discards any number of cards from hand. For each card you discarded more than the Free Peoples player, add <twilight>1</twilight>."
 }

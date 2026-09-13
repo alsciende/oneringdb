@@ -6,9 +6,8 @@
   "name": "Breached",
   "unique": false,
   "type": "Event",
-  "subtype": "Regroup",
   "culture": "Sauron",
   "twilight_cost": "1",
-  "game_text": "Remove 4 threats and spot 2 <culture>Sauron</culture> Orcs to make the Free Peoples player spot a companion and place that companion in the dead pile.",
+  "game_text": "<phase>Regroup</phase>: Remove 4 threats and spot 2 <culture>Sauron</culture> Orcs to make the Free Peoples player spot a companion and place that companion in the dead pile.",
   "flavor_text": "“‘Yet now under the Lord of Barad-dûr the most fell of all his captains is already master of your outer walls…’”"
 }

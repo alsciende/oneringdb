@@ -6,9 +6,8 @@
   "name": "Knights of His House",
   "unique": false,
   "type": "Event",
-  "subtype": "Maneuver",
   "culture": "Rohan",
   "twilight_cost": "0",
-  "game_text": "Choose an opponent. For each mounted companion you spot, that opponent must remove <twilight>1</twilight> or place a random card from hand beneath his or her draw deck.",
+  "game_text": "<phase>Maneuver</phase>: Choose an opponent. For each mounted companion you spot, that opponent must remove <twilight>1</twilight> or place a random card from hand beneath his or her draw deck.",
   "flavor_text": "“Éomer rode there, and the white horsetail on his helm floating in his speed....”"
 }

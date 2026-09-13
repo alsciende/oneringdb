@@ -6,9 +6,8 @@
   "name": "Siegecraft",
   "unique": false,
   "type": "Event",
-  "subtype": "Response",
   "culture": "Sauron",
   "twilight_cost": "4",
-  "game_text": "If your <culture>Sauron</culture> Orc wins a skirmish, make all your <culture>Sauron</culture> Orcs <keyword>fierce</keyword> until the regroup phase.",
+  "game_text": "<phase>Response</phase>: If your <culture>Sauron</culture> Orc wins a skirmish, make all your <culture>Sauron</culture> Orcs <keyword>fierce</keyword> until the regroup phase.",
   "flavor_text": "“‘They are blasting breaches in it.’”"
 }

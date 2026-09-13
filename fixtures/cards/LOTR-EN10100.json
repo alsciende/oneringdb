@@ -6,9 +6,8 @@
   "name": "Speak No More to Me",
   "unique": false,
   "type": "Event",
-  "subtype": "Shadow",
   "culture": "Sauron",
   "twilight_cost": "1",
-  "game_text": "Exert a <culture>Sauron</culture> minion to return a Free Peoples condition to its owner's hand (or 2 if both are <culture>Shire</culture> conditions).",
+  "game_text": "<phase>Shadow</phase>: Exert a <culture>Sauron</culture> minion to return a Free Peoples condition to its owner's hand (or 2 if both are <culture>Shire</culture> conditions).",
   "flavor_text": "“‘Go slow! Bring no fire to this place while Faramir lives! Do nothing until Gandalf comes!’”"
 }

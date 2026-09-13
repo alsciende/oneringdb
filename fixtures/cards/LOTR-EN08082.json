@@ -6,9 +6,8 @@
   "name": "Unhindered",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Wraith",
   "twilight_cost": "2",
-  "game_text": "Make a Nazgûl strength +2. If that Nazgûl wins this skirmish, the Shadow has initiative until the end of the turn, regardless of the Free Peoples player’s hand.",
+  "game_text": "<phase>Skirmish</phase>: Make a Nazgûl strength +2. If that Nazgûl wins this skirmish, the Shadow has initiative until the end of the turn, regardless of the Free Peoples player’s hand.",
   "flavor_text": "“‘No living man may hinder me!’”"
 }

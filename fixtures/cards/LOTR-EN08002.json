@@ -6,9 +6,8 @@
   "name": "Battle in Earnest",
   "unique": false,
   "type": "Event",
-  "subtype": "Regroup",
   "culture": "Dwarven",
   "twilight_cost": "1",
-  "game_text": "Spot a Dwarf who is damage +X to place X wounds on minions.",
+  "game_text": "<phase>Regroup</phase>: Spot a Dwarf who is damage +X to place X wounds on minions.",
   "flavor_text": "“‘...they laughed when they looked on us, for they were a great army still.’”"
 }

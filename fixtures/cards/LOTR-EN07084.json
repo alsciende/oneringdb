@@ -6,8 +6,7 @@
   "name": "Dagger Strike",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Gondor",
   "twilight_cost": "0",
-  "game_text": "Make a <culture>Gondor</culture> or <culture>Shire</culture> companion bearing a hand weapon strength +2 and <keyword>damage +1</keyword>."
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Gondor</culture> or <culture>Shire</culture> companion bearing a hand weapon strength +2 and <keyword>damage +1</keyword>."
 }

@@ -6,9 +6,8 @@
   "name": "Straining Towards Us",
   "unique": false,
   "type": "Event",
-  "subtype": "Regroup",
   "culture": "Shire",
   "twilight_cost": "0",
-  "game_text": "Exert Frodo to remove <twilight>1</twilight> for each Frodo signet you spot.",
+  "game_text": "<phase>Regroup</phase>: Exert Frodo to remove <twilight>1</twilight> for each Frodo signet you spot.",
   "flavor_text": "“‘…blind almost to all else that is moving. So we must keep it. Therein lies all our hope.’”"
 }

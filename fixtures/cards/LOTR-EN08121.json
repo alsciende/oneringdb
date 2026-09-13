@@ -13,6 +13,6 @@
   "strength": "5",
   "vitality": "4",
   "signet": "Frodo",
-  "game_text": "To play, spot a <culture>Shire</culture> companion.\n<phase>Skirmish</phase>: Discard 4 cards from hand to make Merry strength +2 for each <culture>Shire</culture> companion you spot.",
+  "game_text": "To play, spot a <culture>Rohan</culture> companion.\n<phase>Skirmish</phase>: Discard 4 cards from hand to make Merry strength +2 for each <culture>Rohan</culture> companion you spot.",
   "flavor_text": "“‘King’s man! King’s man!’ his heart cried within him.”"
 }

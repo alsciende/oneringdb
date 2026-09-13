@@ -6,9 +6,8 @@
   "name": "Citadel to Gate",
   "unique": false,
   "type": "Event",
-  "subtype": "Fellowship",
   "culture": "Gandalf",
   "twilight_cost": "5",
-  "game_text": "Exert Gandalf twice to remove all threats and to heal all companions of one culture (except <culture>Dunland</culture>).",
+  "game_text": "<phase>Fellowship</phase>: Exert Gandalf twice to remove all threats and to heal all companions of one culture (except <culture>Gandalf</culture>).",
   "flavor_text": "“Wherever he came men’s hearts would lift again, and the winged shadows pass from memory.”"
 }

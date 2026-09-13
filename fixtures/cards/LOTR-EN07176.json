@@ -6,8 +6,7 @@
   "name": "Disposable Servants",
   "unique": false,
   "type": "Event",
-  "subtype": "Regroup",
   "culture": "Wraith",
   "twilight_cost": "1",
-  "game_text": "Spot a Nazgûl to discard any number of cards from your hand. The Free Peoples player then discards any number of cards from his or her hand. For each card you discarded more than the Free Peoples player, add a threat."
+  "game_text": "<phase>Regroup</phase>: Spot a Nazgûl to discard any number of cards from your hand. The Free Peoples player then discards any number of cards from his or her hand. For each card you discarded more than the Free Peoples player, add a threat."
 }

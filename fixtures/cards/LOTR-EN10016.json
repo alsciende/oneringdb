@@ -6,9 +6,8 @@
   "name": "Gathering Wind",
   "unique": false,
   "type": "Event",
-  "subtype": "Maneuver",
   "culture": "Gandalf",
   "twilight_cost": "2",
-  "game_text": "Exert your Wizard to choose a number. Make each minion with that twilight cost strength –2 until the regroup phase.",
+  "game_text": "<phase>Maneuver</phase>: Exert your Wizard to choose a number. Make each minion with that twilight cost strength –2 until the regroup phase.",
   "flavor_text": "“...the rush of their wide wings as they passed over was like a gale.”"
 }

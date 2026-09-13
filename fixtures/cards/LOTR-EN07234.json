@@ -6,9 +6,8 @@
   "name": "Guarded Fastness",
   "unique": false,
   "type": "Event",
-  "subtype": "Maneuver",
   "culture": "Rohan",
   "twilight_cost": "1",
-  "game_text": "If you have initiative, discard 2 cards from hand to heal all <culture>Rohan</culture> allies.",
+  "game_text": "<phase>Maneuver</phase>: If you have initiative, discard 2 cards from hand to heal all <culture>Rohan</culture> allies.",
   "flavor_text": "“...for I will not leave my strongholds all unguarded.’”"
 }

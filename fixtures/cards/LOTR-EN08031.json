@@ -6,9 +6,8 @@
   "name": "At His Command",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Gondor",
   "twilight_cost": "1",
-  "game_text": "Exert Aragorn to make an unbound companion with the Aragorn signet strength +1 for each threat you spot.",
+  "game_text": "<phase>Skirmish</phase>: Exert Aragorn to make an unbound companion with the Aragorn signet strength +1 for each threat you spot.",
   "flavor_text": "“‘Even the shades of Men are obedient to his will....’”"
 }

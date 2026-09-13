@@ -6,9 +6,8 @@
   "name": "The Board Is Set",
   "unique": false,
   "type": "Event",
-  "subtype": "Response",
   "culture": "Gandalf",
   "twilight_cost": "0",
-  "game_text": "<keyword>Spell</keyword>.\nIf an event is played, exert Gandalf to make that opponent remove <twilight>2</twilight> or cancel that event.",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Response</phase>: If an event is played, exert Gandalf to make that opponent remove <twilight>2</twilight> or cancel that event.",
   "flavor_text": "“We come to it at last... the greatest battle of our time.”"
 }

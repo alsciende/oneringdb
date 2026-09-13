@@ -6,9 +6,8 @@
   "name": "Counts But One",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Dwarven",
   "twilight_cost": "2",
-  "game_text": "If Gimli is not assigned to a skirmish, add a threat to have him replace an unbound companion in a skirmish.",
+  "game_text": "<phase>Skirmish</phase>: If Gimli is not assigned to a skirmish, add a threat to have him replace an unbound companion in a skirmish.",
   "flavor_text": "“‘...no matter how big.’”"
 }

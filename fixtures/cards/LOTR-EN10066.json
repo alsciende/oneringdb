@@ -6,9 +6,8 @@
   "name": "Ten Times Outnumbered",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Wraith",
   "twilight_cost": "1",
-  "game_text": "Make a <culture>Wraith</culture> Orc strength +2 for each wound on the Ring-bearer.",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Wraith</culture> Orc strength +2 for each wound on the Ring-bearer.",
   "flavor_text": "“The passage of Anduin was won by the Enemy.”"
 }

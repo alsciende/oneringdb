@@ -6,9 +6,8 @@
   "name": "Anguish",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Sauron",
   "twilight_cost": "1",
-  "game_text": "Remove 3 threats to make a character skirmishing a <culture>Sauron</culture> Orc strength −3.",
+  "game_text": "<phase>Skirmish</phase>: Remove 3 threats to make a character skirmishing a <culture>Sauron</culture> Orc strength −3.",
   "flavor_text": "“‘...the Rammas is breached far and wide….’”"
 }

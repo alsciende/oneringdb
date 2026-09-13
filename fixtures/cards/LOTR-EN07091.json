@@ -13,5 +13,5 @@
   "strength": "7",
   "vitality": "3",
   "signet": "Frodo",
-  "game_text": "<keyword>Ranger</keyword>.\n<phase>Fellowship</phase>: Play a <culture>Gandalf</culture> Man to heal Faramir.\n<phase>Skirmish</phase>: Exert Faramir to make an unbound Hobbit strength +2.\n<phase>Skirmish</phase>: Exert Gandalf to prevent all wounds to Faramir."
+  "game_text": "<keyword>Ranger</keyword>.\n<phase>Fellowship</phase>: Play a <culture>Rohan</culture> Man to heal Faramir.\n<phase>Skirmish</phase>: Exert Faramir to make an unbound Hobbit strength +2.\n<phase>Skirmish</phase>: Exert Gandalf to prevent all wounds to Faramir."
 }

@@ -6,9 +6,8 @@
   "name": "Duty of Two",
   "unique": false,
   "type": "Event",
-  "subtype": "Fellowship",
   "culture": "Gondor",
   "twilight_cost": "1",
-  "game_text": "Add 3 threats to heal all <culture>Gondor</culture> companions.",
+  "game_text": "<phase>Fellowship</phase>: Add 3 threats to heal all <culture>Gondor</culture> companions.",
   "flavor_text": "“‘…for himself, and for the one that will not return.’”"
 }

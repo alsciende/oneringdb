@@ -6,8 +6,7 @@
   "name": "Defiance",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Elven",
   "twilight_cost": "1",
-  "game_text": "Make an Elf strength +2 (or +4 if skirmishing a Nazgûl)."
+  "game_text": "<phase>Skirmish</phase>: Make an Elf strength +2 (or +4 if skirmishing a Nazgûl)."
 }

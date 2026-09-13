@@ -6,9 +6,8 @@
   "name": "Fierce in Despair",
   "unique": false,
   "type": "Event",
-  "subtype": "Regroup",
   "culture": "Raider",
   "twilight_cost": "7",
-  "game_text": "Spot 2 <culture>Raider</culture> Men to discard a companion (except the Ring-bearer).",
+  "game_text": "<phase>Regroup</phase>: Spot 2 <culture>Raider</culture> Men to discard a companion (except the Ring-bearer).",
   "flavor_text": "“...displaying his standard, black serpent upon scarlet….”"
 }

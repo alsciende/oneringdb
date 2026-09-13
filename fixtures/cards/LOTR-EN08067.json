@@ -6,9 +6,8 @@
   "name": "Between Nazgûl and Prey",
   "unique": false,
   "type": "Event",
-  "subtype": "Assignment",
   "culture": "Wraith",
   "twilight_cost": "4",
-  "game_text": "Exert an enduring <culture>Wraith</culture> minion twice to assign that minion to an unbound companion.",
+  "game_text": "<phase>Assignment</phase>: Exert an enduring <culture>Wraith</culture> minion twice to assign that minion to an unbound companion.",
   "flavor_text": "“...the Nazgûl Lord like a shadow of despair.”"
 }

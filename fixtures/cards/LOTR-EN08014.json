@@ -6,9 +6,8 @@
   "name": "A Fool",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Gandalf",
   "twilight_cost": "3",
-  "game_text": "At sites 1<block>King</block> to 5<block>King</block>, heal Gandalf. At any other site, prevent a Hobbit from being overwhelmed unless his or her strength is tripled.",
+  "game_text": "<phase>Skirmish</phase>: At sites 1<block>King</block> to 5<block>King</block>, heal Gandalf. At any other site, prevent a Hobbit from being overwhelmed unless his or her strength is tripled.",
   "flavor_text": "“‘...but an honest fool he remains.’”"
 }

@@ -6,9 +6,8 @@
   "name": "Unyielding",
   "unique": false,
   "type": "Event",
-  "subtype": "Response",
   "culture": "Rohan",
   "twilight_cost": "1",
-  "game_text": "If your <culture>Rohan</culture> Man wins a skirmish, discard a <culture>Rohan</culture> possession to wound a minion or to liberate a site.",
+  "game_text": "<phase>Response</phase>: If your <culture>Rohan</culture> Man wins a skirmish, discard a <culture>Rohan</culture> possession to wound a minion or to liberate a site.",
   "flavor_text": "“...they gathered and rallied and fought until the day wore away.”"
 }

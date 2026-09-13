@@ -6,9 +6,8 @@
   "name": "Great Day, Great Hour",
   "unique": false,
   "type": "Event",
-  "subtype": "Response",
   "culture": "Dwarven",
   "twilight_cost": "3",
-  "game_text": "If an opponent plays a minion, exert a Dwarf who is damage +X to exert that minion X times.",
+  "game_text": "<phase>Response</phase>: If an opponent plays a minion, exert a Dwarf who is damage +X to exert that minion X times.",
   "flavor_text": "“‘Oft hope is born, when all is forlorn.’”"
 }

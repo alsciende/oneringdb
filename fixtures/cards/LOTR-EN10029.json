@@ -6,9 +6,8 @@
   "name": "Drawing His Eye",
   "unique": false,
   "type": "Event",
-  "subtype": "Fellowship",
   "culture": "Gondor",
   "twilight_cost": "2",
-  "game_text": "For each <culture>Gondor</culture> companion you spot, reveal 1 card at random from a Shadow player's hand. Choose a revealed Shadow card to be discarded, then its owner draws a card.",
+  "game_text": "<phase>Fellowship</phase>: For each <culture>Gondor</culture> companion you spot, reveal 1 card at random from a Shadow player's hand. Choose a revealed Shadow card to be discarded, then its owner draws a card.",
   "flavor_text": "“‘We cannot achieve victory by arms, but by arms we can give the Ring-bearer his only chance, frail though it be.’”"
 }

@@ -6,9 +6,8 @@
   "name": "Beaten Back",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Sauron",
   "twilight_cost": "1",
-  "game_text": "Make a <culture>Sauron</culture> minion strength +2 for each site you control. If you have initiative, that minion is <keyword>fierce</keyword> until the regroup phase.",
+  "game_text": "<phase>Skirmish</phase>: Make a <culture>Sauron</culture> minion strength +2 for each site you control. If you have initiative, that minion is <keyword>fierce</keyword> until the regroup phase.",
   "flavor_text": "“The Rammas was broken, and all the Pelennor abandoned to the Enemy.”"
 }

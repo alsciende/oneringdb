@@ -8,6 +8,6 @@
   "type": "Event",
   "culture": "Gandalf",
   "twilight_cost": "1",
-  "game_text": "<keyword>Spell</keyword>.\n<phase>Fellowship</phase>: Spot Gandalf to shuffle up to 2 <culture>Moria</culture> or up to 2 <culture>Shire</culture> cards from your discard pile into your draw deck.",
+  "game_text": "<keyword>Spell</keyword>.\n<phase>Fellowship</phase>: Spot Gandalf to shuffle up to 2 <culture>Gandalf</culture> or up to 2 <culture>Shire</culture> cards from your discard pile into your draw deck.",
   "flavor_text": "“The finest rockets ever seen: / they burst in stars of blue and green....”"
 }

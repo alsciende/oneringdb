@@ -6,9 +6,8 @@
   "name": "A Dark Shape Sprang",
   "unique": false,
   "type": "Event",
-  "subtype": "Response",
   "culture": "Gollum",
   "twilight_cost": "0",
-  "game_text": "If an opponent plays a possession on a companion, play Gollum at twilight cost –2 from your discard pile or hand to suspend the current phase. Begin a skirmish phase involving Gollum and that companion. When it ends, resume the suspended phase.",
+  "game_text": "<phase>Response</phase>: If an opponent plays a possession on a companion, play Gollum at twilight cost –2 from your discard pile or hand to suspend the current phase. Begin a skirmish phase involving Gollum and that companion. When it ends, resume the suspended phase.",
   "flavor_text": "“Something struck Sam violently in the back....”"
 }

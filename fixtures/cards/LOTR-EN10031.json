@@ -6,9 +6,8 @@
   "name": "Every Little Is a Gain",
   "unique": false,
   "type": "Event",
-  "subtype": "Maneuver",
   "culture": "Gondor",
   "twilight_cost": "1",
-  "game_text": "Spot a <culture>Gondor</culture> Man to discard a stacked Shadow card or to wound a minion bearing a fortification.",
+  "game_text": "<phase>Maneuver</phase>: Spot a <culture>Gondor</culture> Man to discard a stacked Shadow card or to wound a minion bearing a fortification.",
   "flavor_text": "“And so the companies came and were hailed and cheered and passed through the Gate, men of the Outlands marching to defend the City of Gondor in a dark hour....”"
 }

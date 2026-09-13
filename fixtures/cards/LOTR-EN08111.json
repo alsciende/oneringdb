@@ -6,9 +6,8 @@
   "name": "So Fair, So Desperate",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Shire",
   "twilight_cost": "1",
-  "game_text": "If the Shadow has initiative, add a threat to make an unbound Hobbit strength +1 for each <culture>Shire</culture> card you spot.",
+  "game_text": "<phase>Skirmish</phase>: If the Shadow has initiative, add a threat to make an unbound Hobbit strength +1 for each <culture>Shire</culture> card you spot.",
   "flavor_text": "“She should not die.... At least she should not die alone, unaided.”"
 }

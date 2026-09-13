@@ -6,9 +6,8 @@
   "name": "Undaunted",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Gandalf",
   "twilight_cost": "2",
-  "game_text": "Exert Gandalf to make him strength +1 for each twilight token you spot (limit +8).",
+  "game_text": "<phase>Skirmish</phase>: Exert Gandalf to make him strength +1 for each twilight token you spot (limit +8).",
   "flavor_text": "“‘…here the hammerstroke will fall hardest….’”"
 }

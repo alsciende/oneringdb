@@ -6,9 +6,8 @@
   "name": "Beyond All Darkness",
   "unique": false,
   "type": "Event",
-  "subtype": "Skirmish",
   "culture": "Wraith",
   "twilight_cost": "3",
-  "game_text": "Exert a Nazgûl to make him strength +2 and <keyword>damage +1</keyword>. If the character he is skirmishing is killed, the Free Peoples player must place his or her hand beneath his or her draw deck.",
+  "game_text": "<phase>Skirmish</phase>: Exert a Nazgûl to make him strength +2 and <keyword>damage +1</keyword>. If the character he is skirmishing is killed, the Free Peoples player must place his or her hand beneath his or her draw deck.",
   "flavor_text": "“...where thy flesh shall be devoured....”"
 }
