@@ -6,8 +6,9 @@
   "name": "Spies of Mordor",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Sauron",
   "twilight_cost": "1",
-  "game_text": "<keyword>Search</keyword>. To play, spot a <culture>Sauron</culture> Orc. Plays to your support area.\nEach time the fellowship moves during the regroup phase, you may draw a card (or 2 cards if you can spot a <culture>Sauron</culture> tracker).",
+  "game_text": "<keyword>Search</keyword>. To play, spot a <culture>Sauron</culture> Orc.\nEach time the fellowship moves during the regroup phase, you may draw a card (or 2 cards if you can spot a <culture>Sauron</culture> tracker).",
   "flavor_text": "“‘Mordor Orcs patrol the Eastern Shore. We must wait for the cover of darkness.’”"
 }

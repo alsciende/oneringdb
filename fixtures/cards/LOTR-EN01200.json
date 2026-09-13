@@ -6,8 +6,9 @@
   "name": "The Underdeeps of Moria",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Moria",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area.\n<phase>Shadow</phase>: Remove <twilight>3</twilight> to reveal the bottom card of your draw deck. If it is a <culture>Moria</culture> Orc, take it into hand. Otherwise, discard it.",
+  "game_text": "<phase>Shadow</phase>: Remove <twilight>3</twilight> to reveal the bottom card of your draw deck. If it is a <culture>Moria</culture> Orc, take it into hand. Otherwise, discard it.",
   "flavor_text": "“‘I am afraid Balin is buried deep, and maybe something else is buried there too.’”"
 }

@@ -6,8 +6,9 @@
   "name": "Plundered Armories",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Moria",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area.\n<phase>Response</phase>: If your <culture>Moria</culture> weapon is discarded, play it from your discard pile (that weapon’s twilight cost is −1).",
+  "game_text": "<phase>Response</phase>: If your <culture>Moria</culture> weapon is discarded, play it from your discard pile (that weapon’s twilight cost is −1).",
   "flavor_text": "The Goblins of Moria have oft plundered the deep armouries of Durin’s folk."
 }

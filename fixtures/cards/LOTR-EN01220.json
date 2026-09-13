@@ -6,8 +6,9 @@
   "name": "Not Easily Destroyed",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Wraith",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\n<phase>Maneuver</phase> or <phase>Skirmish</phase>: Remove <twilight>3</twilight> to heal a Nazgûl.",
+  "game_text": "<phase>Maneuver</phase> or <phase>Skirmish</phase>: Remove <twilight>3</twilight> to heal a Nazgûl.",
   "flavor_text": "“‘They were Kings… great Kings of Men. Sauron gave to them Nine Rings of Power and with them the promise of eternal rule… unending life.’”"
 }

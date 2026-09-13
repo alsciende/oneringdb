@@ -6,8 +6,9 @@
   "name": "Goblin Armory",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Moria",
   "twilight_cost": "0",
-  "game_text": "Plays to your support area.\nEach time you play a <culture>Moria</culture> weapon, add <twilight>1</twilight>.\n<phase>Response</phase>: If a <culture>Moria</culture> Orc is about to take a wound, discard this condition to prevent that wound.",
+  "game_text": "Each time you play a <culture>Moria</culture> weapon, add <twilight>1</twilight>.\n<phase>Response</phase>: If a <culture>Moria</culture> Orc is about to take a wound, discard this condition to prevent that wound.",
   "flavor_text": "For scavenging vermin, the weapons of fallen foes are prized possessions."
 }

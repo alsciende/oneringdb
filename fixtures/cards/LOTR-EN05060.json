@@ -6,8 +6,9 @@
   "name": "Siege Engine",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "0",
-  "game_text": "<keyword>Machine</keyword>. Plays to your support area.\n<phase>Shadow</phase>: Play an Uruk-hai to place an <culture>Isengard</culture> token on a machine.\n<phase>Response</phase>: If one or more machines are about to be discarded by an opponent, discard this condition to prevent that.",
+  "game_text": "<keyword>Machine</keyword>.\n<phase>Shadow</phase>: Play an Uruk-hai to place an <culture>Isengard</culture> token on a machine.\n<phase>Response</phase>: If one or more machines are about to be discarded by an opponent, discard this condition to prevent that.",
   "flavor_text": "“Ropes… were hurled over the parapet….”"
 }

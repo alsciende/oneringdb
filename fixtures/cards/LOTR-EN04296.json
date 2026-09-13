@@ -6,8 +6,9 @@
   "name": "Well Stored",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Rohan",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\nAt the start of each fellowship phase, you may heal a villager.",
+  "game_text": "At the start of each fellowship phase, you may heal a villager.",
   "flavor_text": "“‘Behind us in the caves of the Deep are... old and young, children and women. But great store of food, and many beasts and their fodder, have also been gathered there.’”"
 }

@@ -6,8 +6,9 @@
   "name": "A Royal Welcome",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Dwarven",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area.\n<phase>Regroup</phase>: Exert a Dwarf ally to heal a Dwarf companion.",
+  "game_text": "<phase>Regroup</phase>: Exert a Dwarf ally to heal a Dwarf companion.",
   "flavor_text": "“‘There is even a chance that Dwarves are there, and that in some deep hall of his fathers, Balin son of Fundin may be found.’”"
 }

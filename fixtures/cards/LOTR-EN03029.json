@@ -6,8 +6,9 @@
   "name": "Betrayal of Isengard",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Gandalf",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\nEach time an opponent draws a card (or takes a card into hand) during the Shadow phase, you may remove <twilight>1</twilight>.\n<phase>Maneuver</phase>: Exert Gandalf to wound Saruman twice.",
+  "game_text": "Each time an opponent draws a card (or takes a card into hand) during the Shadow phase, you may remove <twilight>1</twilight>.\n<phase>Maneuver</phase>: Exert Gandalf to wound Saruman twice.",
   "flavor_text": "“‘There is only one Lord of the Ring.’”"
 }

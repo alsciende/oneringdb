@@ -6,8 +6,9 @@
   "name": "I'd Make You Squeak",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Sauron",
   "twilight_cost": "0",
-  "game_text": "To play, exert 2 <culture>Sauron</culture> Orcs. Plays to your support area.\nThe Shadow number of each site is +1 for each wound on a Hobbit (limit +3).",
+  "game_text": "To play, exert 2 <culture>Sauron</culture> Orcs.\nThe Shadow number of each site is +1 for each wound on a Hobbit (limit +3).",
   "flavor_text": "“‘If I had my way, you'd wish you were dead now.’”"
 }

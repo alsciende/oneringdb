@@ -6,10 +6,11 @@
   "name": "Citadel of the Stars",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Gondor",
   "twilight_cost": "1",
   "strength_modifier": "-2",
   "vitality_modifier": "-1",
-  "game_text": "<keyword>Fortification</keyword>. Plays to your support area.\n<phase>Skirmish</phase>: Exert a <culture>Gondor</culture> Man or spot 3 knights to transfer this condition from your support area to a minion skirmishing a <culture>Gondor</culture> Man.",
+  "game_text": "<keyword>Fortification</keyword>.\n<phase>Skirmish</phase>: Exert a <culture>Gondor</culture> Man or spot 3 knights to transfer this condition from your support area to a minion skirmishing a <culture>Gondor</culture> Man.",
   "flavor_text": "The city of Osgiliath was the first capital of Gondor."
 }

@@ -6,8 +6,9 @@
   "name": "Uruk-hai Armory",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\nWhile you can spot an Uruk-hai, the fellowship archery total is −1.",
+  "game_text": "While you can spot an Uruk-hai, the fellowship archery total is −1.",
   "flavor_text": "The ranks of Saruman’s army include forgers of weapons and armour."
 }

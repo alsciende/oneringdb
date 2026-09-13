@@ -6,8 +6,9 @@
   "name": "Weapons of Isengard",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "2",
-  "game_text": "<keyword>Machine</keyword>. Plays to your support area.\n<phase>Shadow</phase>: Play an <culture>Isengard</culture> archer to place an <culture>Isengard</culture> token on this card.\n<phase>Archery</phase>: Remove 2 <culture>Isengard</culture> tokens from this card to make the minion archery total +2. Discard this condition.",
+  "game_text": "<keyword>Machine</keyword>.\n<phase>Shadow</phase>: Play an <culture>Isengard</culture> archer to place an <culture>Isengard</culture> token on this card.\n<phase>Archery</phase>: Remove 2 <culture>Isengard</culture> tokens from this card to make the minion archery total +2. Discard this condition.",
   "flavor_text": "Crossbowmen arrived with munitions from Isengard."
 }

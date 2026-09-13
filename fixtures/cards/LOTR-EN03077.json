@@ -6,8 +6,9 @@
   "name": "Depths of Moria",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Moria",
   "twilight_cost": "1",
-  "game_text": "To play, spot a <culture>Moria</culture> Orc. Plays to your support area.\nEach time the fellowship moves during the regroup phase, add <twilight>2</twilight>.",
+  "game_text": "To play, spot a <culture>Moria</culture> Orc.\nEach time the fellowship moves during the regroup phase, add <twilight>2</twilight>.",
   "flavor_text": "“...a great fissure had opened. Out of it a fierce red light came, and now and again flames licked at the brink.... Wisps of dark smoke wavered in the hot air.”"
 }

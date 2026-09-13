@@ -6,8 +6,9 @@
   "name": "Fill With Fear",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Moria",
   "twilight_cost": "0",
-  "game_text": "Plays to your support area.\nWhile you can spot The Balrog, skip the archery phase.\n<phase>Maneuver</phase>: Exert The Balrog to discard a ranged weapon.",
+  "game_text": "While you can spot The Balrog, skip the archery phase.\n<phase>Maneuver</phase>: Exert The Balrog to discard a ranged weapon.",
   "flavor_text": "“He drew, but his hand fell, and the arrow slipped to the ground. He gave a cry of dismay and fear.”"
 }

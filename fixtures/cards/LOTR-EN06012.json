@@ -6,8 +6,9 @@
   "name": "Agility",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Elven",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area. When you play this condition, you may spot an Elf to place 2 <culture>Elven</culture> tokens here.\n<phase>Skirmish</phase>: Discard this condition or remove an <culture>Elven</culture> token from here to make a minion skirmishing an Elf strength −1.",
+  "game_text": "When you play this condition, you may spot an Elf to place 2 <culture>Elven</culture> tokens here.\n<phase>Skirmish</phase>: Discard this condition or remove an <culture>Elven</culture> token from here to make a minion skirmishing an Elf strength −1.",
   "flavor_text": "Elves rely upon more than strength in combat."
 }

@@ -6,8 +6,9 @@
   "name": "Ancient Roads",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Gondor",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\nWhile you can spot 3 rangers, the site number of each minion skirmishing a ranger is +2.",
+  "game_text": "While you can spot 3 rangers, the site number of each minion skirmishing a ranger is +2.",
   "flavor_text": "“Presently the noise of fighting broke out near at hand, just above their hiding-place.”"
 }

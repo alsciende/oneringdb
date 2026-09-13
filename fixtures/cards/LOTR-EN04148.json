@@ -6,8 +6,9 @@
   "name": "Down to the Last Child",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area.\nEach time a companion or ally loses a skirmish involving an Uruk-hai, place an <culture>Isengard</culture> token on this card.\n<phase>Shadow</phase>: Remove 2 <culture>Isengard</culture> tokens from this card to take control of a site.",
+  "game_text": "Each time a companion or ally loses a skirmish involving an Uruk-hai, place an <culture>Isengard</culture> token on this card.\n<phase>Shadow</phase>: Remove 2 <culture>Isengard</culture> tokens from this card to take control of a site.",
   "flavor_text": "The Uruks brought death to the villages of Rohan."
 }

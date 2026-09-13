@@ -6,8 +6,9 @@
   "name": "Their Arrows Enrage",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "1",
-  "game_text": "To play, spot Saruman or an Uruk-hai. Plays to your support area.\nEach archer companion and archer ally is strength −1.",
+  "game_text": "To play, spot Saruman or an Uruk-hai.\nEach archer companion and archer ally is strength −1.",
   "flavor_text": "The ferocious charge of the Uruk-hai catches enemy archers groping for their swords."
 }

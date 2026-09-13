@@ -6,8 +6,9 @@
   "name": "The Irresistible Shadow",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Sauron",
   "twilight_cost": "0",
-  "game_text": "To play, exert a <culture>Sauron</culture> Orc. Plays to your support area.\nIf you can spot 5 burdens and the Free Peoples player has no cards in his or her draw deck, the Ring-bearer is corrupted.",
+  "game_text": "To play, exert a <culture>Sauron</culture> Orc.\nIf you can spot 5 burdens and the Free Peoples player has no cards in his or her draw deck, the Ring-bearer is corrupted.",
   "flavor_text": "“Once more the desire to slip on the Ring came over Frodo; but this time it was stronger than before.”"
 }

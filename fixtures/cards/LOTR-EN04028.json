@@ -6,7 +6,8 @@
   "name": "No Defense",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Dunland",
   "twilight_cost": "0",
-  "game_text": "Plays to your support area.\n<phase>Shadow</phase>: Remove <twilight>3</twilight> to place a <culture>Dunland</culture> token here.\n<phase>Skirmish</phase>: Spot a <culture>Dunland</culture> Man and remove a <culture>Dunland</culture> token from this card. A character skirmishing that <culture>Dunland</culture> Man does not gain strength bonuses from possessions."
+  "game_text": "<phase>Shadow</phase>: Remove <twilight>3</twilight> to place a <culture>Dunland</culture> token here.\n<phase>Skirmish</phase>: Spot a <culture>Dunland</culture> Man and remove a <culture>Dunland</culture> token from this card. A character skirmishing that <culture>Dunland</culture> Man does not gain strength bonuses from possessions."
 }

@@ -6,8 +6,9 @@
   "name": "Gates of the Dead City",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Wraith",
   "twilight_cost": "1",
-  "game_text": "To play, spot a Nazgûl. Plays to your support area.\nEach time a <culture>Wraith</culture> card adds a burden, the Free Peoples player must exert a companion.",
+  "game_text": "To play, spot a Nazgûl.\nEach time a <culture>Wraith</culture> card adds a burden, the Free Peoples player must exert a companion.",
   "flavor_text": "“‘...and they took Minas Ithil and abode in it, and they made it into a place of dread....’”"
 }

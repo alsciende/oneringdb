@@ -6,8 +6,9 @@
   "name": "Dark Places",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Moria",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\nEach unique <culture>Moria</culture> minion is strength +1.\n<phase>Shadow</phase>: Spot an opponent's site to replace it with your marsh or underground site of the same number.",
+  "game_text": "Each unique <culture>Moria</culture> minion is strength +1.\n<phase>Shadow</phase>: Spot an opponent's site to replace it with your marsh or underground site of the same number.",
   "flavor_text": "“‘There is some new devilry here... devised for our welcome, no doubt.’”"
 }

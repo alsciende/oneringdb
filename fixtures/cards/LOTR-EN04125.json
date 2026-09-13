@@ -6,8 +6,9 @@
   "name": "Henneth Annûn",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Gondor",
   "twilight_cost": "0",
-  "game_text": "Plays to your support area.\nWhile the fellowship is at site 6<block>Tower</block>, each roaming minion skirmishing a Ring-bound companion is strength -2.\n<phase>Skirmish</phase>: Spot a <culture>Gondor</culture> Man and discard this condition to wound a roaming minion.",
+  "game_text": "While the fellowship is at site 6<block>Tower</block>, each roaming minion skirmishing a Ring-bound companion is strength -2.\n<phase>Skirmish</phase>: Spot a <culture>Gondor</culture> Man and discard this condition to wound a roaming minion.",
   "flavor_text": "“‘This is the Window of the Sunset....’”"
 }

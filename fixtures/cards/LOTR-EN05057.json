@@ -6,8 +6,9 @@
   "name": "Scaling Ladder",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "0",
-  "game_text": "<keyword>Machine</keyword>. Plays to your support area.\n<phase>Shadow</phase>: Exert an Uruk-hai to place an <culture>Isengard</culture> token on this card.\n<phase>Skirmish</phase>: Spot an <culture>Isengard</culture> token here to heal an Uruk-hai. Discard this condition.",
+  "game_text": "<keyword>Machine</keyword>.\n<phase>Shadow</phase>: Exert an Uruk-hai to place an <culture>Isengard</culture> token on this card.\n<phase>Skirmish</phase>: Spot an <culture>Isengard</culture> token here to heal an Uruk-hai. Discard this condition.",
   "flavor_text": "“Hundreds of long ladders were lifted up. Many were cast down in ruin, but many more replaced them….”"
 }

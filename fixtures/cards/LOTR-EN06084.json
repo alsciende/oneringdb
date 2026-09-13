@@ -6,8 +6,9 @@
   "name": "Spied From Above",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Wraith",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\n<phase>Regroup</phase>: Exert a Nazgûl twice to play a <culture>Wraith</culture> or <culture>Sauron</culture> minion. That minion’s twilight cost is −8 and it comes into play exhausted.",
+  "game_text": "<phase>Regroup</phase>: Exert a Nazgûl twice to play a <culture>Wraith</culture> or <culture>Sauron</culture> minion. That minion’s twilight cost is −8 and it comes into play exhausted.",
   "flavor_text": "“It leaped into all of their minds that the Black Wings had spied them and had sent armed soldiers to seize them....”"
 }

@@ -6,8 +6,9 @@
   "name": "Gleaming Spires Will Crumble",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Sauron",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\nEach <culture>Sauron</culture> Orc skirmishing a <culture>Gondor</culture> character is strength +2.\nDiscard this condition if your <culture>Sauron</culture> Orc loses a skirmish.",
+  "game_text": "Each <culture>Sauron</culture> Orc skirmishing a <culture>Gondor</culture> character is strength +2.\nDiscard this condition if your <culture>Sauron</culture> Orc loses a skirmish.",
   "flavor_text": "Gondor has long been a target for the wrath of Sauron the Great."
 }

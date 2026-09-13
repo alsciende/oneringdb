@@ -6,8 +6,9 @@
   "name": "Lórien Is Most Welcome",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Elven",
   "twilight_cost": "1",
-  "game_text": "To play, spot 3 Elves. Plays to your support area.\nEach wounded minion loses all <keyword>damage</keyword> bonuses. Discard this condition during the regroup phase.",
+  "game_text": "To play, spot 3 Elves.\nEach wounded minion loses all <keyword>damage</keyword> bonuses. Discard this condition during the regroup phase.",
   "flavor_text": "“‘We are proud to fight alongside Men once more....’”"
 }

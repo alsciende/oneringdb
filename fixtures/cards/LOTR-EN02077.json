@@ -6,8 +6,9 @@
   "name": "His Terrible Servants",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Wraith",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area.\n<phase>Response</phase>: If a twilight Nazgûl is about to take a wound, remove <twilight>1</twilight> to prevent that wound.",
+  "game_text": "<phase>Response</phase>: If a twilight Nazgûl is about to take a wound, remove <twilight>1</twilight> to prevent that wound.",
   "flavor_text": "“‘...in the dark they perceive many signs and forms that are hidden from us: then they are most to be feared.’”"
 }

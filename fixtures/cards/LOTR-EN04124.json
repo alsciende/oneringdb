@@ -6,8 +6,9 @@
   "name": "Help in Doubt and Need",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Gondor",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Exert an unbound <culture>Gondor</culture> Man to make a <culture>Rohan</culture> companion strength +2, or exert a <culture>Rohan</culture> companion to make an unbound <culture>Gondor</culture> Man strength +2.",
+  "game_text": "<phase>Skirmish</phase>: Exert an unbound <culture>Gondor</culture> Man to make a <culture>Rohan</culture> companion strength +2, or exert a <culture>Rohan</culture> companion to make an unbound <culture>Gondor</culture> Man strength +2.",
   "flavor_text": "“‘The Heir of Elendil would be a strength indeed to the Sons of Eorl in this evil tide.’”"
 }

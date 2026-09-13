@@ -6,8 +6,9 @@
   "name": "Uruk-hai Rampage",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "0",
-  "game_text": "To play, spot an Uruk-hai. Plays to your support area.\n<phase>Response</phase>: If your Uruk-hai wins a skirmish, remove <twilight>3</twilight> to make him <keyword>fierce</keyword> until the regroup phase.",
+  "game_text": "To play, spot an Uruk-hai.\n<phase>Response</phase>: If your Uruk-hai wins a skirmish, remove <twilight>3</twilight> to make him <keyword>fierce</keyword> until the regroup phase.",
   "flavor_text": "Victory breeds rage in Saruman’s foul creations."
 }

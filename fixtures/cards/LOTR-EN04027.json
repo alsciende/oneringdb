@@ -6,8 +6,9 @@
   "name": "Living Off Rock",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Dunland",
   "twilight_cost": "0",
-  "game_text": "Plays to your support area.\nEach time a <culture>Dunland</culture> Man wins a skirmish involving a <culture>Rohan</culture> Man, you may make that minion strength +2 and <keyword>fierce</keyword> until the regroup phase.",
+  "game_text": "Each time a <culture>Dunland</culture> Man wins a skirmish involving a <culture>Rohan</culture> Man, you may make that minion strength +2 and <keyword>fierce</keyword> until the regroup phase.",
   "flavor_text": "“The Horsemen took your land; they drove your people into the hills to scratch living off rock.”"
 }

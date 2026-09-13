@@ -6,8 +6,9 @@
   "name": "Forests of Lothlórien",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Elven",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\nEach time the fellowship moves, you may spot 3 <culture>Elven</culture> allies to wound a minion.",
+  "game_text": "Each time the fellowship moves, you may spot 3 <culture>Elven</culture> allies to wound a minion.",
   "flavor_text": "“‘Alas for Lothlórien that I love! It would be a poor life in a land where no mallorn grew.’”"
 }

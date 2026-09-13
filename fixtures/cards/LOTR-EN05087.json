@@ -6,8 +6,9 @@
   "name": "Parapet",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Rohan",
   "twilight_cost": "1",
-  "game_text": "<keyword>Fortification</keyword>. Plays to your support area.\n<phase>Archery</phase>: Spot 2 <culture>Rohan</culture> Men to remove 2 tokens from a machine or to make the minion archery total −3. Discard this condition.",
+  "game_text": "<keyword>Fortification</keyword>.\n<phase>Archery</phase>: Spot 2 <culture>Rohan</culture> Men to remove 2 tokens from a machine or to make the minion archery total −3. Discard this condition.",
   "flavor_text": "Upon the spur of rock from the cliff stood high walls of ancient stone."
 }

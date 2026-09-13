@@ -6,8 +6,9 @@
   "name": "Covering Fire",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "0",
-  "game_text": "To play, spot 2 <culture>Isengard</culture> archers. Plays to your support area.\nThe Free Peoples player may not play archery events or use archery special abilities. Discard this condition during the regroup phase.",
+  "game_text": "To play, spot 2 <culture>Isengard</culture> archers.\nThe Free Peoples player may not play archery events or use archery special abilities. Discard this condition during the regroup phase.",
   "flavor_text": "Archers cowered on the walls, unable to reply."
 }

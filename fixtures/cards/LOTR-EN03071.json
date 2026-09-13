@@ -6,8 +6,9 @@
   "name": "Tower of Orthanc",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "1",
-  "game_text": "To play, spot an <culture>Isengard</culture> minion. Plays to your support area.\nEach time the fellowship moves, you may spot an exhausted companion to add <twilight>3</twilight>.",
+  "game_text": "To play, spot an <culture>Isengard</culture> minion.\nEach time the fellowship moves, you may spot an exhausted companion to add <twilight>3</twilight>.",
   "flavor_text": "“‘It was not made by Saruman, but by the men of Númenor long ago; and it is very tall and has many secrets; yet it looks not to be a work of craft.’”"
 }

@@ -6,8 +6,9 @@
   "name": "Citadel of Minas Tirith",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Gondor",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\nYou may heal a <culture>Gondor</culture> companion at the end of each turn during which no companion or ally lost a skirmish.",
+  "game_text": "You may heal a <culture>Gondor</culture> companion at the end of each turn during which no companion or ally lost a skirmish.",
   "flavor_text": "“One day our paths will lead us there, and the Tower guards shall take up the call — The Lords of Gondor have returned.”"
 }

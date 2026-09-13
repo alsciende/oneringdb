@@ -6,8 +6,9 @@
   "name": "A Blended Race",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Elven",
   "twilight_cost": "1",
-  "game_text": "To play, spot an Elf. Plays to your support area.\nEach Uruk-hai is strength −2 and loses all <keyword>damage</keyword> bonuses. Discard this condition during the regroup phase.",
+  "game_text": "To play, spot an Elf.\nEach Uruk-hai is strength −2 and loses all <keyword>damage</keyword> bonuses. Discard this condition during the regroup phase.",
   "flavor_text": "“‘...he has been doing something to them.... For these Isengarders are more like wicked Men.’”"
 }

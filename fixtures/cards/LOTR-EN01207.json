@@ -6,8 +6,9 @@
   "name": "Black Breath",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Wraith",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Transfer this condition from your support area to a character skirmishing a Nazgûl. Burdens and wounds may not be removed from bearer.",
+  "game_text": "<phase>Skirmish</phase>: Transfer this condition from your support area to a character skirmishing a Nazgûl. Burdens and wounds may not be removed from bearer.",
   "flavor_text": "Vile breath infects the living with Shadow."
 }

@@ -6,8 +6,9 @@
   "name": "Let Them Come!",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Dwarven",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area.\nEach time a Dwarf wins a skirmish against an Orc, discard that Orc. Discard this condition if a Dwarf loses a skirmish.",
+  "game_text": "Each time a Dwarf wins a skirmish against an Orc, discard that Orc. Discard this condition if a Dwarf loses a skirmish.",
   "flavor_text": "“‘There is one Dwarf yet in Moria who still draws breath!’”"
 }

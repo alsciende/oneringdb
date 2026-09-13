@@ -6,8 +6,9 @@
   "name": "The Nine Servants of Sauron",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Wraith",
   "twilight_cost": "1",
-  "game_text": "<keyword>Search</keyword>. Plays to your support area.\nEach time you play a Nazgûl, you may exert a Hobbit (except the Ring-bearer).",
+  "game_text": "<keyword>Search</keyword>.\nEach time you play a Nazgûl, you may exert a Hobbit (except the Ring-bearer).",
   "flavor_text": "“‘That Black Rider was looking for something… or someone – Frodo?’”"
 }

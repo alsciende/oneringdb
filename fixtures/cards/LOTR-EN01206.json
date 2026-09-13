@@ -6,8 +6,9 @@
   "name": "Bent on Discovery",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Wraith",
   "twilight_cost": "1",
-  "game_text": "<keyword>Search</keyword>. Plays to your support area.\nAt the beginning of each of your Shadow phases, draw 1 card.\nAt the end of each of your Shadow phases, exert a Nazgûl or discard this condition.",
+  "game_text": "<keyword>Search</keyword>.\nAt the beginning of each of your Shadow phases, draw 1 card.\nAt the end of each of your Shadow phases, exert a Nazgûl or discard this condition.",
   "flavor_text": "“The riding figure sat quite still.... From inside the hood came a noise as of someone sniffing....”"
 }

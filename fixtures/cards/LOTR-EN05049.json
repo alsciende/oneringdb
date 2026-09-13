@@ -6,8 +6,9 @@
   "name": "Devilry of Orthanc",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "2",
-  "game_text": "<keyword>Machine</keyword>. Plays to your support area.\n<phase>Shadow</phase>: Exert an Uruk-hai to place an <culture>Isengard</culture> token on this card.\n<phase>Maneuver</phase>: Spot 8 <culture>Isengard</culture> tokens here to exert every character. Discard this condition.",
+  "game_text": "<keyword>Machine</keyword>.\n<phase>Shadow</phase>: Exert an Uruk-hai to place an <culture>Isengard</culture> token on this card.\n<phase>Maneuver</phase>: Spot 8 <culture>Isengard</culture> tokens here to exert every character. Discard this condition.",
   "flavor_text": "“‘They have a blasting fire, and... they took the Wall.’”"
 }

@@ -6,8 +6,9 @@
   "name": "Demands of the Sackville-Bagginses",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "1",
-  "game_text": "To play, spot an <culture>Isengard</culture> minion. Plays to your support area.\nEach time a <culture>Shire</culture> ally exerts, add <twilight>1</twilight>.",
+  "game_text": "To play, spot an <culture>Isengard</culture> minion.\nEach time a <culture>Shire</culture> ally exerts, add <twilight>1</twilight>.",
   "flavor_text": "“In the middle of the commotion, the Sackville-Bagginses arrived.”"
 }

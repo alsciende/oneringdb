@@ -6,8 +6,9 @@
   "name": "Alive and Unspoiled",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "2",
-  "game_text": "To play, exert an Uruk-hai. Plays to your support area.\n<phase>Shadow</phase>: Remove <twilight>3</twilight> and spot X burdens to make the Free Peoples player reveal X cards at random from hand. You may discard 1 revealed card.",
+  "game_text": "To play, exert an Uruk-hai.\n<phase>Shadow</phase>: Remove <twilight>3</twilight> and spot X burdens to make the Free Peoples player reveal X cards at random from hand. You may discard 1 revealed card.",
   "flavor_text": "“‘Bring them to me.... Kill the others....’”"
 }

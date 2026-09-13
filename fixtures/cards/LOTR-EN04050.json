@@ -6,8 +6,9 @@
   "name": "Here Is Good Rock",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Dwarven",
   "twilight_cost": "1",
-  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\n<phase>Skirmish</phase>: Stack a Free Peoples card from hand here to make a Dwarf <keyword>damage +1</keyword>.",
+  "game_text": "<keyword>Tale</keyword>.\n<phase>Skirmish</phase>: Stack a Free Peoples card from hand here to make a Dwarf <keyword>damage +1</keyword>.",
   "flavor_text": "“‘Give me a year and a hundred of my kin and I would make this a place that armies would break upon like water.’”"
 }

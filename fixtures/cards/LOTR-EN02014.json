@@ -6,8 +6,9 @@
   "name": "Till Durin Wakes Again",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Dwarven",
   "twilight_cost": "0",
-  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\nEach time a Dwarf companion moves from an underground site, you may heal that Dwarf.",
+  "game_text": "<keyword>Tale</keyword>.\nEach time a Dwarf companion moves from an underground site, you may heal that Dwarf.",
   "flavor_text": "“Gimli was silent. Having sung his song, he would say no more.”"
 }

@@ -6,8 +6,9 @@
   "name": "Twisted Tales",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area.\nEach time a companion or ally loses a skirmish involving an <culture>Isengard</culture> Man, you may spot a possession to stack that possession here.",
+  "game_text": "Each time a companion or ally loses a skirmish involving an <culture>Isengard</culture> Man, you may spot a possession to stack that possession here.",
   "flavor_text": "“‘Too long have you sat in the shadows....’”"
 }

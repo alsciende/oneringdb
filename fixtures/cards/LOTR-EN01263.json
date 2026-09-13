@@ -6,8 +6,9 @@
   "name": "Orc Banner",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Sauron",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\nEach time a companion or ally loses a skirmish involving a <culture>Sauron</culture> Orc, each <culture>Sauron</culture> Orc is strength +1 until the regroup phase.",
+  "game_text": "Each time a companion or ally loses a skirmish involving a <culture>Sauron</culture> Orc, each <culture>Sauron</culture> Orc is strength +1 until the regroup phase.",
   "flavor_text": "Tribes of Orcs from throughout Mordor rally to the banner of the Dark Tower."
 }

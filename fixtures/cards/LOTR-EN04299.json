@@ -6,8 +6,9 @@
   "name": "Cliffs of Emyn Muil",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Shire",
   "twilight_cost": "0",
-  "game_text": "Plays to your support area.\nWhen the fellowship moves from site 1<block>Tower</block>, remove up to 2 burdens.\n<phase>Skirmish</phase>: Discard this condition to wound a minion a Hobbit companion is skirmishing.",
+  "game_text": "When the fellowship moves from site 1<block>Tower</block>, remove up to 2 burdens.\n<phase>Skirmish</phase>: Discard this condition to wound a minion a Hobbit companion is skirmishing.",
   "flavor_text": "“‘We’ve escaped from the Emyn Muil!’”"
 }

@@ -6,8 +6,9 @@
   "name": "Journey into Danger",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Sauron",
   "twilight_cost": "0",
-  "game_text": "<keyword>Search</keyword>. To play, exert a <culture>Sauron</culture> Orc. Plays to your support area.\nWhile you can spot 5 companions, each companion's twilight cost is +2.",
+  "game_text": "<keyword>Search</keyword>. To play, exert a <culture>Sauron</culture> Orc.\nWhile you can spot 5 companions, each companion's twilight cost is +2.",
   "flavor_text": "“‘I do not foretell, for all foretelling is now vain: on the one hand lies darkness, on the other only hope.’”"
 }

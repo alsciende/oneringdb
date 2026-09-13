@@ -6,8 +6,9 @@
   "name": "Greatest Kingdom of My People",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Dwarven",
   "twilight_cost": "0",
-  "game_text": "<keyword>Tale</keyword>. Exert a Dwarf to play this condition. Plays to your support area.\nEach time your opponent plays an Orc, that player discards the top card of his or her draw deck.",
+  "game_text": "<keyword>Tale</keyword>. Exert a Dwarf to play this condition.\nEach time your opponent plays an Orc, that player discards the top card of his or her draw deck.",
   "flavor_text": "“‘With golden roof and silver floor / And runes of power upon the door.’”"
 }

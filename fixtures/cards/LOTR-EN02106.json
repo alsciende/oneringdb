@@ -6,8 +6,9 @@
   "name": "Nice Imitation",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Shire",
   "twilight_cost": "1",
-  "game_text": "<keyword>Stealth</keyword>. Plays to your support area.\n<phase>Response</phase>: If a Hobbit is about to take a wound, discard this condition to prevent that wound.",
+  "game_text": "<keyword>Stealth</keyword>.\n<phase>Response</phase>: If a Hobbit is about to take a wound, discard this condition to prevent that wound.",
   "flavor_text": "“‘Very life-like!... But what will happen when they have penetrated the disguise?’”"
 }

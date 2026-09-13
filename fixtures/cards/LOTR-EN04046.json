@@ -6,7 +6,8 @@
   "name": "Ever My Heart Rises",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Dwarven",
   "twilight_cost": "3",
-  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\nWhen you play this condition, reveal the top 6 cards of your draw deck and stack them here.\n<phase>Fellowship</phase>: Spot a Dwarf and discard the top card of your draw deck to take a Free Peoples card stacked here into hand."
+  "game_text": "<keyword>Tale</keyword>.\nWhen you play this condition, reveal the top 6 cards of your draw deck and stack them here.\n<phase>Fellowship</phase>: Spot a Dwarf and discard the top card of your draw deck to take a Free Peoples card stacked here into hand."
 }

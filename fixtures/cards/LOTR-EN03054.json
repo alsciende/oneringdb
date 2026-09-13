@@ -6,8 +6,9 @@
   "name": "Hollowing of Isengard",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "4",
-  "game_text": "To play, spot an <culture>Isengard</culture> Orc. Plays to your support area.\n<phase>Shadow</phase>: Discard this condition to add <twilight>3</twilight>.",
+  "game_text": "To play, spot an <culture>Isengard</culture> Orc.\n<phase>Shadow</phase>: Discard this condition to add <twilight>3</twilight>.",
   "flavor_text": "“‘Rip them all down!’”"
 }

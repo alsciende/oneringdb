@@ -6,8 +6,9 @@
   "name": "Constantly Threatening",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Dunland",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\n<phase>Shadow</phase>: If the fellowship has moved more than once this turn, remove <twilight>2</twilight> to play a <culture>Dunland</culture> Man from your discard pile.",
+  "game_text": "<phase>Shadow</phase>: If the fellowship has moved more than once this turn, remove <twilight>2</twilight> to play a <culture>Dunland</culture> Man from your discard pile.",
   "flavor_text": "The men of Dunland have hated the Rohirrim for many years."
 }

@@ -6,8 +6,9 @@
   "name": "Blood Has Been Spilled",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Rohan",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Discard a mount borne by a <culture>Rohan</culture> Man to prevent that Man from being overwhelmed unless his or her strength is tripled.",
+  "game_text": "<phase>Skirmish</phase>: Discard a mount borne by a <culture>Rohan</culture> Man to prevent that Man from being overwhelmed unless his or her strength is tripled.",
   "flavor_text": "“They were hemming the Orcs in, preventing them from scattering, and driving them….”"
 }

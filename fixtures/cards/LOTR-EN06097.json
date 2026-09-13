@@ -6,7 +6,8 @@
   "name": "We Left None Alive",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Rohan",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area. When you play this condition, you may spot a <culture>Rohan</culture> Man to place 2 <culture>Rohan</culture> tokens here.\n<phase>Skirmish</phase>: Discard this condition or remove a <culture>Rohan</culture> token from here to make a <culture>Rohan</culture> Man skirmishing an exhausted minion strength +2."
+  "game_text": "When you play this condition, you may spot a <culture>Rohan</culture> Man to place 2 <culture>Rohan</culture> tokens here.\n<phase>Skirmish</phase>: Discard this condition or remove a <culture>Rohan</culture> token from here to make a <culture>Rohan</culture> Man skirmishing an exhausted minion strength +2."
 }

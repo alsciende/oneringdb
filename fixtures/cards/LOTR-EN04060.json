@@ -6,8 +6,9 @@
   "name": "Blades Drawn",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Elven",
   "twilight_cost": "1",
-  "game_text": "To play, spot 3 Elves. Plays to your support area.\nFor each wound on each minion, that minion is strength –2. Discard this condition during the regroup phase.",
+  "game_text": "To play, spot 3 Elves.\nFor each wound on each minion, that minion is strength –2. Discard this condition during the regroup phase.",
   "flavor_text": "The sword skills of the Elven archers were unexpected."
 }

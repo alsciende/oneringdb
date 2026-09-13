@@ -6,8 +6,9 @@
   "name": "Eastern Emyn Muil",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Raider",
   "twilight_cost": "0",
-  "game_text": "Plays to your support area.\nEach Ring-bound companion moving from site 2<block>Tower</block> must exert twice.\n<phase>Maneuver</phase>: Discard this condition and exert a <culture>Raider</culture> Man to exert a Ring-bound companion.",
+  "game_text": "Each Ring-bound companion moving from site 2<block>Tower</block> must exert twice.\n<phase>Maneuver</phase>: Discard this condition and exert a <culture>Raider</culture> Man to exert a Ring-bound companion.",
   "flavor_text": "The Emyn Muil was a strange, twisted knot of hills."
 }

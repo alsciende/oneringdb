@@ -6,8 +6,9 @@
   "name": "Strength in Numbers",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Raider",
   "twilight_cost": "0",
-  "game_text": "To play, spot a Southron. Plays to your support area.\n<phase>Maneuver</phase>: Discard this condition to add <twilight>1</twilight> for each Man with ambush you spot.",
+  "game_text": "To play, spot a Southron.\n<phase>Maneuver</phase>: Discard this condition to add <twilight>1</twilight> for each Man with ambush you spot.",
   "flavor_text": "Lacking arms and armor, the Haradrim use swift movements to outnumber their opponents."
 }

@@ -6,8 +6,9 @@
   "name": "Arrow-slits",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Rohan",
   "twilight_cost": "1",
-  "game_text": "<keyword>Fortification</keyword>. Plays to your support area.\n<phase>Maneuver</phase>: Spot 2 <culture>Rohan</culture> Men to discard a possession or a machine. Discard this condition.",
+  "game_text": "<keyword>Fortification</keyword>.\n<phase>Maneuver</phase>: Spot 2 <culture>Rohan</culture> Men to discard a possession or a machine. Discard this condition.",
   "flavor_text": "“Here and there were clefts in the stone through which men could shoot.”"
 }

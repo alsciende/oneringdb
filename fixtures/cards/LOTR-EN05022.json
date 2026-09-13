@@ -6,8 +6,9 @@
   "name": "Evil-smelling Fens",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Gollum",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\nEach site on the adventure path is a <keyword>marsh</keyword>.\n<phase>Shadow</phase>: Exert Gollum twice and discard this condition to play a minion from your discard pile.",
+  "game_text": "Each site on the adventure path is a <keyword>marsh</keyword>.\n<phase>Shadow</phase>: Exert Gollum twice and discard this condition to play a minion from your discard pile.",
   "flavor_text": "“‘No birds here. There are snakeses, wormses, things in the pools. Lots of things, lots of nasty things.’”"
 }

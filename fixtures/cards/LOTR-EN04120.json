@@ -6,8 +6,9 @@
   "name": "Forbidden Pool",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Gondor",
   "twilight_cost": "0",
-  "game_text": "Plays to your support area.\nWhile the fellowship is at site 6<block>Tower</block>, each Ring-bound Man takes no more than 1 wound during each skirmish phase.\n<phase>Fellowship</phase>: Add <twilight>2</twilight> and discard this condition to heal a Ring-bound Man.",
+  "game_text": "While the fellowship is at site 6<block>Tower</block>, each Ring-bound Man takes no more than 1 wound during each skirmish phase.\n<phase>Fellowship</phase>: Add <twilight>2</twilight> and discard this condition to heal a Ring-bound Man.",
   "flavor_text": "“‘...tonight you have come where it is death to come.’”"
 }

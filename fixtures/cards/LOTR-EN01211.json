@@ -6,8 +6,9 @@
   "name": "Drawn to Its Power",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Wraith",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area.\nEach time a companion is killed in a skirmish involving a Nazgûl, add a burden.",
+  "game_text": "Each time a companion is killed in a skirmish involving a Nazgûl, add a burden.",
   "flavor_text": "“And also the Ring drew them.”"
 }

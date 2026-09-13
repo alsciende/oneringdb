@@ -6,8 +6,9 @@
   "name": "Ithilien Trap",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Gondor",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area.\nEach time a <culture>Gondor</culture> Man wins a skirmish, you may place a <culture>Gondor</culture> token here.\n<phase>Maneuver</phase>: Exert a minion for each <culture>Gondor</culture> token here (limit 3). Discard this condition.",
+  "game_text": "Each time a <culture>Gondor</culture> Man wins a skirmish, you may place a <culture>Gondor</culture> token here.\n<phase>Maneuver</phase>: Exert a minion for each <culture>Gondor</culture> token here (limit 3). Discard this condition.",
   "flavor_text": "“He was glad he could not see the dead face.”"
 }

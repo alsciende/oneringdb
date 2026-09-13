@@ -6,7 +6,8 @@
   "name": "Ithilien Wilderness",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Raider",
   "twilight_cost": "0",
-  "game_text": "Plays to your support area.\nAt the end of each phase during which the fellowship has moved to 7<block>Tower</block>, 8<block>Tower</block>, or 9<block>Tower</block> and the twilight pool has fewer than 7 twilight tokens, you may add <twilight>8</twilight>.\n<phase>Skirmish</phase>: Discard this condition to make a <culture>Raider</culture> Man strength +2."
+  "game_text": "At the end of each phase during which the fellowship has moved to 7<block>Tower</block>, 8<block>Tower</block>, or 9<block>Tower</block> and the twilight pool has fewer than 7 twilight tokens, you may add <twilight>8</twilight>.\n<phase>Skirmish</phase>: Discard this condition to make a <culture>Raider</culture> Man strength +2."
 }

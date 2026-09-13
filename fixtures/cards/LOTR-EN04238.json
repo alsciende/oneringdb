@@ -6,8 +6,9 @@
   "name": "Men of Harad",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Raider",
   "twilight_cost": "0",
-  "game_text": "Plays to your support area.\n<phase>Shadow</phase>: Spot a site you control, spot 3 Southrons and remove <twilight>2</twilight> to draw a card.",
+  "game_text": "<phase>Shadow</phase>: Spot a site you control, spot 3 Southrons and remove <twilight>2</twilight> to draw a card.",
   "flavor_text": "The savage Haradrim, men from the kingdoms south of Gondor and Mordor, were called Southrons."
 }

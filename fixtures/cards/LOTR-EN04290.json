@@ -6,8 +6,9 @@
   "name": "Supplies of the Mark",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Rohan",
   "twilight_cost": "0",
-  "game_text": "Plays to your support area.\n<phase>Fellowship</phase>: Add <twilight>2</twilight> and place a villager from hand beneath your draw deck to heal a <culture>Rohan</culture> ally.",
+  "game_text": "<phase>Fellowship</phase>: Add <twilight>2</twilight> and place a villager from hand beneath your draw deck to heal a <culture>Rohan</culture> ally.",
   "flavor_text": "“‘This is all we could save, my Lady.’”"
 }

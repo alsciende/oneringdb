@@ -6,8 +6,9 @@
   "name": "Song of Durin",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Dwarven",
   "twilight_cost": "0",
-  "game_text": "<keyword>Tale</keyword>. To play, exert a Dwarf. Plays to your support area.\nThe twilight cost of each <culture>Moria</culture> weapon is +2.\n<phase>Fellowship</phase>: Discard this condition to discard up to 2 <culture>Moria</culture> conditions.",
+  "game_text": "<keyword>Tale</keyword>. To play, exert a Dwarf.\nThe twilight cost of each <culture>Moria</culture> weapon is +2.\n<phase>Fellowship</phase>: Discard this condition to discard up to 2 <culture>Moria</culture> conditions.",
   "flavor_text": "“No harp is wrung, no hammer falls: / The darkness dwells in Durin’s halls....”"
 }

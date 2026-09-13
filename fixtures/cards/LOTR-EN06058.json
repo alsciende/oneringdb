@@ -6,8 +6,9 @@
   "name": "Assault Ladder",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "1",
-  "game_text": "<keyword>Machine</keyword>. Plays to your support area.\n<phase>Shadow</phase>: Exert an Uruk-hai to place an <culture>Isengard</culture> token on this card.\n<phase>Skirmish</phase>: Spot 3 <culture>Isengard</culture> tokens here to make an Uruk-hai strength +3. Discard this condition.",
+  "game_text": "<keyword>Machine</keyword>.\n<phase>Shadow</phase>: Exert an Uruk-hai to place an <culture>Isengard</culture> token on this card.\n<phase>Skirmish</phase>: Spot 3 <culture>Isengard</culture> tokens here to make an Uruk-hai strength +3. Discard this condition.",
   "flavor_text": "“‘It is a great host....’”"
 }

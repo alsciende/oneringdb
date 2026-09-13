@@ -6,8 +6,9 @@
   "name": "Gondor Bowmen",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Gondor",
   "twilight_cost": "0",
-  "game_text": "<keyword>Tale</keyword>. Plays to your support area.\n<phase>Archery</phase>: Exert a <culture>Gondor</culture> companion and discard this condition to make the fellowship archery total +2.",
+  "game_text": "<keyword>Tale</keyword>.\n<phase>Archery</phase>: Exert a <culture>Gondor</culture> companion and discard this condition to make the fellowship archery total +2.",
   "flavor_text": "Arrows of the Last Alliance brought death to Sauron’s forces."
 }

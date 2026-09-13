@@ -6,8 +6,9 @@
   "name": "The Number Must Be Few",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Sauron",
   "twilight_cost": "2",
-  "game_text": "<keyword>Search</keyword>. Plays to your support area.\nWhile you can spot 7 companions, the move limit for this turn is −1 (to a minimum of 1).",
+  "game_text": "<keyword>Search</keyword>.\nWhile you can spot 7 companions, the move limit for this turn is −1 (to a minimum of 1).",
   "flavor_text": "“‘The number must be few, since your hope is in speed and secrecy.’”"
 }

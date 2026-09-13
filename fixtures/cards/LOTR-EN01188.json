@@ -6,8 +6,9 @@
   "name": "The Long Dark",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Moria",
   "twilight_cost": "2",
-  "game_text": "Plays to your support area.\nWhen the fellowship moves to site 4 or 5, add <twilight>2</twilight> for each Dwarf companion.\n<phase>Skirmish</phase>: Discard this condition to make your <culture>Moria</culture> Orc strength +2.",
+  "game_text": "When the fellowship moves to site 4 or 5, add <twilight>2</twilight> for each Dwarf companion.\n<phase>Skirmish</phase>: Discard this condition to make your <culture>Moria</culture> Orc strength +2.",
   "flavor_text": "“‘So ended the attempt to retake Moria! It was valiant but foolish. The time is not come yet.’”"
 }

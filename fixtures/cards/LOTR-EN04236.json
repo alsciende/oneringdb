@@ -6,8 +6,9 @@
   "name": "Howl of Harad",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Raider",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\nEach time a companion or ally loses a skirmish involving a Southron, you may remove <twilight>4</twilight> to make the Free Peoples player wound a Ring-bound companion.",
+  "game_text": "Each time a companion or ally loses a skirmish involving a Southron, you may remove <twilight>4</twilight> to make the Free Peoples player wound a Ring-bound companion.",
   "flavor_text": "Blood-curdling cries rout the Southrons’ enemies from the battlefield."
 }

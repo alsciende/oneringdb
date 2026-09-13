@@ -6,8 +6,9 @@
   "name": "Attack on Helm's Deep",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Isengard",
   "twilight_cost": "0",
-  "game_text": "Plays to your support area.\n<phase>Shadow</phase>: Play an Uruk-hai to place an <culture>Isengard</culture> token on this card.\n<phase>Regroup</phase>: Remove 3 <culture>Isengard</culture> tokens from this card and discard an Uruk-hai to take control of a site.",
+  "game_text": "<phase>Shadow</phase>: Play an Uruk-hai to place an <culture>Isengard</culture> token on this card.\n<phase>Regroup</phase>: Remove 3 <culture>Isengard</culture> tokens from this card and discard an Uruk-hai to take control of a site.",
   "flavor_text": "“Ten thousand strong at least....”"
 }

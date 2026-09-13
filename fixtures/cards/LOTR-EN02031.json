@@ -6,8 +6,9 @@
   "name": "Blood of Númenor",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Gondor",
   "twilight_cost": "2",
-  "game_text": "To play, exert a <culture>Gondor</culture> companion. Plays to your support area.\nEach <culture>Sauron</culture> Orc comes into play exhausted. Skip the archery phase. Discard this condition during the regroup phase.",
+  "game_text": "To play, exert a <culture>Gondor</culture> companion.\nEach <culture>Sauron</culture> Orc comes into play exhausted. Skip the archery phase. Discard this condition during the regroup phase.",
   "flavor_text": "“‘I do not know what strength is in my blood, but I swear to you — I will not let the White City fall....’”"
 }

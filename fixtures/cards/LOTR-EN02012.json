@@ -6,8 +6,9 @@
   "name": "Realm of Dwarrowdelf",
   "unique": true,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Dwarven",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\n<phase>Skirmish</phase>: Discard the top 3 cards from your draw deck to make a Dwarf strength +1 (limit +3) and, if underground, <keyword>damage +1</keyword> (limit +3).",
+  "game_text": "<phase>Skirmish</phase>: Discard the top 3 cards from your draw deck to make a Dwarf strength +1 (limit +3) and, if underground, <keyword>damage +1</keyword> (limit +3).",
   "flavor_text": "“‘There must have been a mighty crowd of dwarves here... and every one of them busier than badgers....’”"
 }

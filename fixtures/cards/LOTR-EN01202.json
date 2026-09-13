@@ -6,8 +6,9 @@
   "name": "What Is This New Devilry?",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Moria",
   "twilight_cost": "2",
-  "game_text": "<keyword>Search</keyword>. To play, exert a <culture>Moria</culture> Orc. Plays to your support area.\nWhile the fellowship is at site 5 or higher, each companion’s twilight cost is +2.",
+  "game_text": "<keyword>Search</keyword>. To play, exert a <culture>Moria</culture> Orc.\nWhile the fellowship is at site 5 or higher, each companion’s twilight cost is +2.",
   "flavor_text": "“‘This foe is beyond any of you! Run!’”"
 }

@@ -6,8 +6,9 @@
   "name": "Make Light of Burdens",
   "unique": false,
   "type": "Condition",
+  "subtype": "Support Area",
   "culture": "Dwarven",
   "twilight_cost": "1",
-  "game_text": "Plays to your support area.\n<phase>Maneuver</phase>: Exert a Dwarf companion and discard the top 3 cards from your draw deck to discard either a Shadow condition from a Dwarf or a weather condition.",
+  "game_text": "<phase>Maneuver</phase>: Exert a Dwarf companion and discard the top 3 cards from your draw deck to discard either a Shadow condition from a Dwarf or a weather condition.",
   "flavor_text": "A Dwarf does not readily notice the weight on his back, or in his heart."
 }
