@@ -26,7 +26,6 @@ clean:
 
 install:
 	$(PHP) composer install
-	$(PHP) php bin/console importmap:install
 
 shell:
 	$(PHP) bash
