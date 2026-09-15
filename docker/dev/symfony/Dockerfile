@@ -9,7 +9,13 @@ RUN apk add --no-cache \
        && docker-php-ext-install pdo_pgsql
 
 RUN docker-php-ext-install intl
-#RUN docker-php-ext-enable opcache
+
+RUN pecl channel-update pecl.php.net \
+    && pecl install xdebug
+
+RUN docker-php-ext-enable xdebug
+
+ENV XDEBUG_MODE=coverage
 
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
 

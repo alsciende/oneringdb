@@ -1,4 +1,4 @@
-![develop status](https://github.com/alsciende/lotrtcgdb/actions/workflows/symfony.yml/badge.svg?branch=main)
+![develop status](https://github.com/alsciende/oneringdb/actions/workflows/symfony.yml/badge.svg?branch=main)
 
 # OneRingDB
 

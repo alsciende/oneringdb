@@ -1,6 +1,6 @@
 COMPOSER := docker run --rm --interactive --tty --volume ${PWD}:/app --workdir /app composer
-DOCKER := DOCKER_CONFIG=/tmp/docker-empty-config docker
-COMPOSE := DOCKER_CONFIG=/tmp/docker-empty-config docker-compose
+DOCKER := docker
+COMPOSE := docker compose
 EXEC := ${COMPOSE} exec --interactive
 PHP := ${EXEC} symfony
 

@@ -27,7 +27,7 @@ services:
             - postgres
 
     symfony:
-        build: ./symfony/
+        build: ./docker/dev/symfony/
         volumes:
             - .:/var/www/html
         ports:
