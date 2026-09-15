@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace App\Tests\Service;
 
+use App\Exception\BadOperatorException;
 use App\Search\CardCondition;
 use App\Search\Operand;
 use App\Search\Operator;
@@ -11,6 +12,7 @@ use App\Service\SyntaxDecoder;
 use PHPUnit\Framework\Attributes\CoversClass;
 use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
+use Psr\Log\LoggerInterface;
 use Psr\Log\NullLogger;
 
 #[CoversClass(SyntaxDecoder::class)]
@@ -111,5 +113,28 @@ class SyntaxDecoderTest extends TestCase
         $this->assertEquals($search, $search2, 'Imp Imp vs Exp Imp');
         $this->assertEquals($search, $search3, 'Imp Imp vs Imp Exp');
         $this->assertEquals($search, $search4, 'Imp Imp vs Exp Exp');
+    }
+
+    public function testAnInvalidOperandIsLoggedAndSkipped(): void
+    {
+        $logger = $this->createMock(LoggerInterface::class);
+        $logger->expects($this->once())
+            ->method('error')
+            ->with($this->stringContains('"z" is not a valid search condition'));
+
+        $decoder = new SyntaxDecoder($logger);
+        $searchConditions = $decoder->decode('z:foo');
+
+        $this->assertSame([], $searchConditions->getConditions());
+    }
+
+    public function testParseConditionThrowsOnAnInvalidOperator(): void
+    {
+        $decoder = new SyntaxDecoder(new NullLogger());
+
+        $method = new \ReflectionMethod($decoder, 'parseCondition');
+
+        $this->expectException(BadOperatorException::class);
+        $method->invoke($decoder, '_~foo');
     }
 }

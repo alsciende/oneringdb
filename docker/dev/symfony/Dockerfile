@@ -1,7 +1,7 @@
 FROM php:8.5-alpine
 
 RUN apk update && apk add --no-cache \
-           bash bash-completion autoconf make
+           bash bash-completion
 
 RUN apk add --no-cache \
            postgresql-dev \
@@ -10,8 +10,10 @@ RUN apk add --no-cache \
 
 RUN docker-php-ext-install intl
 
-RUN pecl channel-update pecl.php.net \
-    && pecl install xdebug
+RUN apk add --no-cache --virtual .build-deps $PHPIZE_DEPS linux-headers \
+    && pecl channel-update pecl.php.net \
+    && pecl install xdebug \
+    && apk del .build-deps
 
 RUN docker-php-ext-enable xdebug
 

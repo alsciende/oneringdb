@@ -7,10 +7,21 @@ namespace App\Tests\Twig;
 use App\Twig\CardTextExtension;
 use PHPUnit\Framework\Attributes\CoversClass;
 use PHPUnit\Framework\TestCase;
+use Twig\TwigFilter;
 
 #[CoversClass(CardTextExtension::class)]
 class CardTextExtensionTest extends TestCase
 {
+    public function testGetFiltersRegistersTheCardMarkupFilter(): void
+    {
+        $filters = new CardTextExtension()->getFilters();
+
+        $this->assertCount(1, $filters);
+        $this->assertInstanceOf(TwigFilter::class, $filters[0]);
+        $this->assertSame('card_markup', $filters[0]->getName());
+        $this->assertSame(['html'], $filters[0]->getSafe(new \Twig\Node\Node()));
+    }
+
     public function testNullTextReturnsEmptyString(): void
     {
         $this->assertSame('', new CardTextExtension()->markup(null));
