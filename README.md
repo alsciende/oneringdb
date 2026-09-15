@@ -1,4 +1,5 @@
 ![develop status](https://github.com/alsciende/oneringdb/actions/workflows/ci.yml/badge.svg?branch=main)
+[![codecov](https://codecov.io/github/alsciende/oneringdb/graph/badge.svg?token=LJA0T9TYNO)](https://codecov.io/github/alsciende/oneringdb)
 
 # OneRingDB
 
