@@ -4,28 +4,22 @@ declare(strict_types=1);
 
 namespace App\Tests\Enum;
 
-use App\Enum\Culture;
+use App\Enum\Subtype;
 use PHPUnit\Framework\Attributes\CoversClass;
 use PHPUnit\Framework\TestCase;
 use Symfony\Contracts\Translation\TranslatorInterface;
 
-#[CoversClass(Culture::class)]
-class CultureTest extends TestCase
+#[CoversClass(Subtype::class)]
+class SubtypeTest extends TestCase
 {
-    public function testSize(): void
-    {
-        $cases = Culture::cases();
-        $this->assertCount(13, $cases);
-    }
-
     public function testTransDelegatesToTheTranslator(): void
     {
         $translator = $this->createMock(TranslatorInterface::class);
         $translator->expects($this->once())
             ->method('trans')
-            ->with('shire', [], 'cultures', null)
-            ->willReturn('Shire');
+            ->with('Hobbit', [], 'subtypes', null)
+            ->willReturn('Hobbit');
 
-        $this->assertSame('Shire', Culture::Shire->trans($translator));
+        $this->assertSame('Hobbit', Subtype::Hobbit->trans($translator));
     }
 }

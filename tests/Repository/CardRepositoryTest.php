@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace App\Tests\Repository;
 
+use App\Entity\CardTypes\CompanionCard;
 use App\Repository\CardRepository;
 use PHPUnit\Framework\Attributes\CoversClass;
 use PHPUnit\Framework\Attributes\DataProvider;
@@ -75,5 +76,89 @@ class CardRepositoryTest extends KernelTestCase
         $this->assertNotNull($card);
         $this->assertSame('01003', $repository->findPreviousCard($card)?->getId());
         $this->assertSame('01005', $repository->findNextCard($card)?->getId());
+    }
+
+    public function testFindPreviousCardReturnsNullWhenTheCardHasNoPosition(): void
+    {
+        self::bootKernel();
+
+        /** @var CardRepository $repository */
+        $repository = static::getContainer()->get(CardRepository::class);
+        $card = new CompanionCard()->setTitle('Unpositioned');
+
+        $this->assertNull($repository->findPreviousCard($card));
+    }
+
+    public function testFindNextCardReturnsNullWhenTheCardHasNoPosition(): void
+    {
+        self::bootKernel();
+
+        /** @var CardRepository $repository */
+        $repository = static::getContainer()->get(CardRepository::class);
+        $card = new CompanionCard()->setTitle('Unpositioned');
+
+        $this->assertNull($repository->findNextCard($card));
+    }
+
+    public function testSearchWithPositionSortOrdersBySetThenPosition(): void
+    {
+        self::bootKernel();
+
+        /** @var CardRepository $repository */
+        $repository = static::getContainer()->get(CardRepository::class);
+        $cards = $repository->search('t:ring', 'position')->getQuery()->getResult();
+
+        $this->assertNotEmpty($cards);
+    }
+
+    public function testExistsReturnsTrueForAPersistedCard(): void
+    {
+        self::bootKernel();
+
+        /** @var CardRepository $repository */
+        $repository = static::getContainer()->get(CardRepository::class);
+        $card = $repository->getCard('01001');
+
+        $this->assertNotNull($card);
+        $this->assertTrue($repository->exists($card));
+    }
+
+    public function testExistsReturnsFalseForACardThatWasRemoved(): void
+    {
+        self::bootKernel();
+
+        /** @var CardRepository $repository */
+        $repository = static::getContainer()->get(CardRepository::class);
+        $card = $repository->getCard('01001');
+        $this->assertNotNull($card);
+
+        $card->setId('does-not-exist');
+
+        $this->assertFalse($repository->exists($card));
+    }
+
+    public function testFindByPublishedSetReturnsOnlyCardsFromThatSet(): void
+    {
+        self::bootKernel();
+
+        /** @var CardRepository $repository */
+        $repository = static::getContainer()->get(CardRepository::class);
+        $card = $repository->getCard('01001');
+        $this->assertNotNull($card);
+
+        $cards = $repository->findByPublishedSet($card->getPublishedSet());
+
+        $this->assertCount(365, $cards);
+    }
+
+    public function testSearchOrdersByAGivenSort(): void
+    {
+        self::bootKernel();
+
+        /** @var CardRepository $repository */
+        $repository = static::getContainer()->get(CardRepository::class);
+        $cards = $repository->search('t:ring', 'twilightCost')->getQuery()->getResult();
+
+        $this->assertNotEmpty($cards);
     }
 }

@@ -38,6 +38,7 @@ lint:
 
 test:
 	$(PHP) php bin/phpunit
+	@echo "Code coverage report: \033[36mfile://${PWD}/build/coverage/phpunit-coverage.html/index.html\033[0m"
 
 ci: lint test
 

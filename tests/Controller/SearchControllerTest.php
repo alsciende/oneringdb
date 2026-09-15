@@ -59,4 +59,24 @@ class SearchControllerTest extends WebTestCase
 
         self::assertNoMissingTranslations();
     }
+
+    public function testAdvancedSearchFormRendersSuccessfully(): void
+    {
+        $client = static::createClient();
+        $client->request(Request::METHOD_GET, '/search');
+
+        self::assertResponseIsSuccessful();
+    }
+
+    public function testAdvancedSearchRedirectsToCardsWithTheEncodedQuery(): void
+    {
+        $client = static::createClient();
+        $client->request(Request::METHOD_GET, '/search');
+
+        $client->submitForm('Search', [
+            'advanced_card_search[title]' => 'rosie',
+        ]);
+
+        self::assertResponseRedirects('/cards?q=rosie');
+    }
 }

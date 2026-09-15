@@ -26,3 +26,4 @@ phpstan.neon
 
 assets/images/card_image
 data
+build/
