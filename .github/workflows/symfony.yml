@@ -29,11 +29,17 @@ jobs:
     - name: Install Dependencies
       run: |
         composer install -q --no-ansi --no-interaction --no-scripts --no-progress --prefer-dist
-    - name: Execute linters
+    - name: Check Symfony Container
       run: |
         php bin/console lint:container
+    - name: Execute ECS
+      run: |
         php vendor/bin/ecs --no-progress-bar
+    - name: Execute Rector
+      run: |
         php vendor/bin/rector --dry-run --no-progress-bar
+    - name: Execute PHPStan
+      run: |
         php vendor/bin/phpstan --no-progress --configuration=phpstan.dist.neon
     - name: Setup Database
       env:

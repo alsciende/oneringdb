@@ -97,6 +97,10 @@ class SearchController extends AbstractController implements LoggerAwareInterfac
             CardRepository::PAGE_SIZE,
         );
 
+        // Fetch the page results first so QueryAdapter::getSlice() sets its cached page window;
+        // otherwise count() below probes with its own LIMIT 1 window first, doubling the query count.
+        $pagerfanta->getCurrentPageResults();
+
         return $this->render('search/index.html.twig', [
             'form' => $form,
             'pagerfanta' => $pagerfanta,
