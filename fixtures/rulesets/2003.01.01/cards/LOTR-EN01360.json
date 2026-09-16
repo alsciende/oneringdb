@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01360.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "360",
+  "name": "Emyn Muil",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "9",
+  "shadow_number": "9",
+  "game_text": "<phase>Maneuver</phase>: Exert a minion to make that minion <keyword>fierce</keyword> until the regroup phase."
+}

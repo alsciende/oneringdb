@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN08033.png",
+  "set_number": "8",
+  "rarity": "R",
+  "card_number": "33",
+  "name": "Elessar's Edict",
+  "unique": false,
+  "type": "Event",
+  "culture": "Gondor",
+  "twilight_cost": "1",
+  "game_text": "<phase>Response</phase>: If a <culture>Gondor</culture> Wraith is about to be killed, discard him and exhaust another <culture>Gondor</culture> Wraith instead.",
+  "flavor_text": "“‘Yes, the Dead ride behind. They have been summoned....’”"
+}

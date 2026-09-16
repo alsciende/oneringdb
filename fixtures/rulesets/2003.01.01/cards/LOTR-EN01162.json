@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01162.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "162",
+  "name": "Worry",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Isengard",
+  "twilight_cost": "2",
+  "game_text": "To play, exert an Uruk-hai.\nEach time an Uruk-hai wins a skirmish, the opponent must choose to either exert the Ring-bearer or add a burden.",
+  "flavor_text": "“‘One by one, regardless of their strength to good or evil... they fell.’”"
+}

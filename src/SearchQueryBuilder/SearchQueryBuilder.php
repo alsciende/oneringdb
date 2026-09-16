@@ -31,6 +31,8 @@ readonly class SearchQueryBuilder
             ->from(Card::class, 'c')
             ->leftJoin('c.publishedSet', 'p')
             ->addSelect('p')
+            ->innerJoin('c.rulesets', 'r')
+            ->andWhere('r.isActive = true')
         ;
 
         $generator = new UniqueIdentifierGenerator();

@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01309.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "309",
+  "name": "Rosie Cotton",
+  "unique": true,
+  "type": "Ally",
+  "subtype": "Hobbit",
+  "home_site": "1",
+  "culture": "Shire",
+  "subtitle": "Hobbiton Lass",
+  "twilight_cost": "1",
+  "strength": "1",
+  "vitality": "2",
+  "game_text": "Sam is strength +1.\n<phase>Fellowship</phase>: Exert Rosie to heal Sam.",
+  "flavor_text": "“‘Go on Sam, ask Rosie for a dance.’”"
+}

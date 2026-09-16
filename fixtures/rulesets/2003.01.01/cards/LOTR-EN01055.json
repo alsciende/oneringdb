@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN01055.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "55",
+  "name": "The Mirror of Galadriel",
+  "unique": true,
+  "type": "Possession",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "Plays to your support area.\nEach Elf ally whose home is site 6 is strength +1.\n<phase>Fellowship</phase>: Exert Galadriel to look at 2 at random from an opponent's hand. Discard one and replace the other.",
+  "flavor_text": "“‘What you will see I cannot tell....’”"
+}

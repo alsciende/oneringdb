@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01263.png",
+  "set_number": "1",
+  "rarity": "R",
+  "card_number": "263",
+  "name": "Orc Banner",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Sauron",
+  "twilight_cost": "1",
+  "game_text": "Each time a <culture>Sauron</culture> Orc wins a skirmish, each <culture>Sauron</culture> Orc is strength +1 until the regroup phase.",
+  "flavor_text": "Tribes of Orcs from throughout Mordor rally to the banner of the Dark Tower."
+}

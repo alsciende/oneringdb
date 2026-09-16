@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07357.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "357",
+  "name": "Morgul Vale",
+  "unique": false,
+  "type": "Site",
+  "culture": null,
+  "site_number": "8",
+  "shadow_number": "8",
+  "game_text": "<phase>Skirmish</phase>: Remove 2 threats to make your <culture>Sauron</culture> minion strength +3."
+}

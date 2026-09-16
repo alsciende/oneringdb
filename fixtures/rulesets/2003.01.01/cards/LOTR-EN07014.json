@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN07014.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "14",
+  "name": "Slaked Thirsts",
+  "unique": false,
+  "type": "Event",
+  "culture": "Dwarven",
+  "twilight_cost": "1",
+  "game_text": "<phase>Maneuver</phase>: Spot a Dwarf to draw a card, or if this card is stacked on a <culture>Dwarven</culture> condition, spot a Dwarf companion and discard this event to exert a minion twice.",
+  "flavor_text": "“‘Food and drink would pay off some of my score against you.’”"
+}

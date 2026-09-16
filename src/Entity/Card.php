@@ -7,6 +7,8 @@ namespace App\Entity;
 use App\Entity\CardTypes\{AllyCard, ArtifactCard, CompanionCard, ConditionCard, EventCard, FollowerCard, MinionCard, PossessionCard, RingCard, SiteCard};
 use App\Enum\{Culture, Rarity, Subtype, Type};
 use App\Repository\CardRepository;
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
 use Doctrine\ORM\Mapping\Cache;
@@ -16,16 +18,12 @@ use Doctrine\ORM\Mapping\Cache;
 #[ORM\DiscriminatorColumn(name: 'type', type: 'string')]
 #[ORM\DiscriminatorMap(self::TYPE_ENTITY_CLASSES)]
 #[Cache(usage: 'READ_ONLY')]
-#[ORM\UniqueConstraint(
-    name: 'uniq_published_set_position',
-    columns: ['published_set_id', 'position'],
-)]
 abstract class Card implements \Stringable
 {
     /**
      * Single source of truth for the Type <-> concrete Card subclass mapping, reused by the
      * discriminator map above and by any code that needs to go from a Type to its entity class
-     * (e.g. TypeSearchQueryBuilder, CardFixtures).
+     * (e.g. TypeSearchQueryBuilder, RulesetFixtures).
      *
      * @var array<string, class-string<Card>>
      */
@@ -112,6 +110,22 @@ abstract class Card implements \Stringable
     #[ORM\Column(length: 10, nullable: true)]
     private ?string $siteNumberModifier = null;
 
+    #[ORM\Column(type: Types::INTEGER, nullable: false)]
+    private int $revision = 0;
+
+    /**
+     * @var Collection<int, Ruleset>
+     */
+    #[ORM\ManyToMany(targetEntity: Ruleset::class, inversedBy: 'cards')]
+    #[ORM\JoinTable(name: 'card_ruleset')]
+    #[Cache(usage: 'NONSTRICT_READ_WRITE')]
+    private Collection $rulesets;
+
+    public function __construct()
+    {
+        $this->rulesets = new ArrayCollection();
+    }
+
     public function getId(): string
     {
         return $this->id;
@@ -120,6 +134,18 @@ abstract class Card implements \Stringable
     public function setId(string $id): static
     {
         $this->id = $id;
+
+        return $this;
+    }
+
+    public function getRevision(): int
+    {
+        return $this->revision;
+    }
+
+    public function setRevision(int $revision): static
+    {
+        $this->revision = $revision;
 
         return $this;
     }
@@ -496,6 +522,33 @@ abstract class Card implements \Stringable
     }
 
     /**
+     * @return Collection<int, Ruleset>
+     */
+    public function getRulesets(): Collection
+    {
+        return $this->rulesets;
+    }
+
+    public function addRuleset(Ruleset $ruleset): static
+    {
+        if (! $this->rulesets->contains($ruleset)) {
+            $this->rulesets->add($ruleset);
+            $ruleset->addCard($this);
+        }
+
+        return $this;
+    }
+
+    public function removeRuleset(Ruleset $ruleset): static
+    {
+        if ($this->rulesets->removeElement($ruleset)) {
+            $ruleset->removeCard($this);
+        }
+
+        return $this;
+    }
+
+    /**
      * The template used to render this card as a row in a card list. Overridden by concrete
      * Card subtypes that need a different layout.
      */
@@ -534,6 +587,7 @@ abstract class Card implements \Stringable
     {
         return [
             'id' => $this->getId(),
+            'revision' => $this->getRevision(),
             'title' => $this->getTitle(),
             'subtitle' => $this->getSubtitle(),
             'culture' => $this->getCulture()?->value,
