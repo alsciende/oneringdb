@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN06039.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "39",
+  "name": "Don't Look at Them",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Discard 3 cards from hand to wound a minion Sméagol is skirmishing once (or twice if that minion is a <culture>Wraith</culture> minion).",
+  "flavor_text": "“‘You should not look in when the candles are lit.’”"
+}

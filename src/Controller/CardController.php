@@ -6,6 +6,7 @@ namespace App\Controller;
 
 use App\Entity\Card;
 use App\Repository\CardRepository;
+use App\Service\RulesetService;
 use Symfony\Bridge\Doctrine\Attribute\MapEntity;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
@@ -17,11 +18,13 @@ class CardController extends AbstractController
     public function index(
         #[MapEntity(expr: 'repository.getCard(id)')] Card $card,
         CardRepository $cardRepository,
+        RulesetService $rulesetService,
     ): Response {
         return $this->render('card/index.html.twig', [
             'card' => $card,
             'previousCard' => $cardRepository->findPreviousCard($card),
             'nextCard' => $cardRepository->findNextCard($card),
+            'rulesetHistory' => $rulesetService->findRulesetHistory($card),
         ]);
     }
 

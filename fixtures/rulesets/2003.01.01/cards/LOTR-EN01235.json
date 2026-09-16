@@ -1,0 +1,18 @@
+{
+  "file": "LOTR-EN01235.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "235",
+  "name": "Úlairë Otsëa",
+  "unique": true,
+  "type": "Minion",
+  "subtype": "Nazgûl",
+  "culture": "Wraith",
+  "subtitle": "Lieutenant of Morgul",
+  "twilight_cost": "4",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "3",
+  "game_text": "<phase>Shadow</phase>: Exert Úlairë Otsëa to make a <culture>Wraith</culture> minion <keyword>fierce</keyword>.",
+  "flavor_text": "“…under their mantles were long grey robes; upon their grey hairs were helms of silver; in their haggard hands were swords of steel.”"
+}

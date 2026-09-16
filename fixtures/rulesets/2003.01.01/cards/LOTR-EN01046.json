@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01046.png",
+  "set_number": "1",
+  "rarity": "U",
+  "card_number": "46",
+  "name": "Gift of Boats",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "To play, exert an Elf ally.\nWhen the fellowship is at a river site during the fellowship phase, the move limit for this turn is +1.",
+  "flavor_text": "“‘They will not sink, lade them as you will; but they are wayward if mishandled.’”"
+}

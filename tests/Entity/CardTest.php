@@ -9,6 +9,7 @@ use App\Entity\CardTypes\CompanionCard;
 use App\Entity\CardTypes\RingCard;
 use App\Entity\CardTypes\SiteCard;
 use App\Entity\PublishedSet;
+use App\Entity\Ruleset;
 use App\Enum\Rarity;
 use PHPUnit\Framework\Attributes\CoversClass;
 use PHPUnit\Framework\TestCase;
@@ -137,7 +138,8 @@ class CardTest extends TestCase
     {
         $publishedSet = new PublishedSet()->setId('01')->setName('Set')->setPosition(1);
         $card = new CompanionCard()
-            ->setId('01001')
+            ->setId('01001.0')
+            ->setRevision(0)
             ->setTitle('Aragorn')
             ->setSubtitle('Dúnadan Ranger')
             ->setText('Text')
@@ -152,7 +154,8 @@ class CardTest extends TestCase
 
         $array = $card->toArray();
 
-        $this->assertSame('01001', $array['id']);
+        $this->assertSame('01001.0', $array['id']);
+        $this->assertSame(0, $array['revision']);
         $this->assertSame('Aragorn', $array['title']);
         $this->assertSame('Dúnadan Ranger', $array['subtitle']);
         $this->assertSame('companion', $array['type']);
@@ -172,5 +175,53 @@ class CardTest extends TestCase
         $card = new CompanionCard()->setId('01001')->setTitle('Aragorn')->setUnique(true);
 
         $this->assertSame('•Aragorn (#01001)', (string) $card);
+    }
+
+    public function testGetRevisionReturnsTheSetValue(): void
+    {
+        $card = new CompanionCard()->setRevision(2);
+
+        $this->assertSame(2, $card->getRevision());
+    }
+
+    public function testRulesetsCollectionStartsEmpty(): void
+    {
+        $card = new CompanionCard();
+
+        $this->assertCount(0, $card->getRulesets());
+    }
+
+    public function testAddRulesetAttachesBothSides(): void
+    {
+        $card = new CompanionCard()->setTitle('Aragorn');
+        $ruleset = new Ruleset()->setName('Decipher Standard Rules')->setActive(true);
+
+        $card->addRuleset($ruleset);
+
+        $this->assertCount(1, $card->getRulesets());
+        $this->assertTrue($ruleset->getCards()->contains($card));
+    }
+
+    public function testAddRulesetIsIdempotent(): void
+    {
+        $card = new CompanionCard()->setTitle('Aragorn');
+        $ruleset = new Ruleset()->setName('Decipher Standard Rules')->setActive(true);
+
+        $card->addRuleset($ruleset);
+        $card->addRuleset($ruleset);
+
+        $this->assertCount(1, $card->getRulesets());
+    }
+
+    public function testRemoveRulesetDetachesBothSides(): void
+    {
+        $card = new CompanionCard()->setTitle('Aragorn');
+        $ruleset = new Ruleset()->setName('Decipher Standard Rules')->setActive(true);
+        $card->addRuleset($ruleset);
+
+        $card->removeRuleset($ruleset);
+
+        $this->assertCount(0, $card->getRulesets());
+        $this->assertFalse($ruleset->getCards()->contains($card));
     }
 }

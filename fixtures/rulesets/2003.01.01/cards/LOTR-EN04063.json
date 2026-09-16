@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04063.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "63",
+  "name": "Elven Brooch",
+  "unique": false,
+  "type": "Possession",
+  "subtype": "Brooch",
+  "culture": "Elven",
+  "twilight_cost": "1",
+  "game_text": "To play, spot an Elf. Bearer must be a companion.\n<phase>Response</phase>: If another possession borne by bearer is about to be discarded, discard this possession instead.",
+  "flavor_text": "“‘Not idly do the leaves of Lórien fall.’”"
+}

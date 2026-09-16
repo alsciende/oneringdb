@@ -6,6 +6,31 @@
     <div class="container">
         {% include card.detailTemplate %}
 
+        {% if rulesetHistory %}
+            <table class="table card-list mt-3">
+                <thead>
+                    <tr>
+                        <th scope="col">Card</th>
+                        <th scope="col">Ruleset</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in rulesetHistory %}
+                        <tr>
+                            <td>
+                                {% if row.card.id == card.id %}
+                                    {{ row.card.fullTitle }}
+                                {% else %}
+                                    {% include 'component/_card_name_link.html.twig' with {card: row.card} %}
+                                {% endif %}
+                            </td>
+                            <td>{{ row.ruleset.name }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% endif %}
+
         <div class="d-flex justify-content-between mt-3">
             <div>
                 {% if previousCard %}

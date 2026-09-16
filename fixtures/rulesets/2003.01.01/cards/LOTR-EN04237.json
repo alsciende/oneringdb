@@ -1,0 +1,13 @@
+{
+  "file": "LOTR-EN04237.png",
+  "set_number": "4",
+  "rarity": "R",
+  "card_number": "237",
+  "name": "Ithilien Wilderness",
+  "unique": true,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "0",
+  "game_text": "At the start of each of your Shadow phases, if the fellowship is at site 7<block>Tower</block>, 8<block>Tower</block>, or 9<block>Tower</block> and the twilight pool has fewer than 7 twilight tokens, you may add <twilight>8</twilight>.\n<phase>Skirmish</phase>: Discard this condition to make a <culture>Raider</culture> Man strength +2."
+}

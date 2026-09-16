@@ -1,0 +1,17 @@
+{
+  "file": "LOTR-EN07302.png",
+  "set_number": "7",
+  "rarity": "U",
+  "card_number": "302",
+  "name": "Orc Officer",
+  "unique": false,
+  "type": "Minion",
+  "subtype": "Orc",
+  "culture": "Sauron",
+  "twilight_cost": "3",
+  "strength": "9",
+  "vitality": "3",
+  "site_number": "6",
+  "game_text": "Each time a <culture>Sauron</culture> Orc overwhelms a companion, add 3 burdens.",
+  "flavor_text": "“…and the shadowy defile beyond was bored and tunnelled by teeming broods of evil things.”"
+}

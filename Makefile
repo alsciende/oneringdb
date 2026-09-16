@@ -48,3 +48,4 @@ db:
 	$(PHP) php bin/console doctrine:schema:drop -f
 	$(PHP) php bin/console doctrine:schema:create
 	$(PHP) php bin/console doctrine:fixtures:load -n
+	$(PHP) php bin/console cache:pool:clear doctrine.second_level_cache_pool -n

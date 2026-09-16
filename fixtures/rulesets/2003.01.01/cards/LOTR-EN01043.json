@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN01043.png",
+  "set_number": "1",
+  "rarity": "C",
+  "card_number": "43",
+  "name": "Far-seeing Eyes",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Elven",
+  "twilight_cost": "2",
+  "game_text": "Each time you play an Elf, choose an opponent to discard a card from hand.",
+  "flavor_text": "Keen Elven eyes see farther and more keenly than those of Men or Dwarves."
+}

@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN06046.png",
+  "set_number": "6",
+  "rarity": "R",
+  "card_number": "46",
+  "name": "They Stole It",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Gollum",
+  "twilight_cost": "1",
+  "game_text": "<phase>Skirmish</phase>: Discard 3 cards from hand to wound a companion Gollum is skirmishing once (or twice if that companion is a <culture>Shire</culture> companion).",
+  "flavor_text": "“‘Where iss it, where iss it: my precious....’”"
+}

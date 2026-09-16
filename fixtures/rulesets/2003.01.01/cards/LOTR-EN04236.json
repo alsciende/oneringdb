@@ -1,0 +1,14 @@
+{
+  "file": "LOTR-EN04236.png",
+  "set_number": "4",
+  "rarity": "U",
+  "card_number": "236",
+  "name": "Howl of Harad",
+  "unique": false,
+  "type": "Condition",
+  "subtype": "Support Area",
+  "culture": "Raider",
+  "twilight_cost": "1",
+  "game_text": "<phase>Response</phase>: If a Southron wins a skirmish, remove <twilight>4</twilight> to make the Free Peoples player wound a Ring-bound companion.",
+  "flavor_text": "Blood-curdling cries rout the Southrons’ enemies from the battlefield."
+}
