@@ -17,7 +17,7 @@ use Doctrine\ORM\Mapping\Cache;
 #[ORM\InheritanceType('SINGLE_TABLE')]
 #[ORM\DiscriminatorColumn(name: 'type', type: 'string')]
 #[ORM\DiscriminatorMap(self::TYPE_ENTITY_CLASSES)]
-#[Cache(usage: 'READ_ONLY')]
+#[Cache(usage: 'NONSTRICT_READ_WRITE')]
 abstract class Card implements \Stringable
 {
     /**

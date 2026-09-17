@@ -162,4 +162,22 @@ class RulesetService
 
         return $changes;
     }
+
+    /**
+     * A Ruleset must only ever point to one revision of a given Card (same PublishedSet +
+     * position). Used by CardCrudController before saving a Card whose $rulesets association was
+     * edited directly through the EasyAdmin form (bypassing swapCard()'s atomic swap): for each
+     * Ruleset now linked to $card, that Ruleset is detached from every other revision of the same
+     * Card that held it before.
+     */
+    public function detachOtherRevisionsFromRulesets(Card $card): void
+    {
+        foreach ($card->getRulesets() as $ruleset) {
+            foreach ($this->cardRepository->findRevisions($card) as $otherRevision) {
+                if ($otherRevision !== $card) {
+                    $otherRevision->removeRuleset($ruleset);
+                }
+            }
+        }
+    }
 }

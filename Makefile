@@ -30,11 +30,19 @@ install:
 shell:
 	$(PHP) bash
 
-lint:
+container:
 	$(PHP) bin/console lint:container
+
+style:
 	$(PHP) php vendor/bin/ecs --fix
+
+rector:
 	$(PHP) php vendor/bin/rector
+
+phpstan:
 	$(PHP) php vendor/bin/phpstan -v --memory-limit=-1
+
+lint: container style rector phpstan
 
 test:
 	$(PHP) php bin/phpunit
@@ -49,3 +57,4 @@ db:
 	$(PHP) php bin/console doctrine:schema:create
 	$(PHP) php bin/console doctrine:fixtures:load -n
 	$(PHP) php bin/console cache:pool:clear doctrine.second_level_cache_pool -n
+	$(PHP) php bin/console cache:pool:clear doctrine.second_level_cache_pool --env=test -n

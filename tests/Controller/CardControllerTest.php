@@ -30,9 +30,9 @@ class CardControllerTest extends WebTestCase
         $client->request(Request::METHOD_GET, '/card/01001.0');
         self::assertResponseIsSuccessful();
 
-        // Card et PublishedSet sont en cache Doctrine (L2C, READ_ONLY) ; la collection Card::$rulesets
-        // (utilisée par le tableau de révisions) est en cache L2C NONSTRICT_READ_WRITE (voir CLAUDE.md) :
-        // le 2e appel ne doit exécuter aucune requête SQL.
+        // Card, PublishedSet et la collection Card::$rulesets (utilisée par le tableau de révisions)
+        // sont tous en cache L2C NONSTRICT_READ_WRITE (voir CLAUDE.md) : le 2e appel ne doit exécuter
+        // aucune requête SQL.
         self::assertDoctrineQueryCount(0);
     }
 
