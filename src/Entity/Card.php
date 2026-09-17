@@ -17,6 +17,7 @@ use Doctrine\ORM\Mapping\Cache;
 #[ORM\InheritanceType('SINGLE_TABLE')]
 #[ORM\DiscriminatorColumn(name: 'type', type: 'string')]
 #[ORM\DiscriminatorMap(self::TYPE_ENTITY_CLASSES)]
+#[ORM\UniqueConstraint(name: 'card_published_set_position_revision_unique', columns: ['published_set_id', 'position', 'revision'])]
 #[Cache(usage: 'NONSTRICT_READ_WRITE')]
 abstract class Card implements \Stringable
 {
@@ -65,8 +66,8 @@ abstract class Card implements \Stringable
     #[ORM\JoinColumn(name: 'published_set_id', referencedColumnName: 'id', nullable: false)]
     private PublishedSet $publishedSet;
 
-    #[ORM\Column(type: 'integer', nullable: true)]
-    private ?int $position = null;
+    #[ORM\Column(type: 'integer', nullable: false)]
+    private int $position;
 
     #[ORM\Column(length: 1023, nullable: true)]
     private ?string $lore = null;
@@ -124,6 +125,15 @@ abstract class Card implements \Stringable
     public function __construct()
     {
         $this->rulesets = new ArrayCollection();
+    }
+
+    /**
+     * The id format shared by every Card: `{setNumber}{cardNumber}.{revision}`, e.g. `01001.0`.
+     * Used both by CardService::duplicate() (revisions) and CardCrudController (fresh creation).
+     */
+    public static function buildId(PublishedSet $publishedSet, int $position, int $revision): string
+    {
+        return sprintf('%02d%03d.%d', $publishedSet->getPosition(), $position, $revision);
     }
 
     public function getId(): string
@@ -261,12 +271,12 @@ abstract class Card implements \Stringable
         return $this;
     }
 
-    public function getPosition(): ?int
+    public function getPosition(): int
     {
         return $this->position;
     }
 
-    public function setPosition(?int $position): static
+    public function setPosition(int $position): static
     {
         $this->position = $position;
 

@@ -68,8 +68,8 @@ class GetCardsByFieldCommandTest extends TestCase
     public function testExecuteWithoutValuesForARegularFieldDerivesThemFromExistingCards(): void
     {
         $publishedSet = new PublishedSet()->setId('01')->setName('Set')->setPosition(1);
-        $aragorn = new CompanionCard()->setId('01001')->setTitle('Aragorn')->setRarity(Rarity::Rare)->setUnique(true);
-        $rosie = new CompanionCard()->setId('01002')->setTitle('Rosie Cotton')->setRarity(Rarity::Common)->setUnique(false);
+        $aragorn = new CompanionCard()->setId('01001')->setPosition(1)->setTitle('Aragorn')->setRarity(Rarity::Rare)->setUnique(true);
+        $rosie = new CompanionCard()->setId('01002')->setPosition(2)->setTitle('Rosie Cotton')->setRarity(Rarity::Common)->setUnique(false);
         $publishedSet->addCard($aragorn)->addCard($rosie);
 
         $repository = $this->createMock(CardRepository::class);

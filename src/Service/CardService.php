@@ -25,11 +25,10 @@ class CardService
     public function duplicate(Card $card, ?int $revision = null): Card
     {
         $revision ??= $card->getRevision() + 1;
-        $code = sprintf('%02d%03d', $card->getPublishedSet()->getPosition(), $card->getPosition());
 
         $entityClass = $card::class;
         $duplicate = new $entityClass();
-        $duplicate->setId(sprintf('%s.%d', $code, $revision));
+        $duplicate->setId(Card::buildId($card->getPublishedSet(), $card->getPosition(), $revision));
         $duplicate->setRevision($revision);
         $duplicate->setPublishedSet($card->getPublishedSet());
         $duplicate->setTitle($card->getTitle());

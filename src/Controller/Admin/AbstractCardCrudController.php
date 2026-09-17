@@ -16,7 +16,6 @@ use EasyCorp\Bundle\EasyAdminBundle\Controller\AbstractCrudController;
 use EasyCorp\Bundle\EasyAdminBundle\Field\AssociationField;
 use EasyCorp\Bundle\EasyAdminBundle\Field\BooleanField;
 use EasyCorp\Bundle\EasyAdminBundle\Field\ChoiceField;
-use EasyCorp\Bundle\EasyAdminBundle\Field\IdField;
 use EasyCorp\Bundle\EasyAdminBundle\Field\IntegerField;
 use EasyCorp\Bundle\EasyAdminBundle\Field\TextareaField;
 use EasyCorp\Bundle\EasyAdminBundle\Field\TextField;
@@ -63,7 +62,6 @@ abstract class AbstractCardCrudController extends AbstractCrudController
     protected function commonFields(): array
     {
         return [
-            IdField::new('id'),
             BooleanField::new('unique')->hideOnIndex(),
             TextField::new('title')->hideOnIndex(),
             TextField::new('subtitle')->hideOnIndex(),
@@ -103,6 +101,12 @@ abstract class AbstractCardCrudController extends AbstractCrudController
     public function persistEntity(EntityManagerInterface $entityManager, object $entityInstance): void
     {
         \assert($entityInstance instanceof Card);
+
+        // A freshly created Card is always the first (revision 0) printing of its position; its id
+        // is computed rather than user-entered (see commonFields(): there is no "id" field).
+        $entityInstance->setRevision(0);
+        $entityInstance->setId(Card::buildId($entityInstance->getPublishedSet(), $entityInstance->getPosition(), 0));
+
         $this->rulesetService->detachOtherRevisionsFromRulesets($entityInstance);
 
         parent::persistEntity($entityManager, $entityInstance);

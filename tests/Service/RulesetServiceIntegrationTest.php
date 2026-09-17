@@ -89,6 +89,7 @@ class RulesetServiceIntegrationTest extends KernelTestCase
         $ruleset = $service->createRuleset('Errata Swap Test');
 
         $newCard = new CompanionCard()->setId('01001.errata-test')
+            ->setRevision($oldCard->getRevision() + 1)
             ->setTitle($oldCard->getTitle())
             ->setPublishedSet($oldCard->getPublishedSet())
             ->setPosition($oldCard->getPosition())
@@ -137,6 +138,7 @@ class RulesetServiceIntegrationTest extends KernelTestCase
         $this->assertTrue($ruleset->getCards()->contains($oldCard));
 
         $newCard = new CompanionCard()->setId('01001.errata-test')
+            ->setRevision($oldCard->getRevision() + 1)
             ->setTitle($oldCard->getTitle())
             ->setPublishedSet($oldCard->getPublishedSet())
             ->setPosition($oldCard->getPosition())
