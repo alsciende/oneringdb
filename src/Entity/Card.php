@@ -12,6 +12,7 @@ use Doctrine\Common\Collections\Collection;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
 use Doctrine\ORM\Mapping\Cache;
+use Symfony\Bridge\Doctrine\Validator\Constraints\UniqueEntity;
 
 #[ORM\Entity(repositoryClass: CardRepository::class)]
 #[ORM\InheritanceType('SINGLE_TABLE')]
@@ -19,6 +20,16 @@ use Doctrine\ORM\Mapping\Cache;
 #[ORM\DiscriminatorMap(self::TYPE_ENTITY_CLASSES)]
 #[ORM\UniqueConstraint(name: 'card_published_set_position_revision_unique', columns: ['published_set_id', 'position', 'revision'])]
 #[Cache(usage: 'NONSTRICT_READ_WRITE')]
+#[UniqueEntity(
+    fields: ['publishedSet', 'position', 'revision'],
+    // Without this, the uniqueness check would run against the *concrete* subclass's repository
+    // (e.g. CompanionCard), which — being a query on a SINGLE_TABLE child class — implicitly
+    // filters by discriminator and so misses collisions with a Card of a *different* Type at the
+    // same position/revision, even though the DB-level unique index applies across every Type.
+    entityClass: self::class,
+    errorPath: 'position',
+    message: 'A card already exists at this position and revision for this set.',
+)]
 abstract class Card implements \Stringable
 {
     /**
