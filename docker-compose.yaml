@@ -1,4 +1,4 @@
-name: lotrtcgdb
+name: oneringdb
 services:
     postgres:
         image: postgres:${POSTGRES_VERSION:-16}
@@ -7,9 +7,9 @@ services:
         environment:
             POSTGRES_USER: ${POSTGRES_USER:-symfony}
             POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-password}
-            POSTGRES_DB: ${POSTGRES_DB:-lotrtcgdb}
+            POSTGRES_DB: ${POSTGRES_DB:-oneringdb}
         healthcheck:
-            test: ["CMD", "pg_isready", "-d", "${POSTGRES_DB:-lotrtcgdb}", "-U", "${POSTGRES_USER:-symfony}"]
+            test: ["CMD", "pg_isready", "-d", "${POSTGRES_DB:-oneringdb}", "-U", "${POSTGRES_USER:-symfony}"]
             timeout: 5s
             retries: 5
             start_period: 60s
@@ -22,7 +22,7 @@ services:
         links:
             - postgres:postgres
         environment:
-            - PGWEB_DATABASE_URL=postgres://${POSTGRES_USER:-symfony}:${POSTGRES_PASSWORD:-password}@postgres:5432/${POSTGRES_DB:-lotrtcgdb}?sslmode=disable
+            - PGWEB_DATABASE_URL=postgres://${POSTGRES_USER:-symfony}:${POSTGRES_PASSWORD:-password}@postgres:5432/${POSTGRES_DB:-oneringdb}?sslmode=disable
         depends_on:
             - postgres
 
@@ -35,7 +35,7 @@ services:
         environment:
             POSTGRES_USER: symfony
             POSTGRES_PASSWORD: password
-            POSTGRES_DB: lotrtcgdb
+            POSTGRES_DB: oneringdb
             POSTGRES_HOST: postgres
             POSTGRES_PORT: 5432
         entrypoint: ['symfony', 'server:start', '--allow-all-ip']

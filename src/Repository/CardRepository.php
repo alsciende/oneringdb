@@ -72,7 +72,6 @@ class CardRepository extends ServiceEntityRepository
         $queryBuilder = $this->createQueryBuilder('c')
             ->select('DISTINCT c.position')
             ->where('c.publishedSet = :publishedSet')
-            ->andWhere('c.position IS NOT NULL')
             ->setParameter('publishedSet', $publishedSet);
 
         if ($ruleset !== null) {
@@ -107,10 +106,6 @@ class CardRepository extends ServiceEntityRepository
      */
     public function findPreviousCard(Card $card): ?Card
     {
-        if ($card->getPosition() === null) {
-            return null;
-        }
-
         return $this->createQueryBuilder('c')
             ->innerJoin('c.rulesets', 'r')
             ->where('r.isActive = true')
@@ -130,10 +125,6 @@ class CardRepository extends ServiceEntityRepository
      */
     public function findNextCard(Card $card): ?Card
     {
-        if ($card->getPosition() === null) {
-            return null;
-        }
-
         return $this->createQueryBuilder('c')
             ->innerJoin('c.rulesets', 'r')
             ->where('r.isActive = true')
@@ -156,10 +147,6 @@ class CardRepository extends ServiceEntityRepository
      */
     public function findRevisions(Card $card): array
     {
-        if ($card->getPosition() === null) {
-            return [$card];
-        }
-
         return $this->createQueryBuilder('c')
             ->where('c.publishedSet = :publishedSet')
             ->andWhere('c.position = :position')

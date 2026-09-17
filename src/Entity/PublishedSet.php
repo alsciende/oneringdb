@@ -12,7 +12,7 @@ use Doctrine\ORM\Mapping as ORM;
 use Doctrine\ORM\Mapping\Cache;
 
 #[ORM\Entity(repositoryClass: PublishedSetRepository::class)]
-#[Cache(usage: 'READ_ONLY')]
+#[Cache(usage: 'NONSTRICT_READ_WRITE')]
 class PublishedSet implements \Stringable
 {
     #[ORM\Id]

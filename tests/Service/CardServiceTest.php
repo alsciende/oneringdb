@@ -99,6 +99,7 @@ class CardServiceTest extends TestCase
     {
         $card = new SiteCard()->setId('01100.0')->setRevision(0)
             ->setPublishedSet(new PublishedSet()->setId('01')->setName('Set')->setPosition(1))
+            ->setPosition(100)
             ->setTitle('A Site')
             ->setRarity(Rarity::Common)
             ->setUnique(false);

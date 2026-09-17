@@ -12,6 +12,7 @@
         "doctrine/doctrine-bundle": "^3",
         "doctrine/doctrine-migrations-bundle": "^4",
         "doctrine/orm": "^3.2",
+        "easycorp/easyadmin-bundle": "^5.5",
         "martin-georgiev/postgresql-for-doctrine": "^2.6",
         "pagerfanta/doctrine-orm-adapter": "^4.7",
         "pagerfanta/twig": "^4.7",

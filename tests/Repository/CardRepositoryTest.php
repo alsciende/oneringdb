@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace App\Tests\Repository;
 
-use App\Entity\CardTypes\CompanionCard;
 use App\Repository\CardRepository;
 use PHPUnit\Framework\Attributes\CoversClass;
 use PHPUnit\Framework\Attributes\DataProvider;
@@ -77,28 +76,6 @@ class CardRepositoryTest extends KernelTestCase
         // 01003 has since been errata'd to revision 1, which is the one linked to the active Ruleset.
         $this->assertSame('01003.1', $repository->findPreviousCard($card)?->getId());
         $this->assertSame('01005.0', $repository->findNextCard($card)?->getId());
-    }
-
-    public function testFindPreviousCardReturnsNullWhenTheCardHasNoPosition(): void
-    {
-        self::bootKernel();
-
-        /** @var CardRepository $repository */
-        $repository = static::getContainer()->get(CardRepository::class);
-        $card = new CompanionCard()->setTitle('Unpositioned');
-
-        $this->assertNull($repository->findPreviousCard($card));
-    }
-
-    public function testFindNextCardReturnsNullWhenTheCardHasNoPosition(): void
-    {
-        self::bootKernel();
-
-        /** @var CardRepository $repository */
-        $repository = static::getContainer()->get(CardRepository::class);
-        $card = new CompanionCard()->setTitle('Unpositioned');
-
-        $this->assertNull($repository->findNextCard($card));
     }
 
     public function testSearchWithPositionSortOrdersBySetThenPosition(): void
@@ -228,16 +205,5 @@ class CardRepositoryTest extends KernelTestCase
         $this->assertCount(2, $revisions);
         $this->assertContains('01003.0', $ids);
         $this->assertContains('01003.1', $ids);
-    }
-
-    public function testFindRevisionsReturnsOnlyItselfWhenTheCardHasNoPosition(): void
-    {
-        self::bootKernel();
-
-        /** @var CardRepository $repository */
-        $repository = static::getContainer()->get(CardRepository::class);
-        $card = new CompanionCard()->setTitle('Unpositioned');
-
-        $this->assertSame([$card], $repository->findRevisions($card));
     }
 }

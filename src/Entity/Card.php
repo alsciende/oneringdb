@@ -12,12 +12,24 @@ use Doctrine\Common\Collections\Collection;
 use Doctrine\DBAL\Types\Types;
 use Doctrine\ORM\Mapping as ORM;
 use Doctrine\ORM\Mapping\Cache;
+use Symfony\Bridge\Doctrine\Validator\Constraints\UniqueEntity;
 
 #[ORM\Entity(repositoryClass: CardRepository::class)]
 #[ORM\InheritanceType('SINGLE_TABLE')]
 #[ORM\DiscriminatorColumn(name: 'type', type: 'string')]
 #[ORM\DiscriminatorMap(self::TYPE_ENTITY_CLASSES)]
-#[Cache(usage: 'READ_ONLY')]
+#[ORM\UniqueConstraint(name: 'card_published_set_position_revision_unique', columns: ['published_set_id', 'position', 'revision'])]
+#[Cache(usage: 'NONSTRICT_READ_WRITE')]
+#[UniqueEntity(
+    fields: ['publishedSet', 'position', 'revision'],
+    // Without this, the uniqueness check would run against the *concrete* subclass's repository
+    // (e.g. CompanionCard), which — being a query on a SINGLE_TABLE child class — implicitly
+    // filters by discriminator and so misses collisions with a Card of a *different* Type at the
+    // same position/revision, even though the DB-level unique index applies across every Type.
+    entityClass: self::class,
+    errorPath: 'position',
+    message: 'A card already exists at this position and revision for this set.',
+)]
 abstract class Card implements \Stringable
 {
     /**
@@ -65,8 +77,8 @@ abstract class Card implements \Stringable
     #[ORM\JoinColumn(name: 'published_set_id', referencedColumnName: 'id', nullable: false)]
     private PublishedSet $publishedSet;
 
-    #[ORM\Column(type: 'integer', nullable: true)]
-    private ?int $position = null;
+    #[ORM\Column(type: 'integer', nullable: false)]
+    private int $position;
 
     #[ORM\Column(length: 1023, nullable: true)]
     private ?string $lore = null;
@@ -124,6 +136,15 @@ abstract class Card implements \Stringable
     public function __construct()
     {
         $this->rulesets = new ArrayCollection();
+    }
+
+    /**
+     * The id format shared by every Card: `{setNumber}{cardNumber}.{revision}`, e.g. `01001.0`.
+     * Used both by CardService::duplicate() (revisions) and CardCrudController (fresh creation).
+     */
+    public static function buildId(PublishedSet $publishedSet, int $position, int $revision): string
+    {
+        return sprintf('%02d%03d.%d', $publishedSet->getPosition(), $position, $revision);
     }
 
     public function getId(): string
@@ -261,12 +282,12 @@ abstract class Card implements \Stringable
         return $this;
     }
 
-    public function getPosition(): ?int
+    public function getPosition(): int
     {
         return $this->position;
     }
 
-    public function setPosition(?int $position): static
+    public function setPosition(int $position): static
     {
         $this->position = $position;
 
